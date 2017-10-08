@@ -4,14 +4,28 @@ var dataset = 'NOAA DataSet/';
 var latitude = '37.862612';
 var longitude = '-122.261762';
 // Read File line by line and store into key-value pairings
+var stationDict = [];
+var precipDict = [];
+// For Station GPS Coordinates
 var lineReader = require('readline').createInterface({
   input: require('fs').createReadStream(dataset + 'station.txt')
 });
 lineReader.on('line', function (line) {
-  console.log('Line from file:', line);
+	var lineArr = line.split(" ").filter(String);
+	stationDict.push({
+		key: lineArr[0],
+		value : [lineArr[1], lineArr[2]]
+	});
 });
 
-//fs.readFile(dataset + 'ann-prcp-normal.txt', 'utf8', function(err, data) {  
-//    if (err) throw err;
-//    console.log(data);
-//});
+// For precipitation of stations
+var lineReader = require('readline').createInterface({
+  input: require('fs').createReadStream(dataset + 'ann-prcp-normal.txt')
+});
+lineReader.on('line', function (line) {
+	var lineArr = line.split(" ").filter(String);
+	precipDict.push({
+		key: lineArr[0],
+		value : [lineArr[1], lineArr[2]]
+	});
+});
