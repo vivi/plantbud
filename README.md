@@ -40,7 +40,7 @@ the resources and time to learn about gardening skills. PlantBud is meant to
 streamline the learning process by providing only the relevant and necessary
 information to new and inexperienced planters. 
 
-### Current Functionality
+## Current Functionality
 - Can parse weather dataset from NOAA
 - Given a set of GPS coordinates, can pull long-term rainfall and temperature
   averages of weather station closest to those coordinates
