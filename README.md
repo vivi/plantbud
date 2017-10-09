@@ -1,15 +1,14 @@
-# plantbud
+# PlantBud
 A buddy to help you plant.
 
-## Welcome to GitHub Pages
+## Who's it for?
 
-You can use the [editor on GitHub](https://github.com/vivi/plantbud/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+PlantBud is a suite of tools meant for individuals who have always wanted to venture into agriculture but lacked the necessary expertise and resources to dive in. Our target audience consists of individuals with very little to no farming skills that have limited access to agriculture education. Although PlantBud can be used by anyone interested in gardening, this software intends to primarily cater to members of marginalized populations that face difficulty in receiving a formal education in agriculture. This application is meant to help those determined greenhorn planters blossom into seasoned horticulturists. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Why would anyone use this?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nowadays, most people that want to start gardening either take formal classes or spend a lot of time reading relevant books/websites on proper planting practices. This obstructs many individuals, especially those of marginalized populations from entering the gardening world, as these people simply don't have the resources and time to learn about gardening skills. PlantBud is meant to streamline the learning process by providing only the relevant and necessary information to new and inexperienced planters. 
 
 ```markdown
 Syntax highlighted code block
