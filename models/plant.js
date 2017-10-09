@@ -5,7 +5,9 @@ var Schema = mongoose.Schema;
 
 var PlantSchema = new Schema({
     common_name: String,
-    water: String
+    water: String,
+    min_temp: Number,
+    max_temp: Number,
 });
 
 module.exports = mongoose.model('Plant', PlantSchema);

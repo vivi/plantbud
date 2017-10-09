@@ -8,9 +8,18 @@ var expressValidator = require('express-validator');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
-var gps = require('./routes/gps');
+var guide = require('./routes/guide');
 
 var app = express();
+
+var mongoose = require('mongoose');
+console.log(process.env.MONGO_PASS);
+var mongoDB = 'mongodb://admin:'+process.env.MONGO_PASS+'@ds137101.mlab.com:37101/plantbud';
+mongoose.connect(mongoDB, {
+  useMongoClient: true
+});
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -26,7 +35,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', index);
-app.use('/gps', gps);
+app.use('/guide', guide);
 app.use('/users', users);
 
 // catch 404 and forward to error handler

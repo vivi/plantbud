@@ -1,0 +1,45 @@
+extends layout
+
+block content
+  h1= "plantbud // " + title
+  hr
+  h3 Enter coordinates:
+  form(method='POST' action='')
+    div.form-group
+      label(for='lat') Latitude:
+        input#lat.form-control(type='text', placeholder='37.862612' name='lat' value=(undefined===coord ? '' : coord.lat))
+      b &nbsp;
+      label(for='lon') Longitude:
+        input#lon.form-control(type='text', placeholder='-122.261762' name='lon' value=(undefined===coord ? '' : coord.lon))
+      br
+      button.btn.btn-primary(type='submit') Submit
+  if errors
+    b There were errors in your submission:
+    ul
+      for error in errors
+        li!= error.msg
+  if weather
+    b Weather
+    p This is the information we have for your location.
+    ul
+      li Average Rainfall: #{weather.avgRain} inches
+      li Normal Average Temperature: #{weather.avgTemp}F
+      li Normal Low Temperature: #{weather.minTemp}F
+      li Normal High Temperature: #{weather.maxTemp}F
+
+  if plants
+    b Plants
+    p These are plants that would fare well given these weather conditions.
+    table.table
+      thead
+        tr
+          td Common Name
+          td Water Needed
+          td Min. Temp
+          td Max. Temp
+      each plant in plants
+        tr
+        td #{plant.common_name}
+        td #{plant.water}
+        td #{plant.min_temp}
+        td #{plant.max_temp}
