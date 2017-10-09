@@ -56,5 +56,5 @@ information to new and inexperienced planters.
 - [ ] Incorporate infromation from experts (possibly verbal)
 - [ ] Try out the suggestions!
 
-Project by Chris Ki (@chriski777) and Vivian Fang (@vivi) -- CS 194-032:
-Computing for Social Good
+Chris Ki (@chriski777) and Vivian Fang (@vivi) -- CS 194-032: Computing for
+Social Good
