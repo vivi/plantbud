@@ -14,11 +14,6 @@ this project:
    etc.--and organize this information in a way that can be used by
    the recommender and planner.
 
-### Demo
-<div align="center"><iframe width="560" height="315"
-src="https://www.youtube.com/embed/ED2jiTB7nxc" frameborder="0"
-allowfullscreen></iframe></div>
-
 ## Who's it for?
 
 PlantBud is a suite of tools meant for individuals who have always wanted to
@@ -46,6 +41,12 @@ information to new and inexperienced planters.
   averages of weather station closest to those coordinates
 - Can perform basic filtering on plants in the database (currently based on
     temperature, watering needed)
+
+### Demo
+<div align="center"><iframe width="560" height="315"
+src="https://www.youtube.com/embed/ED2jiTB7nxc" frameborder="0"
+allowfullscreen></iframe></div>
+
 
 ### TODO
 - [ ] Create a tool that mines information from book / written gardening
