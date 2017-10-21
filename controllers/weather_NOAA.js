@@ -1,10 +1,6 @@
 /* TODO: Place this in the database so we don't have to read from disk everytime */
 var fs = require('fs');
 var dataset = 'NOAA DataSet/';
-// change so that it's modified by user input
-var latitude = '37.862612';
-var longitude = '-122.261762';
-var ourCoords = [latitude, longitude];
 // Read File line by line and store into key-value pairings
 var stat_precDict = {};
 var precipDict = {};
