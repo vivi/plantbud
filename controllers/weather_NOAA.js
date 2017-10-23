@@ -1,43 +1,64 @@
 /* TODO: Place this in the database so we don't have to read from disk everytime */
+var async = require('async');
 var fs = require('fs');
 var dataset = 'NOAA DataSet/';
-// Read File line by line and store into key-value pairings
-var stat_precDict = {};
-var precipDict = {};
-var stat_tempDict = {};
-var tempNormalDict = {};
-var tempMaxDict = {};
-var tempMinDict = {};
+var STATION_PRECIP_FILE = 'station/station_precip.txt';
+var PRECIP_FILE = 'precip/ann-prcp-normal.txt';
 
-function retrieveData(fileName, givenDict){
-    return new Promise(function(resolve,reject){
-        var lineReader = require('readline').createInterface({
-          input: require('fs').createReadStream(dataset + fileName)
+var STATION_TEMP_FILE = 'station/station_temp.txt';
+var TEMP_NORM_FILE = 'temp/ann-tavg-normal.txt';
+var TEMP_MAX_FILE = 'temp/ann-tmax-normal.txt';
+var TEMP_MIN_FILE = 'temp/ann-tmin-normal.txt';
+
+
+// change so that it's modified by user input
+var latitude = '37.862612';
+var longitude = '-122.261762';
+var ourCoords = [latitude, longitude];
+
+// Read File line by line and store into key-value pairings
+var promises = {};
+var dicts = {}
+
+function retrieveData(file){
+    return function(callback) {
+        if (file in promises) {
+            callback(null, promises[file]);
+            return;
+        }
+        dicts[file] = {}
+        promises[file] = new Promise(function(resolve, reject) {
+            var lineReader = require('readline').createInterface({
+                input: require('fs').createReadStream(dataset + file)
+            });
+
+            var givenDict = dicts[file];
+
+            lineReader.on('line', function (line) {
+                var lineArr = line.split(" ").filter(String);
+                if (lineArr.length == 2) {
+                    givenDict[lineArr[0]] = lineArr[1];
+                } else {
+                    givenDict[lineArr[0]] = [lineArr[1], lineArr[2]];
+                }
+            }).on('close', function() {
+                resolve(givenDict);
+            });
         });
-        lineReader.on('line', function (line) {
-            var lineArr = line.split(" ").filter(String);
-            if (lineArr.length == 2) {
-                givenDict[lineArr[0]] = lineArr[1];     
-            } else {
-                givenDict[lineArr[0]] = [lineArr[1], lineArr[2]];       
-            }
-        }).on('close', function() {
-            resolve(givenDict);
-        });
-    });
+        callback(null);
+    }
 };
 
-function euclideanDist(firstCoords, secCoords){
-    return Math.pow((parseFloat(firstCoords[0]) - parseFloat(secCoords[0])),2) + Math.pow((parseFloat(firstCoords[1]) - parseFloat(secCoords[1])),2)
+function euclideanDist(firstCoords, secCoords) {
+    return Math.pow((parseFloat(firstCoords.lat) - parseFloat(secCoords[0])),2) + Math.pow((parseFloat(firstCoords.lon) - parseFloat(secCoords[1])),2)
 }
 
-function bestStat(lat, long, data) {
+function bestStat(coord, data) {
     var best;
-    var minDist = 100000000000;
-    ourCoords = [lat, long]
+    var minDist = Number.POSITIVE_INFINITY;
     //finds closest weather station to given coordinates
     for (key in data) {
-        var currVal = euclideanDist(ourCoords, data[key]);
+        var currVal = euclideanDist(coord, data[key]);
         if (currVal < minDist) {
             minDist = currVal;
             best = key;
@@ -46,43 +67,69 @@ function bestStat(lat, long, data) {
     return best;
 }
 
-//retrieves rainfall
-exports.rainfallStat = function(lat, lon, key){
-    var statPromise = retrieveData('station/station_precip.txt', stat_precDict);
-    statPromise.then(function(statDict) {
-        console.log('Station PrecDict is filled. It has ' + Object.keys(statDict).length + ' entries.');
-        return retrieveData('precip/ann-prcp-normal.txt', precipDict);
-    }).then(function(precipDict) {
-        console.log('Precip Dict is filled. It has ' + Object.keys(precipDict).length + ' entries.');
-    });
-    var key = bestStat(lat, lon, stat_precDict);
-    console.log('Closest precip station to your coordinates: ' + key);
-    return parseInt(precipDict[key])/100;
+// Retrieves rainfall.
+exports.rainfallStat = function(coord, shared, callback) {
+    async.series([
+        retrieveData(STATION_PRECIP_FILE),
+        retrieveData(PRECIP_FILE),
+        function(callback) {
+            var station_promise = promises[STATION_PRECIP_FILE];
+            var precip_promise = promises[PRECIP_FILE];
+            var station = dicts[STATION_PRECIP_FILE];
+            station_promise.then(function(station) {
+                var key = bestStat(coord, station);
+                console.log('Closest precip station: ' + key);
+                var precip = dicts[PRECIP_FILE];
+                precip_promise.then(function() {
+                    shared.avgRain = parseInt(precip[key]) / 100;
+                    console.log('Precip: ' + shared.avgRain);
+                    callback(null);
+                });
+            });
+        }
+    ], function(error) {
+        if (error) {
+            console.log("Error getting rainfall stat: " + error);
+        }
+        callback(null);
+    }
+    );
 };
 
-
 // retrieves temperatures
-exports.tempStat = function(lat, lon){
-    var statPromise = retrieveData('station/station_temp.txt', stat_tempDict);
-    statPromise.then(function(statDict) {
-        console.log('Station Temp Dict is filled. It has ' + Object.keys(stat_tempDict).length + ' entries.');
-        return retrieveData('temp/ann-tavg-normal.txt', tempNormalDict);
-    }).then(function(tempNDict) {
-        console.log('Temp Normal Dict is filled. It has ' + Object.keys(tempNormalDict).length + ' entries.');
-        return retrieveData('temp/ann-tmax-normal.txt', tempMaxDict);
-    }).then(function(precipDict) {
-        console.log('Temp Max Dict is filled. It has ' + Object.keys(tempMaxDict).length + ' entries.');
-        return retrieveData('temp/ann-tmin-normal.txt', tempMinDict);
-    });
-    var key = bestStat(lat, lon, stat_tempDict);
-    console.log('Closest temp station to your coordinates: ' + key);
+exports.tempStat = function(coord, shared, callback){
+    async.series([
+            retrieveData(STATION_TEMP_FILE),
+            retrieveData(TEMP_NORM_FILE),
+            retrieveData(TEMP_MIN_FILE),
+            retrieveData(TEMP_MAX_FILE),
+            function(callback) {
+                var station_promise = promises[STATION_TEMP_FILE];
+                var norm_promise = promises[TEMP_NORM_FILE];
+                var max_promise = promises[TEMP_MAX_FILE];
+                var min_promise = promises[TEMP_MIN_FILE];
+                var norm = dicts[TEMP_NORM_FILE];
+                var min = dicts[TEMP_MIN_FILE];
+                var max = dicts[TEMP_MAX_FILE];
 
-    avg = parseInt(tempNormalDict[key])/10;
-    max = parseInt(tempMaxDict[key])/10;
-    min = parseInt(tempMinDict[key])/10;
-    return {
-        avgTemp: avg,
-        maxTemp: max,
-        minTemp: min
-    };
+                station_promise.then(function(statDict) {
+                    var station = dicts[STATION_TEMP_FILE];
+                    var key = bestStat(coord, station);
+                    console.log('Closest temp station: ' + key);
+                    Promise.all([norm_promise, min_promise, max_promise])
+                        .then(function() {
+                        shared.avgTemp = parseInt(norm[key])/10;
+                        shared.minTemp = parseInt(min[key])/10;
+                        shared.maxTemp = parseInt(max[key])/10;
+                        callback(null);
+                    });
+                });
+            }
+        ], function(error) {
+            if (error) {
+                console.log("Error getting temperature stat: " + error);
+            }
+            callback(null);
+        }
+        );
 };
