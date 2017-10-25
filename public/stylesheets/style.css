@@ -12,3 +12,8 @@ a {
     padding: 0;
     list-style: none;
 }
+
+#locate-error {
+    color: red;
+    text-align: right;
+}
