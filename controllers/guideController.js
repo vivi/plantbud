@@ -25,7 +25,7 @@ function getWeather(coord) {
                 callback(null, shared);
             }
         );
-    }
+    };
 }
 
 function getPlants(weather, callback) {

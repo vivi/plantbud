@@ -1,7 +1,8 @@
-/* TODO: Place this in the database so we don't have to read from disk everytime */
 var async = require('async');
 var fs = require('fs');
-var dataset = 'NOAA DataSet/';
+
+/* Filenames */
+var DATASET = 'NOAA DataSet/';
 var STATION_PRECIP_FILE = 'station/station_precip.txt';
 var PRECIP_FILE = 'precip/ann-prcp-normal.txt';
 
@@ -10,26 +11,20 @@ var TEMP_NORM_FILE = 'temp/ann-tavg-normal.txt';
 var TEMP_MAX_FILE = 'temp/ann-tmax-normal.txt';
 var TEMP_MIN_FILE = 'temp/ann-tmin-normal.txt';
 
-
-// change so that it's modified by user input
-var latitude = '37.862612';
-var longitude = '-122.261762';
-var ourCoords = [latitude, longitude];
-
-// Read File line by line and store into key-value pairings
-var promises = {};
-var dicts = {}
+var promises = {}; // file name -> promise (so we don't recompute)
+var dicts = {};    // file name -> associated dictionary
 
 function retrieveData(file){
     return function(callback) {
+        /* Cache promises. */
         if (file in promises) {
             callback(null, promises[file]);
             return;
         }
-        dicts[file] = {}
+        dicts[file] = {};
         promises[file] = new Promise(function(resolve, reject) {
             var lineReader = require('readline').createInterface({
-                input: require('fs').createReadStream(dataset + file)
+                input: require('fs').createReadStream(DATASET + file)
             });
 
             var givenDict = dicts[file];
@@ -39,7 +34,11 @@ function retrieveData(file){
                 if (lineArr.length == 2) {
                     givenDict[lineArr[0]] = lineArr[1];
                 } else {
-                    givenDict[lineArr[0]] = [lineArr[1], lineArr[2]];
+                    /* It is a coordinate mapping */
+                    var coord = {}
+                    coord.lat = parseFloat(lineArr[1]);
+                    coord.lon = parseFloat(lineArr[2]);
+                    givenDict[lineArr[0]] = coord;
                 }
             }).on('close', function() {
                 resolve(givenDict);
@@ -49,14 +48,15 @@ function retrieveData(file){
     }
 };
 
-function euclideanDist(firstCoords, secCoords) {
-    return Math.pow((parseFloat(firstCoords.lat) - parseFloat(secCoords[0])),2) + Math.pow((parseFloat(firstCoords.lon) - parseFloat(secCoords[1])),2)
-}
+function euclideanDist(first, second) {
+    return Math.pow(first.lat - second.lat, 2) +
+           Math.pow(first.lon - second.lon, 2);
+};
 
+/* Find the closest weather station given some set of coordinates. */
 function bestStat(coord, data) {
     var best;
     var minDist = Number.POSITIVE_INFINITY;
-    //finds closest weather station to given coordinates
     for (key in data) {
         var currVal = euclideanDist(coord, data[key]);
         if (currVal < minDist) {
@@ -65,9 +65,9 @@ function bestStat(coord, data) {
         }
     }
     return best;
-}
+};
 
-// Retrieves rainfall.
+/* Retrieve average annual rainfall */
 exports.rainfallStat = function(coord, shared, callback) {
     async.series([
         retrieveData(STATION_PRECIP_FILE),
@@ -96,7 +96,8 @@ exports.rainfallStat = function(coord, shared, callback) {
     );
 };
 
-// retrieves temperatures
+/* Retrieve average temperature, minimum temperature, and maximum
+ * temperature. */
 exports.tempStat = function(coord, shared, callback){
     async.series([
             retrieveData(STATION_TEMP_FILE),
