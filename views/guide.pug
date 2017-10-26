@@ -3,16 +3,30 @@ extends layout
 block content
   h1= "plantbud // " + title
   hr
-  h3 Enter coordinates:
-  form(method='POST' action='')
-    div.form-group
-      label(for='lat') Latitude:
-        input#lat.form-control(type='text', placeholder='37.862612' name='lat' value=(undefined===coord ? '' : coord.lat))
-      b &nbsp;
-      label(for='lon') Longitude:
-        input#lon.form-control(type='text', placeholder='-122.261762' name='lon' value=(undefined===coord ? '' : coord.lon))
-      br
-      button.btn.btn-primary(type='submit') Submit
+  div.row
+    div.col-md-4
+      h3 Enter coordinates
+    div.col-md-2(align="right")
+      h3
+        button.btn.btn-sm.btn-info(onclick='geolocate()') Get Location
+          span.spin(style={display: 'none'})
+            i(class='fa fa-star fa-pulse fa-1x fa-fw')
+
+  div.row
+    div.col-md-6
+      div#locate-error
+
+  div.row
+    div.col-md-6
+      form(method='POST' action='')
+        div.form-group
+          label(for='lat') Latitude:
+          input#lat.form-control(type='text', placeholder='37.862612' name='lat' value=(undefined===coord ? '' : coord.lat))
+        div.form-group
+          label(for='lon') Longitude:
+          input#lon.form-control(type='text', placeholder='-122.261762' name='lon' value=(undefined===coord ? '' : coord.lon))
+        button.btn.btn-primary(type='submit') Submit
+
   if errors
     b There were errors in your submission:
     ul
@@ -43,3 +57,6 @@ block content
         td #{plant.water}
         td #{plant.min_temp}
         td #{plant.max_temp}
+
+  script
+    include ../public/javascripts/geolocate.js
