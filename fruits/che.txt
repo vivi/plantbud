@@ -1,0 +1,53 @@
+{
+    "Common Names:": [
+        " Che, Chinese Che, Chinese Mulberry, Cudrang, Mandarin Melon Berry, Silkworm Thorn. "
+    ], 
+    "Distant Affinity:": [
+        "  Breadfruit (Artocarpus altilis), Jackfruit  (A.heterophyllus), Fig (Ficus spp.), Mulberry (Morus spp.), African Breadfruit (Treculis africana). "
+    ], 
+    "Origin:": [
+        " The che is native to many parts of eastern Asia from the Shantung and Kiangson Provinces of China to the Nepalese sub-Himalayas. It became naturalized in Japan many years ago. In China, the leaves of the che serve as a backup food for silkworms when mulberry leaves are in short supply. The tree was introduced into England and other parts of Europe around 1872, and into the U.S. around 1930. "
+    ], 
+    "Adaptation:": [
+        " The che requires minimal care and has a tolerance of drought and poor soils similar to that of the related mulberry. It can be grown in most parts of California and other parts of the country, withstanding temperatures of -20F.  "
+    ], 
+    "Growth Habit:": [
+        " The deciduous trees can eventually grow to about 25ft. in height, but often remains a broad, spreading bush or small tree if not otherwise trained when they are young. Immature wood is thorny but loses its thorns as it matures. Female trees are larger and more robust than male trees. "
+    ], 
+    "Foliage:": [
+        " The alternate leaves resemble those of the mulberry, but are smaller and thinner and pale yellowish-green in color. The typical form is distinctly trilobate, with the central lobe sometimes twice as long as the lateral ones, but frequently unlobed leaves of varied outlines are also found on the same plant. As the plant grows, the tendency seems towards larger and entire leaves, with at the most indistinct or irregular lobing. The general form of the leaves comprise many variations between oblong and lanceolate. The che leafs and blooms late in spring--after apples. "
+    ], 
+    "Flowers:": [
+        " The che is dioecious, with male and female flowers on different plants. Appearing in June, both types of flowers are green and pea-sized. The male flowers turn yellow as the pollen ripens and is released, while the wind-pollinated female flowers develop many small stigmas over the surface of the immature fruit. Male plants occasionally have a few female flowers which will set fruit. "
+    ], 
+    "Fruit:": [
+        " Like the related mulberry, the che fruit is not a berry but a collective fruit, in appearance somewhat like a round mulberry crossed with a lychee, 1 to 2inches in diameter. The ripe fruits are an attractive red or maroon-red color with a juicy, rich red flesh inside and 3 to 6small brown seeds per fruit. The flavor is quite unlike the vinous quality of better mulberries. While still firm they are almost tasteless, but when fully soft ripe they develop a watermelon-like flavor that can be quite delicious. The sugar content is similar to that of a ripe fig. In colder areas with early leaf drop the bright red fruit are an attractive sight dangling from smooth, leafless branches.  "
+    ], 
+    "Location:": [
+        " Ches need a warm, sunny location. They should not be planted near sidewalks since the fallen fruit will stain. Like the mulberry, the trees are quite wind-resistant. One method of planting is to put a male and a female plant in a single site, about 1ft. apart, and prune to a combined volume of approximately 25%male and 75%female. "
+    ], 
+    "Soil:": [
+        " The trees are relatively undemanding, but perform best in a warm, well-drained soil, ideally a deep loam. "
+    ], 
+    "Irrigation:": [
+        " Although somewhat drought-resistant, ches need to be watered in dry seasons. In summer dry California a deep watering about every two weeks is recommended. If the roots become too dry during drought, the plant may began to defoliate and the unripe fruit is likely to drop.  "
+    ], 
+    "Fertilization:": [
+        "  An annual application of a balanced fertilizer such as 10:10:10 NPK in late spring will maintain satisfactory growth. Nitrogen is the only element likely to be needed in California.  "
+    ], 
+    "Pruning:": [
+        " The trees need regular pruning to control their shape. The branches formed the previous season should  be pruned to half their length. The branchlets on the remaining part of the branches should also be trimmed about 50%. A summer pruning of the male plant is also necessary when planted in a single site with the female. To grow as a tree, in addition to pruning the lateral branches, the leading branch may also need to be staked to point it in a vertical direction. Trees grafted onto Osage orange (Maclura pomifera) rootstock tend to be more robust and grow in a more upright fashion. "
+    ], 
+    "Propagation:": [
+        " The che is readily grown from seed, although the plants can take up to 10 years to bear. Seeds should be sown as soon as extracted from the fruit. The plants are often propagated from softwood cuttings taken in midsummer and treated with rooting hormone. The che is also easily grafted to Osage orange rootstock using either a cleft or whip-and-tongue graft. "
+    ], 
+    "Pests and Diseases:": [
+        " No pests or diseases have been noted. The ripe fruit is attractive to birds, and deer will browse on both the fruit and foliage. "
+    ], 
+    "Harvest:": [
+        " Ches begin to bear at an early age and mature trees can produce as much as 400pounds of fruit. The fruits ripen around November in California. Unlike mulberries, the ripe fruits do not separate easily from the tree and must be individually picked. It is important that the fruits be thoroughly ripe to be at their best. A darker shade of red with some blackening of the skin is a good indication of full ripeness. The fruit will keep for several days in a refrigerator in a covered dish. The fruits can be eaten out of hand or cooked in various ways. Cooking with other fruits that can contribute some tartness improves the taste. Mixing the ripe fruit in a blender and straining out the seeds yields a beautiful and delicious che \"nectar\". "
+    ], 
+    "Commercial Potential:": [
+        " In China and other parts of East Asia the fruit is sometimes found in local markets, but is relatively unknown commercially elsewhere. The attractive color and reasonable shelf life of the che seem to indicate that with a little effort, there could be a niche for it in farmer's markets and specialty stores. There also appears to be some demand for the fruit in Asian markets. Better selection should further increase the marketing potential of the che. A seedless fruit or one with with a bit of tartness would be a great improvement, as would earlier ripening cultivars that separate readily from the branches.  "
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Common Names:": [
+        " Tamarind, Tamarindo, Tamarin, Sampalok. "
+    ], 
+    "Distant affinity:": [
+        " Carob (Ceratonia siliqua). "
+    ], 
+    "Origin:": [
+        " The tamarind is native to tropical Africa and grows wild throughout the Sudan. It was introduced into India so long ago, it has often been reported as indigenous there also. It is extensively cultivated in tropical areas of the world. Sometime during the sixteenth century, it was introduced into America and today is widely grown in Mexico. "
+    ], 
+    "Adaptation:": [
+        " The tamarind is well adapted to semiarid tropical conditions, although it does well in many humid tropical areas of the world with seasonally high rainfall. Young trees are very susceptible to frost, but mature trees will withstand brief periods of 28 F without serious injury. A tamarind tree in the Quail Botanical Gardens in San Diego County flowers, but rarely sets fruit, possibly because of the cool coastal climate. Dry weather is important during the period of fruit development. The tree is too large to be grown in a container for any length of time. "
+    ], 
+    "Growth Habit:": [
+        " Tamarinds are slow-growing, long-lived, evergreen  trees that under optimum conditions can grow 80 feet high with a spread of 20 to 35 ft., in its native eastern Africa and Asia. However, in Southern California it seldom reaches more than 15 to 25 ft. in height.  "
+    ], 
+    "Foliage:": [
+        " The bright green, pinnate foliage is dense and feathery in appearance, making an attractive shade tree with an open branch structure. The leaves are normally evergreen but may be shed briefly in very dry areas during the hot season.  There are usually as many as 10 to 20 nearly sessile 1/2 - 1 inch, pale green leaflets per leaf. The leaflets close up at night. "
+    ], 
+    "Flowers:": [
+        " The inconspicuous, inch-wide, five-petalled flowers are borne in small racemes and are yellow with orange or red streaks.  The flower buds are pink due to the outer color of the 4 sepals which  are shed when the flower opens. "
+    ], 
+    "Fruit:": [
+        " The 3 - 8 inch long, brown, irregularly curved pods are borne in abundance along the new branches. As the pods mature, they fill out somewhat and the juicy, acidulous pulp turns brown or reddish-brown. When fully ripe, the shells are brittle and easily broken. The pulp dehydrates to a sticky paste enclosed by a few coarse stands of fiber. The pods may contain from 1 to 12 large, flat, glossy brown, obovate seeds embedded in the brown, edible pulp. The pulp has a pleasing sweet/sour flavor and is high in both acid and sugar. It is also rich in vitamin B and high in calcium. There are wide differences in fruit size and flavor in seedling trees. Indian types have longer pods with 6 - 12 seeds, while the West Indian types have shorter pods containing only 3 - 6 seeds. Most tamarinds in the Americas are of the shorter type.  "
+    ], 
+    "Location:": [
+        " The tamarind ultimately becomes a fairly large tree, so this should be kept in mind when planting out the tree. It should be planted in full sun and is highly wind-resistant with strong, supple branches. The tree generally forms a beautiful spreading crown that casts a light shade. "
+    ], 
+    "Soils": [
+        " Tamarinds tolerate a great diversity of soil types but do best in deep, well drained soils which are slightly acid. Trees will not tolerate cold, wet soils but are tolerant of salt spray and can be planted fairly near the seashore. "
+    ], 
+    "Irrigation:": [
+        " The tamarind is adapted to semiarid regions of the tropics and can withstand drought conditions quite well. Young trees require adequate soil moisture until they become established, but mature trees do quite well without supplemental irrigation. Avoid over-watering which results in soggy soils. "
+    ], 
+    "Fertilization:": [
+        " The tamarind is not very demanding in its nutritional requirements. Young trees should be fertilized every 2 - 3 months with a 6-6-3 NPK or similar analysis fertilizer. Apply 1/4 lb. and gradually increase to about 1/2 lb. Thereafter, young trees should receive 1/2 lb. per application, per year of tree age, 3 - 4 times a year. Bearing trees can be fertilized with 8-3-9 NPK or similar analysis, at rates of about 1/2 lb. per application per year of tree age. Microelements, particularly iron may be required for trees in alkaline soils. "
+    ], 
+    "Pruning:": [
+        " Young trees are pruned to allow three to five well spaced branches to develop into the main scaffold structure of the tree. Maintenance pruning only is required after that to remove dead or damaged wood. "
+    ], 
+    "Propagation:": [
+        " Rootstocks are propagated from seed, which germinate within a week. Seeds retain their viability for several months if kept dry. Plant seeds 1/2 inch deep in containers filled with a UC soilless type potting media. They should be selected from trees of good production and quality. Even so, seedlings will be variable in quality and slow to bear. Veneer grafting, shield (T or inverted T) budding and air layering may be used to propagate desirable selections. Such trees will usually fruit within 3 - 4 years if provided optimum growing conditions. Seedlings should begin to produce fruit in 6 - 8 years, while vegetatively propagated trees will normally bear in half that time.   "
+    ], 
+    "Pests and Diseases:": [
+        " In California tamarinds are generally free of pests and diseases, although ants will sometimes spread black and olive scales.  In India there are are a host of pests that attack the tree, including mealybugs, caterpillars, aphids, white flies, thrips and a variety of scales. Various weevils and borers can also infest the ripening pods or stored fruits. "
+    ], 
+    "Harvest:": [
+        " Tamarind fruits mature in late spring to early summer. They may be left on the tree for as long as 6 months after maturity so that the moisture content will be reduced to 20% or lower. Fruits for immediate processing are often harvested by pulling the pod away from the stalk. Mature trees are capable of producing 350 lb. of fruit a year. Ripe fruit in humid climates is readily attacked by beetles and fungi, so mature fruit should be harvested and stored under refrigeration.  "
+    ], 
+    "Makham Waan": [
+        " and the USDA's subtropical horticulture research unit in Miami, Florida has one called "
+    ], 
+    "Manila Sweet.": [
+        " None are presently available in Southern California. "
+    ]
+}

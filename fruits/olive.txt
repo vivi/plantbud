@@ -1,0 +1,71 @@
+{
+    "Common Name:": [
+        " Olive. "
+    ], 
+    "Related Species:": [
+        " Wild Olive (Olea africana), Oleaster (O. europaea var. oleaster). "
+    ], 
+    "Distant Affinity:": [
+        " American Olive (Osmanthus americana), Fragrant Olive (O. fragrans). "
+    ], 
+    "Origin:": [
+        " The olive is native to the Mediterranean region, tropical and central Asia and various parts of Africa. The olive has a history almost as long as that of Western civilization, its development being one of civilized man's first accomplishments. At a site in Spain, carbon-dating has shown olive seed found there to be eight thousand years old. O. europaea may have been cultivated independently in two places, Crete and Syria. Archeological evidence suggest that olives were being grown in Crete as long ago as 2,500B.C. From Crete and Syria olives spread to Greece, Rome and other parts of the Mediterranean area. Olives are also grown commercially in California, Australia and South Africa. There is some disagreement over when the trees first appeared in California. Some say they were introduced in 1769 when seeds brought from Mexico were planted. Others site the date 1785 when trees were brought in to make olive oil. "
+    ], 
+    "Adaptation:": [
+        " The olive requires a long, hot growing season to properly ripen the fruit, no late spring frosts to kill the blossoms and sufficient winter chill to insure fruit set.  Home grown olives generally fruit satisfactorily in the warmer coastal valleys of California. Virtually all U.S. commercial olive production is concentrated in California's Central Valley, with a small pocket of olive acreage outside Phoenix. The tree may be grown as an ornamental where winter temperatures do not drop below 12F. Green fruit is damaged at about 28, but ripe fruit will withstand somewhat lower temperatures. Hot, dry winds may be harmful during the period when the flowers are open and the young fruits are setting. The trees survive and fruit well even with considerable neglect. Olives can also be grown in a large container, and has even appeared in shows as a bonsai.  "
+    ], 
+    "Growth Habits:": [
+        " The olive is an evergreen tree growing to 50ft. in height with a spread of about 30ft. The tree can be kept to about 20ft. with regular pruning. The graceful, billowing appearance of the olive tree can be rather attractive. In an all-green garden its grayish foliage serves as an interesting accent. The attractive, gnarled branching pattern is also quite distinctive. Olives are long-lived with a life expectancy of 500years. The trees are also tenacious, easily sprouting back even when chopped to the ground. "
+    ], 
+    "Foliage:": [
+        " The olive's feather-shaped leaves grow opposite one another. Their skin is rich in tannin, giving the mature leaf its gray-green appearance. The leaves are replaced every two or three years, leaf-fall usually occurring at the same time new growth appears in the spring. "
+    ], 
+    "Flowers:": [
+        " The small, fragrant, cream-colored olive flowers are largely hidden by the evergreen leaves and grow on a long stem arising from the leaf axils. The olive produces two kinds of flowers: a perfect flower containing both male and female parts, and a staminate flower with stamens only. The flowers are largely wind pollinated with most olive varieties being self-pollinating, although fruit set is usually improved by cross pollination with other varieties. There are self-incompatible varieties that do not set fruit without other varieties nearby, and there are varieties that are incompatible with certain others. Incompatibility can also occur for environmental reasons such as high temperatures. "
+    ], 
+    "Fruit:": [
+        " The olive fruit is a green drupe, becoming generally blackish-purple when fully ripe. A few varieties are green when ripe and some turn a shade of copper brown. The cultivars vary considerably in size, shape, oil-content and flavor. The shapes range from almost round to oval or elongated with pointed ends. Raw olives contain an alkaloid that makes them bitter and unpalatable. A few varieties are sweet enough to be eaten after sun drying. Thinning the crop will give larger fruit size. This should be done as soon as possible after fruit set. Thin until remaining fruit average about 2 or 3 per foot of twig. The trees reach bearing age in about 4years.  "
+    ], 
+    "Location:": [
+        " Plant olive trees in full sun and away from sidewalks to avoid stains from fallen ripe fruit. Non-fruiting trees are available which can be planted in areas where fruit may be a problem. Strong winds will \"sculpt\" the trees, but otherwise they are quite wind-tolerant. "
+    ], 
+    "Soils:": [
+        " Olives will grow well on almost any well-drained soil up to pH8.5 and are tolerant of mild saline conditions. "
+    ], 
+    "Irrigation:": [
+        "  Irrigation is a necessity in California with its dry summers. A monthly deep watering of home grown trees is normally adequate. Because of its small leaves, with their protective cuticle and slow transpiration, the olive tree survives even extended dry periods. "
+    ], 
+    "Fertilization:": [
+        " Fertilizing olive trees with additional supplies of nitrogen has proved beneficial. In California farmers systematically apply fertilizers well ahead of the time flowers develop so the trees can absorb the nitrogen before fruit set. Many growers in Mediterranean countries apply organic fertilizers every other year. "
+    ], 
+    "Pruning:": [
+        " Proper pruning is important for the olive. Pruning both regulates production and shapes the tree for easier harvest. The trees can withstand radical pruning, so it is relatively easy to keep them at a desired height. The problem of alternate bearing can also be avoided with careful pruning every year. It should be kept in mind that the olive never bears fruit in the same place twice, and usually bears on the previous year's growth. For a single trunk, prune suckers and any branches growing below the point where branching is desired. For the gnarled effect of several trunks, stake out basal suckers and lower branches at the desired angle. Prune flowering branches in early summer to prevent olives from forming. Olive trees can also be pruned to espaliers. "
+    ], 
+    "Propagation:": [
+        " None of the cultivated varieties can be propagated by seed. Seed propagated trees revert to the original small-fruited wild variety. The seedlings can, of course, be grafted or chip budded with material from desired cultivars. The variety of an olive tree can also be changed by bark grafting or top working. Another method of propagation is transplanting suckers that grow at the base of mature trees. However, these would have to be grafted if the suckers grew from the seedling rootstock. "
+    ], 
+    "Pests and diseases:": [
+        " The olive tree is affected by some pests and diseases, although it has fewer problems than most fruit trees. Around the Mediterranean the major pests are medfly and the olive fruit fly, Dacus oleae. In California, verticillium wilt is a serious fungal disease. There is no effective treatment other than avoiding planting on infested soils and removing damaged trees and branches. A bacterial disease known as olive knot is spread by pruning with infected tools during rainy months. Because the olive has fewer natural enemies than other crops, and because the oil in olives retains the odor of chemical treatments, the olive is one of the least sprayed crops. "
+    ], 
+    "Harvest:": [
+        " Olive fruits that are to be processed as green olives are picked while they are still green but have reached full size. They can also be picked for processing at any later stage up through full ripeness. Ripe olives bruise easily and should be handled with care. Mold is also a problem for the fruit between picking and curing. There are several classical ways of curing olives. A common method is the lye-cure process in which green or near-ripe olives are soaked in a series of lye solutions for a period of time to remove the bitter principle and then transferred to water and finally a mild saline solution. Other processing methods include water curing, salt curing and Greek-style curing. Explicit directions for various curing and marinating methods can be found in several publications including Maggie Blyth Klein's book, "
+    ], 
+    "Commercial Potential:": [
+        " Commercial olive production is a multimillion dollar business in California. In the Mediterranean region olives and olive oil are common ingredients of everyday foods. Raw olives are sometimes sold in speciality produce stores, and home growers in California often sell their excess crop to others interested in home curing. There is also a growing interest in specialty olive oils, often produced commercially from small groves of olive trees.  "
+    ], 
+    "Manzanillo": [
+        ", "
+    ], 
+    "Sevillano": [
+        "Very large fruit, bluish-black when ripe. The largest California commercial variety. Stone large, clinging. Ripens early. Low oil content, only useful in pickling. Used for making Sicilian style salt brine cured olives, also the leading canning cultivar. Tree a strong grower and regular bearer. Require deep, rich, well drained soil. Will not stand much cold. "
+    ], 
+    "Mission": [
+        ", "
+    ], 
+    "Ascolano": [
+        " and "
+    ], 
+    "Barouni": [
+        ", listed in descending order of crop size. Some representative olive cultivars including the commercial California varieties are listed below.  "
+    ]
+}

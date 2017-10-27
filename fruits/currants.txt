@@ -1,0 +1,71 @@
+{
+    "Common Names:": [
+        " Currant (English), Johannisbeere (German), Ribes (Danish, Swedish, Italian), Groseille (French), Bes (Flemish). "
+    ], 
+    "Species:": [
+        " Red, pink and white currants belong to three European species (Ribes rubrum, R. petraeum, R. sativum). Black currants are  related to European (R. nigrum) and Asian (R. ussuriense) species.  "
+    ], 
+    "Related Species:": [
+        " Gooseberry (Ribes grossularia, R. hirtellum), Buffalo Currant (R. aureum), Jostaberry (R. nigrum X hirtellum). "
+    ], 
+    "Adaptation:": [
+        " Currants grow best in summer humid, cool regions with great winter chilling. They are best adapted to USDA Hardiness Zones 3 through 5, although in California they are fairly productive in the coolest parts of the San Francisco Bay Area and coastal northern California. They should be considered experimental only in southern California. Currants are amendable to container culture. "
+    ], 
+    "Growth Habit:": [
+        " All forms of currant are deciduous shrubs, fast growing under optimum conditions. The plant is a multiple-stemmed clump, to 5feet high and as broad, but is suitable for training as a standard. Annual growth is in a single flush in spring. The roots are superficial, fine and easily damaged by frequent cultivation. "
+    ], 
+    "Foliage:": [
+        " The leaves are alternate, single, lobed and maple-like. Black currant leaves are pale green, while those of the red currant are deep blue-green. Both are easily burned by intense sunlight. Leaf size and number is reduced under water stress. "
+    ], 
+    "Flowers:": [
+        " Currant flowers are borne toward the bases of one-year old stems and on spurs on older stems. They appear in early spring with new growth. Each flower bud opens to number of flowers (up to 20), joined together on a delicate, drooping 5 - 6inch stem, called a strig. The strig length is reduced or flowering is suppressed by lack of winter chill. Individual flowers (green in the case of red currants and blush pink for black currants) are not showy, but joined together on the strig they give the bush a lacy texture. Pollination is by hoverflies and other insects. Black currant flowers also attract honeybees. Most currants have self-fertile flowers, but a few cultivars are partially self-sterile, so set more fruits with cross-pollination. To increase both fruit size and number, clip off part of the ends of the strigs while the bushes are flowering. Depending upon the cultivar, fruits ripen from 70 to 100days after blossoming.  "
+    ], 
+    "Fruit:": [
+        " Fully set strigs will be a pendulous chain of small berries. The fruit is easier to pick if their strigs are long and have \"handles\" (clear lengths at the bases) for holding onto while harvesting. Black currants commonly ripen from the top down, encouraging birds to strip berries as they color. Modern red currant varieties have been  selected for their ability to ripen all the berries on a strig at once. Berries of red, white and pink currants are translucent; black currants are matte brown-purple. The berries contain 3 - 12minute, bony seeds. "
+    ], 
+    "Location:": [
+        " Currants like morning sun, afternoon part-shade and buoyant air circulation. They can be grown in the high shade of fruit trees such as persimmon,  as well as on the north side of buildings. The leaves sunburn readily and the plants collapse quickly when the soil or air temperature exceeds 85F. Currants can withstand ocean winds but the salt air will burn the leaves and turn them ragged. "
+    ], 
+    "Soil:": [
+        " Currants are not finicky about soil but, in keeping with their proclivity for cold, prefer heavier soils richer in clay. A thick mulch of some organic material also keeps the soil cool in summer while adding humus to the soil. Sandy soils are less suitable for currants because they dry out too fast. The plants will not tolerate alkaline or salty soil.  "
+    ], 
+    "Irrigation:": [
+        " With their fibrous, shallow roots, currants are are ideal for drip irrigation. Keep the plants watered until the fruit is harvested. At this point they stop active growth and the watering frequency can be reduced. Plants stressed for water are susceptible to mildew. "
+    ], 
+    "Fertilization:": [
+        " Apply nitrogen at an annual rate of about four ounces per square yard. With too much nitrogen the plants become more prone to disease. Potassium deficiency, evidenced by marginal scorching of the leaves is averted with about half an once of potassium to the square yard. Avoid potassium chloride, because currants are sensitive to the chloride ion. "
+    ], 
+    "Pruning:": [
+        " Annual pruning increases yields and keeps plants manageable. Prune so that most fruits are borne on spurs of two- or three-year old wood. A program of pruning will maintain a continuous supply of such wood. In the winter of the plant's first season, remove at ground level all but two or three stems. The following winter again remove all but two or three that grew the previous season, at which point the bush will have two or three each of one- and two-year old stems. Continue this each season, but by the fourth winter start cutting away at their bases any stems more than three years old. Each winter also shorten long stems that have grown too scraggly. Do not prune after spring growth has commenced. Plants can be trained to a number of utilitarian and decorative forms. "
+    ], 
+    "Propagation:": [
+        " Currant seeds germinate if stratified for three to four months at temperatures just above freezing. Seedlings are prolific and do not vary much from parent. Bushes grown from seed bear when two or three years old. "
+    ], 
+    "Pests and Diseases:": [
+        " Currants are subject to a variety of insect and disease pests. Gall mite (not reported yet in California) infests dormant buds during summer. Affected buds swell, form dried rosettes, and fail to break during following spring. Whole stem becomes blind and dies back to ground. Plant should be removed and burned immediately upon detection. Aphids commonly distort currant foliage causing red spots. Spider mites are common and also cause foliar distortion. Clear-winged borers lay their eggs on stems in late spring. The larvae hatch and bore into the stems where they remain until the following season. An infestation is usually detected only after the stem wilts and dies. Borers will spread and generally cause loss of a whole planting without quick control. Cut out affected stems, search for others and spray. The leaves are not attractive to deer. "
+    ], 
+    "Harvest:": [
+        " Most cultivars hold well on the plant. For fresh eating let the berries hang for about three weeks after they color up. If the fruits are to be stored at all, they should be picked dry. To avoid damaging the fruits, pick a whole strig by its stem, taking care not to damage the spur. Yields vary greatly, depending on growing conditions and cultivar. Anywhere from three pounds to over ten pounds may be harvested from a single bush. "
+    ], 
+    "Wilder": [
+        " - R. Vulgare."
+    ], 
+    "Weisse aus Juterbog": [
+        " - R. petraeum."
+    ], 
+    "White Imperial": [
+        " - R. rubrum."
+    ], 
+    "White Versailles": [
+        " - R. vulgare."
+    ], 
+    "Gloire des Sablons": [
+        " Origin France, ancient. Most common form of pink currant. Bush upright, not branching, productive, berries quite large but few on strig. "
+    ], 
+    "Willoughby": [
+        " Origin Walter Willoughby, Parkside, Sask., 1940. Bush open, spreading, hardy to cold and sun, resists mildew. Fertile, short strigs, fair flavor. "
+    ], 
+    "Crandall": [
+        " Origin uncertain, probably Iowa, 1890s. Still the best for fruit quality. Bush rather weak, weeping, fruit hidden inside foliage, difficult to find. "
+    ]
+}

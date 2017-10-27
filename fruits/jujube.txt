@@ -1,0 +1,65 @@
+{
+    "Common Names:": [
+        " Jujube, Chinese Date, Tsao. "
+    ], 
+    "Related Specie:": [
+        " Indian Jujube (Ziziphus mauritiana). "
+    ], 
+    "Distant Affinity:": [
+        " Purple Haw (Colubrina texensis),  "
+    ], 
+    "Origin:": [
+        " The jujube originated in China where they have been cultivated for more than 4,000years and where there are over 400cultivars. The plants traveled beyond Asia centuries ago and today are grown to some extent in Russia, northern Africa,  southern Europe, the Middle East and the southwestern United States.  Jujube seedlings, inferior to the Chinese cultivars, were introduced into Europe at the beginning of the Christian era and carried to the U. S. in 1837. It wasn't until 1908 that improved Chinese selections were introduced by the USDA.  "
+    ], 
+    "Adaptation:": [
+        " The jujube can withstand a wide range of temperatures; virtually no temperature seems to be too high in summertime. Winter dormancy allows it to withstand temperatures to about -28F, yet it requires only a small amount of winter chill in order for it to set fruit. The plant revels in summer sun and heat, with the lack of either limiting fruit production more than winter cold. Yet jujubes have fruited in the Puget Sound and low Cascade regions of Washington State as well as in Pennsylvania. Fruiting of some cultivars has also been reported in northern Florida.The Indian jujube, which is more sensitive to frost, is grown in Florida, but the fruit is considered inferior. Jujube trees are not particularly suitable for container culture, but can be grown in this manner in a large container.    "
+    ], 
+    "Growth Habit:": [
+        "  The jujube is a small, deciduous tree, growing to 40 feet tall in Florida, but smaller in size in California. The naturally drooping tree is graceful, ornamental and often thorny with branches growing in a zig-zag pattern. The wood is very hard and strong. Jujube cultivars vary in size and conformation, with some being very narrow in habit and others being more widespread.  One cultivar, the So, seems to be fairly dwarfing in habit. After 30years of growth in an average site, trees can be 30feet tall with a crown diameter of up to 15feet. Plants send up suckers (often with intimidating spines) from their roots, and these suckers can appear many feet from the mother plant. Currently, these root suckers must be controlled by mowing or hoeing.  "
+    ], 
+    "Foliage:": [
+        " The small, ovate or oval leaves are 1-2inches long and a shiny bright green. In the autumn, the leaves turn bright yellow before falling. There are usually two spines at the base of each leaf.  Some spines may be hooked while others are long daggers.  Virtually thornless cultivars are known. As the growing season commences, each node of a woody branch produces one to ten branchlets. Most of these are deciduous, falling from the plant in autumn. "
+    ], 
+    "Flowers:": [
+        " The inconspicuous, 1/5inch diameter, white to greenish-yellow flowers are somewhat fragrant and produced in large numbers in the leaf axils. The flowering period extends over several months from late spring into summer. However, individual flowers are receptive to pollen for only one day or less. Pollination needs of the jujube are not clearly defined, but appear to be done by ants or other insects and possibly by the wind.  Most jujube cultivars produce fruit without cross-pollination . The jujube is well protected from late spring frosts by delayed budding until all chance of cold weather has passed. "
+    ], 
+    "Fruit:": [
+        "  The fruit is a drupe, varying from round to elongate and from cherry-size to plum-size depending on cultivar. It has a thin, edible skin surrounding whitish flesh of sweet, agreeable flavor. The single hard stone contains two seeds. The immature fruit is green in color, but as it ripens it goes through a yellow-green stage with mahogany-colored spots appearing on the skin as the fruit ripens further. The fully mature fruit is entirely red. Shortly after becoming fully red, the fruit begins to soften and wrinkle. The fruit can be eaten after it becomes wrinkled, but most people prefer them during the interval between the yellow-green stage and the full red stage. At this stage the flesh is crisp and sweet, reminiscent of an apple. Under dry conditions jujubes lose moisture, shrivel and become spongy inside. Tests in Russia indicate a very high vitamin C content. The fruit has been used medicinally for millennia by many cultures.  One of its most popular uses is as a tea for sore throat  "
+    ], 
+    "Location:": [
+        " Jujubes should be given a warm, sunny location, but are otherwise relatively undemanding. Given adequate heat and sun, the trees will thrive without any special care. They should not be planted in the shade of other trees "
+    ], 
+    "Soils:": [
+        " Jujubes tolerate many types of soils, but  prefer a sandy, well-drained soils and do less well in heavy, poorly drained soil. They are able to grow in soils with high salinity or high alkalinity.  "
+    ], 
+    "Irrigation:": [
+        " One of the outstanding qualities of the jujube tree are its tolerance of drought conditions.  Regular watering, though, is important to assure a quality fruit crop. "
+    ], 
+    "Fertilization:": [
+        " Fertilizer requirements have not been studied, but jujubes appear to do well with little or no fertilization. Light broadcast applications of a balanced fertilizer such as 8-8-8NPK at two-month intervals during the growing season would probably speed growth. Do not fertilize until the newly planted tree has several months to get established. "
+    ], 
+    "Pruning:": [
+        " Unpruned trees produce as well as trees that have been pruned. Extensive winter pruning, however, will keep the plants in better health and produce more easily obtainable fruit. "
+    ], 
+    "Propagation:": [
+        "  Most Chinese cultivars in the U.S. are grafted or budded onto a thorny rootstalk which produces many suckers from the roots.  There is evidence that jujube cultivars will root on hard or soft wood cuttings. However, successes have been limited to date with this process of plant reproduction.  Jujubes also can be propagated from seed, although they do not come true. Most jujube cultivars produce fruit without cross-pollination, but seeds from such self-pollination are usually not viable (such as from the  Li or Lang cultivars) "
+    ], 
+    "Pests and diseases:": [
+        "  The Chinese jujube appears to have no serious disease, insect, or nematode pests in the U.S., hence, no spraying is necessary.  Only the pocket gopher has shown a liking for the roots.  One disease, witches broom, is prevalent in China and Korea and could be destructive to a new industry if allowed to enter into non-endemic areas. "
+    ], 
+    "Harvest:": [
+        " The crop ripens non-simultaneously, and fruit can be picked for several weeks from a single tree. If picked green, jujubes will not ripen. Ripe fruits may be stored at room temperature for about a week.The fruit may be eaten fresh, dried or candied.  Fresh fruit is much prized by certain cultures and is easily sold in Chinese, Korean, Vietnamese, and Indian markets. Tree dried fruit stores indefinitely and may have good marketing potential as it dries on the tree without the use of a sulfur preservative. "
+    ], 
+    "Li": [
+        " Large, round fruit up to 3ounces in mid-August.   May be picked at the yellow-green stage.  Tree is many-branched, yet narrow and upright.  Best eaten fresh.  Best first tree to have. "
+    ], 
+    "Thornless": [
+        " Just as the name implies. Very few, if any spines occur.  A fruit very similar to the Lang. "
+    ], 
+    "Chico": [
+        " (GI 7-62)"
+    ], 
+    "Topeka": [
+        " From eastern Kansas and an excellent, late cropping fruit. "
+    ]
+}

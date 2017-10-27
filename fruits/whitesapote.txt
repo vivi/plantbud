@@ -1,0 +1,59 @@
+{
+    "Common Names:": [
+        " White Sapote, Sapote, Zapote blanco, Casimiroa. "
+    ], 
+    "Related Species:": [
+        " Woolly-leaf Sapote, Yellow Sapote (C. tetrameria Millsp.).  Matasano, (C. Sapote Oerst.),  C. pringlei. "
+    ], 
+    "Distant affinity:": [
+        " Citrus, Bael Fruit (Aegle marmelos Correa), Wampi (Clausena lansium Skeels), Wood-apple (Feronia limonia Swingle)  "
+    ], 
+    "Origin:": [
+        " The white sapote is native to central Mexico.  The wooly-leaf sapote is native from Yucatan to Costa Rica.  "
+    ], 
+    "Adaptation:": [
+        " The white sapote is successful wherever oranges can be grown. In California mature trees are found from Chico, southward.  It does poorly in areas with high summer heat such as the deserts of the Southwest, and in the high humidity of the tropical lowlands of Hawaii and Florida.  Otherwise, it can take a lot of abuse, but is brittle in wind. Established trees withstand occasional frost to 22F., although young trees can be damaged at 30F.  The tree does best where the mean temperature from April to October is about 68F.  White sapotes are also tolerant of cold wet roots and north sides of buildings. Wooly-leaf sapotes are somewhat less hardy than the common white sapote.  Only grafted trees are suitable for containers; seedlings get large fast. "
+    ], 
+    "Growth Habit:": [
+        " The white sapote forms a medium to very large evergreen tree, 15 to 50 feet, according to cultivar and soil.  It is deciduous under drought and other stress.  The tree casts a dense shade. Growth is rapid, in flushes.  It is densely branching, drooping at maturity. Young trees tend toward a single, limber stem for first 2 years often requiring staking.  White sapotes have a taproot and other fibrous roots  that are wandering and greedy like citrus. "
+    ], 
+    "Foliage:": [
+        " The white sapote has glossy, bright green, palmately compound, hand-shaped leaves with 5 - 6 inch leaflets on a long petiole. New growth is usually reddish, becoming dark green with age, pale green beneath. Stress such as either prolonged cold or abnormal heat, will cause defoliation and a subsequent new growth flush.  Leaves will burn in hot winds, which may also scar the fruit or cause it to drop. "
+    ], 
+    "Flowers:": [
+        " The odorless flowers, small and greenish-yellow, are 4- or 5-parted, and born in terminal and axillary panicles.  They are hermaphrodite and occasionally unisexual because of aborted stigmas. They follow growth flush and often rebloom again several months later. The flowers are attractive to bees, hoverflies and ants.  The pollination tendencies or requirements of various cultivars have not yet been fully determined. "
+    ], 
+    "Fruit:": [
+        " White sapote fruit ripens six to nine months from bloom. Some cultivars are alternate bearing.  Fruit size varies from 1 inch to 6 inches for some of the newer cultivars.  Fruit color ranges from apple-green to orange-yellow at  maturity, according to cultivar.  The fruit shape is round, oval or ovoid, symmetrical or irregular.  The skin is very thin and smooth, with a waxy bloom, and is sometimes bitter.  Green-skinned varieties have white flesh; yellow skinned varieties have yellow flesh.  The flesh has a custard-like texture and a sweet delicious flavor reminiscent of peach or banana, although sometimes with a hint of bitterness.  The fruit becomes pungent and unpleasant if overripe. In California the flesh of the wooly-leaf sapote is often bitter and unpleasant. The fruit contains 5 - 7 short-lived seeds thaat resemble a greatly enlarged orange seed.  They range in size from 1 - 2 inches in length.  The fruits also usually contain several aborted, thin, papery seeds.  White sapotes bear within 10 years from seed, or 2 - 8 years from graft. "
+    ], 
+    "Location:": [
+        " Before planting, consider the mess made by unpicked fruit.  Planting over a patio can be a big mistake.  The ultimate size of the the tree should also be kept in mind.  They prefer full sun. "
+    ], 
+    "Soils:": [
+        " White sapotes prefer a well-drained soil with a pH between 5.5 and 7.5, but the tree will grow in almost any soil as long as it is well-drained. "
+    ], 
+    "Irrigation:": [
+        " White sapote trees are drought tolerant but produce better fruit with regular, deep watering.  Deep watering is also necessary  to keep greedy roots deep in the ground.  Shallow watering can encourage surface roots that will break pavement or ruin lawns.  Drip irrigation is suitable for young trees.  They will tolerate some salts, but gradually decline.  White sapotes are often most productive following wet winters. "
+    ], 
+    "Fertilization:": [
+        " Fertilizer formulas should vary with the nature of the soil, but, in general, the grower is advised to follow procedures suitable for citrus trees.  Many white sapote trees have received little or no care and yet have been long-lived. "
+    ], 
+    "Pruning:": [
+        " Young trees tend to grow vertically without much branching.  After planting,  remove the flowers and pinch out the terminal bud to encourage branching.  Since branches are brittle in wind, and will often break at crotches that are either too narrow or horizontal, it is important to prune to eliminate such weak joints.  Too much pruning or heading-back, however, may encourage weak growth. "
+    ], 
+    "Propagation:": [
+        " Seedlings generally produce inferior fruit, but there is always a chance of producing a worthwhile new cultivar. Use fresh seed, washed and cleaned of flesh. Budding is done in the spring, if possible, on year-old seedlings.  Trees are usually grafted., using stocks grown in place for three years. Scions should be girdled 1 to 2 months, then stored until the first sign of new stock growth in spring.  Cleft, splice, or approach grafts are all successful.  Seedling trees usually begin to bear in 7 - 8 years; grafted trees will start bearing in 3 or 4 years. "
+    ], 
+    "Pests and diseases:": [
+        " The white sapote has few natural enemies but the fruits of some cultivars are attacked by fruit flies where that is a problem.  Black scale often occurs on nursery stock and occasionally on mature trees in California.  Mealybugs are sometimes found around fruit stems, and aphids can infest new growth.  The trees also attract fruit-eating animals, including  parrots.   White sapotes are resistant to both Phytophthora and Armillaria.  Snails can defoliate young trees and damage fruit.  Control by keeping weeds away and applying bait. "
+    ], 
+    "Harvest:": [
+        " White sapote fruit ripens in October (south) to February (north).  A few cultivars will have fruit year-round, but the fruit from later blooms generally ripens poorly and is of poorer quality. Large trees commonly produce a ton of fruit per year.  The fruits taste best when tree ripened, but tend to fall first. The fruits must be handled with care even when unripe as they bruise so easily and any bruised skin will blacken and the flesh beneath turns bitter.  Mature fruits should be clipped from the branches leaving a short piece of the stem attached.  This stub will fall off when the fruits become eating-ripe. Some cultivars will ripen to good flavor when picked hard and kept in a controlled atmosphere, while others become bitter and inedible.   Fruits that have ripened on hand will keep in good conditions in the home refrigerator for at least 2 weeks. "
+    ], 
+    "Commercial potential:": [
+        " The white sapote is an old California fruit and is liked by most people who taste it.  Its best markets are local stands and luxury or health food stores.  Chain stores require a steady source of round, non-bitter fruit, packed in a single layer. Seasonal production can be avoided by selecting cultivars that give year-round harvest. The fruit must be picked hard mature with minimal handling.  "
+    ], 
+    "Mac's Golden": [
+        " Origin Carlsbad, Calif., Charles Ramsey, 1932 A wooly-leaf sapote (C. tetrameria). Fruit large, yellow with deeper-colored flesh. The best, and least yellow, of the matasanos, preferred by some, with characteristic aroma. Elongated oval, few seeds.  "
+    ]
+}

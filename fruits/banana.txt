@@ -1,0 +1,62 @@
+{
+    "Common Names:": [
+        " Banana, Bananier Nain, Canbur, Curro, Plantain "
+    ], 
+    "Origin:": [
+        " Edible bananas originated in the Indo-Malaysian region reaching to northern Australia. "
+    ], 
+    "Species:": [
+        " Musa acuminata Colla, M. X paradisiaca L. (hybrid) "
+    ], 
+    "Related species": [
+        " Abyssinian Banana (Ensete ventricossum Cheesman), Musa balbisina Colla, M. ornata Roxb., M. textilis Nee "
+    ], 
+    "Adaptation": [
+        " Bananas and plantains are today grown in every humid tropical region and constitutes the 4th largest fruit crop of the world.  The plant needs 10 - 15months of frost-free conditions to  produce a flower stalk.  All but the hardiest varieties stop growing when the temperature drops below 53F.  Growth of the plant begins to slow down at about 80F and stop entirely when the temperature reaches 100F.  High temperatures and bright sunlight will also scorch leaves and fruit, although bananas grow best in full sun.  Freezing temperatures will kill the foliage.  In most areas bananas require wind protection for best appearance and maximum yield.  They are also susceptible to being blown over.  Bananas, especially dwarf varieties, make good container specimens if given careful attention.  The plant will also need periodic repotting as the old plant dies back and new plants develop. "
+    ], 
+    "Growth Habit:": [
+        " Bananas are fast-growing herbaceous perennials arising from underground rhizomes.  The fleshy stalks or pseudostems formed by upright concentric layers of leaf sheaths constitute the functional trunks.  The true stem begins as an underground corm which grows upwards, pushing its way out through the center of the stalk 10-15 months after planting, eventually producing the terminal inflorescence which will later bear the fruit.  Each stalk produces one huge flower cluster and then dies.  New stalks then grow from the rhizome.  Banana plants are extremely decorative, ranking next to palm trees for the tropical feeling they lend to the landscape.  "
+    ], 
+    "Foliage:": [
+        " The large oblong or elliptic leaf blades are extensions of the sheaths of the pseudostem and are joined to them by fleshy, deeply grooved, short petioles. The leaves unfurl, as the plant grows, at the rate of one per week in warm weather, and extend upward and outward , becoming as much as 9feet long and 2feet wide.  They may be entirely green, green with maroon splotches, or green on the upper side and red-purple beneath.  The leaf veins run from the mid-rib straight to the outer edge of the leaf. Even when the wind shreds the leaf, the veins are still able to function. Approximately 44leaves will appear before the inflorescence. "
+    ], 
+    "Flowers:": [
+        "  The banana inflorescence shooting out from the heart in the tip of the stem,  is at first a large, long-oval, tapering, purple-clad bud.  As it opens, the slim, nectar-rich, tubular, toothed, white flowers appear.  They are clustered in whorled double rows along the the floral stalk, each cluster covered by a thick, waxy, hood like bract, purple outside and deep red within.  The flowers occupying the first 5 - 15rows are female.  As the rachis of the inflorescence continues to elongate, sterile flowers with abortive male and female parts appear, followed by normal staminate ones with abortive ovaries. The two latter flower types eventually drop in most edible bananas. "
+    ], 
+    "Fruits:": [
+        " The ovaries contained in the first (female) flowers grow rapidly, developing parthenocarpically (without pollination) into clusters of fruits, called hands.  The number of hands varies with the species and variety.  The fruit (technically a berry) turns from deep green to yellow or red, and may range from 2-1/2 to 12inches in length and 3/4 to 2inches in width.  The flesh, ivory-white to yellow or salmon-yellow, may be firm, astringent, even gummy with latex when unripe, turning tender and slippery, or soft and mellow or rather dry and mealy or starchy when ripe.  The flavor may be mild and sweet or subacid with a distinct apple tone.  The common cultivated types are generally seedless with just vestiges of ovules visible as brown specks.  Occasionally, cross-pollination with wild types will result in a number of seeds in a normally seedless variety.  "
+    ], 
+    "Location:": [
+        " Bananas require as much warmth as can be given them.  Additional warmth can be given by planting next to a building. Planting next to cement or asphalt walks or driveways also helps.  Wind protection is advisable, not for leaf protection as much as for protection of the plant after the banana stalk has appeared. During these last few months propping should be done to keep the plant from tipping or being blown over. "
+    ], 
+    "Soil:": [
+        " Bananas will grow in most soils, but to thrive, they should be planted in a rich, well-drained soil. The best possible location would be above an abandoned compost heap. They prefer an acid soil with a pH between 5.5 and 6.5.  The banana is not tolerant of salty soils. "
+    ], 
+    "Irrigation:": [
+        " The large leaves of bananas use a great deal of water.  Regular deep watering is an absolute necessity during warm weather.  Do not let plants dry out, but do not overwater.  Standing water, especially in cool weather, will cause root rot.  Plants grown in dry summer areas such as Southern California need periodic deep waterings to help leach the soil of salts.  Spread a thick layer of mulch on the soil to help conserve moisture and protect the shallow roots.  Container grown plants should be closely watched to see that they do not dry out.  An occasional deep watering to leach the soil is also helpful.  "
+    ], 
+    "Fertilization:": [
+        " Their rapid growth rate make bananas heavy feeders.  During warm weather, apply a balanced fertilizer once a month--a 8:10:8NPK fertilizer appears to be adequate. A mature plant may require as much as  1-1/2 to 2pounds of the above fertilizer each month.  Young plants need a quarter to a third as much.  Spread the fertilizer evenly around the plant in a circle extending 4 - 8feet from the trunk.  Do not allow the fertilizer to come in contact with the trunk.  Feed container container plants on the same monthly schedule using about half the rate for outside plants. "
+    ], 
+    "Frost Protection:": [
+        " Bananas flourish best under uniformly warm conditions but can survive 28F for short periods. If the temperature does not fall below 22F and the cold period is short, the underground rhizome will usually survive.  To keep the plants that are above ground producing, protection against low temperatures is very important. Wrap trunk or cover with blanket if the plants are small and low temperatures are predicted. "
+    ], 
+    "Pruning": [
+        " Only one primary stem of each rhizome should be allowed to fruit.  All excess shoots should be removed as soon as they are noticed.  This helps channel all of of the plant's energy into fruit production.  Once the main stalk is 6 - 8months old, permit one sucker to develop as a replacement stalk for the following season.  When the fruit is harvested, cut the fruiting stalk back to 30inches above the ground.  Remove the stub several weeks later.  The stalk can be cut into small pieces and used as mulch. "
+    ], 
+    "Propagation:": [
+        " Propagation of bananas is done with rhizomes called suckers or pups. Very small pups are called buttons. Large suckers are the preferred planting material. These are removed from vigorous clumps with a spade when at least three feet tall, during warm months. Pups should not be taken until a clump has at least three to four large plants to anchor it. When the pup is taken the cut must be into the mother plant enough to obtain some roots. Plant close to the surface.  Large leaves are cut off of the pup leaving only the youngest leaves or no leaves at all.  Some nurseries supply banana plants as container grown suckers. "
+    ], 
+    "Pests and Diseases:": [
+        " Bananas have few troublesome pests or diseases outside the tropics.  Root rot from cold wet soil is by far the biggest killer of banana plants in our latitudes.  California is extremely fortunate in not having nematodes that are injurious to the banana. Gophers topple them, and snails and earwigs will crawl up to where they can get continuous water, but these pests do not bother the plant.   "
+    ], 
+    "Fruit Harvest:": [
+        " Stalks of bananas are usually formed in the late summer and then winter over. In March they begin \"plumping up\" and may ripen in April. Occasionally, a stalk will form in early summer and ripen before cold weather appears. The fruit can be harvested by cutting the stalk when the bananas are plump but green.  For tree-ripened fruit, cut one hand at a time as it ripens. If latter is done, check stalk daily as rodents can eat the insides of every banana, from above, and the stalk will look untouched.  Once harvested the  stalk should be hung in a cool, shady place.  Since ethylene helps initiate and stimulate ripening, and mature fruit gives off this gas in small amounts, ripening can be hastened by covering the bunch with a plastic bag.  Plantains are starchy types that are cooked before eating. "
+    ], 
+    "Ice Cream": [
+        " or "
+    ], 
+    "Williams": [
+        " The same as Giant Cavendish.  Originated from a mutation of Dwarf Cavendish found in Queensland, Australia. A commercial banana grown in many countries that does well in California. 10 to 16feet in height and has a distinctive long, very large bud. The Del Monte is a Williams.  "
+    ]
+}

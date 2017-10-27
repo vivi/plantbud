@@ -1,0 +1,53 @@
+{
+    "Common Names:": [
+        "  Hardy Kiwi, Bower Vine, Dessert Kiwi, Cocktail Kiwi, Tara Vine, Yang-tao. "
+    ], 
+    "Related Species:": [
+        " Chinese Egg Gooseberry (Actinidia coriacea),  "
+    ], 
+    "Origin:": [
+        " The hardy kiwi is native to northern China, Korea, Siberia and possibly Japan. "
+    ], 
+    "Adaptation:": [
+        " The plants need a long growing season (about 150frost-free days) which will not be hampered by late winter or early autumn freezes.  When fully dormant, they can withstand temperatures to about -25F (and perhaps a bit lower.)  However they must acclimate to cold slowly and any sudden plunge in temperature may cause trunk splitting and subsequent damage to the vine.  All cultivars need a certain period of winter chilling and their needs vary, dependent upon cultivar, however, the exact amounts needed has not yet been established. To date, all cultivars that have been grown in both high chill and low chill areas have produced equally well. Late winter freezing temperatures will kill any exposed buds. The plants can be successfully grown in large containers.  "
+    ], 
+    "Growth Habit:": [
+        "  In the forests where it is native, it is a climbing vine  (liana), sometimes climbing one hundred feet high into trees.  In cultivation it is more well-behaved but must be supported by a trellising system. The plant has a more delicate appearance than regular kiwifruit. "
+    ], 
+    "Foliage:": [
+        "  Leaves are elongated and generally 2 to 5inches long and attached to the stem on red petioles. They are usually serrated and far less leathery and fuzzy than regular kiwifruit.   "
+    ], 
+    "Flowers:": [
+        "  The flowers are about one-halfinch in diameter, white to cream colored, somewhat fragrant, and produced as singlets to triplets in the leaf axiles. Flowering period extends over several weeks from early May to June, depending on climatic conditions.  Plants are dioecious, having male and female flowers on separate plants, thus needing plants of both sexes to produce crops.  However, self-fruiting females are known to exist. "
+    ], 
+    "Fruit:": [
+        "  The fruit are generally green, fuzzless, and the size of grapes.  Cut open, they look much like regular kiwifruit with its small black seeds, emerald green color, and typical rayed pattern.  Although typically green in both the skin and flesh, some cultivars have various amount of red, either in the skin, flesh or both. Hardy kiwifruits are generally sweeter than regular kiwifruit. Sugar levels vary, ranging from 14% (as with kiwifruit) up to 29%. "
+    ], 
+    "Location:": [
+        "  The vines will tolerate some shade but prefer a sunny location where they can ramble across some type of trellising system. They should have some protection from strong winds "
+    ], 
+    "Site Preparation:": [
+        "  Hardy kiwi plants need a substantial trellis, patio cover, or other permanent place to grow upon.  For the trellis system, either a single wire or T-bar system can be installed.  Both have a 4inch by 4inch redwood post of 8feet.  For the T-bar, a 2inch by 6inch crossarm about  4feet long is bolted in place.  Bury the post 2feet into the ground and cement in if at all possible.  At each end of the system, a cemented deadman should be in place.  Run wires across the posts and anchor tautly to the deadman.  When using a patio cover, no extra trellising needs to be in place.  Simply run the plant up a corner post to the top and allow the plant to then form a spoke work of shoots which would resemble an umbrella. "
+    ], 
+    "Soils:": [
+        "  Hardy kiwi prefer well-drained, somewhat acid  (pH5-6.5) soils. Neutral soils are acceptable but the leaves may show nitrogen deficiency when the soils become too basic. The plants will not tolerate salty soils. "
+    ], 
+    "Irrigation:": [
+        "  Hardy kiwi plants need large volumes of water during the entire growing season but must also be in well-drained soils.  Watering regularly in the heat of the summer is a must.  Never allow a plant to undergo drought stress.  Symptoms of drought stress are drooping leaves, browning of the leaves around the edges, and complete defoliation with regrowth of new shoots when the stress is continuous.  More plants probably die from water related problems than any other reason. "
+    ], 
+    "Fertilization:": [
+        "  Based on work done on the regular kiwifruit, hardy kiwi  plants are heavy nitrogen feeders which should be applied in abundance during the first half of the growing season. Late season applications of nitrogen will enhance fruit size but are discouraged as fruit then tends to store poorly. In basic soils, a citrus and avocado tree fertilizer should be  broadcast about the vine and watered in well in early March.  Follow up the  initial fertilizing by supplemental additions to early summer. In other  areas, use a high nitrogen fertilizer which contains trace elements unless it is known that the particular soil is deficient in another nutrient.  Mulching with manures and/or straws is very beneficial. However, do not put the mulch directly in contact with the vine as crown rot will occur. "
+    ], 
+    "Pruning:": [
+        "  For best fruit production, pruning in the winter is a must.  All  pruning techniques are usually based on a \"cane replacement\" and differ only based on the trellising method used.  Kiwi vines need to be supported and this is usually done in one of three ways: single wire, 3-5wire on a T-bar system, or onto a patio cover.  In all cases, one stem is trained up to a  wire at six feet and then allowed to grow along the wire.  When growth ends in a \"pig-tailing\" of the shoot, it is cut behind the entanglement and new a shoot allowed to grow from a leaf base.  After two years multiple shoots will now emerge from the lateral mainline.  During the growing season, each lateral cane will send out a new shoot about 1/3of the way from its own starting point.  The next winter, prune off the older cane at the point that it connects with last summers new shoot.  This process repeats itself every year. "
+    ], 
+    "Propagation:": [
+        "  In areas where the regular kiwifruit will grow,  scions of the hardy kiwi may be grafted directly onto kiwifruit rootstock.  Otherwise, one must either root their own from hardwood or greenwood cuttings or buy established plants. "
+    ], 
+    "Pests and diseases:": [
+        "  Plants are relatively free from problems, possibly due to their lack of heavy planting into areas so that pests begin to take a  liking to the leaves, trunk, or roots.  One odd problem is the fact that the trunks have a catnip-like aroma which cats love to rub against.  When plants are small, this can be a problem as they can rub off any new shoots which emerge in the spring. Garden snails can also be a problem on younger plantings.  Other pests include deer that browse on the leaves and gophers that attack the roots.  Scale insects can damage if populations build up too extensively.  Greenhouse thrips may also damage the fruit. "
+    ], 
+    "Harvest:": [
+        " Ripening depends both on the cultivar grown and local climatic conditions. The Cordifolia cultivar ripens first in early September while the Anna (Ananasnaja) may need to wait until lateOctober/earlyNovember before it sweetens to its best. Hardy kiwifruits drop or come off easily when they are ripe. Usually they are picked at the mature-ripe stage and allowed to ripen off of the vine as is done with kiwifruit.   "
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Common Names:": [
+        " Pineapple, Ananas, Nanas, Pina. "
+    ], 
+    "Related Species:": [
+        " Pina de Playon (Ananas bracteatus). "
+    ], 
+    "Distant affinity:": [
+        " Pingwing (Aechmea magdalenae),  Pinguin (Bromelia pinguin), Pinuela (Karatas plumier). "
+    ], 
+    "Origin:": [
+        " The pineapple is native to southern Brazil and Paraguay where wild relatives occur. It was spread by the Indians up through South and Central America to the West Indies before Columbus arrived.  In 1493 Columbus found the fruit on the island of Guadaloupe and carried it back to Spain and it was spread around the world on sailing ships that carried it for protection against scurvy. The Spanish introduced it into the Philippines and may have taken it to Hawaii and Guam early in the 16th Century. The pineapple reached England in 1660 and began to be grown in greenhouses for its fruit around 1720.   "
+    ], 
+    "Adaptation:": [
+        " The pineapples is a tropical or near-tropical plant, but will usually tolerate brief exposures to 28F. Prolonged cold above freezing retards growth, delays maturity and causes the fruit to be more acid. Pineapples are drought-tolerant and will produce fruit under yearly precipitation rates ranging from 25 - 150 in., depending on cultivar and location and degree of atmospheric humidity. They are successfully grown in southern Florida and coastal areas of southern California. The small plant adapts well to container and greenhouse culture and makes an interesting potted plant.  "
+    ], 
+    "Growth Habit:": [
+        "  The pineapple plant is a herbaceous perennial, 2-1/2 to 5 ft. high with a spread of 3 to 4 ft. It is essentially a short, stout stem with a rosette of waxy, straplike leaves.  "
+    ], 
+    "Foliage:": [
+        " The long-pointed leaves are 20 - 72 in. in length, usually needle tipped and generally bearing sharp, upcurved spines on the margins. They may be all green or variously striped with red, yellow or ivory down the middle or near the margins. As the stem continues to grow, it acquires at its apex a compact tuft of stiff, short leaves called the crown or top. Occasionally a plant may bear 2 or more heads instead of the normal one. "
+    ], 
+    "Flowers:": [
+        " At blooming time, the stem elongates and enlarges near the apex and puts forth an inflorescence of small purple or red flowers. The flowers are pollinated by humming-birds, and these flowers usually develop small, hard seeds. Seeds are generally not found in commercially grown pineapple.  "
+    ], 
+    "Fruit:": [
+        " The oval to cylindrical-shaped, compound fruit develops from many small fruits fused together. It is both juicy and fleshy with the stem serving as the fibrous core. The tough, waxy rind may be dark green, yellow, orange-yellow or reddish when the fruit is ripe. The flesh ranges from nearly white to yellow. In size the fruits are up to 12 in. long and weigh 1 to 10 pounds or more.  "
+    ], 
+    "Location:": [
+        " Pineapples should be planted where the temperature remains warmest, such as the south side of a home, or in a sunny portion of the garden. "
+    ], 
+    "Soil:": [
+        " The best soil for the pineapple is a friable, well-drained sandy loam with a high organic content. The pH should be within a range of 4.5 to 6.5. Soils that are not sufficiently acid can be treated with sulfur to achieve the desired level. The plant cannot stand waterlogging and if there is an impervious subsoil, drainage needs to be improved. "
+    ], 
+    "Irrigation:": [
+        " The plant is surprisingly drought tolerant, but adequate soil moisture is necessary for good fruit production.  "
+    ], 
+    "Fertilization:": [
+        " Nitrogen is essential to increase fruit size and total yield, which should be added every four months. Spraying with a urea solution is another way to supply nitrogen. Fruit weight has also been increased by the addition of magnesium. Of the minor elements, iron is the most important, particularly in high pH soils. Iron may be supplied by foliar sprays of ferrous sulfate.  "
+    ], 
+    "Frost Protection:": [
+        " Pineapple plants require a frost-free environment. They are small enough to be easily covered when frost threatens, but cold weather adversely affects the fruit quality. "
+    ], 
+    "Propagation:": [
+        " Pineapples are propagated by new vegetative growth.  There are four general types: slips that arise from the stalk below the fruit, suckers that originate at the axils or leaves, crowns that grow from the top of the fruits, and ratoons that come out from the under-ground portions of the stems. "
+    ], 
+    "Pests and diseases:": [
+        " Mealybugs spread by ants can be a problem. Controling the ants will control the mealybugs. In most commercial growing areas, nematodes, mites and beetles can also be damaging, but these have not been a problem in California. "
+    ], 
+    "Harvest:": [
+        " It is difficult to tell when the pineapple is ready to be harvested. Some people judge ripeness and quality by snapping a finger against the side of the fruit. A good, ripe fruit has a dull, solid sound.  Immaturity and poor quality are indicated by a hollow thud. The fruit should be stored at 45F or above, but should be stored for no longer than 4 - 6 weeks.  "
+    ], 
+    "Misc.:": [
+        " Fruiting can be forced when the plant is mature by using acetylene gas or a spray of calcium carbide solution (30 gms to 1 gal. water), which produces acetylene. Or calcium carbide (10 -12 grains) can be deposited in the crown of the plant to be dissolved by rain. A safer and more practical method for home growers is a foliar spray of a-naphthaleneacetic acid (1 gm in 10 gal water) or B-hydroxyethyl hydrazine. The latter is more effective. The plants usually produce for about four years, but they may last longer in California since the life cycle is slowed down by cooler weather. "
+    ], 
+    "Pernambuco": [
+        " (Eleuthera)"
+    ], 
+    "Smooth Cayenne": [
+        "5-6 lbs, pale yellow to yellow flesh. Cylindrical in shape and with high sugar and acid content. Well adapted to canning and processing. Leaves without spines. This is the variety from Hawaii, and the most easily obtainable in U. S. grocery stores. "
+    ]
+}

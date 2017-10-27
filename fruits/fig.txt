@@ -1,0 +1,92 @@
+{
+    "Common Names:": [
+        " Fig (English), Higo (Spanish), Figue (French), Feige (German), Fico (Italian). "
+    ], 
+    "Related Species:": [
+        " Cluster fig (Ficus racemosa), Sycomore Fig (Ficus sycomorus). "
+    ], 
+    "Distant Affinity:": [
+        " "
+    ], 
+    "Origin:": [
+        " The fig is believed to be indigenous to western Asia and to have been distributed by man throughout the Mediterranean area.  Remnants of figs have been found in excavations of sites traced to at least 5,000B.C. "
+    ], 
+    "Adaptation:": [
+        " The fig grows best and produces the best quality fruit in Mediterranean and dryer warm-temperate climates.  Rains during fruit development and ripening can cause the fruits to split. With extra care figs will also grow in wetter, cooler areas. Diseases limit utility in tropical climates. Fully dormant trees are hardy to 12 - 15F, but plants in active growth can be damaged at 30F.  Fig plants killed to the ground will often resprout from the roots. Only the hardiest cultivars should be attempted in areas such as the Willamette Valley, the Sierra Nevada and high desert.  However, all cultivars are suitable elsewhere in California. Chilling requirements for the fig are less than 300hours. In containers figs are eye-catching specimens inside or outdoors. It is best to choose a slow-growing cultivar. "
+    ], 
+    "Growth Habit:": [
+        " The fig is a picturesque deciduous tree, to 50ft tall, but more typically to a height of 10 - 30ft.   Their branches are muscular and twisting, spreading wider than they are tall.  Fig wood is weak and decays rapidly.  The trunk often bears large nodal tumors, where branches have been shed or removed.  The twigs are terete and pithy rather than woody.  The sap contains copious milky latex that is irritating to human skin.   Fig trees often grow as a multiple-branched shrub, especially where subjected to frequent frost damage. They may be espaliered, but only where roots may be restricted, as in containers.   "
+    ], 
+    "Foliage:": [
+        " Fig leaves are bright green, single, alternate and large (to 1ft length). They are more or less deeply lobed with 1 - 5sinuses, rough hairy on the upper surface and soft hairy on the underside.  In summer their foliage lends a beautiful tropical feeling.  "
+    ], 
+    "Flowers:": [
+        " The tiny flowers of the fig are out of sight, clustered inside the green \"fruits\", technically a synconium.  Pollinating insects gain access to the flowers through an opening at the apex of the synconium.  In the case of the common fig the flowers are all female and need no pollination.  There are 3other types, the caprifig which has male and female flowers requiring visits by a tiny wasp, Blastophaga grossorum; the Smyrna fig, needing cross-pollination by caprifigs in order to develop normally; and the San Pedro fig which is intermediate, its first crop independent like the common fig, its second crop dependent on pollination.  "
+    ], 
+    "Fruits:": [
+        " The common fig bears a first crop, called the breba crop, in the spring on last season's growth.  The second crop is borne in the fall on the new growth and is known as the main crop.  In cold climates the breba crop is often destroyed by spring frosts.  The matured \"fruit\" has a tough peel (pure green, green suffused with brown, brown or purple), often cracking upon ripeness, and exposing the pulp beneath.  The interior is a white inner rind containing a seed mass bound with jelly-like flesh. The edible seeds are numerous and generally hollow, unless pollinated. Pollinated seeds provide the characteristic nutty taste of dried figs. "
+    ], 
+    "Location:": [
+        " Figs require full sun all day to ripen palatable fruits. Trees become enormous, and will shade out anything growing beneath. Repeated pruning to control size causes loss of crop. The succulent trunk and branches are unusually sensitive to heat and sun damage, and should be whitewashed if particularly exposed. Roots are greedy, traveling far beyond the tree canopy.  Figs are not a fruit tree for small places.  The fine roots that invade garden beds, however, may be cut without loss to the tree. In areas with short (less than 120days between frosts), cool summers, espalier trees against a south-facing, light-colored wall to take advantage of the reflected heat.  In coastal climates, grow in the warmest location, against a sunny wall or in a heat trap.  For container grown plants, replace most of the soil in the tub every three years and keep the sides of the tub shaded to prevent overheating in sunlight. "
+    ], 
+    "Irrigation:": [
+        " Young fig tees should be watered regularly until fully established.  In dry western climates, water mature trees deeply at least every one or two weeks.  Desert gardeners may have to water more frequently.  Mulch the soil around the trees to  conserve moisture.  If a tree is not getting enough water, the leaves will turn yellow and drop.  Also, drought-stressed trees will not produce fruit and are more susceptible to nematode damage.  Recently planted trees are particularly susceptible to water deficits, often runt out, and die. "
+    ], 
+    "Pruning:": [
+        "  Fig trees are productive with or without heavy pruning. It is essential only during the initial years.  Trees should be trained according to use of fruit, such as a low crown for fresh-market figs. Since the crop is borne on terminals of previous year's wood, once the tree form is established, avoid heavy winter pruning, which causes loss of the following year's crop. It is better to prune immediately after the main crop is harvested, or with late-ripening cultivars, summer prune half the branches and  prune the remainder the following summer. If radical pruning is done, whitewash the entire tree. "
+    ], 
+    "Fertilization:": [
+        " Regular fertilizing of figs is usually necessary only for potted trees or when they are grown on sands.  Excess nitrogen encourages rank growth at the expense of fruit production, and the fruit that is produced often ripens improperly, if at all.  As a general rule, fertilize fig trees if the branches grew less than a foot the previous year.  Apply a total of 1/2 - 1pound of actual nitrogen, divided into three or four applications beginning in late winter or early spring and ending in July. "
+    ], 
+    "Frost Protection:": [
+        " In borderline climates, figs can be grown out of doors if they are given frost protection. Brown Turkey, Brunswick and Blue Celeste cultivars are some of the best choices.  Plant against a wall or structure which provides some heat by radiation. Or grow as a bush, pruning the trunk to near ground level at the end of the second year. Allow several stems to replace the trunk, and grow as you would a lilac. For further protection, erect a frame over the plant, covering and surrounding it with heavy carpet in winter. Keep the roots as dry as possible during winter,  raising a berm to exclude melting snows during thaws. In northern climates, the fig is best grown as a tub or pot plant that can be brought into a warm location in winter and taken out again in spring.  Dormant buds are more susceptible to freezing than wood.  Freezing may also create a trunk without live buds; regrowth is possible only from roots. "
+    ], 
+    "Propagation:": [
+        " Fig plants are usual propagated by cuttings.  Select foot-long pieces of dormant wood, less than 1inch diameter, with two-year-old wood at base.  One-year twigs with a heel of two-year branch at the base may also be used. Dip the cuttings in a rooting hormone and allow them to callus one week in a moist place at 50-60F. Summer cuttings may also be made, but they do best if defoliated and winterized in a refrigeration for 2-3weeks before potting.  Leafy shoots require a mist bed. Particularly rare cultivars may be propagated on rootstocks, or older trees, topworked by whip, cleft or crown grafting, or chip or patch budding.  Rooted cuttings should be planted in 22 to 30feet squares, depending upon the capacity of the soil and the ultimate size of the tree. Keep roots moist until planted. Never transplant or disturb a young tree while it is starting new growth in spring, as this is likely to to kill it.  Cut the tree back to 2ft high upon planting and whitewash the trunk. "
+    ], 
+    "Pests and Diseases:": [
+        " Fig tree roots are a favorite food of gophers, who can easily kill a large plant.  One passive method of control is to plant the tree in a large aviary wire basket.  Deer are not particularly attracted to figs, but birds can cause a lot of damage to the fruit. Nematodes, particularly in sandy soils, attack roots, forming galls and stunting the trees.  Mitadulid and Carpophilus dried fruit beetles can enter ripening fruit through the eye and cause damage by introducing fungi and rots.  They frequently breed in fallen citrus fruits. Keep a clean orchard by destroy fallen fruits and do not grow near citrus trees.  Euryphid mites cause little damage but are carriers of mosaic virus from infected to clean trees.  "
+    ], 
+    "Harvest:": [
+        " Figs must be allowed to ripen fully on the tree before they are picked.  They will not ripen if picked when immature.  A ripe fruit will be slightly soft and starting to bend at the neck.  Harvest the fruit gently to avoid bruising.  Fresh figs do not keep well and can be stored in the refrigerator for only 2 - 3days.  Some fig varieties are delicious when dried.  They take 4 - 5days to dry in the sun and 10 -12hours in a dehydrator.  Dried figs can be stored for six to eight months. "
+    ], 
+    "Commercial potential:": [
+        " Because of losses in transport and short shelf life, figs are a high-value fruits of limited demand.  The best outlet is direct sale at roadside or farmers markets, but do not permit handling of the fruit. Figs for shipping are collected daily just before they reach the fully ripe stage, but yield to a soft pressure, usually indicated by small cracks in the skin. They should be immediately refrigerated. For commerce, choose a cultivar that parts readily from the branch and does not tear the neck. "
+    ], 
+    "Adriatic": [
+        " (Fragola, Strawberry Fig, Verdone, White Adriatic)"
+    ], 
+    "Black Mission": [
+        " (Beers Black, Franciscan, Mission)"
+    ], 
+    "Blanche": [
+        " (Italian Honey fig, Lattarula, Lemon, White Marseille)"
+    ], 
+    " Brown Turkey": [
+        " (Aubique Noire, Negro Largo, San Piero"
+    ], 
+    "Celeste": [
+        " (Blue Celeste, Honey Fig, Malta, Sugar, Violette)"
+    ], 
+    "Croisic": [
+        " (Cordelia, Gillette, St. John)"
+    ], 
+    "Desert King": [
+        " (Charlie, King)"
+    ], 
+    "Kadota": [
+        " (Dottato, Florentine, White Kadota)"
+    ], 
+    "Osborn's Prolific": [
+        " (Arachipel, Neveralla)"
+    ], 
+    " Panachee": [
+        " (Striped Tiger, Tiger)"
+    ], 
+    "Genoa": [
+        " (White Genoa)"
+    ], 
+    "Verte": [
+        " (Green Ischia)"
+    ]
+}

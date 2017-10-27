@@ -1,0 +1,83 @@
+{
+    "Common Names:": [
+        " Mango, Mangot, Manga, Mangou. "
+    ], 
+    "Related species:": [
+        " Bindjai (Mangifera caesia), Horse Mango (M. foetida), Kuweni mango (M. odorata). "
+    ], 
+    "Distant affinity:": [
+        " Cashew (Anacardium occidentale), Gandaria (Bouea gandaria), Pistachio (Pistacia vera),  Marula (Sclerocarya birrea), Ambarella (Spondias cytherea), Yellow Mombin (Spondias mombin), Red Mombin (Spondias purpurea), Imbu (Spondias tuberosa). "
+    ], 
+    "Origin:": [
+        " The mango is native to southern Asia, especially Burma and eastern India. It spread early on to Malaya, eastern Asia and eastern Africa. Mangos were introduced to California (Santa Barbara) in 1880. "
+    ], 
+    "Forms:": [
+        " The mango exists in two races, one from India and the other from the Philippines and Southeast Asia. The Indian race is intolerant of humidity, has flushes of bright red new growth that are subject to mildew, and bears monoembryonic fruit of high color and regular form. The Philippine race tolerates excess moisture, has pale green or red new growth and resists mildew. Its polyembryonic fruit is pale green and elongated kidney-shaped. Philippines types from Mexico have proven to be the hardiest mangos in California. "
+    ], 
+    "Adaptation:": [
+        " Mangos basically require a frost-free climate. Flowers and small fruit can be killed if temperatures drop below 40F, even for a short period. Young trees may be seriously damaged if the temperature drops below 30F, but mature trees may withstand very short periods of temperatures as low as 25F. The mango must have warm, dry weather to set fruit. In southern California the best locations are in the foothills, away from immediate marine influence. It is worth a trial in the warmest cove locations in the California Central Valley, but is more speculative in the coastal counties north of Santa Barbara, where only the most cold adapted varieties are likely to succeed. Mangos luxuriate in summer heat and resent cool summer fog. Wet, humid weather favors anthracnose and poor fruit set. Dwarf cultivars are suitable for culture in large containers or in a greenhouse. "
+    ], 
+    "Growth Habit:": [
+        " Mango trees make handsome landscape specimens and shade trees. They are erect and fast growing with sufficient heat, and the canopy can be broad and rounded, or more upright, with a relatively slender crown. It is ultimately a large tree, to 65ft., but usually half that size in California. The tree is long-lived with some specimens known to be over 300years old and still fruiting. In deep soil the taproot descends to a depth of 20ft, and the profuse, wide-spreading feeder roots also send down many anchor roots which penetrate for several feet.  "
+    ], 
+    "Foliage:": [
+        " The leaves are dark green above and pale below, usually red while young.  The midrib is pale and conspicuous and the many horizontal veins distinct. Full-grown leaves may be 4 to 12-1/2in. long and 3/4 to 2in. wide, and are generally borne in clusters separated by a length of naked stem bearing no buds. These naked stems mark successive flushes of growth. Each flush of growth will harden off to a rich green color before the next flush of growth begins. "
+    ], 
+    "Flowers:": [
+        "  The yellowish or reddish flowers are borne in inflorescences which appear at branch terminals, in dense panicles of up to 2000minute flowers. These flowers respire a volatile substance, causing allergic and respiratory problems for some persons. Pollinators are flies, hoverflies, rarely bees. Few of the flowers in each inflorescence are perfect, so most do not produce pollen and are incapable of producing fruit. Pollen cannot be shed in high humidity or rain. Fertilization is also ineffective when night temperatures are below 55F.  Mangos are monoecious and self-fertile, so a single tree will produce fruit without cross pollination.  Polyembryonic types may not require pollination at all. Branches may be ringed to induce flowering, but the results are mixed. "
+    ], 
+    "Fruits:": [
+        " The fruits grow at the end of a long, stringlike stem (the former panicle), with sometimes two or more fruits to a stem. The fruits are 2 to 9inches long and may be kidney shaped, ovate or (rarely) round. They range in size from 8ounces to around 24ounces. The flower scar at the apex is prominent, in some cultivars bulging from the fruit. The leathery skin is waxy and smooth, and when ripe entirely pale green or yellow marked with red, according to cultivar. It is inedible and contains a sap that is irritating to some people. The quality of the fruit is based on the scarcity of fiber and minimal turpentine taste. "
+    ], 
+    "Location:": [
+        "  The mango grows to a good size and casts a dense shade, but the roots are not destructive. It requires full sun and perfect air drainage in winter. It does best at the top or middle level of a slope.  A windbreak should be provided in exposed areas. The trees may also need staking. In the desert it needs the shade of other trees; or plant on the north side of the house. In the garden or near the coast, plant against a south wall, or in an area surrounded by paving, to provide maximum heat. In the greenhouse, full light and free air movement are important to avoid disease. "
+    ], 
+    "Soil:": [
+        " Mangos will grow in almost any well-drained soil whether sandy, loam or clay, but avoid heavy, wet soils. A pH between 5.5 and 7.5 is preferred. They are somewhat tolerant of alkalinity. For good growth, mangos needs a deep soil to accommodate their extensive root systems. "
+    ], 
+    "Irrigation:": [
+        " Irrigation should start when the weather warms: February in the desert, April at the coast. Continue every one to two weeks, more often in light soils, nearly continuously in the desert, until the fruit is harvested. Irrigation may be discontinued when rains are sufficient to maintain soil moisture. In the greenhouse keep watered until the fruit is harvested, then reduce to the minimum required to avoid wilting. Watering is then increased after one to two months to initiate a new bloom and growth cycle.  "
+    ], 
+    "Fertilization:": [
+        " Mango trees require regular applications of nitrogen fertilizer to promote healthy growth flushes and flower production. Chelated micronutrients, especially iron, are also often necessary. A feeding program similar to one used for citrus is satisfactory, but do not fertilize after midsummer.  Organic fertilizers perform best, since the trees are subject to fertilizer burn. Young trees are particularly sensitive to over-fertilizing, but respond well to fish emulsion.  Sandy soils require more fertilizer than loam or clay. "
+    ], 
+    "Pruning:": [
+        " Healthy trees require little pruning, although pruning to stimulate new growth promotes uniform annual bearing. Removing some flower clusters during a heavy bloom year may also alleviate alternate bearing.  Mangos may be pruned to control size in late winter or early spring without a loss of fruit.  Sap and debris can cause severe dermatitis, similar to poison oak. It is best to avoid burning prunings or litter. "
+    ], 
+    "Frost Protection:": [
+        " During the first two years, the trees should be given some protection such as an overhead cover during any frost threat. Once the tree is 3 to 4feet high, overhead protection is difficult but still worthwhile, especially if an unusual cold snap is predicted. Frost damage can also be avoided by erecting an overhead lath shelter, orchard heating, placing lights under the canopy, or using foam or straw trunk wraps. Do not prune dead parts until all frost danger is past. "
+    ], 
+    "Propagation:": [
+        " "
+    ], 
+    "Pests and Diseases:": [
+        " Scale, mealybugs and mites are frequent pests in the greenhouse and orchard. In the greenhouse, thrips often turn leaves rusty brown. Malathion is the conventional spray for insect pests; sulfur works on mites. Gophers are attracted to the roots. The flower panicles, young fruit and leaves are subject to powdery mildew (Oidium mangiferae), especially in rainy weather or frequent fog. A spray of powdered kelp at bud break will often control it. Sodium bicarbonate and fungicide sprays are also effective. Trees planted in pavement openings seldom develop mildew. "
+    ], 
+    "Fruit Harvest:": [
+        " Mango fruit matures in 100 to 150days after flowering. The fruit will have the best flavor if allowed to ripen on the tree, although winter-maturing fruits must be ripened indoors in coastal California. Ripening fruit turns the characteristic color of the variety and begins to soften to the touch, much like a peach. Commercial marketability requires 13% dissolved solids (sugars). When the first fruit shows color on tree, all of that size fruit or larger may be removed; repeat when remaining fruit colors. Do not store below 50F.The fruit ripens best if placed stem end down in trays at room temperature and covered with a dampened cloth to avoid shriveling. Mangos ripen in June from January bloom in interior California, and October from April bloom on the coast. Less time is required to mature greenhouse fruit. "
+    ], 
+    "Commercial potential:": [
+        " The mango is the apple (or peach) of the tropics, and one of the most commonly eaten fruits in tropical countries around the world. The fruit is grown commercially on a small scale in Florida. In California a large planting in the Coachella Valley has now reached production stage. The quality of the fruit is generally comparable to Florida mangos, but has other advantages., i.e. the lack of fruit fly and seed weevil populations. Mexico, and to a lesser extent Central America, is a major supplier to U.S. markets today. "
+    ], 
+    "Cooper": [
+        " (syn. Cooper No. 1 or 3)"
+    ], 
+    "Kensington Pride": [
+        " (syns. Pride of Bowen, Bowen Special)"
+    ], 
+    "Pia": [
+        " (syn. Pineapple)"
+    ], 
+    "Pirie": [
+        " (syn. Paheri)"
+    ], 
+    "Thomson": [
+        " (syn. Thomson Large Seedling)"
+    ], 
+    "Winters": [
+        " (syn, M20222, Southland)"
+    ], 
+    "Zill": [
+        " Origin Lake Worth, 1930. Seedling of Haden. Tree very spreading, open. Fruit small, 8-12oz., almost round, apex oblique, yellow with blush, little fiber. Ripens early. For greenhouse. "
+    ]
+}

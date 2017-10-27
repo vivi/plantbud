@@ -1,0 +1,62 @@
+{
+    "Common Names:": [
+        " Cape Gooseberry, Goldenberry, Husk Cherry, Peruvian Ground Cherry, Poha, Poha Berry. "
+    ], 
+    "Relates Species:": [
+        " Clammy Ground Cherry (Physalis heterophylla), Tomatillo (P. ixocarpa), Purple Ground Cherry (P. philadelphica),  Strawberry Tomato (P. pruinosa), Ground Cherry, Husk Tomato (P. pubescens), Sticky Ground Cherry (P. viscosa). There is considerable confusion in the literature concerning the various species. Hybrids between them are also known. "
+    ], 
+    "Distant Affinity:": [
+        " Tomato (Lycopersicon lycopsersicum),  Wonderberry (Solanum X burbankii), Naranjilla (S. quitoense),  Garden Huckleberry (S. scabrum) and others. "
+    ], 
+    "Origin:": [
+        " The cape gooseberry is native to Brazil but long ago became naturalized in the highlands of Peru and Chile and became identified with the region. It was being grown in England in 1774 and was cultivated by early settlers at the Cape of Good Hope before 1807. Soon after introduction to the Cape the plant was carried to Australia where it quickly spread into the wild. Seeds were taken to Hawaii before 1825 and the plant is naturalized on all the islands at medium and somewhat higher altitudes. Only in fairly recent times has the fruit received any attention in the continental U.S. "
+    ], 
+    "Adaptation:": [
+        "  The cape gooseberry is an annual in at temperate regions and a perennial in the tropics. In the Andean regions of South America it grows wild between 2,500 and 10,000ft. The wild range in Hawaii is 1,000 to  8,000ft. The plants are frost tender and are killed at temperatures of  about 30F. In much of California the cape gooseberry is best grown as an annual, but will persist for several years in frost-free areas of southern California. Some California growers have grown seedling materials under glass during the fall and winter and set out in early spring to gain the advantage of the longest possible growing season.The plants are easily grown in pots and adapt well to greenhouse culture.  "
+    ], 
+    "Growth Habit:": [
+        " The cape gooseberries is a soft-wooded, perennial, somewhat vining plant usually reaching 2 to 3ft. in height. Under good conditions it can reach 6ft. but will need support. The purplish, spreading branches are ribbed and covered with fine hairs.   "
+    ], 
+    "Foliage:": [
+        " The heart-shaped, nearly opposite leaves are 2-1/2 to 6inches long. They are slightly velvety when compared with the narrower and smoother leaves of the tomatillo. "
+    ], 
+    "Flowers:": [
+        " Bell-shaped, nodding flowers form in the leaf axils. They are yellow in color with dark purple-brown spots in the throat, and cupped by a purplish-green, hairy calyx. Fruit buds are produced after 12 to 13stem internodes are formed. "
+    ], 
+    "Fruit:": [
+        " After the flower falls, the calyx expands, forming a straw-colored husk much larger than the fruit enclosed, which take 70 to 80days to mature. The fruit is a berry with smooth, waxy, orange-yellow skin and juicy pulp containing numerous very small yellowish seeds. As the fruits ripen, they begin to drop to the ground, but will continue to mature and change from green to the golden-yellow of the mature fruit. The unripe fruit is said to be poisonous to some people. Cape gooseberries are self-pollinated but pollination is enhanced by a gentle shaking of the flowering stems or giving the plants a light spraying with water.  "
+    ], 
+    "Location:": [
+        " The plant likes a sunny, frost-free location, sheltered from strong winds. It does well planted next to a south-facing wall or in a patio. "
+    ], 
+    "Soil:": [
+        "  The cape gooseberry will grow in any well drained soil but does best on sandy to gravelly loam. Very good crops are obtained on rather poor sandy ground. "
+    ], 
+    "Irrigation:": [
+        " The plant needs consistent watering to set a good fruit crop, but can't take \"wet feet\". Where drainage is a problem, the plantings should be on a gentle slope or the rows should be mounded. Irrigation can be cut back when the fruits are maturing. The plants become dormant during drought. "
+    ], 
+    "Fertilization:": [
+        " The cape gooseberry seems to thrive on neglect. Even moderate fertilizer tends to encourage excessive vegetative growth and to depress flowering. High yields are attained with little or no fertilizer. "
+    ], 
+    "Pruning:": [
+        " Very little pruning is needed unless the plant is being trained to a trellis. Pinching back of the growing shoots will induce more compact and shorter plants. "
+    ], 
+    "Frost Protection:": [
+        "  In areas where frost may be a problem, providing the plant with some overhead protection or planting them next to a wall or a building may be sufficient protection. Individual plants are small enough to be fairly easily covered during cold snaps by placing plastic sheeting, etc. over a frame around them.  Plastic row covers will also provide some frost protection for larger plantings. Potted specimens can be moved to a frost-secure area. "
+    ], 
+    "Propagation:": [
+        " The plant is widely grown from seed. There are 5,000 to  8,000seeds per ounce, which are sometimes mixed with pulverized soil or  ashes for uniform sowing. High humidity is required for good germination. The plants can also be propagated from 1yearold stem cuttings treated with a rooting hormone. Plants grown this way flower early and yield well but are less vigorous than seedlings. "
+    ], 
+    "Pest and Diseases:": [
+        "  Cape gooseberries are bothered by several diseases, including Alternaria spp. and powdery mildew. The plants are also prone to root rots and viruses when grown on poorly drained soil. A host of insect pests also attack the plants, namely cut worm, stem borer (Heliotis suflixa), leaf borer (Epiatrix spp.), fruit moth (Phthorimaea), Colorado potato beetle, flea beetle and striped cucumber beetle (Acalymma vittata). Greenhouse grown plants are attacked by white fly and aphids. The stored fruit can be adversely affected by Penicillium and Botrytis molds. "
+    ], 
+    "Harvest:": [
+        " The fruit is harvested when it falls to the ground, but not all fallen fruits may be in the same stage of maturity and must be held until they ripen. It may take some experience to tell when the calyx-enclosed fruits are fully ripe. Properly matured and prepared fruits will keep for several months. "
+    ], 
+    "Commercial Potential:": [
+        " The cape gooseberry is a useful small crop for the home garden, but tends to be labor-intensive in commercial plantings. The fruit is much less well known in this country than it is in Europe and other countries. The cape gooseberry has been grown occasionally in California but generally only on a small scale. Frost, prolonged cool weather and attacks of pests and root-rot organisms have discouraged extensive or repeated plantings on any large scale. California markets have been supplied by local growers from time to time, but importations from Mexico and elsewhere have proved to be more economical sources of supply.  "
+    ], 
+    "Golden Berry, Long Aston": [
+        " Original Long Ashton selection of Golden Berry. Rich golden fruit, said to be superior to other types. "
+    ]
+}

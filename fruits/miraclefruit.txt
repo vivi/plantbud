@@ -1,0 +1,50 @@
+{
+    "Common Names:": [
+        "  Miracle Fruit, Miracle Berry "
+    ], 
+    "Origin:": [
+        "  Tropical west Africa. "
+    ], 
+    "Adaptation:": [
+        " Coming from hot, wet tropical lowlands, the plant is intolerant of frost and should be considered a container plant except in southern Florida and Hawaii.  Older plants can survive a light frost but it is best to avoid it if possible.  Miracle fruit is a marvelous conversation plant that does well in a container.  Outdoors it is said to do best in partial shade. "
+    ], 
+    "Growth Habit:": [
+        "  Miracle fruit is an evergreen bush or tree growing to 18ft. in its native habitat, but rarely to 5ft. otherwise.    "
+    ], 
+    "Foliage:": [
+        "  The plant has deep green, elongated leaves which grow in a spire-like habit.  Both regular and large-leaf and a hairy-leaf form are known. "
+    ], 
+    "Flowers:": [
+        "  The small 1/4inch white flowers of miracle fruit are produced in flushes through many months of the year. "
+    ], 
+    "Fruit:": [
+        "  The fruit is a small bright red, ellipsoid berry approximately 2 to 3cm long and containing a single seed.  Although not sweet itself, when a single fruit is eaten and the fleshy pulp allowed to coat the taste buds of the tongue and inside of the mouth, an extraordinary effect occurs.  The fruit will now allow one to eat a slice of lemon or lime without wincing.  The marvelous aroma and inherent sweetness of the citrus remains but the sourness is almost completely covered.  The effect remains for some  30minutes or more. "
+    ], 
+    "Location:": [
+        " As an indoor plant, provide the plant with bright light such as a well lit window.  In the summer the plant can be moved with care to a warm, lightly shaded spot. "
+    ], 
+    "Soils:": [
+        "  An acid soil is a must for miracle fruit.  They prefer a soil  acidity of pH4.5 to 5.8.  This can be achieved by planting in equal parts  Canadian acid peat and pine bark.  Also peat and perlite mixes are said to  give excellent result.  In the basic soils of California, the plants  slowly die back until virtually only the stems remain.  Allow the roots of the plant to fill the container before transplanting into a larger one. "
+    ], 
+    "Irrigation:": [
+        "  Be sure that the soil is well draining as the plants do not like to sit in wet soils.  Coming from a tropical climate they need highly humid conditions.  When indoors, especially during the winter  months, a small clear plastic bag put around the plant and supported by wood or a wire frame is helpful in maintaining humidity.  Also, placing the  plant container on a tray with stones on the bottom and filled with water  to the top of the stones will add humidity to the local area.  Misting the  leaves with good water also helps. "
+    ], 
+    "Fertilization:": [
+        "  Use a water soluble fertilizer such as Miracid and follow  the label directions.  Use sparingly with frequency dependent on the growing season, fertilizing more frequently during the summer months "
+    ], 
+    "Pruning:": [
+        "  In general, there is no need to prune the miracle fruit plant. "
+    ], 
+    "Propagation:": [
+        "  Propagation of miracle fruit is usually either by seed or cuttings.  As the seed viability is short, plant the cleaned seed immediately just below the soil line   When shipping cleaned seed for others to plant, package in a small plastic bag and enclose a slightly moistened toweling. Seed that are allowed to dry can be shipped for at least two weeks but rapidly loose their viability. "
+    ], 
+    "Pests and diseases:": [
+        "  Watch for mealybugs, spider mites and other indoor potted plant pests.  Waterlogged plant will succumb to root rot. "
+    ], 
+    "Commercial Potential:": [
+        "  The plant is not important as a food crop.  Attempts to exploit the striking effect on perception of sour flavors in development of artificial sweeteners have not been successful but are continuing.   "
+    ], 
+    "Hirsutus:": [
+        "  A  form with hairy leaves introduced into Florida from Africa some years ago.  Small, oval, red fruits; larger than those of the common smooth-leaf type. "
+    ]
+}

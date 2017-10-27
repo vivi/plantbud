@@ -1,0 +1,56 @@
+{
+    "Common Names:": [
+        " Muscadine, Bullace, Scuppernong, Southern Fox Grape.  "
+    ], 
+    "Related Species:": [
+        " Summer grape (Vitis aestivalis), California Grape  (V.californica), American Grape, Fox Grape (V.labrusca),  River Bank Grape (V.riparia), Sand Grape (V.rupestris),  European Grape (V.vinifera). "
+    ], 
+    "Origin:": [
+        " The muscadine grape is native to the southeastern United States, found in the wild from Delaware to the Gulf of Mexico and westward to Missouri, Kansas, Oklahoma, and Texas. Many older varieties were selections from the wild, but the Georgia Agricultural Experiment Station and the U.S. Dept. of Agriculture have introduced a number of improved varieties that have become standard cultivars. The earliest named variety was Scuppernong, found growing wild in northeastern North Caroline in 1810 by Dr. Calvin Jones. Scuppernong has become another name for all muscadine grapes. Commercial production of muscadine grapes is essentially limited to the U.S. Southeast.  "
+    ], 
+    "Adaptation:": [
+        " Muscadines are well adapted to the warm, humid conditions of the southeastern U.S., where the American and the European grape do not prosper. Its lack of frost hardiness also limits it to this same region, except for some West Coast locations. The plant may be injured by minimum winter temperatures of 0F, and should not be grown in regions where temperatures frequently go below 10F. Muscadines can be grown in California and adjacent areas, but are not as well adapted as other cultivated grapes. In coastal areas of the West the lack of sufficient summer heat produces berries that tend to be small and generally lacking in sugar. The vines also do not fare well in the low humidity of many interior sections. On the other hand muscadines perform satisfactorily in the warmer grape growing regions of California, Oregon and Washington.  "
+    ], 
+    "Growth Habits:": [
+        " Muscadines are vigorous, deciduous vines growing 60-100 ft. in the wild. Botanically, they differ in significant ways from other grapes and are placed in a separate sub-genus, Muscadinia. In contrast to most other grapes, muscadines have a tight, non-shedding bark, warty shoots and unbranched tendrils. "
+    ], 
+    "Foliage:": [
+        " The slightly lobed, 2-1/2 to 5inch leaves are rounded to broadly ovate with coarsely serrate edges and an acuminate point. Dark green above and green tinged yellow beneath, the leaves are glossy on both sides, becoming firm and subglabrous at maturity. "
+    ], 
+    "Flowers:": [
+        " Muscadines are dioecious, with male and female flowers on different plants. The small, greenish flowers are borne in short, dense panicles. It appears that both wind and insects play a role in the pollination of the female flowers. Breeding and selection have produced self-fertile varieties with near-perfect flowers, which also serve as a pollen sources for the female plants. For best results a perfect-flowered vine should be within 25ft. of female vines, or every third vine when planted in a mixed single row. Muscadines do not readily hybridize with other grape species. "
+    ], 
+    "Fruit:": [
+        " The fruit is borne in small, loose clusters of 3-40 grapes, quite unlike the large, tight bunches characteristic of European and American grapes. The round, 1 to 1-1/2 inch fruits have a thick, tough skin and contain up to 5 hard, oblong seeds. In color the fruits range from greenish bronze through bronze, pinkish red, purple and almost black. Sugar content varies from about 16% to 25% for the sweetest cultivars. The wild fruits and some older cultivars have a musky quality similar to American grapes, although not as pronounced. Modern cultivars have a unique fruity flavor with very little muskiness. The flavor and appearance of the dark colored muscadine fruits are remarkably similar to the jaboticaba.  "
+    ], 
+    "Location:": [
+        " As with all grapes, muscadines need full sun with good air drainage. If hardiness is questionable, they can be planted against a south-facing wall. "
+    ], 
+    "Soil:": [
+        " Muscadine grapes grow well on a wide range of soils but best results are obtained from well-drained sandy loams with a pH of 5.5 to 6.5. They will not tolerate low, wet ground. High pH can be corrected by adding sulfur and thoroughly working it into the soil. The vines are shallow rooted with most of their feeder roots in the top 12in. of soil. "
+    ], 
+    "Irrigation:": [
+        " Regions with 30inches of annual rainfall usually get enough rain to sustain the plants, unless summer dry spells stretch out past 60 days. In areas with less than that total, supplemental watering may be required. Drip irrigation is economical and satisfactory. In regions of dry summers, young vines may need watering during their first 2 or 4 growing seasons to help establish root systems.  "
+    ], 
+    "Fertilizing:": [
+        " Nitrogenous fertilizers or complete fertilizers high in nitrogen are recommended. In the first year apply 1/2lb. of 10-10-10NPK after planting and then 1/8lb. of ammonium nitrate in late May and again in early June. Spread the fertilizer in two parallel bands 12 to 14inches from the trunk. Repeat in the second year, doubling the amounts and lengthening the bands to 48inches. Thereafter, apply 2 to 4pounds of the complete fertilizer each March and 1/2pound of ammonium nitrate each June in a 6foot long band beginning 1foot from the tree. "
+    ], 
+    "Pruning:": [
+        " Annual pruning must be severe to keep new fruiting wood coming and to prevent vines from becoming tangled masses of unproductive wood. The basic framework of a vine consists of the trunk, permanent arms, and the fruiting spurs. Vines must be pruned each dormant season to maintain this framework. Current season shoots bear the fruit, but to be productive, these shoots must arise from buds set on last season's growth, since shoots from older wood are generally sterile. It is important to leave the correct amount of fruiting wood.  "
+    ], 
+    "Propagation:": [
+        " Muscadines are commonly propagated by layering, as cuttings root with difficulty. The layering may be done at any time, but is commonly done in midsummer. Canes of the current season's growth are bent down and covered with earth, the tips being left uncovered. By fall the cane will be developed roots and is severed from the parent. Seedling plants can also be grafted to desirable cultivars. Bench grafting is the method commonly used. Muscadine rootstock is not suitable for American and European grapes because of compatibility problems. "
+    ], 
+    "Pests and Diseases:": [
+        " Muscadine grapes are much less bothered by diseases than American and European grapes. They are essentially immune to phylloxera, nematodes and Pierce's disease. In its native region several fungal diseases afflict the plant, including bitter rot (Melanoconium fuligineum) and powdery mildew (Uncinula necator) which attack the fruit, angular leaf spot (Mycosphaerella angulata) which affects the leaves and and black rot (Guignardia bidwellii) which attacks leaves, flower clusters and fruit. In the West only mildew is likely to be a problem. Leaf hoppers, aphids and flea beetles are occasional insect pests. As with all grapes, birds can also be a problem. "
+    ], 
+    "Harvest:": [
+        " In most cultivars the grapes in a given cluster ripen at different times and must be individually picked. The fruit also tends to fall when ripe. This tendency to drop can be used to harvest the ripe berries by spreading a tarpaulin or such on the ground and giving the vine a hard shake. Muscadine grapes start ripening mid September to late October. A mature vine can yield 20lbs. or more of fruit. The grapes keep well, particularly when lightly refrigerated "
+    ], 
+    "Sweet Jenny": [
+        "Very large fruit, up to 1-1/2 inch in diameter, skin bronze. Quality very good. Sugar content 24%. Ripens early to midseason. Vine vigorous, very productive. Disease resistant. Clusters large. "
+    ], 
+    "Sterling": [
+        "Large fruit, skin yellow bronze. Quality good, similar to Scuppernong. Ripens late midseason. Vine moderately vigorous, productive. Disease resistance good. Clusters medium. "
+    ]
+}

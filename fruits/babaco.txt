@@ -1,0 +1,59 @@
+{
+    "Common Names:": [
+        "Babaco, Mountain Papaya. "
+    ], 
+    "Related Species:": [
+        " Papayuelo (Carica goudotiana) Orange Papaya (C. monoica), Papaya (C. papaya), Toronchi (C. pubescens), Chamburro (C. stipulata). Hybrids of Babaco and other Carica spp. also exist. "
+    ], 
+    "Distant Affinity:": [
+        "  Papaya Orejona (Jacartia mexicana), Mamao (J. spinosa). "
+    ], 
+    "Origin:": [
+        " The babaco is presumed to have originated in the central south highlands of Ecuador and is believed to be a naturally occurring hybrid of Carica stipulata and C. pubescens. It has been cultivated in Ecuador since before the arrival of Europeans. In more recent times the babaco was introduced into New Zealand where it is grown commercially. In Israel and other parts of the Middle Eastern the plant is also being grown commercially in greenhouses. Steve Spangler is credited with introducing the babaco to southern California in the 1970's. "
+    ], 
+    "Adaptation:": [
+        " The babaco thrives in a cool subtropical climate, free of frost. In California it grows in coastal areas of the southern part of the state and with some protection as far north as the San Francisco Bay area. With some shade it will grow in the warmer interior regions, but high temperatues and low humidity may result in sunburned fruit and immature fruit drop. The babaco is much more tolerant of cool, damp winters than the papaya. It will withstand temperatures to about 28F, although it may lose most of its leaves. The babaco is ideally suited to container culture and also excellent for greenhouses. "
+    ], 
+    "Growth Habits:": [
+        " The babaco is a small, herbaceous shrub, that grows to about  6feet in height, with an erect softwood trunk lined with leaf scars typical of other caricas. The plant rarely branches but shoots often appear around the base. The thickness of the trunk is associated with the vigor of the plant. "
+    ], 
+    "Foliage:": [
+        " The moderately large, palmate leaves have prominent ribs and veins and are on long hollow petioles that radiate from the trunk. The average life of a leaf is 4 to 6months. During the cold winter months the leaves degenerate and are gradually shed. "
+    ], 
+    "Flowers:": [
+        " Flowers form on the newly developing trunk during the growth phase of the tree. Usually the thicker the trunk, the more prolific the flowering will be. The flowers, usually solitary on the end of a long pendulous stalk, arise from every leaf axil. The flowers are all female. "
+    ], 
+    "Fruit:": [
+        " Babaco fruits set parthenocarpically, as there are no seeds present in the fruit. The young fruits set and grow immediately after flowering, reaching a maximum expansion phase during October-November. At this point the fruits reach a length of about 12inches long and 8inches wide. They are distinctly five-sided, rounded at the stem end and pointed at the apex. The onset of maturity is recognized by the yellowing of the fruit, first in patches on the sides of the fruit and gradually extending over the total area of the fruit during the following weeks. Fruits ripen in progression from the lower fruits, usually the heaviest, to those higher up the trunk. The flesh of the babaco is very juicy, slightly acidic and low in sugar. The unique flavor has been described as having overtones of strawberry, pineapple and papaya. The smooth, thin skin is also edible. "
+    ], 
+    "Location:": [
+        " Babacos like a warm location protected from winds. They will grow and fruit in shady locations but prefer a sunny spot. The smallish plants fit nicely in many parts of the yard, and with their broad green leaves and vertically held fruit add an exotic touch to the landscape. "
+    ], 
+    "Soils:": [
+        " Babacos prefer a light, fertile, well-drained soil. Although not as fussy about cold, wet soils as the papaya, the plants perform best in moderately dry winter conditions. Like papayas, the babaco does not tolerate salty water or soil. "
+    ], 
+    "Irrigation:": [
+        " Adequate rainfall or irrigation is essential during the growing phase of the babaco. A plant that has been injured by frost is susceptible to root rot. "
+    ], 
+    "Fertilization:": [
+        " During the growing season the babaco needs regular applications of nitrogen fertilizers. Feed monthly and adjust to the plant's response. Composted chicken manure makes a good mulch. "
+    ], 
+    "Pruning:": [
+        " To obtain maximum quality and size of fruit only one trunk should be allowed to grow. Shoots that form around the base of the plant should be removed, although a second shoot is allowed to develop from about September. At this time of the year the shoot will grow rapidly, but will not initiate flower buds. To control the height of the tree it is not recommended to crop one trunk for more than one or two years. The trunk that bore the current season fruits is cut back to the stump, to the point where the second shoot was left the year before. This second shoot will now become the new plant. "
+    ], 
+    "Frost Protection:": [
+        " Babacos prefer frost-free conditions, but the smallish plants can easily be tucked into protected areas such as next to a building under the eaves or a favorable spot in the patio. Otherwise they can be protected by plastic sheeting, etc. draped over a frame around the plants. Potted specimens can be moved to a frost-secure area.  "
+    ], 
+    "Propagation:": [
+        " Since babacos are seedless, they must be propagated asexually. Wood for propagation is taken from the parent plant by cutting the entire trunk diagonally about 1foot from the ground (or back to the second shoot), and making 1 foot cutting lengths from it. This should be done after fruiting but before the next flush of growth. The cuttings are then dipped in a fungicide bath and the rooting end dipped in a rooting hormone. The cuttings are then set vertically in a low-moisture medium such as sand or sandy loam to form callouses. With the first sign of roots and the beginnings of new leaves, they can be planted out, about 8inches below ground level. Within 15months these new plants are producing fruit. "
+    ], 
+    "Pests and diseases:": [
+        " It is important to start with virus-free material. During moist spells fungal diseases can affect the leaves, but this is seldom a problem in California. Other diseases include powdery mildew and Phytophthora root rot. The major pests affecting the babaco are the two spotted mite, Tetranychus uraticae and the strawberry mite, Tetranychus atlanticus. Control can be difficult since most miticides are phytotoxic to babaco leaves. Predatory mites do give reasonable control. Slugs and the California brown snail can damage the fruit and must be controlled. The plants are attractive to deer who will consume most of the foliage and young fruits. "
+    ], 
+    "Harvest:": [
+        " Commercially grown babaco fruit is picked at the first sign of yellow coloration. Fruit picked at this stage will ripen fully off the plant. In home plantings the fruit can be left on until almost fully yellow but may sometimes fall and bruise. To harvest, the fruit stalk can be snipped off with a clipper, or the fruit can be removed by lifting the fruit and then pulling away it from the stalk. Ripe fruit takes careful handling. "
+    ], 
+    "Commercial Potential:": [
+        " The babaco is grown commercially in Ecuador and as an export fruit in New Zealand. There is limited production in southern California where is is sometimes found in Farmers's Markets and specialty markets. The fruit has several factors in its favor and with adequate promotion could find a wider marketing niche. The fruit is attractive when sold in a yellow ripe stage, and stores well even after it has been cut. In addition the plants are highly productive and not culturally demanding. Prunings are used for cuttings which become producing plants within a year. The compactness and productivity of the babaco plants makes it a good candidate for greenhouse production.  "
+    ]
+}

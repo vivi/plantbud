@@ -1,0 +1,59 @@
+{
+    "Common Names:": [
+        " Pomegranate, Granada (Spanish), Grenade (French). "
+    ], 
+    "Related Species:": [
+        " Punica proto-punica. "
+    ], 
+    "Origin:": [
+        " The pomegranate is native from Iran to the Himalayas in northern India and was cultivated and naturalized over the whole Mediterranean region since ancient times. It is widely cultivated throughout India and the drier parts of southeast Asia, Malaya, the East Indies and tropical Africa. The tree was introduced into California by Spanish settlers in 1769. In this country it is grown for its fruits mainly in the drier parts of California and Arizona.  "
+    ], 
+    "Adaptation:": [
+        " Pomegranates prefer a semi-arid mild-temperate to subtropical climate and are naturally adapted to regions with cool winters and hot summers. A humid climate adversely affects the formation of fruit. The tree can be severely injured by temperatures below 12F. In the U. S. pomegranates can be grown outside as far north as southern Utah and Washington, D.C. but seldom set fruit in these areas. The tree adapts well to container culture and will sometimes fruit in a greenhouse.  "
+    ], 
+    "Growth Habits:": [
+        " The pomegranate is a neat, rounded shrub or small tree that can grow to 20 or 30ft., but more typically to 12 to 16ft. in height. Dwarf varieties are also known. It is usually deciduous, but in certain areas the leaves will persist on the tree. The trunk is covered by a red-brown bark which later becomes gray. The branches are stiff, angular and often spiny. There is a strong tendency to sucker from the base. Pomegranates are also long-lived. There are specimens in Europe that are known to be over 200 years of age. The vigor of a pomegranate declines after about 15 years, however. "
+    ], 
+    "Foliage:": [
+        " The pomegranate has glossy, leathery leaves that are narrow and lance-shaped. "
+    ], 
+    "Flowers:": [
+        " The attractive scarlet, white or variegated flowers are over an inch across and have 5 to 8 crumpled petals and a red, fleshy, tubular calyx which persists on the fruit. The flowers may be solitary or grouped in twos and threes at the ends of the branches. The pomegranate is self-pollinated as well as cross-pollinated by insects. Cross-pollination increases the fruit set. Wind pollination is insignificant. "
+    ], 
+    "Fruit:": [
+        " The nearly round, 2-1/2 to 5in. wide fruit is crowned at the base by the prominent calyx. The tough, leathery skin or rind is typically yellow overlaid with light or deep pink or rich red. The interior is separated by membranous walls and white, spongy, bitter tissue into compartments packed with sacs filled with sweetly acid, juicy, red, pink or whitish pulp or aril. In each sac there is one angular, soft or hard seed.  High temperatures are essential during the fruiting period to get the best flavor. The pomegranate may begin to bear in 1year after planting out, but 2-1/2 to 3years is more common. Under suitable conditions the fruit should mature some 5 to 7months after bloom.   "
+    ], 
+    "Location:": [
+        " Pomegranates should be placed in the sunniest, warmest part of the yard or orchard for the best fruit, although they will grow and flower in part shade. The attractive foliage, flowers and fruits of the pomegranate, as well as its smallish size make it a excellent landscaping plant.   "
+    ], 
+    "Soil:": [
+        " The pomegranate does best in well-drained ordinary soil, but also thrives on calcareous or acidic loam as well as rock strewn gravel.  "
+    ], 
+    "Irrigation:": [
+        " Once established, pomegranates can take considerable drought, but for good fruit production they must be irrigated. To establish new plants they should be watered every 2 to 4 weeks during the dry season. The plants are tolerant of moderately saline water and soil conditions. "
+    ], 
+    "Fertilizing:": [
+        " In the West, the trees are given 2 to 4-ounce applications of ammonium sulfate or other nitrogen fertilizer the first two springs. After that very little fertilizer is needed, although the plants respond to an annual mulch of rotted manure or other compost. "
+    ], 
+    "Pruning:": [
+        " Plants should be cut back when they are about 2ft. high. From this point allow 4 or 5 shoots to develop, which should be evenly distributed around the stem to keep the plant well balanced. These should start about 1ft. from the ground, giving a short but well-defined trunk. Any shoots which appear above or below should be removed as should any suckers. Since the fruits are borne only at the tips of new growth, it is recommended that for the first 3years the branches be judiciously shortened annually to encourage the maximum number of new shoots on all sides, prevent straggly development and achieve a strong well framed plant. After the 3rd year, only suckers and dead branches are removed. "
+    ], 
+    "Propagation:": [
+        " The pomegranate can be raised from seed but may not come true. Cuttings root easily and plants from them bear fruit after about 3years. Twelve to 20inches long cuttings should be taken in winter from mature, one-year old wood. The leaves should be removed and the cuttings treated with rooting hormone and inserted about two-thirds their length into the soil or into some other warm rooting medium. Plants can also be air-layered but grafting is seldom successful. "
+    ], 
+    "Pests and Diseases:": [
+        " Pomegranates are relatively free of most pests and diseases. Minor problems are leaf and fruit spot and foliar damage by white flies, thrips, mealybugs and scale insects. The roots are seldom bothered by gophers but deer will browse on the foliage.  "
+    ], 
+    "Harvest:": [
+        " The fruits are ripe when they have developed a distinctive color and make a metallic sound when tapped. The fruits must be picked before over maturity when they tend to crack open, particularly when rained on. The pomegranate is equal to the apple in having a long storage life. It is best maintained at a temperature of 32 to 41F. and can be kept for a period of 7months within this temperature range and at 80 to 85% relative humidity without shrinking or spoiling. The fruits improve in storage, becoming juicier and more flavorful. "
+    ], 
+    "Commercial Potential:": [
+        " The primary commercial growing regions of the world are the Near East, India and surrounding countries and southern Europe. In California commercial cultivation is centered in the southern San Joaquin Valley. Consumer demand in this country is not great. More pomegranate fruits probably wind up as decorations in fruit bowls than are consumed.  "
+    ], 
+    "Phoenicia": [
+        " (Fenecia)"
+    ], 
+    "Wonderful": [
+        "Originated in Florida. First propagated in California in 1896. Large, deep purple-red fruit. Rind medium thick, tough.  Flesh deep crimson in color, juicy and of a delicious vinous flavor. Seeds not very hard. Better for juicing than for eating out of hand. Plant is vigorous and productive. Leading commercial variety in California. "
+    ]
+}

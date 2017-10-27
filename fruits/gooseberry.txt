@@ -1,0 +1,59 @@
+{
+    "Common Names:": [
+        " Gooseberry (English), Stachelbeere (German), Groseille a Maquereaux (French), Uva Spina (Italian), Stekbes (Flemish). "
+    ], 
+    "Species:": [
+        " American Gooseberry (Ribes hirtellum), European Gooseberry (R. grossularia). "
+    ], 
+    "Related Species:": [
+        " "
+    ], 
+    "Origin:": [
+        " Gooseberries are derived mostly from two species: the European gooseberry (Ribes grossularia), native to the Caucasus Mountains and North Africa; and the American gooseberry (R. hirtellum), native to northeastern and north-central United States and adjacent parts of Canada. So-called European cultivars are pure species, but virtually all so-call American cultivars also have European genes. "
+    ], 
+    "Adaptation:": [
+        " Gooseberries grow best in summer humid, cool regions with great winter chilling. In California they are fairly productive in the coolest parts of the San Francisco Bay Area, the outer Coast Ranges and coastal northern California. They are probably not worth trying in southern California. except at high elevations. With proper attention gooseberries can be grown in containers.    "
+    ], 
+    "Growth Habit:": [
+        " Gooseberries are deciduous shrubs, fast growing under optimum conditions to 3feet tall and 6feet wide. The plant is suitable for training as a standard.  American types have weeping stems that will root wherever they touch the ground and can be invasive.  Annual growth is in a single flush in spring. The roots are superficial, fine and easily damaged by frequent cultivation. "
+    ], 
+    "Foliage:": [
+        " The buds perk up early in the spring, dotting the stems with green when most other plants are still tawny. The leaves are alternate, single, deeply lobed, and glossy dark green (European types), or pale to gray-green and sometimes finely pubescent (American types). The stems are thin, becoming woody, with a large thorn at each axil. American gooseberry stems are densely bristly, with one or more additional thorns at each axil. Leaf size and number are reduced under heat or light stress, and are easily burned by intense sunlight. Plants that have been subject to drought may make a new growth flush after deep irrigation. If the roots are lost, regrowth will wait until the following spring. "
+    ], 
+    "Flowers:": [
+        " The inconspicuous flowers, green with pink flushed petals, open in early spring.  They are borne laterally on one-year old wood and on short spurs of older wood. The flowers are self-fertile and pollinated by wind and insects, including bees. Each flower bud opens to yield from one to four flowers, depending on cultivar. "
+    ], 
+    "Fruit:": [
+        " The fruit, borne singly or in pairs at the axils, is a berry with many minute seeds at the center. A gooseberry may be green, white (gray-green), yellow, or shades of red from pink to purple to almost black. Fruits of the European gooseberry may be very large, like a small plum, but are usually 1inch long, less in width. American gooseberry fruits are smaller (to 1/2inch), perfectly round, all becoming pink to wine-red at maturity. Skin color is most intense in full sunlight. Berries generally drop when overripe. The fruit has a flavor all its own, the best dessert cultivars as luscious as the best apple, strawberry or grape.  "
+    ], 
+    "Location:": [
+        " Gooseberries like morning sun, afternoon part-shade and buoyant air circulation. They are most productive in full sunlight but the leaves sunburn easily under California conditions. They can be grown in the high shade of fruit trees such as persimmon or on the north side of buildings. American gooseberry are much more sun tolerant. Plants collapse quickly when soil or air temperature exceeds 85F.  "
+    ], 
+    "Soil:": [
+        " Gooseberry plants are less finicky about soil acidity than most other small fruits, and tolerate a wide range of soils, except those that are waterlogged. Where summers are hot, bushes will grow better and produce better fruit in heavier soils, which retain more moisture and stay cooler. A thick mulch of some organic material also helps keep the soil cool. Sandy soils are less suitable for gooseberries because they dry out too fast.  "
+    ], 
+    "Irrigation:": [
+        " With their fibrous, shallow roots  gooseberries are ideal  for drip system. Keep the plants watered all season, since they will not regenerate buds or leaves lost from drought stress. Plants stressed for water are susceptible to mildew. "
+    ], 
+    "Fertilization:": [
+        " Gooseberries have a high requirement for potassium and a moderate need for nitrogen, although excessive amounts of nitrogen promote disease, especially mildew. Between four and eight ounces of actual nitrogen per square yard strikes a good balance between growth and disease tolerance. The symptom of potassium deficiency is scorching of leaf margins. Deficiency can be avoided with an annual dressing of half an  ounce of potassium per square yard. Gooseberry plants also have a fairly high requirement for magnesium, so if the soil is very acidic and needs lime, use dolomitic limestone, which supplies magnesium as well as calcium. "
+    ], 
+    "Pruning:": [
+        " A gooseberry bush is usually grown on a permanent short \"leg\" of about six inches, from which the bush is continually renewed with new shoots arising at or near ground level. Allow stems to grow for 4-5years, then selectively remove oldest stems to make room for new shoots. Snap off any branches that form along or below the six-inch leg. Thorns make harvest tedious, so pruning is done to open up the bush and make picking easier. The plants may be grown as standards or cordons, but this requires a lot of care and the fruit often sunburns. "
+    ], 
+    "Propagation:": [
+        " The ease with which gooseberries propagate from cuttings depends on the cultivar. Generally, American cultivars are easier to root than are European cultivars. Take hardwood cutting in early fall, even before all the leaves have dropped. The presence of a few leaves actually enhances rooting. Make the cuttings about a foot long, but do not include tip growth, dip the base in hormone and pot in ordinary soil. Keep in part shade for the first year. Tip layering is a surer method of propagation, though a single bush furnishes far fewer layers than cuttings. If intended for training as standards or cordons, strip all buds off, cutting below the soil line. Seeds require moist stratification, just above freezing, for three to four months. The plants commence bearing in 5years from seed and 2years from cuttings. "
+    ], 
+    "Pests and Diseases:": [
+        " Aphids commonly attack young leaves, distorting them. Spider mites are common in summer; spray immediately after harvest and thereafter on a regular schedule. The clear-winged borer lays its eggs on stems in April. The larvae hatch and bore into the central pith down to soil line and emerge to pupate in the fall. An infestation is usually detected only after the stem wilts and dies. Borers will spread and generally causes loss of whole planting without quick control. Cut out affected stems, search for others and spray. The gooseberry sawfly is present in the Pacific Northwest but has not yet been detected in California. Its small green worms will hollow out the berries, leaving an empty husk. "
+    ], 
+    "Harvest:": [
+        " Average yield from one gooseberry bush is between eight and ten pounds of fruit. Gooseberries used for culinary purposes such as tarts, etc. are usually picked underripe. A classic gooseberry concoction is a fool, made by folding cream into the stewed fruit. For dessert purposes, however, the fruit must be fully ripe.  "
+    ], 
+    "Oregon Champion": [
+        " Hybrid from cross of Crown Bob with Houghton. Origin O. Dickinson, Salem, 1876. Bush tall, weeping but rarely rooting at tips. Stems bristly, spiny. Begins growth very early. Somewhat tolerant of Armillaria. Prolific, fruits small, acid, hard and green when commercially harvested, becoming bland, sweet, greenish yellow upon maturity. Most common of gooseberry cultivars; another cv. 'Mountain' is often sold for it by unscrupulous nurserymen. 'Mountain' is more vigorous, sprawling, fruit brick to deep red. "
+    ], 
+    "Whitesmith": [
+        " Origin Britain. Bush very dense, requires thinning to permit harvest. Somewhat tolerant of Armillaria. Fruits scattered throughout bush, medium, round to oval, pale green to white when ripe. Good flavor. "
+    ]
+}

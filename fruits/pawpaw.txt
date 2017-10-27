@@ -1,0 +1,65 @@
+{
+    "Common Name:": [
+        "Pawpaw, Paw Paw, Papaw, Poor Man's Banana, Hoosier Banana, etc.  (In Australia "
+    ], 
+    "Related species:": [
+        " Asimina incarna, A. longifolia, A. obovata,  A. parviflora, A. pygmaea, A. reticulata, A. tetramera,  A. X nashii.  These eight Asimina species grow in the southeastern United States.  "
+    ], 
+    "Distant Affinity:": [
+        " "
+    ], 
+    "Origin:": [
+        "  The pawpaw is native to the temperate woodlands of the eastern U.S. The American Indian is credited with spreading the pawpaw across the eastern U.S. to eastern Kansas and Texas, and from the Great Lakes almost to the Gulf.  Fossils prove the pawpaw is indigenous to the U.S. "
+    ], 
+    "Adaptation:": [
+        "  The pawpaw is adapted to the humid continental climate of its native habitat.  It is seldom found near the Atlantic or Gulf coasts.  It requires a minimum of 400 hours of winter chill and at least 160 frost-free days.  Pawpaws appear to be sensitive to low humidities, dry winds and cool maritime summers.  It has been successfully grown in parts of California and the Pacific Northwest that meet its growing requirements.  It has grown well in the San Jose area (USDA Climate Zone 9 or Sunset Climate Zone 15). The climatic conditions of Southern California make growing the pawpaw there more difficult.   The deep winter dormancy of the tree makes it highly frost tolerant, withstanding temperatures of -25F or lower (hardy to USDA Climate Zone 5).   Pawpaws can be grown as container specimens,  although this is not often practiced.  A deep pot is needed to accommodate the root system. "
+    ], 
+    "Growth Habit:": [
+        "  The pawpaw is a deciduous, often narrowly conical tree growing from about 12 feet to around 20 feet.  Pawpaw trees are prone to producing root suckers a few feet from the trunk.  When these are permitted to grow, the single-clone pawpaw patch comes into being.  The prevailing experiences of many individuals is that the pawpaw is a slow grower, particularly when it is young.  However, under optimal greenhouse conditions, including photo-period extension light of approximately 16 hours, top growth of up to 5 feet can be attained in three months. "
+    ], 
+    "Foliage:": [
+        "  The dark green, obovate-oblong, drooping leaves grow up to 12 inches long, giving the pawpaw an interesting tropical appearance.   The leaves turn yellow and begin to fall in mid-autumn and leaf out again in late spring after the tree has bloomed. "
+    ], 
+    "Flowers:": [
+        "  Dormant, velvety, dark brown flower buds develop in the axils of the previous years' leaves.  They produce maroon, upside-down flowers up to 2 inches across.  The normal bloom period consists of about 6 weeks during March to May depending on variety, latitude and climatic conditions.  The blossom consists of  2 whorls of 3 petals each, and the calyx has 3 sepals. Each flower contains several  ovaries which explains why a single flower can produce multiple fruits. "
+    ], 
+    "Fruit:": [
+        "  The pawpaw is the largest edible fruit native to America.  Individual fruits weigh 5 to 16 ounces and are 3 to 6 inches in length.  The larger sizes will appear plump, similar to the mango.  The fruit usually has 10 to 14 seeds in two rows.  The brownish to blackish seeds are shaped like lima beans, with a length of 1/2 to 1-1/2 inches.  Pawpaw fruits often occur as clusters of up to nine individual fruits.  The ripe fruit is soft and thin skinned. "
+    ], 
+    "Location:": [
+        "  The young plant is very sensitive to full sunlight and requires filtered sun for the first year or two.  The use of tree shelters is an ideal solution to the problem, permitting the plant to receive a full day of filtered sunlight.   Once established, pawpaws prefer full sun.  The large dangling leaves dislike strong winds.  Overall the tree is an excellent edible landscape addition. "
+    ], 
+    "Soil:": [
+        "  Pawpaws do best in deep, fertile soil that is moist, but well-drained and slightly acid (pH5-7). The addition of compost to most western soils makes them more hospitable to the pawpaw.  Avoid heavy, wet, alkaline soil. "
+    ], 
+    "Irrigation:": [
+        "  The pawpaw needs regular watering during the growing season. The soil should be kept moist but avoid waterlogging. "
+    ], 
+    "Fertilization:": [
+        "  The pawpaw responds to the application of an organic or granular fertilizer high in potassium twice a year. For container growing, 250-500 ppm of soluble 20-20-20 NPK plus soluble trace elements during growth phase is optimal. "
+    ], 
+    "Pruning:": [
+        "  Ordinarily little pruning is required, except to remove dead, damaged or wayward branches.  Periodic pruning may be used to stimulate some new growth each year on older trees, since it is new growth that produces fruit the following season. "
+    ], 
+    "Propagation:": [
+        "  To break dormancy Pawpaw seed must receive a 90 to 120 day stratification, i.e. exposure to cold temperatures.  To accomplish this, the seed should be placed in plastic freezer zipper bag containing a handful of moist sphagnum moss and refrigerated at 32-40F.   The over wintering of field planted seeds normally accomplishes this stratification requirement. "
+    ], 
+    "Pests and diseases:": [
+        "  Pawpaw  trees are relatively disease free, including a resistance to Oak Root Fungus (Armillaria).  A number of vertebrates such as foxes, opossums, squirrels and raccoons will eat the fruit, although deer, goats and rabbits will not eat the leaves or twigs.  The attraction of pawpaw roots to gophers is a somewhat unknown factor, but it seems likely that they would not be the gopher's first choice. The Zebra Swallowtail butterfly's larvae feed exclusively on young, pawpaw foliage, but never in great numbers. On the West Coast, slugs, snails and earwigs can be easily controlled by the application of Tanglefoot to a band around the pawpaw tree trunk. It is important not to apply Tanglefoot directly to the bark, however. "
+    ], 
+    "Pollination:": [
+        "  Poor pollination has always plagued the pawpaw in nature, and the  problem has followed them into domestication.  Pawpaw flowers are perfect, in that they have both male and female reproduction parts, but they are not self-pollinating.  The flowers are also protogynaus, i.e., the female stigma matures and is no longer receptive when the male pollen is shed.  In addition pawpaws are self-incompatible, requiring cross pollination  from another unrelated pawpaw tree. "
+    ], 
+    "Harvest:": [
+        "  Pawpaw fruit ripens during a four-week period between mid August and into October, depending on various factors.  When ripe, it is soft and yields easily to a gentle squeeze, and has a pronounced perfumed fragrance. The skin of the green fruit usually lightens in color as it ripens and often develops blackish splotches which do not affect the flavor or edibility.  The yellow flesh is custard like and highly nutritious.  The best fruit has a complex, tropical  flavor unlike any other temperate zone fruit. At present, the primary use of pawpaws is for fresh eating out of hand.  The ripe fruit is very perishable with a shelf life of 2 or 3 days, but will keep up to 3 weeks if it is refrigerated at 40-45F. "
+    ], 
+    "Commercial potential:": [
+        "  Although pawpaw fruit is not yet  a commercially viable commodity, the domestication process is well underway.  Several academic institutions are setting up seventeen Regional Variety Trial sites. Kentucky State University is the site of Pawpaw National Clonal Germ-plasm Repository.  The pawpaw has also found its way to several overseas countries, and a few of these are actively engaged in research.   Pawpaw leaves and twigs contain substances with promising anti-cancer and pesitcidal properties. "
+    ], 
+    "Plant selection:": [
+        "  A number of mail-order sources of pawpaw plants now offer both grafted cultivars and seedlings.  Most seedling plants have been propagated from mixed seeds and will eventually end up producing undesirable fruit.  Purchasers are advised to graft such plants to a known cultivar or order grafted plants initially.  Container grown plants are much more likely to survive transplanting. "
+    ], 
+    "Wells": [
+        "  Fruit quite large.  Flesh orange, green skin.  Flavor superb. "
+    ]
+}
