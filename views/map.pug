@@ -1,0 +1,57 @@
+extends layout
+
+block content
+  h1= "plantbud // " + title
+  hr
+  if coord
+    button.btn.btn-sm.btn-info(onclick='useMap()') Use Map
+    b &nbsp;
+    button.btn.btn-sm.btn-info(onclick='useManual()') Enter Manually
+    div#usemap
+      h3 Map Out Perimeter
+      div#map-canvas
+      br
+      h4(align="right")
+        |Area: 
+        span#area
+        |m<sup>2</sup>
+        br
+        span#path
+
+    div#manual(style="display: none;")
+      h3 Manual Input (Rectangle)
+      div.row
+        div.col-md-3
+        div.col-md-6
+          form(method="POST" action="layout")
+            div.form-group
+                div.input-group
+                  input#width.form-control(type="number" name="width" placeholder="Rectangle Width" value="")
+                  div.input-group-addon meters
+            div.form-group
+              div.input-group
+                input#height.form-control(type="number" name="height" placeholder="Rectangle Height", value="")
+                div.input-group-addon meters
+        div.col-md-3
+
+    div(align="center")
+      form(method="POST" action="layout")
+        input.hide#f-area(type="text" name="area" value=0)
+        input.hide#f-verts(type="text" name="verts" value=0)
+        input.hide#f-mpp(type="text" name="mpps" value=0)
+        button.btn.btn-primary(type='submit') Plan!
+
+  else
+    h3
+      |Please enter 
+      a(href="/guide") coordinates first
+      |.
+
+block scripts
+  script(src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry&sensor=false")
+  script(src="/javascripts/map.js")
+  if coord
+    script.
+      window.onload = function() {
+        initialize(#{coord.lat}, #{coord.lon});
+      };

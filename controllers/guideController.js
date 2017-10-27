@@ -7,6 +7,8 @@ function Coord(lat, lon) {
     this.lon = lon;
 }
 
+exports.Coord = Coord;
+
 exports.guide_get = function(req, res, next) {
   res.render('guide', { title: 'guide' });
 };
