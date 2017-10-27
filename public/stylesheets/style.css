@@ -4,16 +4,37 @@ body {
 }
 
 a {
-  color: #00B7FF;
+    color: #00B7FF;
 }
 
 .sidebar-nav {
+    color: #00638a;
     margin-top: 10px;
     padding: 0;
     list-style: none;
 }
 
+.hide {
+  display: none;
+}
+
+.plan {
+    padding-left: 20px;
+    list-style: none;
+}
+
+.plan > li:before {
+    content: "–"; /* en dash here */
+    position: absolute;
+    margin-left: -1.1em; 
+}
+
 #locate-error {
     color: red;
     text-align: right;
+}
+
+#map-canvas {
+    width: auto;
+    height: 500px;
 }
