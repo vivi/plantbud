@@ -1,0 +1,74 @@
+{
+    "Common Names:": [
+        "  Cherimoya (U.S., Latin America),  Custard Apple (U.K. and Commonwealth), Chirimoya, Chirimolla. "
+    ], 
+    "Related species:": [
+        "  Ilama (Annona diversifolia), Pond Apple  (A. glabra), Manrito (A. jahnii). Mountain Soursop  (A. montana),  Soursop (A. muricata), Soncoya  (A. purpurea), Bullock's Heart (A. reticulata),  Sugar Apple (Annona squamosa),  Atemoya (A. cherimola X A. squamosa).     "
+    ], 
+    "Distant affinity:": [
+        "  Pawpaw (Asimina triloba), Biriba  (Rollinia deliciosa), Wild Sweetsop (R. mucosa), Keppel Apple (Stelechocarpus burakol). "
+    ], 
+    "Origin:": [
+        " The cherimoya is believed to be native to the inter-andean  valleys of Ecuador, Colombia and Peru. Seeds from Mexico were planted in  California (Carpinteria) in 1871. "
+    ], 
+    "Adaptation:": [
+        " The cherimoya is subtropical or mild-temperate and will  tolerate light frosts. Young growing tips are killed at 29F and and  mature trees are killed or severely injured at 25F. If cherimoyas do  not receive enough chilling, the trees will go dormant slowly and then  experience delayed foliation. The amount of chilling needed is estimated to  be between 50 and 100hours. The tree grows well in the coastal and foothill  areas of southern California, doing best at a slight elevation, 3 to 15miles from ocean.  It is worth attempting in sunny, south-facing, nearly frost-free locations from San Francisco Bay Area to Lompoc, and may survive to fruit in a very few protected Central Valley foothill locations from Chico to Arvin.  Resentful of the excessive dry heat of the interior, it is not for the desert. Cherimoyas are not recommended for container culture.   "
+    ], 
+    "Growth Habit:": [
+        " The cherimoya is a fairly fairly dense, fast-growing, evergreen tree, briefly deciduous in California from February through April. The tree can reach 30feet or more, but is fairly easily restrained. Young  trees \"harp,\" forming opposite branches as a natural espalier.  These can be trained against a surface, or pruned off to form a regular free-standing trunk.  Growth is in one long flush, beginning in April. The roots commence as taproot, but the slow-growing root system is rather weak, superficial, and ungreedy. Young plants need staking.  "
+    ], 
+    "Foliage:": [
+        " The attractive leaves are single and alternate, 2 to 8inches long and up to 4inches wide. They are dark green on top and velvety green on the bottom, with prominent veins. New growth is recurved, like a fiddle-neck. Axillary buds are hidden beneath fleshy leaf petioles. "
+    ], 
+    "Flowers:": [
+        " The fragrant flowers are borne solitary or in groups of 2 or 3 on short, hairy stalks along the branches. They appear with new growth flushes, continuing as new growth proceeds and on old wood until midsummer.  The flowers are made up of three fleshy, greenish-brown, oblong, downy outer petals and three smaller, pinkish inner petals. They are perfect but dichogamous, lasting approximately two days, and opening in two stages, first as female flowers for approximately 36hours. and later as male flowers.  The flower has a declining receptivity to pollen during the female stage and is unlikely to be pollinated by its own pollen in the male stage. "
+    ], 
+    "Fruits:": [
+        "  The compound fruit is conical or somewhat heart-shaped, 4 to 8inches long and up to 4inches in width, weighing on the average 5-1/2 to 18ounces, but the largest fruits may reach 5pounds in weight. The skin, thin or thick, may be smooth with fingerprint-like markings or covered with conical or rounded protuberances. The sweet, juicy, white flesh is melting, subacid and very fragrant.  The fruit is of a primitive form with spirally arranged carpels, resembling a raspberry.  Each segment of flesh surrounds a single hard black bean-like seed. The fruit size is generally proportional to the number of seeds within.  They ripen October to May. "
+    ], 
+    "Location:": [
+        " Cherimoyas prefer a sunny exposure, buoyant marine air and cool nights. In southern California do not plant where heat collects on barren hillside or against a wall, since the leaves and fruit may sunburn badly. In the north, do the opposite: plant against a south facing wall to collect heat and encourage early bud-break and fruit ripening.  The trees need protection from constant ocean or Santa Ana winds which may damage them and interfere with pollination and fruit set. "
+    ], 
+    "Soil:": [
+        " The cherimoya performs well on a wide range of soil types from light to heavy, but seems to do best on a well-drained, medium soil of moderate fertility. The optimum pH ranges from 6.5 to 7.6.  "
+    ], 
+    "Irrigation:": [
+        " Cherimoyas need plenty of moisture while they are growing actively, but should not be watered when they are dormant. The trees are susceptible to root rot in soggy soils, especially in cool weather. Commence deep watering biweekly in April. Drip irrigation is also an excellent way to supply water. It is best to avoid poor water to prevent salt build-up. Drought-stressed trees will drop their leaves, exposing the fruit to sunburn. "
+    ], 
+    "Fertilization:": [
+        " Cherimoyas should be fertilized on a regular basis. Apply a balanced fertilizer, such as 8-8-8NPK, in midwinter, then every three months. Increase the amount of fertilizer each year until the trees begin to bear fruit. Mature trees require an annual application of 4ounces of actual nitrogen per inch of trunk diameter. Cherimoyas also respond to organic amendments. It should be kept in mind that yellow leaves may mean that the soil too dry or the weather too cold, not always a need for fertilizer. "
+    ], 
+    "Pruning:": [
+        " Cherimoyas have rather brittle wood. Prune during the dormant period to develop strong branches that can support the heavy fruit. Train the tree to two scaffold branches at 2feet of trunk, pruning them to a  2foot length.  Save only the strongest single shoots, preferably those at 60 to 90degree angle, and remove the others. In the following years, remove two-thirds of the previous year's growth, leaving six or seven good buds, at time of new growth.  This will keep fruiting wood within reach of the ground. Thin out crossing branches. "
+    ], 
+    "Frost Protection:": [
+        " Young trees are very frost sensitive. Wrap the trunk and scaffold with sponge foam for protection, or cover the entire tree. In cooler areas plant next to a south-facing wall or under the eaves to trap house heat. "
+    ], 
+    "Pollination:": [
+        " Since natural pollinators are not present in California, the flowers must be pollinated by hand. This is best done in mid-season of bloom, over a period of two to three months. In early evening, collect in a small bottle the anthers and pollen from the interior of fully open male flowers with a #2 or #3 artists brush.  Anthers will be tan colored and the white pollen falling from them will be obvious. The pollen has its highest viability at the time it is shed and declines significantly with time. Immediately apply freshly collected pollen with a small brush to the flowers in partially open, female stage. If no female stage flowers are available, pollen may be saved in the sealed container under refrigeration overnight. Pollen may then be applied to female stage flowers in the morning. In large scale operations the pollen may be mixed with inert Lycopodium spores, PVC, starch or talc powder and applied with aspirator-type Japanese apple-pollinators, to save time and pollen. Pollinate every two or three days, and only flowers easily reached inside the tree, to avoid sunburned and wind-damaged fruit.  If pollination efforts are quite successful, it may be necessary to thin the fruit. Too much fruit may result in small size and adversely effect future yields. "
+    ], 
+    "Propagation:": [
+        " Since there are no recognized rootstocks for cherimoyas, seedlings are universally utilized. Seeds from the White cultivar (Dr. White) are thought by some to produce superior rootstocks, however there does not appear to be a great deal of objective data to support this position. Seeds remain viable for two to three years if kept dry and protected from weevil and fungi.  With 70F bottom heat, seed will germinate in about 21days, but will require about 40days under normal ambient growing conditions. Seedlings should be transplanted to deep containers (approximately 18\") when they are 3\" tall to promote development of the tap root. In frost-free areas, it is recommended that seedlings for spring grafting be planted in their ultimate location in the fall and grafted in the ground the following spring. "
+    ], 
+    "Pests and Diseases:": [
+        " Mealybugs and snails are the main pests of cherimoyas. Keep ducks or apply copper strips to the trunks for control of snails. Mealybugs are brought by ants which can be controlled to some extent by maintaining fresh Tanglefoot on masking tape around the trunk. The masking tape is important to prevent damage to the tree. Skirt the tree to prevent ant access from the ground or weeds.  No chemicals are registered for use on Cherimoyas. "
+    ], 
+    "Harvest:": [
+        " The fruit turns a pale green or creamy yellow color as they reach maturity. Color change is not marked in cool weather. They should be picked when still firm and allowed to soften at room temperature. Ripe fruit will give to soft pressure. Overripe fruit will be dark brown. Fruit left on the tree too long will usually crack or split and begin to decay. The fruit should be clipped rather than pulled from the tree. Cut the stem close to the fruit so it won't puncture other fruit during storage.  "
+    ], 
+    "Commercial Potential:": [
+        " Though unusual in  appearance, cherimoyas are readily accepted by western tastes and has become a favorite tropical fruit. Demand greatly exceeds supply in all U.S. markets as most fruit never leaves California, the only producing state. The fruit commands high wholesale and retail prices, but costs are high and major crop losses from frost and fruit splitting are an ever present possibility. The major labor costs are pruning, pollination, ant control and irrigation.  "
+    ], 
+    "Knight": [
+        " (syns. DV, Pierce, M&N Pierce) "
+    ], 
+    "McPherson": [
+        " (syn. Spain)"
+    ], 
+    "Pierce": [
+        " (syns. Knight, Escondido White, Ryerson, Thomson-Spain, & Bayott)"
+    ], 
+    "White": [
+        " (syn. Dr.White)"
+    ]
+}

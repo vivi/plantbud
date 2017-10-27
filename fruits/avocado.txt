@@ -1,0 +1,68 @@
+{
+    "Common Name:": [
+        " Avocado, Alligator Pear (English);  Aguacate, Palta (Spanish) "
+    ], 
+    "Origin:": [
+        " The avocado probably originated in southern Mexico but was cultivated from the Rio Grande to central Peru before the arrival of Europeans. "
+    ], 
+    "Species:": [
+        "  Guatemalan (Persea nubigena var. guatamalensis L. Wms.), Mexican (P. americana var. drymifolia Blake), West Indian (P. americana Mill. var. americana).  Hybrid forms exist between all three types. "
+    ], 
+    "Related species:": [
+        "  Coyo (Persea schiedeana Nees), Anay (Beilschmiedia anay Kosterm) "
+    ], 
+    "Adaptation:": [
+        " Avocados do well in the mild-winter areas of California, Florida and Hawaii.  Some hardier varieties can be grown in the cooler parts of northern and inland California and along the Gulf Coast.  The northern limits in California is approximately Cape Mendocino and Red Bluff.  Avocados do best some distance from ocean influence but are not adapted to the desert interior.  West Indian varieties thrive in humid, tropical climates and freeze at or near 32F.  Guatemalan types are native to cool, high-altitude tropics and are hardy 30 - 26F.  Mexican types are native to dry subtropical plateaus and thrive in a Mediterranean climate.  They are hardy 24 - 19F.  Avocados need some protection from high winds which may break the branches.  There are dwarf forms of avocados suitable for growing in containers. Avocados have been grown in California (Santa Barbara) since 1871. "
+    ], 
+    "Growth Habit:": [
+        "  The avocado is a dense, evergreen tree, shedding many leaves in early spring.  It is fast growing and can with age reach 80 feet, although usually less, and generally branches to form a broad tree.  Some cultivars are columnar, others selected for nearly prostrate form.  One cultivar makes a good espalier.  Growth is in frequent flushes during warm weather in southern regions with only one long flush per year in cooler areas.  Injury to branches causes a secretion of dulcitol, a white, powdery sugar, at scars. Roots are coarse and greedy and will raise pavement with age.  Grafted plants normally produce fruit within one to two years compared to 8 - 20 years for seedlings. "
+    ], 
+    "Foliage:": [
+        " Avocado leaves are alternate, glossy, elliptic and dark green with paler veins.  They normally remain on the tree for 2 to 3years.  The leaves of West Indian varieties are scentless, while Guatemalan types are rarely anise-scented and have medicinal use.  The leaves of Mexican types have a pronounced anise scent when crushed.  The leaves are high in oils and slow to compost and may collect in mounds beneath trees. "
+    ], 
+    "Flowers:": [
+        "  Avocado flowers appear in January - March before the first seasonal growth, in terminal panicles of 200 - 300 small yellow-green blooms.  Each panicle will produce only one to three fruits.  The flowers are perfect, but are either receptive to pollen in the morning and shed pollen the following afternoon (type A), or are receptive to pollen in the afternoon, and shed pollen the following morning (type B). About 5% of flowers are defective in form and sterile.  Production is best with cross-pollination between types A and B.  The flowers attract bees and hoverflies and pollination usually good except during cool weather. Off-season blooms may appear during  the year and often set fruit. Some cultivars bloom and set fruit in alternate years. "
+    ], 
+    "Fruits:": [
+        "  West Indian type avocados produce enormous, smooth round, glossy green fruits that are low in oil and weigh up to 2pounds.  Guatemalan types produce medium ovoid or pear-shaped, pebbled green fruits that turn blackish-green when ripe.  The fruit of Mexican varieties are small (6 -  10ounces) with paper-thin skins that turn glossy green or black when ripe.  The flesh of avocados is deep green near the skin, becoming yellowish nearer the single large, inedible ovoid seed.  The flesh is hard when harvested but softens to a buttery texture.  Wind-caused abrasion can scar the skin, forming cracks which extend into the flesh.  \"Cukes\" are seedless, pickle-shaped fruits.  Off-season fruit should not be harvested with the main crop, but left on the tree to mature.  Seeds may sprout within an avocado when it is over-mature, causing internal molds and breakdown.  High in monosaturates, the oil content of avocados is second only to olives among fruits, and sometimes greater.  Clinical feeding studies in humans have shown that avocado oil can reduce blood cholesterol.  "
+    ], 
+    "Location:": [
+        "  Avocados will grow in shade and between buildings, but are productive only in full sun. The roots are highly competitive and will choke out nearby plants. The shade under the trees is too dense to garden under, and the constant litter can be annoying. In cooler areas plant the tree where it will receive sun during the winter. Give the tree plenty of room--up to 20feet.  The avocado is not suitable for hedgerow, but two or three trees can be planted in a single large hole to save garden space and enhance pollination.  At the beach or in windy inland canyons, provide a windbreak of some sort. Once established the avocado is a fairly tough tree.  Indoor trees need low night temperatures to induce bloom.  Container plants should be moved outdoors with care.   Whitewashing the trunk or branches will prevent sunburn. "
+    ], 
+    "Soil:": [
+        "  Avocado trees like loose, decomposed granite or sandy loam best. They will not survive in locations with poor drainage.  The trees grow well on hillsides and should never be planted in stream beds. They are tolerant of acid or alkaline soil. In containers use a planting mix combined with topsoil.  Plastic containers should be avoided.  It is also useful to plant the tub with annual flowers to reduce excess soil moisture and temperature. Container plants should be leached often to reduce salts. "
+    ], 
+    "Irrigation:": [
+        "  Avocado trees may not need irrigation during the winter rainy season, but watch for prolonged mid-winter dry spells.  Over irrigation can induce root which is the most common cause of avocado failure.  To test to see if irrigation is necessary, dig a hole 9inches deep and test the soil by squeezing.  If it is moist (holds together), do not irrigate; if it crumbles in the hand, it may be watered. Watch soil moisture carefully at the end of the irrigating season.  Never enter winter with wet soil.  Avocados tolerate some salts, though they will show leaf tip burn and stunting of leaves. Deep irrigation will leach salt accumulation. "
+    ], 
+    "Fertilization:": [
+        "  Commence feeding of young trees after one year of growth, using a balanced fertilizer, four times yearly. Older trees benefit from feeding with nitrogenous fertilizer applied in late winter and early summer. Yellowed leaves (chlorosis) indicate iron deficiency.  This can usually be corrected by a chelated foliar spray of trace elements containing iron. Mature trees often also show a zinc deficiency. "
+    ], 
+    "Frost Protection:": [
+        "  It is important to choose a cultivar that is hardy in your area.  Mexican types are the best choice for colder regions.  Plant above a slope for air drainage, or near the house for added protection. In youth, protect with rugs, towels and such spread overhead on a frame. For further protection heat with light bulbs and wrap the trunk with sponge foam.  These measures also permit tender cultivars to become established in borderline locations; established trees are much hardier than young ones.  The upper branches can also be top worked with hardy Mexican types, which will protect a more tender cultivar on lower branches, as well as serving as a pollinator. Harvest fruit before the frost season begins. Cold-damaged fruit turns black.  Avocados are often in bloom at the time of frost and the flowers are killed, but the tree tends to rebloom.  This is especially true of Mexican types. "
+    ], 
+    "Pruning:": [
+        "  Columnar cultivars require pinching at early age to form a rounded tree. Others need no training.  Current orchard practice avoids staking.  The best results are obtained by fencing the tree with plastic mesh for the first two to three years.  Container and dwarf trees will need constant staking.  The skirts of avocado trees are sometimes trimmed to discourage rodents, otherwise the trees are usually never pruned.  Branches exposed to sun by defoliation are extraordinarily susceptible to sunburn and will surely die.  Such branches should always be whitewashed.  It is better to avoid any pruning. Most cultivars are ill-adapted to espalier.  They are too vigorous.  Avocado fruit is self-thinning. "
+    ], 
+    "Propagation:": [
+        "  Desired clonal rootstocks can be be propagated by a method known as the etiolation technique.  The largest seed are planted in gallon cans and the seedlings are then grafted to a root rot tolerant clonal scion.  When the stem of the graft reaches about 1/4inch in diameter, the top is cut off leaving a whorl of buds just above the graft.  A 4inch band of black tar paper is formed into an extension of the can and filled with vermiculite and placed in a dark box with high temperature and humidity.  When growth is some 3 - 4inches above the vermiculite, the plant is removed into the light where the upper portion quickly assumes a green color.  The tar paper collar is removed, the shoot is severed from the seed and then placed in flats where the cuttings are rooted in the conventional manner.  Any seed may also be used for rootstock, but Mexican types make the strongest growth and are the most often used.  Plant cleaned seeds as soon as they are ripe.  The seedling plants are ready to bud the following year. Budding is done in January, when suitable buds are available.  Larger stocks are worked by bark grafts in the spring.  Scions are collected Dec - Jan after the buds are well-formed.  Paint and cover the graft with a moistened plastic bag and place a vented paper bag over the whole. "
+    ], 
+    "Pests and diseases:": [
+        "  Rats and squirrels will strip the fruit.  Protect with tin trunk wraps. Leaf-rolling caterpillars (Tortrix and Amorbia) may destroy branch terminals. Avocado Brown Mite can be controlled by powdered sulfur. Six-spotted Mite is very harmful; even a small population can cause massive leaf shedding.  A miticide may be required if natural predators are absent.  Snails can be a problem in California. "
+    ], 
+    "Harvest:": [
+        "  The time of harvest depends upon the variety.  Commercial standards requires fruit to reach 8% oil content before harvesting.   Mexican types ripen in 6 - 8months from bloom while Guatemalan types usually take 12 -  18months. Fruits may continue enlarging on the tree even after maturity. Purple cultivars should be permitted to color fully before harvest. Guatemalan types can be stored firm, at 40 - 50F. for up to six weeks. Mexican types discolor quickly and require immediate consumption. "
+    ], 
+    "Miscellaneous:": [
+        "  Leaf and seed extracts have been used for a variety of medical application, including treatment of diarrhea and dysentery and as an antibiotic.  "
+    ], 
+    "Reed": [
+        " "
+    ], 
+    "Wurtz": [
+        " (syn. Littlecado)"
+    ], 
+    "Zutano": [
+        "  Origin R.L. Ruitt, Fallbrook, 1926. Hybrid. Tree columnar. Fruit small to medium, to 10oz. elongated smooth green, resembles Fuerte but inferior, has fibers.  Hardy for Bay Area, Central Valley. To 25F. Season November. "
+    ]
+}

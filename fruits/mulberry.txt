@@ -1,0 +1,86 @@
+{
+    "Common Names:": [
+        " Mulberry. "
+    ], 
+    "Species:": [
+        " White Mulberry (Morus alba L.), Black Mulberry (M. nigra L.), American Mulberry, Red Mulberry (M. rubra L.).  Hybrid forms exist between Morus alba and M. rubra. "
+    ], 
+    "Related Species:": [
+        " Korean Mulberry (Morus australis), Himalayan Mulberry (M. laevigata).  "
+    ], 
+    "Distant Affinity:": [
+        "  Breadfruit (Artocarpus altilis),  "
+    ], 
+    "Origin:": [
+        " The white mulberry is native to eastern and central China. It became naturalized in Europe centuries ago. The tree was introduced into America for silkworm culture in early colonial times and naturalized and hybridized with the native red mulberry. The red or American mulberry is native to eastern United States from Massachusetts to Kansas and down to the Gulf coast. The black mulberry is native to western Asia and has been grown for its fruits in Europe since before Roman times.  "
+    ], 
+    "Adaptation:": [
+        " The white mulberry, and to a lesser extent the red mulberry, are quite tolerant of drought, pollution and poor soil. The white mulberry is considered a weed tree in many parts of the country including urban areas. The black mulberry is more fastidious, faring less well in cold climates or areas with humid summers. The white mulberry is the most cold-hardy of the three species, although this varies from one clone to another. Some are damaged at 25F, while others are unfazed at -25F. Red mulberries are hardy to sub-zero temperatures. The black mulberry is the least cold-hardy of the three, although again cold tolerance seems to depend on the clone. In general it is limited to USDA Hardiness Zone 7 (0 to 10F average minimum) or warmer. They have been planted only to a limited extent in America, mostly on the Pacific Coast. The mulberry makes a good town tree which will grow well in a tub. "
+    ], 
+    "Growth Habit:": [
+        " All three mulberry species are deciduous trees of varying sizes. White mulberries can grow to 80ft. and are the most variable in form, including drooping and pyramidal shapes. In the South on rich soils the red mulberry can reach 70ft. in height. The black mulberry is the smallest of the three, sometimes growing to 30ft. in height, but it tends to be a bush if not trained when it is young.   The species vary greatly in longevity. Red mulberry trees rarely live more than 75years, while black mulberries have been known to bear fruit for hundreds of years. The mulberry makes an attractive tree which will bear fruit while still small and young. "
+    ], 
+    "Foliage:": [
+        " The white mulberry is so-named for the color of its buds, rather than the color of its fruit. The thin, glossy, light green leaves are variously lobed even on the same plant. Some are unlobed while others are glove-shaped. Leaves of the red mulberry are larger and thicker, blunt toothed and often lobed. They are rough on their upper surfaces and pubescent underneath. The smaller black mulberry leaves are similar to those of the red mulberry, but with sturdier twigs and fatter buds. The species vary in the time of year they begin to leaf-out. White mulberries generally come out in early spring, almost two months before black mulberries. "
+    ], 
+    "Flowers:": [
+        " Mulberry trees are either dioecious or monoecious, and sometimes will change from one sex to another. The flowers are held on short, green, pendulous, nondescript catkins that appear in the axils of the current season's growth and on spurs on older wood. They are wind pollinated and some cultivars will set fruit without any pollination. Cross-pollination is not necessary. In California mulberries set fruit without pollination. "
+    ], 
+    "Fruit:": [
+        " Botanically the fruit is not a berry but a collective fruit, in appearance like a swollen loganberry. When the flowers are pollinated, they and their fleshy bases begin to swell. Ultimately they become completely altered in texture and color, becoming succulent, fat and full of juice. In appearance, each tiny swollen flower roughly resembles the individual drupe of a blackberry. The color of the fruit does not identify the mulberry species. White mulberries, for example, can produce white, lavender or black fruit. White mulberry fruits are generally very sweet but often lacking in needed tartness. Red mulberry fruits are usually deep red, almost black, and in the best clones have a flavor that almost equals that of the black mulberry. Black mulberry fruits are large and juicy, with a good balance of sweetness and tartness that makes them the best flavored species of mulberry. The refreshing tart taste is in some ways reminiscent of grapefruit. Mulberries ripen over an extended period of time unlike many other fruits which seem to come all at once. "
+    ], 
+    "Location:": [
+        " Mulberries need full sun and also adequate space. The distance between trees should be at least 15ft.  The trees should not be planted near a sidewalk. The fallen fruit will not only stain the walkway, but are likely to be tracked indoors. The trees are quite wind-resistant with some cultivars used as windbreaks in the Great Plains region. "
+    ], 
+    "Soil:": [
+        " Mulberries like a warm, well-drained soil, preferably a deep loam. Shallow soils such as those frequently found on chalk or gravel are not recommended. "
+    ], 
+    "Irrigation:": [
+        " Although somewhat drought-resistant, mulberries need to be watered in dry seasons. If the roots become too dry during drought, the fruit is likely to drop before it has fully ripened. "
+    ], 
+    "Fertilization:": [
+        " Mulberries generally thrive with minimal fertilization. An annual application of a balanced fertilizer such as 10:10:10NPK will maintain satisfactory growth. In California mulberries usually need only nitrogen.  "
+    ], 
+    "Pruning:": [
+        " No special pruning techniques are needed after the branches have been trained to a sturdy framework, except to remove dead or overcrowded wood. A mulberry tree can be kept to a tidy form by developing a set of main branches, and then pruning laterals to 6leaves in July in order to develop spurs near the main branches. It is not advisable to prune the trees heavily since the plant is inclined to bleed at the cuts. Cuts of more than two inches in diameter generally do not heal and should be avoided at all cost. The bleeding will be less severe if the tree is pruned while it is dormant.  "
+    ], 
+    "Propagation:": [
+        " Mulberries can be grown from seed, although the plants can take 10years or more to bear. Seed should be sown as soon as extracted from the fruit, although white mulberry seeds germinate better after stratifying one to three months before planting. "
+    ], 
+    "Pests and Diseases:": [
+        " Mulberries are generally free of pests and diseases, although cankers and dieback can occur. In some areas \"popcorn disease\" is an occasional problem, in which fruits swell to resemble popped corn.  M.alba/M.rubra hybrids are particularly prone to this  condition. The disease carries on from one season to the next, so  collecting and burning infected fruits help control it. The ripe fruit is  very attractive to birds, but there is usually enough fruit left over for harvesting.  "
+    ], 
+    "Harvest:": [
+        " White and red mulberry fruits (and hybrid fruits) are ready for harvest in late spring. The fruit of black mulberries ripen in summer to late summer. The fruits of white mulberries are often harvested by spreading a sheet on the ground and shaking the limbs.  A surprising quantity can be gathered from a comparatively small and young tree. Black mulberry fruits are more difficult to pick. As the berries are squeezed to pull them loose, they tend to collapse, staining the hands (and clothing) with blood red juice. Unwashed the berries will keep several days in a refrigerator in a covered container. The ripe fruits of the black mulberry contain about 9%sugar with malic and citric acid. The berries can be eaten out of hand or used in any way that other berries are used, such as in pies, tarts, puddings or sweetened and pureed as a sauce. Slightly unripe fruits are best for making pies and tarts. Mulberries blend well with other fruits, especially pears and apples. They can also be made into wine and make an excellent dried fruit, especially the black varieties.   "
+    ], 
+    "Black Persian": [
+        " "
+    ], 
+    "Collier": [
+        " "
+    ], 
+    "Illinois Everbearing": [
+        " "
+    ], 
+    "Kaester": [
+        " "
+    ], 
+    "Pakistan": [
+        " "
+    ], 
+    "Riviera": [
+        " "
+    ], 
+    "Russian": [
+        " (Tatarica) "
+    ], 
+    "Shangri-La": [
+        " "
+    ], 
+    "Tehama": [
+        " (Giant White) "
+    ], 
+    "Wellington": [
+        " "
+    ]
+}

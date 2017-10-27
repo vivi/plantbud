@@ -1,0 +1,65 @@
+{
+    "Common Names:": [
+        " Jaboticaba, Jabuticaba, Guaperu, Guapuru, Hivapuru, Sabara, Ybapuru "
+    ], 
+    "Species:": [
+        " Myrciaria cauliflora Berg., M. jaboticaba Berg., M. tenella Berg., M. trunciflora Berg. "
+    ], 
+    "Related Species:": [
+        " Guavaberry, Rumberry (Myrciaria floribunda), Yellow Jaboticaba (M. glomerata), Camu-camu (M. paraensis). Blue Grape (M. vexator). "
+    ], 
+    "Distant affinity:": [
+        " Eugenias (Eugenia spp.),  "
+    ], 
+    "Origin:": [
+        " All four of the jaboticaba species are native to the Minas Gerais region of Brazil. Some are also indigenous to other parts of Brazil, as well as areas in Bolivia, Paraguay, northeastern Argentina, Uruguay and Peru. In Brazil jaboticabas are cultivated from the southern city of Rio Grande to Bahia, and from the seacoast to Goyaz and Matto Grosso in the west. It was introduced into California (at Santa Barbara) about 1904. "
+    ], 
+    "Adaptation:": [
+        " In Brazil jaboticabas grow from sea-level to elevations of more than 3,000ft. Different plants vary markedly in how much frost they can take without severe damage, probably reflecting the species that a given plant belongs to. Some plants can take 24F or lower and survive; others are damaged at 27F. In 1917, a young tree at Brooksville, Florida survived a temperature drop to 18F. with only the foliage and branches killed back. In California jaboticabas have been successfully grown in San Diego, Spring Valley, Bostonia, Encinitas, South Los Angeles and as far north as the San Jose and San Francisco Bay areas. The plant makes a suitable container specimen.  "
+    ], 
+    "Growth Habit:": [
+        " The jaboticaba is a slow growing large shrub or small, bushy tree. It reaches a height of 10 - 15feet in California and  12 - 45feet in Brazil, depending on the species. The trees are profusely branched, beginning close to the ground and slanting upward and outward so that the dense, rounded crown may attain an ultimate spread as wide as it is tall. The thin, beige to reddish bark flakes off much like that of the guava. The jaboticaba makes an attractive landscape plant. "
+    ], 
+    "Foliage:": [
+        " The evergreen, opposite leaves are lanceolate to elliptic,  1 - 4inches in length and 1/2 - 3/4inch wide.  In color they are a glossy dark green with a leathery texture.  The size, shape and texture varies somewhat from one species to another. "
+    ], 
+    "Flowers:": [
+        " The small yellow-white flowers dramatically emerge from the multiple trunks, limbs and large branches in groups of four. It has been reported from Brazil that solitary jaboticaba trees bear poorly compared with those planted in groups, which indicates that cross-pollination enhances productivity.  "
+    ], 
+    "Fruits:": [
+        " Jaboticaba fruit is grape-like in appearance and texture but with a thicker, tougher skin.  Most California fruit is dark purple to almost black in color. Averages size is one inch in diameter but can run from 3/4 to 1-1/2inches, depending on species and variety. The gelatinous whitish pulp contains from one to four small seeds and has a pleasant, subacid flavor markedly similar to certain muscadine grapes. The skin has a slight resinous flavor that is not objectionable. Fruit may be produced singly or in clusters from the ground up all over the trunk and main branches, and the plant may fruit up to five times per year. Fresh fruit is delicious eaten out-of-hand and can be made into jellies, jams and wine. The skin is high in tannin and should not be consumed in large quantities over a long period of time. "
+    ], 
+    "Location:": [
+        " Jaboticaba trees are will take full sun or some shade and are small enough fit into many parts of the garden landscape.  They are fairly wind tolerant but do not like salty sea air. Small, young trees do best with some protection.  "
+    ], 
+    "Soil:": [
+        " Jaboticabas grow and fruit best in rich deep soil with a pH of 5.5 to 6.5. Although it is not well adapted to alkaline soils, it may be grown successfully by mulching and applying necessary nutrient sprays containing iron. The tree is not tolerant of salty or poorly drained soil. It has grown and borne well on sand in Central Florida. "
+    ], 
+    "Fertilization:": [
+        " For young plants half ratio fertilizer at monthly intervals will speed the plant's very slow growth rate. Any well-balanced fertilizer applied three times per year will keep the plant healthy. Because of its shallow root system, it is suggested that a series of small holes be dug and filled with organic material around the plant's base. The organic material can contain a balanced fertilizer which will be released during irrigation. "
+    ], 
+    "Irrigation:": [
+        " Water should be supplied as needed to maintain good soil moisture and prevent wilting, but constant flooding is undesirable.  As the root system is somewhat shallow, irrigation is usually required when the upper inch or two of soil become dry. "
+    ], 
+    "Pruning:": [
+        " Pruning of jaboticabas is not usually needed, but when pruned as a hedge, the fruit is not destroyed since it is formed only on the inner branches and trunk. "
+    ], 
+    "Frost Protection:": [
+        " Although Jaboticabas can tolerate a few degrees of frost, they do best under frost-free conditions.  In areas where frost may be a problem, providing them with some overhead protection or planting them next to a wall or a building may be sufficient.  The smallish plants are also fairly easy to cover during cold snaps by placing carpeting, plastic sheeting, etc. over a frame around them.  Potted specimens can be moved to a frost-secure area. "
+    ], 
+    "Propagation:": [
+        " Most seeds are polyembryonic, producing a plant that is true or close to the parent plant. The seeds germinate in about one month. A suggested potting mixture is 2parts peat, 2parts coarse sand and 1part coarse perlite, wood shavings or compost. Selected strains can be reproduced by inarching (approach grafting) or air-layering.  Budding is not easily accomplished because of the thinness of the bark and the hardness of the of the wood. Veneer or side grafts are  fairly successful. The grafted plant will fruit considerably earlier than a seedling. One may expect a grafted plant to produce fruit within three years, It can take from 8 to 15years for a seedling to mature into a fruiting tree. It is this very slow growth that has kept this plant from becoming as popular as it deserves to be. Grafting older trees over to a different variety is inadvisable because it is the trunk and inner branches which produce the fruit. One would have to cut the tree back to a one-inch stump in order to change its fruiting nature. "
+    ], 
+    "Pests and diseases:": [
+        " The fruit and flowers of some varieties are susceptible to a fungus caused rust during wet periods. Many flowers may desiccate during dry periods. Birds, raccoons and opossums are all attracted to fruiting trees.  Deer will sometimes browse on the new foliage, but jaboticaba roots are not particularly attractive to gophers. "
+    ], 
+    "Harvest:": [
+        " Jaboticaba fruits are ready to harvest when they have developed a full color and are somewhat soft like a ripe grape. They are mostly eaten out-of-hand in South America.  By squeezing the fruit between the thumb and forefinger, one can cause the skin to split and the pulp to slip into the mouth. The peeled fruits are often used for making jelly and marmalade, with the addition of pectin. Jaboticaba wine is made to a limited extent in Brazil. "
+    ], 
+    "Commercial Potential:": [
+        " Jaboticabas are a significant commercial fruit in Brazil and to a limited extent in other parts of South America where they thrive.  They are a very tasty fresh fruit, and if they were more plentiful and were properly promoted, they could have a commercial future in this country.  Their relative frost sensitivity combined with their slowness to fruit from seedlings is a major drawback to commercial success.  "
+    ], 
+    "Ponhema": [
+        " Produces a large, leathery skinned fruit with a pointed apex. Must be fully ripe for eating raw. Mostly used in jellies or preserves. Tree is very large and a heavy producer. "
+    ]
+}

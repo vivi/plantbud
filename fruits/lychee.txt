@@ -1,0 +1,59 @@
+{
+    "Common Names:": [
+        " Lychee, Litchi, Leechee, Lichee, Lichi.  "
+    ], 
+    "Distant Affinity:": [
+        " Akee (Blighia sapida), Longan (Dimocarpus longan), Rambutan (Nephelium lappaceum), Pulasan (N. mutabile), Fijian longan (Pometia pinnata). "
+    ], 
+    "Origin:": [
+        " The lychee is native to low elevations of the provinces of Kwangtung and Fukien in Southern China. Cultivation spread over the years through neighboring areas of southeastern Asia and offshore islands. It reached Hawaii in 1873, and Florida in 1883, and was conveyed from Florida to California in 1897 "
+    ], 
+    "Adaptation:": [
+        " Lychees require seasonal temperature variations for best flowering and fruiting, Warm, humid summers are best for flowering and fruit development, and a certain amount of winter chilling is necessary for flower bud development. Most varieties need between 100 and 200hours of standard chilling (32 - 45F). Cool winters with low rainfall are ideal for lychees. The trees become more hardy as they age. Mature trees have survived temperatures as low as 25F when fully hardened off. Young trees may be killed by a light frost. Lychees can be successfully grown in frost-free coastal areas of California. There are trees in San Diego, California that are over 90years old with no sign of decline in sight. It first fruited in Santa Barbara in 1914. They can be grown for a short period in a large container.  "
+    ], 
+    "Growth Habit:": [
+        " The lychee tree is handsome, dense, round-topped and slow-growing with smooth, gray, brittle trunk and limbs. Under ideal conditions they may reach 40feet high, but they are usually much smaller  The tree in full fruit is a stunning sight.  "
+    ], 
+    "Foliage:": [
+        " The leathery, pinnate leaves are divided into four to eight leaflets. They are reddish when young, becoming shiny and bright green. Lychee trees have full foliage and branch to the ground.  "
+    ], 
+    "Flowers:": [
+        " The tiny petalless, yellowish-green flowers are borne in in terminal clusters to 30inches. Lychees are eye-catching in spring when the huge sprays of flowers adorn the tree. Flowering precedes fruit maturity by approximately 140days. "
+    ], 
+    "Fruits:": [
+        " The fruit is covered by a leathery rind or pedicarp which is pink to strawberry-red in color and rough in texture. A greenish-yellow variety is not grown in California at present. Fruit shape is oval, heart-shaped or nearly round, 1 to 1-1/2inches in length. The edible portion or aril is white, translucent, firm and juicy. The flavor is sweet, fragrant and delicious. Inside the aril is a seed that varies considerably in size. The most desirable varieties contain atrophied seeds which are called \"chicken tongue\". They are very small, up to 1/2inch in length. Larger seeds vary between 1/2 to 1inch in length and are plumper than the chicken tongues. There is also a distinction between the lychee that leaks juice when the skin is broken and the \"dry and clean\" varieties which are more desirable. In some areas lychees tend to be alternate bearers. Fruit splitting is usually caused by fluctuating soil moisture levels. "
+    ], 
+    "Location:": [
+        " Lychees need full sun, but young trees must be protected from heat, frost and high winds. "
+    ], 
+    "Soil:": [
+        " The tree needs a well-drained soil that is rich in organic matter. A soil pH between 5.5 and 7.5 is acceptable, but plants grow much better in soils with a pH at the low end of this range. Apply a thick layer of organic mulch to the soil after planting.  "
+    ], 
+    "Irrigation:": [
+        " The lychee will not tolerate standing water, but requires very moist soil, so water the tree regularly when it is growing actively. The trees are very sensitive to damage from salts in the soil or in water. Leach the soil regularly in the Southwest. "
+    ], 
+    "Fertilization:": [
+        " Young trees tend to grow slowly, and many gardeners tend to give them too much fertilizer in an attempt to push them along. Young trees should receive only light applications of a complete fertilizer. Mature trees are heavier feeders and should be fertilized regularly from spring to late summer. Use fertilizers formulated for acid-loving plants. Chelated iron and soil sulfur may be necessary in areas with alkaline soils.  "
+    ], 
+    "Pruning:": [
+        " Prune young trees to establish a strong, permanent structure for easy harvest. After that, removing crossing or damaged branches is all this is necessary, although he trees can be pruned more heavily to control size. V-shaped crotches should be avoided because of the wood's brittle nature. "
+    ], 
+    "Frost Protection:": [
+        " Lychees need warmth and a frost-free environment, but can often withstand light freezes with some kind of overhead protection. When they are young, this can be provided by building a frame around the plants and covering it with bedding, plastic sheeting, etc. when frost threatens. Electric light bulbs can also be used for added warmth. "
+    ], 
+    "Propagation:": [
+        " Air-layering is the most common method of propagating lychees because grafting is difficult and seedlings are not reliable producers of quality fruit. To grow a plant from seed it is important to remember that seeds remain viable for no more than a day or two under dry conditions. Young seedlings grow vigorously until they reach 7 or 8inches in height. They will stay at this height for up to two years without further noticeable growth. Wedge and bud grafts are possible, but seldom used.  "
+    ], 
+    "Pests and Diseases:": [
+        " Mites, scale and aphids occasionally infest lychees. Birds are often attracted to lychees, eating both the immature and the ripe fruit. It may be necessary to cover the plants with a protective netting. "
+    ], 
+    "Harvest:": [
+        " The Fruit must be allowed to ripen fully on the tree. Overly mature fruit darken in color and lose their luster. The flavor lacks the richness associated with a certain amount of acidity. To harvest, snip off entire fruit clusters, keeping a short piece of the stem attached. Lychees can be stored for up five weeks in the refrigerator. They can also be frozen or dried. Lychees will begin to deteriorate within three days at room temperature. "
+    ], 
+    "Mauritius": [
+        " (Kwai Mi)"
+    ], 
+    "Tai tsao": [
+        " Fruit ripens early. Somewhat egg-shaped, bright red, rough skin. Crisp, sweet, firm flesh. Leaks juice when skin is broken. "
+    ]
+}

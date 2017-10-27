@@ -1,0 +1,65 @@
+{
+    "Common Names:": [
+        " Barbados Cherry, West Indian Cherry, Cereza, Cerisier, Semeruco "
+    ], 
+    "Related Species:": [
+        " Mapighia punicifolia has been renamed M. emarginata by recent authorities.  Acerola is listed under M. glabra in the "
+    ], 
+    "Distant Affinity:": [
+        "  Ciruela del Monte (Bunchosia argentea), Ciruela Verde (Bunchosia armeniaca), Nance (Byrsonima crassifolia) "
+    ], 
+    "Origin:": [
+        "  The acerola is believed to originate from the Yucatan  (linguistic evidence) and is distributed from South Texas, through Mexico (especially on the West Coast from Sonora to Guerrero) and Central America to northern South America (Venezuela, Surinam, Columbia) and throughout the Caribbean (Bahamas to Trinidad). Acerola has now been successfully introduced in sub-tropical areas throughout the world (Southeast Asia, India, South America), and some of the largest plantings are in Brazil. "
+    ], 
+    "Adaptation:": [
+        "  The acerola is typically found in dry, thorn-woodlands as a deciduous tree. It grows in San Diego County, coastal Southern California and in more extreme areas with protection.  There are trees in Riverside, Calif. and San Bernardino County.  In general, acerola has poor cold tolerance, with young plants typically killed at temperatures below 30F.  Trees can survive brief exposure to 28F with loss of leaves.   Trees are sensitive to wind (shallow root systems).  The acerola is drought tolerant, and will adopt a deciduous habit;  irrigation results in leaf and flower flush.  Plants can easily adapt to pot culture in well-draining, limed soil.    "
+    ], 
+    "Growth Habit:": [
+        "  Large, relatively fast growing bushy shrub or  small tree (to 15 feet).   Can be pruned to any desired shape, but grows best as a managed shrub.  Multiple or single trunks which can be trained.  Occasionally, bushes appear to be composed of canes.  Branches are brittle, and easily broken.  Leaves may be irritating to some people.  The root system is shallow, and trees can be toppled by wind, but they can be uprighted and recover over time "
+    ], 
+    "Foliage:": [
+        "  Acerola leaves are dark to light green, glossy when mature, obviate to lanceolate, with minute hairs which can be irritating. Foliage will drop during water stress, but recovers well with flush and flowering. "
+    ], 
+    "Flowers:": [
+        "  The flowers are sessile or on short-peduncled cymes, with small pink to white flowers with five petals.  Up to 90% of flowers fall from tree, but \"Blossom Set\" can be used to counter this effect. Flowering can occur throughout the year, but is typically in cycles associated with rain. Irrigation can be used to induce flowering.  Flowering occurs primarily on old growth.  Pollination rarely observed, but thought to be by the solitary bee, Centris.  Honeybees do not appear effective (contested).  Cross-pollination may or may not be required depending on variety or strain (contested).  In available cultivars, fruit does set without obvious pollinators or need for cross-pollination. "
+    ], 
+    "Fruit:": [
+        "  Fruits are round to oblate, cherry-like but with 3 lobes.  They are bright red  (rarely yellow-orange) with thin skin, easily bruised.  The pulp is juicy, acid to sub-acid occasionally nearly sweet, with a delicate flavor and apple notes.  The fruit is very high in Vitamin C, up to 4,000mg per 100g  fresh weight, but typically around 1,500mg C.  Green fruits have  twice the Vitamin C level of mature fruits.  Fruits develop to  maturity in less than 25 days.  Seeds typically three with fluted wings, forming a triangle.  Many aspects of seed viability have not been studied.     "
+    ], 
+    "Location:": [
+        "  The plant prefers full sun for fruit development, giving  rise to the problem of  winter protection in harsher climates. Shaded trees fruit, but at reduced fruit densities, and the plants themselves become somewhat spindly.  Due to its shallow and smaller root system, acerola can be interplanted with other crops more closely than many trees.   "
+    ], 
+    "Soil:": [
+        "  Acerolas grows in marl, limestone, clay and other heavy soils as long as it drains well;  waterlogging of roots will cause plant death.  Soil pH should be 6.5-7.5 as acid soils do not promote vigorous growth.  Liming of trees and working into the soil is a common practice and necessary for high productivity.   "
+    ], 
+    "Irrigation:": [
+        "  The acerola does best with 1000-2000mm of water. However, as mentioned, acerola is drought-tolerant.  Irrigation can be used to cause flowering and can regulate flower cycles.  Under good constant irrigation, acerola will flower all year, with between 1 and 3 flowering peaks.  Acerola does well with both overhead and drip irrigation.   "
+    ], 
+    "Fertilization:": [
+        "  Acerolas requires a good, balanced fertilization schedule, and regular (once a year) liming of soil.  Foliar sprays are very effective, and are used commercially.  Mineral nutrition is very important, with good levels of boron and iron required. "
+    ], 
+    "Pruning:": [
+        "  The plant will tolerate heavy pruning, but requires time for recovery.  In more tropical areas, plants do not seem overly affected by pruning.  Plants are pruned commercially with citrus pruners.  Can be kept as a small bush (e.g. 5 ft) and will produce well. "
+    ], 
+    "Frost Protection:": [
+        "  As with most frost-sensitive plants, the acerola will need some protection when grown in areas were frost can occur.  Growing with overhead protection or growing next to a wall or building may be sufficient, but the plant may also be covered with heavy cloth or plastic sheeting draped over a frame for added protection.  Container grown plants can be moved too a frost secure area. "
+    ], 
+    "Propagation:": [
+        "  Acerolas can be propagated by seed, cutting, grafting, and other standard methods.  The plant does not appear stringent in its requirements.  Seed viability can be very low;  in some groves, seedlings are never observed.  Cuttings are considered the simplest method of propagation and, with the use standard IBA hormone, give near 100% success rates.  Grafting onto rootstocks has not been  systematically studied, although grafts onto Byrsonima crassifolia rootstock have been successful. "
+    ], 
+    "Pests and Disease:": [
+        "  The Acerola is susceptible to root-knot nematode (Meloidogyne spp.) which causes serious problems with young trees and slower losses of productivity in older trees.  It is also attacked by a variety of common insects, such as aphids, whitefly and scale.  In other areas of the world (Mexico, Caribbean) weevils (Anthonomus spp.) are serious pests, and can limit fruit production. In tropical areas, Cercospora fungi can be a major cause disease.   "
+    ], 
+    "Harvest:": [
+        "  The fruit deteriorates rapidly once removed from tree; sensory differences can be noted within 4 hours.  The fruit undergoes rapid fermentation, and is typically unusable by 3-5 days.  Unrefrigerated fruit develops mold quickly  The best uses are direct eating, jams and jellies, and syrups.  Juices, which are popular in Brazil, do not hold their sensory characteristics for extended periods.  The fruit has also been used for baby food, as a supplement source for Vitamin C, as an ice cream and pop-sickle ingredient, and in many home recipes. Frozen fruit falls apart when thawed. "
+    ], 
+    "Commercial Potential:": [
+        "  Plantings of acerola are increasing worldwide, with Brazil leading the way.  The increased plantings are a direct result of increased use of acerola for a natural source of Vitamin C for nutritional supplements.  "
+    ], 
+    "Florida Sweet": [
+        " "
+    ], 
+    "Manoa Sweet": [
+        "  Orange-red fruit of the sweet type.  Tree upright, spreading, very productive.  Originated in Honolulu, HA by Henry Y. Nakasone, University of Hawaii.  Introduced in 1963.   "
+    ]
+}

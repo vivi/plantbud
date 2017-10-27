@@ -1,0 +1,77 @@
+{
+    "Common Names:": [
+        " Pistachio, Pistache. "
+    ], 
+    "Related Species:": [
+        " Mt. Atlas Pistache (Pistacia atlantica), Chinese Pistache (P. chinesis), Terebinth Pistache (P. terebinthus) "
+    ], 
+    "Distant Affinity:": [
+        " Cashew (Anacardium occidentale), Mango (Mangifera indica), Ambarella (Spondias cytherea), Yellow Mombin (Spondias mombin), Red Mombin (Spondias purpurea), Imbu (Spondias tuberosa) and others. "
+    ], 
+    "Origin:": [
+        " The pistachio tree is native to western Asia and Asia Minor,from Syria to the Caucasus and Afghanistan. Archaeological evidence in Turkey indicate the nuts were being used for food as early as 7,000 B.C. The pistachio was introduced to Italy from Syria early in the first century A.D. Subsequently its cultivation spread to other Mediterranean countries.  The tree was first introduced into the United States in 1854 by Charles Mason, who distributed seed for experimental plantings in California, Texas and some southern states. In 1875 a few small pistachio trees, imported from France were planted in Sonoma, Calif. In the early 1900's the U.S. Dept. of Agriculture assembled a collection of Pistacia species and pistachio nut varieties at the Plant Introduction Station in Chico, Calif. Commercial production of pistachio nuts began in the late 1970's and rapidly expanded to a major operation in the San Joaquin Valley. Other major pistachio producing areas are Iran and Turkey and to a lesser extent, Syria, India, Greece, Pakistan and elsewhere. "
+    ], 
+    "Adaptation:": [
+        " Pistachios thrive in areas which have winters cool enough to break bud dormancy and hot, long summers. They are drought resistant and very tolerant of high summer temperatures, but cannot tolerate excessive dampness and high humidity. The tree has about the same cold resistance as almonds and olives but flowers later in spring than almonds. Chill requirements are estimated at 600 to 1,500hours. In this country the pistachio is best adapted to the hot, drier regions of California and the Southwest, especially California's central valley and southern California inland areas. Pistachio trees are not particularly suitable as container plants.  "
+    ], 
+    "Growth Habits:": [
+        " The pistachio is a broad, bushy, deciduous tree which grows slowly to a height and spread of 25 to 30feet, with one or several trunks. The trees are inclined to spread and droop, and may initially need staking. Their open habit and attractive foliage make them valuable ornamentals. Under favorable conditions pistachio trees live and produce for centuries. "
+    ], 
+    "Foliage:": [
+        " The large, grayish leaves have 3 to 5roundish, 2 to4inch-long leaflets. "
+    ], 
+    "Flowers:": [
+        " Pistachios are dioecious with male and female flowers on separate trees. Male and female trees must be present for fruit to set, or a branch from a male tree may be grafted on a female tree. The small, brownish green flowers are without petals and borne on axillary racemes or panicles in early summer. Wind carries the pollen from the male to the female flowers.  "
+    ], 
+    "Fruit:": [
+        " The reddish, wrinkled fruits are borne in heavy clusters somewhat like grapes. Although known as a nut, the fruit of the pistachio is botanically a drupe, the edible portion of which is the seed.  The oblong kernel is about 1inch in length and 1/2inch in diameter and protected by a thin, ivory-colored, bony shell. Normally the shells split longitudinally along their sutures when mature. Under unfavorable conditions during nut growth, the shells may not split open. The color of the kernel varies from yellowish through shades of green, which extends throughout the kernel. In general the deeper the shade of green, the more the nuts are esteemed. Pistachio nuts are rich in oil, with an average content of about 55%. The trees begin bearing in 5 to 8years, but full bearing is not attained until the 15th or 20th year. Pistachios tend toward biennial bearing, producing heavy crop one year followed by little or none the next. Production of nuts is also influenced by drought, excessive rain, heat or cold and high winds.  "
+    ], 
+    "Location:": [
+        " Pistachios should be planted in full sun. The size of the slow growing trees can be further controlled by pruning. When planting, avoid rough handling since the budded tops are easily broken away from the understock.  "
+    ], 
+    "Soil:": [
+        " The trees do best on soils that are deep, friable and well drained but moisture retaining. It can, however, survive in poor, stony, calcareous, highly alkaline or slightly acid, or even saline soils. The root is deeply penetrating.  "
+    ], 
+    "Irrigation:": [
+        " Pistachios will tolerate considerable drought but do best with deep, infrequent waterings. "
+    ], 
+    "Fertilization:": [
+        " Since pistachios grow slowly, they do not require large quantities of nitrogen fertilizer. A spring feeding of a complete fertilizer such as 10-10-10 NPK should be adequate. "
+    ], 
+    "Pruning:": [
+        " Pruning can be important to commercial growers in order to shape the trees for mechanical harvesting, but less so for the home orchardist. The trees should be trained to a modified central leader with 4 or 5main scaffold limbs branching about 4ft. from the ground. After initial training, little pruning is needed except to remove interfering branches. Heavy pruning reduces yield. "
+    ], 
+    "Propagation:": [
+        " The pistachio is usually propagated in California by budding or grafting selected scions onto seedling stocks of P. atlantica, P. terebinthus and P. integerrima. These rootstock species are used because of their vigor and resistance to nematodes and soil borne fungi. "
+    ], 
+    "Pests and Diseases:": [
+        " A number of fungi attack the pistachio. The most serious fungal disease in California is Verticillium wilt, which can quickly kill trees of varying age. Most pistachios are now grafted to Verticillium resistant P. integerrima rootstock. The trees are also sensitive to the oak root fungus, Armillaria mellea. Insect pests include the aphid, Anapleura lentisci and several species of leaf-footed bugs and stink bugs. The nuts are also very attractive to squirrels and some birds, including bluejays and woodpeckers. "
+    ], 
+    "Harvest:": [
+        " The nuts are harvested when the husk or hull covering the shell becomes fairly loose. A single shaking will bring down the bulk of the matured nuts, which can be caught on a tarp or canvas. A fully mature tree may produce as much as 50pounds of dry, hulled nuts. The hulls should be removed soon after to prevent staining of the shells. To enhance splitting, the hulled nuts may then be dipped into water to moisten the shell and spread out in the sun to dry. One method of salting the split nuts is to boil them in a salt solution for a few minutes, then redry and store them. Stored in plastic bags pistachios will last for at least 4 to 6weeks in the refrigerator. Frozen they will last for months.  "
+    ], 
+    "Commercial Potential:": [
+        " Pistachio nuts are considered one of the prime edible nuts, along with almonds, macadamias and cashews. The production of pistachio nuts in California has increased dramatically in recent years, from some  4-1/2million pounds in 1977 to over 80million today.  With additional promotion, production is estimated to ultimately exceed 129million pounds.  "
+    ], 
+    "Kerman, Ibrahmim, Owhadi, Safeed, Shasti": [
+        " and "
+    ], 
+    "Wahedi": [
+        " (largest nuts of any cultivar). The first nut bearing cultivars tested at Chico, Calif. were "
+    ], 
+    "Bronte, Buenzle, Minassian, Red Aleppo, Sfax": [
+        " and "
+    ], 
+    "Trabonella.": [
+        " Kerman is liked by importers and processors for its size, crispness and snap when eaten. A sister seedling of Kerman, "
+    ], 
+    "Lassen": [
+        ", also produces good quality large-sized nuts. The standard male cultivar is "
+    ], 
+    "Peters.": [
+        " The Kerman and Peters cultivars are more fully described below. "
+    ], 
+    "Peters": [
+        "Male. Good producer of pollen, its blossoming coinciding with early blossoming cultivars, as well as the later blooming Kerman. Has a tendency to be a loppy, weak grower, especially when propagated on P. vera  roots. Originated in Fresno, Calif. by A. B. Peters. "
+    ]
+}

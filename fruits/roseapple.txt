@@ -1,0 +1,56 @@
+{
+    "Common Names:": [
+        " Rose apple, Plum rose, Malabar plum. "
+    ], 
+    "Related Species:": [
+        " Water Apple (Syzygium aqueum), Blue Lilly Pilly (S. coolminianum), Water berry (S. cordatum), Jambolan,  Java Plum (S. cumini), Water Pear (S. guineense), Malay Apple (S. malaccense), Java Apple (S. samarangense).  "
+    ], 
+    "Distant affinity:": [
+        "  Eugenias (Eugenia spp.),  "
+    ], 
+    "Origin:": [
+        " The rose apple is native to the East Indies and Malaya and is cultivated and naturalized in many parts of India, southeast Asia and the Pacific Islands. It was introduced into Jamaica in 1762 and became well distributed in the West Indies, and at low elevations, from southern Mexico to Peru.  The tree was planted in Florida before 1877, and later in California. "
+    ], 
+    "Adaptation:": [
+        " Rose apples flourish in tropical or near-tropical climates, but the tree is proving to be hardy enough (to about 25F) to be grown as an ornamental as far north in California as San Francisco. A beautiful specimen is thriving in the rather cold, windy rare fruit section of Quail Gardens in Encinitas. The rose apple is too large to make a suitable container plant "
+    ], 
+    "Growth Habit:": [
+        " The rose apple is a highly decorative evergreen large shrub or small tree growing to about 20 feet with low spreading branches and pale-brown bark. It is wide spreading and often will be wider than its height. "
+    ], 
+    "Foliage:": [
+        " The lanceolate leaves are 4 to 9 inches in length by 2 inches wide, shiny and pink when they first emerge, fading to pale green. When mature they are slightly leathery and dark green.  They are narrow and elliptic in shape and gradually taper to a point.  The foliage is produced in a dense, luxuriant mass that hides all branches from view.  "
+    ], 
+    "Flowers:": [
+        " Rose apple flowers are large and showy, white to pale cream and sweetly scented. They are 2 - 4 inches wide and consist mostly of about 300 conspicuous stamens to 1-1/3 inches long. There are usually 4 or 5 flowers together in terminal clusters. The flowers are a rich source of nectar for honeybees. "
+    ], 
+    "Fruit:": [
+        " The fruits are 1 - 2 inches wide, almost round or a little longer than wide. When ripe they may be greenish or dull-yellow flushed with pink. The skin is smooth and thin, and the firm flesh yellowish, sweet and rose scente. The texture is crisp, almost crunchy when the fruit is ripe and freshly picked. They contains one to four medium hard, round seeds, which rattle around inside the fruit. The seed as well as the roots are regarded as poisonous. Seedless, thick-fleshed fruits have been experimentally produced by treating opened flowers with growth regulators such as naphthoxy acetic acid. "
+    ], 
+    "Location:": [
+        " The rose apple needs a warm, sunny location that is not subject to significant frosts. It should also be kept in mind that the tree will occupy considerable space. The tree is moderately resistant to winds and tolerates cool, coastal conditions.   "
+    ], 
+    "Soils:": [
+        " A deep, loamy, well-drained soil is best for the rose apple, but it also flourishes on sand and limestone with very little organic matter. In India it grows along streams. It is a favorite dooryard tree in the Peruvian part of the Amazon, where the trees are planted high enough to avoid the frequent floods. "
+    ], 
+    "Irrigation:": [
+        " The tree will tolerate semi-arid conditions, but prolonged dry spell are detrimental. It should have frequent irrigation when the weather is warm, and kept on the dry side when it's cold. "
+    ], 
+    "Fertilization:": [
+        " The rose apple's needs are unknown. If planted in a deep loamy soil it will thrive with very little other requirements. In less fertile soils a light semi-annual feeding of a balanced fertilizer, such as 6-6-6 NPK may be in order. "
+    ], 
+    "Pruning:": [
+        "  Pruning of rose apples is not usually necessary. In some countries it is pruned drastically to promote dense growth and used as hedgerows around coffee plantations. "
+    ], 
+    "Frost Protection:": [
+        " The rose apple will take several degrees of frost but does best when planted in a protected spot on the south side of a wall or building. Young plants can be given overhead protection and covered when significant frosts are expected. "
+    ], 
+    "Propagation:": [
+        " Most rose apple trees are grown from seed.  The seeds are polyembryonic and produce one to three sprouts, but seedlings are not uniform and there is considerable variation in fruit quality. The poorer fruits are dry and tasteless.  Various vegetative propagation methods have been satisfactory. Treated semi-hardwood cuttings were moderately successful, while air-layering and veneer grafting of spring-flush scions have been successful to a greater degree. Fruiting takes about four years.  "
+    ], 
+    "Pests and diseases:": [
+        " The rose apple has very few serious diseases and insect problems, although in humid climates the leaves are subject to a sooty mold from aphid excretions. Root rot caused by Fusarium spp., and mushroom root rot (Armillariella tabescens) can attack the tree. "
+    ], 
+    "Harvest:": [
+        " Rose apples bruise quite easily and are highly perishable. They must be freshly picked to be crisp. The fruit is only moderately interesting eaten out-of-hand, and is more often used in jellies and jams or preserved in combination with other fruits of more pronounced flavor. It is also cooked with sugar to make a dessert. When cooked with custards or puddings, they impart a rose flavor.  The flowers can also be candied. "
+    ]
+}

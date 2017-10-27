@@ -1,0 +1,50 @@
+{
+    "Common Names:": [
+        " California Fan Palm, Desert Fan Palm, Petticoat Palm. "
+    ], 
+    "Related Species:": [
+        "  Thread Palm, Mexican Fan Palm (Washingtonia robusta). "
+    ], 
+    "Origin:": [
+        "  California fan palms occur near streams and springs on borders of the Colorado Desert of California and southwest Arizona. The related  W.robusta is native to arid regions of Sonora and Baja California, Mexico. "
+    ], 
+    "Adaptation:": [
+        " The palms are extensively grown in many parts of California and are common along the Gulf Coast and in Florida, as well as in other parts of the world, particularly those with Mediterranean-type climates. They are hardy to 18F (USDAZones8-11).  "
+    ], 
+    "Growth Habits:": [
+        " The robust palms grow at a moderate rate to about 50 feet with a large canopy of several dozen leaves. The cylindrical, closely ringed and fissured trunks are swollen at the base and covered with a \"petticoat\" of dead, pendant leaf stalks, extending almost to the ground. The trees are especially valuable as avenue plants, and are widely used as such in southern California and Arizona. The also make handsome specimens They are not a particularly good choice for container culture because of their relatively fast rate of growth. "
+    ], 
+    "Foliage:": [
+        " The immense, fan-shaped, costapalmate, grayish-green leaves are  3-4feet long and 6-7feet wide, dividing about halfway into 50-70pointed segments that bend and split at the tips with threads in between. The leaves are edged with prickles and  stand well apart in an open crown. "
+    ], 
+    "Flowers:": [
+        " Numerous white to apricot, bisexual flowers are borne on 9-15foot arching, branched inflorescences that hang down from among the leaves. Pollination is by wind and various insects. "
+    ], 
+    "Fruit:": [
+        " The berry-like, small fruits are brownish-black and have a thin, sweet pulp that tastes somewhat like dates or butterscotch. Each fruit contains a single seed.   "
+    ], 
+    "Location:": [
+        " California fan palms are wind-tolerant and do best in a sunny location. "
+    ], 
+    "Soil:": [
+        " The trees are widely adaptable to most soil conditions. "
+    ], 
+    "Irrigation:": [
+        " The palms are drought-tolerant but appreciate some moisture. In native stands they always grow near springs or other moist spots. "
+    ], 
+    "Fertilizing:": [
+        " The trees respond to an occasional light fertilizing, particularly when young. Older trees seem to do well without  regular fertilizing. "
+    ], 
+    "Pruning:": [
+        " Cultivated trees usually have the shag of dead leaves removed, since this can be a fire hazard as well as a home to rats and mice. Older, untidy leaves are also sometimes removed. "
+    ], 
+    "Propagation:": [
+        " Propagation is from seed, which germinate in six weeks to two months. "
+    ], 
+    "Pests and Diseases:": [
+        " Major diseases include phytophthora bud rot, pestalotiopsis and diamond scale fungus. "
+    ], 
+    "Harvest:": [
+        " The small fruits are harvested when ripe and eaten fresh or dried, or made into jellies and drinks. The seeds are also edible and were widely used by Native Americans who ground them into meal for making bread or porridge. "
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Common Names:": [
+        " Jackfruit, Jakfruit, Jaca, Nangka. "
+    ], 
+    "Related Species:": [
+        " Breadfruit (Artocarpus altilis),  Breadnut (A. altilis 'Seminifera'),  Champedak (A. integer), Lakoocha (A. lakoocha), Marang (A. odoratissimus).   Distant affinity: "
+    ], 
+    "Origin:": [
+        " The jackfruit is believed indigenous to the rain forests of the Western Ghats of India.  It spread early on to other parts of India, southeast Asia, the East Indies and ultimately the Philippines.  It is often planted in central and eastern Africa and is fairly popular in Brazil and Surinam. "
+    ], 
+    "Adaptation:": [
+        " Jackfruit is adapted to humid tropical and near-tropical climates.  Mature trees have survived temperatures of about 27F in southern Florida, but these were frozen to large limbs.  Young trees are likely to be killed at temperatures below 32F. Unlike its relative, the breadfruit, the jackfruit is not injured by cool weather several degrees above freezing. There are only a dozen or so bearing jackfruit trees today in southern Florida, and these are valued mainly as curiosities. There are also several trees planted in the Asian exhibit at the San Diego Zoo.  What they will do or how high they will grow remains a question. The tree is too large to make a suitable container-grown plant. "
+    ], 
+    "Growth Habit:": [
+        " The jackfruit tree is handsome and stately. In the tropics it grows to an enormous size, like a large eastern oak. In California it is very doubtful that it would ever approach this size. All parts contain a sticky, white latex. "
+    ], 
+    "Foliage:": [
+        " The leaves are oblong, oval, or elliptic in form, 4 to 6inches in length, leathery, glossy, and deep green in color. Juvenile leaves are lobed. "
+    ], 
+    "Flowers:": [
+        " Male and female flowers are borne in separate flower-heads. Male flower-heads are on new wood among the leaves or above the female.  They are swollen, oblong, from an inch to four inches long and up to an inch wide at the widest part.  They are pale green at first, then darken. When mature the head is covered with yellow pollen that falls rapidly after flowering.  The female heads appear on short, stout twigs that emerge from the trunk and large branches, or even from the soil-covered base of very old trees. They look like the male heads but without pollen, and soon begins to swell.  The stalks of both male and female flower-heads are encircled by a small green ring. "
+    ], 
+    "Fruit:": [
+        " Jackfruit is the largest tree-borne fruit in the world, reaching  80pounds in weight and up to 36inches long and 20inches in diameter. The exterior of the compound fruit is green or yellow when ripe. The interior consists of large edible bulbs of yellow, banana-flavored flesh that encloses a smooth, oval, light-brown seed.  The seed is 3/4 to 1-1/2inches long and 1/2 to 3/4inches thick and is white and crisp within.  There may be 100 or up to 500seeds in a single fruit, which are viable for no more than three or four days. When fully ripe, the unopened jackfruit emits a strong disagreeable odor, resembling that of decayed onions, while the pulp of the opened fruit smells of pineapple and banana.  "
+    ], 
+    "Location:": [
+        " The jackfruit tree should have a well-drained, frost-free location that is sunny and warm.  "
+    ], 
+    "Soil:": [
+        " The jackfruit flourishes in rich, deep soil of medium or open texture. Planting on top of an old compost heap would be ideal.  The faster one can force a tropical plant to grow, the better the chance of keeping it alive. The tree needs the best drainage and cannot tolerate \"wet feet\". "
+    ], 
+    "Irrigation:": [
+        " The tree will not tolerate drought. Water frequently during warm months and warm periods in cooler months.  Less water is necessary   during colder weather. "
+    ], 
+    "Fertilization:": [
+        " The jackfruit's requirements are not known, but frequent, weak solutions of all-purpose fertilizer will speed the plant's growth without causing burn. In the regions where it is commonly grown, it succeeds without much care from man, the sole necessity being abundant moisture. "
+    ], 
+    "Frost protection:": [
+        " Although mature jackfruit trees will take several degrees of frost, it is prudent to provide young plants with overhead protection if possible and plant them on the south side of a wall or building. Small plants should be given complete protection with a covering on cold nights and even a light bulb if possible.   "
+    ], 
+    "Propagation:": [
+        "Propagation is usually by seeds, which can be kept no longer than a month before planting. Germination requires 3 to 8weeks. The seedlings should be moved when no more than 4leaves have appeared. A more advanced seedling, with its long and delicate tap root is very difficult to transplant successfully. Cutting-grown plants and grafted seedlings are possible. Air-layering is common in India.  "
+    ], 
+    "Pruning:": [
+        "  Little or no pruning is required other than to remove any dead branches from the interior of the tree, so that sufficient light is obtained for the developing fruit. "
+    ], 
+    "Pests and diseases:": [
+        "  A variety of pests and diseases afflict the jackfruit tree and fruit regions where it is commonly grown. In California the white fly is a minor pest. "
+    ], 
+    "Harvest:": [
+        " Jackfruits mature 3 to 8months from flowering. When mature, there is usually a change of fruit color from light green to yellow-brown. Spines, closely spaced, yield to moderate pressure, and there is a dull, hollow sound when the fruit is tapped. After ripening, they turn brown and deteriorate rather quickly.  Cold storage trials indicate that ripe fruits can be kept for 3 to 6weeks at 52 to 55F and relative humidity of 85% to 95%. Immature fruit is boiled, fried, or roasted. Chunks are cooked in lightly salted water until tender and then served. The only handicap is copious gummy latex which accumulates on utensils and hands unless they are first rubbed with cooking oil. The seeds can also be boiled or roasted and eaten similar to chestnuts. In Southeast Asia dried slices of unripe jackfruit are sold in the markets. The ripe bulbs, fermented and then distilled, produce a potent liquor. "
+    ]
+}

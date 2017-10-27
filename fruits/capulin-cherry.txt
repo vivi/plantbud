@@ -1,0 +1,59 @@
+{
+    "Common Names:": [
+        " Capulin Cherry, Capulin, Capuli, Tropic Cherry. "
+    ], 
+    "Related Species:": [
+        " Sweet Cherry (Prunus avium), Western Sand Cherry (P. besseyi), Myrobalan Plum (P. cerasifera), Sour Cherry (P. cerasus), European Plum (P. domestica), Beach plum (P. maritima), Japanese Plum (P. salicina),  Nanking Cherry (P. tomentosa), Common Chokecherry (P. virginiana) and others. "
+    ], 
+    "Distant Affinity:": [
+        " Almond (Amygdalus communis), Peach (A. persica), Apricot (Armeniaca vulgaris),  "
+    ], 
+    "Origin:": [
+        " The capulin cherry is native and common throughout the Valley of Mexico from Sonora to Chiapas and Veracruz and possibly western Guatemala. It has been cultivated since early times and is extensively naturalized in Central America and over much of western South America.   Today it is cultivated in the Andes more than in its northern homeland and at harvest the fruits are abundantly available in Andean markets. The tree was introduced into California sometime after the mid-1920s. "
+    ], 
+    "Adaptation:": [
+        " Capulins are adapted to a subtropical to subtemperate climate. In its native and naturalized areas it is grows naturally at elevations between 4,000 and 9,000 ft. It is frost tolerant, withstanding 19F with some damage to the smaller branches. In California the tree grows and fruits in many regions of the state. Capulin cherries are photo period insensitive and do not require winter chill to bear fruit. The trees are not recommended for containers.  "
+    ], 
+    "Growth Habits:": [
+        " The semideciduous tree is erect and somewhat umbrella-shaped with a short, stout trunk and rough, grayish bark. It is very fast growing and reaches a height of 10feet in 12 to 18months, eventually attaining a height of 30feet or more. In mild climates the tree does not shed its leaves in winter. Capulin cherries are quite attractive, both when in bloom with dangling racemes covered with masses of flowers and after fruit set when the racemes are thick with green, light red or deep red ripening fruit. "
+    ], 
+    "Foliage:": [
+        " The alternate, aromatic leaves are about 4-1/2inches long, slender, with serrated edges. They are deep glossy green above and pale grayish-green beneath. New leaves are often rosy.  "
+    ], 
+    "Flowers:": [
+        " The flowers appear in early spring and are borne on slender racemes with one or more leaves at the base. Individual flowers are about 3/4inch wide with white petals and a conspicuous tuft of stamens. Cross-pollination is not required. "
+    ], 
+    "Fruit:": [
+        " As many as 15 or 20fruits sometimes develop on a raceme, but half or more fall before reaching maturity. Depending on climate and variety, they ripen from mid-May to midsummer. Resembling the northern cherry, the fruits are 1/2 to 3/4inch in diameter and deep glossy maroon to dark purple in color, with a thin, tender skin. The pale green, firm, juicy flesh is sweet and agreeable with a touch of astringency similar to wild cherries in some cases. The pit is rather large in proportion to the size of the fruit. The trees will produce fruit 2 to 3years after planting, and under the right conditions will set more than one crop per season. For reasons unknown trees with gray bark seem to produce larger fruit than those with darker bark.  "
+    ], 
+    "Location:": [
+        " Capulins should be planted in full sun. Stake young trees carefully to protect from strong winds.  "
+    ], 
+    "Soil:": [
+        " The trees are not exacting in their soil requirements and grow well on any reasonably fertile site. They can thrive in poor ground, even clays, but seem to prefer dry sandy soils with a pH of 5.5 to 6.5 "
+    ], 
+    "Irrigation:": [
+        " Capulin cherries are somewhat drought tolerant, but they grow better and produce better fruit with regular watering, particularly during the period between flowering and fruiting.   "
+    ], 
+    "Fertilizing:": [
+        " Capulin cherries respond well to light applications of nitrogen fertilizer when the blossoms first appear in spring. In reasonably good soils the trees may need no more than an annual mulch of compost.  "
+    ], 
+    "Pruning:": [
+        " The trees need very little pruning to remain productive, although some pruning is useful to keep them at a desired height and to facilitate fruit harvest. They will take radical pruning and can be grown as a fruiting hedge. "
+    ], 
+    "Propagation:": [
+        " Capulin cherries are easily propagated by seed but the fruit quality of seedling trees is quite variable. Seedling plants are typically used as rootstock for desired cultivars using tip, wedge or cleft grafts. The plants can also be propagated from hardwood cuttings for growth on their own roots. "
+    ], 
+    "Pests and Diseases:": [
+        " In California capulins are relatively free of many of the pests and diseases that afflict regular cherries and other stonefruit trees. Bacterial gummosis is an occasional problem, and some varieties are prone to die-back for unknown reasons. Pests include mites, pear slugs and scale. Deer will browse on the foliage when the plants are small. Birds are attracted to the fruit, but are less of a problem than they are with regular cherries.    "
+    ], 
+    "Harvest:": [
+        " Like other cherries, the fruits are ready to harvest when they has developed full color and yield to gentle pressure. The skin is thin and tender but sufficiently firm for the fruit to resist bruising. The fruit will keep under refrigeration for 4 to 6weeks in an uncovered container. The ripe fruits can be eaten out of hand or made into jams and preserves, or even made into wine. "
+    ], 
+    "Commercial Potential:": [
+        " Although common in the markets of Guatemala and the Andean regions, and useful as a backyard fruit, capulin cherries have yet to achieve any commercial success in this country. This could change if varieties could be developed with eating qualities on par with cultivated cherries. There is some evidence that this is an achievable goal. Ripening before most major northern cherries, the fruits could fill a marketing niche.  "
+    ], 
+    "Werner": [
+        " Small fruit with very good flavor. Tree a light producer, appears to bear better on certain rootstocks. Extremely vigorous, can grow 15ft. or more in one year. Named for Andrew Werner of Santa Cruz, Calif. "
+    ]
+}

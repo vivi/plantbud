@@ -1,0 +1,65 @@
+{
+    "Common Names:": [
+        " Loquat, Japanese medlar, Nispero. "
+    ], 
+    "Distant Affinity:": [
+        " Apples (Malus spp.), Medlar (Mispilus germanica), Stone Fruit (Prunus spp.), Pears (Pyrus spp.) and others. "
+    ], 
+    "Origin:": [
+        " The loquat is indigenous to southeastern China. It was introduced into Japan and became naturalized there in very early times. It has been cultivated in Japan for over 1,000years. It has also become naturalized in India and many other areas. Chinese immigrants are presumed to have carried the loquat to Hawaii. It was common as a small-fruited ornamental in California in the 1870's, and the improved variety, Giant, was being sold there by 1887. Japan is the leading producer of loquats, followed by Israel and Brazil. "
+    ], 
+    "Adaption:": [
+        " The loquat is adapted to a subtropical to mild-temperature climate. Where the climate is too cool or excessively warm and moist, the tree is grown as an ornamental but will not bear fruit. Well established trees can tolerate a low temperature of 12F. The killing temperature for the flower bud is about 19F, and for the mature flower about 26F. At 25F the seed is killed, causing the fruit to fall. Extreme summer heat is also detrimental to the crop, and dry, hot winds cause leaf scorch. High heat and sunlight during the winter often results in sunburned fruit. The white-fleshed varieties are better adapted to cool coastal areas. In a large tub the loquat makes a good container specimen. "
+    ], 
+    "Growth Habits:": [
+        " The loquat is a large evergreen shrub or small tree with a rounded crown, short trunk and woolly new twigs. The tree can grow 20 to 30ft. high, but is usually much smaller than this--about 10ft. Loquats are easy to grow and are often used as an ornamental. Their boldly textured foliage add a tropical look to the garden and contrast well with many other plants. Because of the shallow root system of the loquat, care should be taken in mechanical cultivation not to damage the roots. "
+    ], 
+    "Foliage:": [
+        " Loquat leaves are generally eliptical-lanceolate, 5 to 12inches long and 3 to 4inches wide. They are dark green and glossy on the upper surface, whitish or rusty-hairy beneath, thick and stiff, with conspicuous parallel, oblique veins. The new growth is sometimes tinged with red. The leaves are narrow in some cultivars and broad in others. "
+    ], 
+    "Flowers:": [
+        " Small, white, sweetly fragrant flowers are borne in fall or early winter in panicles at the ends of the branches. Before they open, the flower clusters have an unusual rusty-wooly texture. "
+    ], 
+    "Fruit:": [
+        " Loquat fruits, growing in clusters, are oval, rounded or pear-shaped, 1 to 2inches long with a smooth or downy, yellow or orange, sometimes red-blushed skin. The succulent, tangy flesh is white, yellow or orange and sweet to subacid or acid, depending on the cultivar. Each fruit contains three to five large brown seeds. The loquat is normally pollinated by bees. Some cultivars are self-infertile and others are only partially self-fertile. Flowers of the early and late flushes tend to have abnormal stamens and very little viable pollen. Thinning of flowers and young fruits in the cluster, or clipping off all or part of flower and fruit clusters is sometimes done to enhance fruit size. Under most conditions the loquat tends to develop an alternate-bearing pattern, which can be modified somewhat by cluster thinning in heavy production years. For the highest quality fruit the clusters are sometimes bagged to protect from sunburn and eliminate bird damage. "
+    ], 
+    "Location:": [
+        " Loquats are wind tolerant and grow best in full sun, but also do well in partial shade. The round headed trees can be used to shade a patio. Loquats also make attractive espaliers. "
+    ], 
+    "Soil:": [
+        " Loquats grow well on a variety of soils of moderate fertility, from light sandy loam to heavy clay and even limestone soils, but need good drainage. "
+    ], 
+    "Irrigation:": [
+        " Loquat trees are drought tolerant, but they will produce higher quality fruit with regular, deep watering. The trees should be watered at the swelling of blossoms and 2 to 3waterings should be given during harvest time. The trees will not tolerate standing water. "
+    ], 
+    "Fertilizing:": [
+        " Loquats benefit from regular, light applications of nitrogen fertilizers, but too much nitrogen will reduce flowering. A good formula for applications of chemical fertilizer is 1lb. of 6-6-6NPK three times a year during the period of active growth for each tree 8 to 10feet in height. To control excessive growth, other authorities recommend fertilizing only once a year in midwinter. "
+    ], 
+    "Pruning:": [
+        " Judicious pruning should be done just after harvest, otherwise terminal shoots become too numerous and cause a decline in vigor. The objective of pruning is a low head to facilitate fruit thinning and harvest. Prune also to remove crossing branches and thin dense growth to let light into the center of the tree. Loquats respond well to more severe pruning. "
+    ], 
+    "Propagation:": [
+        " Generally seeds are used for propagation only when the tree is grown for ornamental purposes or for use as rootstock. For rootstock the seed are washed and planted in flats or pots soon after removal from the fruit and the seedlings are transplanted when 6 to 7inches high. When the stem is 1/2inch thick at the base, the seedlings are ready to be top-worked. Loquats can be propagated by various grafting methods, including shield-budding or side-veneer grafting and cleft-grafting. The use of loquat seedling rootstock usually results in a comparatively large tree with a high canopy. Cultivars grown on quince rootstock produce a dwarfed tree of early bearing character. The smaller tree has no effect on fruit size and gives adequate fruit production with the advantage of easier picking. Loquat cuttings are not easy to root. Grafted trees will begin to bear fruit in 2 to 3years, compared to 8 to 10years in seedling trees. "
+    ], 
+    "Pests and Diseases:": [
+        " In California there are few pests that bother loquats. Occasionally infestations of black scale may appear. Fruit flies are a serious pests in areas where they are problem. Birds will also peck at the ripe fruit and damage it, and deer will browse on the foliage. "
+    ], 
+    "Harvest:": [
+        " Loquat fruits should be allowed to ripen fully before harvesting. They reach maturity in about 90days from full flower opening. When ripe the fruit develops a distinctive color, depending on the cultivar, and begins to soften. Unripe fruits do not ripen properly off the tree and are excessively acid. Harvest time in California is from March to June. The fruit is difficult to separate from the cluster stems without tearing and must be carefully clipped individually or the whole cluster removed and the fruit then snipped off. Ripe fruit may be stored in the refrigerator for 1 to  2weeks. "
+    ], 
+    "Commercial Potential:": [
+        " In California, only in the coastal areas from Santa Barbara to San Diego counties is the fruit produced regularly in quantity and of sufficiently good quality to make commercial production feasible. Harvesting is somewhat labor intensive and the difficulty of handling the fragile fruit in addition to the relatively short self life and storage ability, limit the loquat as a major commercial fruit. Even so, the availability of loquats when few or no other local fruits are in the market is a factor in their favor. The fruit is also popular in ethnic markets and is offered in limited amounts in specialty fruit stores and through Farmer's Markets in many communities. "
+    ], 
+    "Gold Nugget": [
+        " (Thales, Placentia)"
+    ], 
+    "Wolfe": [
+        " Originated in Homestead, Florida by Carl W. Campbell. Fruit obovoid to slightly pyriform. Skin yellow, relatively thick. Flesh juicy, firm, flavor excellent. Seeds usually 1 to 3. Ripens in winter and early spring, several days later than Advance. Suitable for all purposes, but excellent for cooking. Tree to 25feet tall. Blooms during fall and early winter. "
+    ], 
+    "Victory": [
+        " (Chatsworth Victory)"
+    ], 
+    "Vista White": [
+        " Small to medium-sized, roundish fruit with blunt calyx end. Skin light yellow. Flesh pure white, very high in sugar content. Ripens 1 to 3 weeks later than Gold Nugget. Excellent for dessert. "
+    ]
+}

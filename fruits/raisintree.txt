@@ -1,0 +1,50 @@
+{
+    "Common Names:": [
+        " Raisin Tree, Japanese Raisin Tree, Kenpo Nashi "
+    ], 
+    "Distant Affinity:": [
+        " "
+    ], 
+    "Origin:": [
+        " The raisin tree is native to moist areas and mountains of China, although cultivation spread long ago to Japan, Korea and India. The plant was introduced to the West in about 1820.  "
+    ], 
+    "Adaptation:": [
+        " The northern limits for winter survival and fruit ripening of the tree has not been fully determined. It is cold-hardy to about -10F, and fruits ripen in eastern North America at least as far north as southern New York. There is a 28-year old specimen in the Asian section of the Los Angeles County Arboretum and another specimen at nearby Huntington Gardens. Raisin tree plants are not particularly suitable for container culture. "
+    ], 
+    "Growth Habit:": [
+        " The raisin tree is deciduous and can grow to a height of 70 feet or more, but cultivated specimens typically reach a height of about 30 feet with a singular trunk and a rounded head. The lower branches frequently drop off leaving a fairly high crotch. Growth rate is moderate, perhaps a foot or two per year, more when young and less when old. Raisin trees are particularly handsome when planted in groups. The deeply fissured bark is counterpointed by gently undulating branches and overlapping leaves "
+    ], 
+    "Foliage:": [
+        " The cordate, glossy green leaves are borne alternately. They are a large (up to six inches in length), rather limp leaf which must be spread out to see its shape.   "
+    ], 
+    "Flowers:": [
+        " Racemes of small self-fruitful flowers bloom in late spring. They are cream colored and compensate for their small size by being clustered together in great masses. Where summers are cool, bloom may be delayed even until the end of summer with the result that fruit does not form or ripen. "
+    ], 
+    "Fruit:": [
+        " The edible \"raisins\" are not a fruit at all but a short, swollen mature flower stalk or peduncle which supports the inedible seed pod. As the pod matures, the peduncle of stem attaching it to the cluster swells, becomes knobby and turns a translucent reddish brown. A pear-like flavor develops as the sugars increase, and the peduncle is ready to eat when it falls to the ground. Although the edible portions are small, close to the size of a raisin, the crop is copious. The brown pod which is actually the fruit is not used. "
+    ], 
+    "Location:": [
+        " Although native to partially shaded sites, full sun helps hasten flowering and ripening. When placed in a southwest corner, the tree provides summer shade and allows winter sun to pass through the bare limbs.  "
+    ], 
+    "Soil:": [
+        " The raisin tree tolerates a wide range of soil conditions and  thrives in sandy loam. "
+    ], 
+    "Irrigation:": [
+        " Although somewhat tolerant of drought, raisin trees do best with a regular supply of moisture. "
+    ], 
+    "Fertilization:": [
+        " Little is known about the fertilization needs of the tree, but a light to moderate fertilizing in mid-spring is probably useful. "
+    ], 
+    "Pruning:": [
+        " The tree tends to prune itself, dropping the lower branches as the tree grows. "
+    ], 
+    "Propagation:": [
+        " The seeds have an impermeable seed coat that severely inhibits germination. Several methods have been employed to get around the problem. The seed coat can be scarified by nicking it with a file, or soaking the seed in concentrated sulfuric acid for two hours.  Wash the seed thoroughly with water following the acid soak. The seed can also be  soaked in hot tap water (approximately 140F) for three consecutive days. Others have had some luck with freezing the seed. After treatment, the seed are planted in potting soil, covered with clear plastic wrap and placed in bright light. Seeds should germinate within a week to a month or more. Plants grown from seed usually bear fruit within 7 - 10 years, though bearing within 3 years is possible under good conditions "
+    ], 
+    "Pests and diseases:": [
+        " Raisin trees are apparently free of any significant pests and diseases. Deer will probably browse the foliage, but the roots do not seem to be attractive to gophers. "
+    ], 
+    "Harvest:": [
+        " Raisin tree peduncles do not become tasty until very late in the season. They are excellent to eat out of hand or may be used in anything where raisins are normally used. The bonus with raisin tree \"raisins\" is that they don't have to be dried. They are chopped and added to fruitcake in Australia, and in China they are made into a beverage called \"tree honey\" that is said to neutralize hangovers.  "
+    ]
+}

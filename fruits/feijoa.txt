@@ -1,0 +1,59 @@
+{
+    "Common Names:": [
+        " Feijoa, Pineapple Guava, Guavasteen. "
+    ], 
+    "Related Species:": [
+        " In more recent times Feijoa sellowiana has been renamed Acca sellowiana, but most sources still use the older name.   "
+    ], 
+    "Distant affinity:": [
+        " Eugenias (Eugenia spp.), Guavas (Psidium spp.), Jaboticaba (Myrciaria spp.). "
+    ], 
+    "Origin:": [
+        " The feijoa is native to extreme southern Brazil, northern Argentina, western Paraguay and Uruguay where it is common in the mountains. "
+    ], 
+    "Adaptation:": [
+        " Feijoas prefer cool winters and moderate summers (80 to 90F), and are generally adapted to areas where temperatures stay above 15F.  Flower production is poor in areas with fewer than 50 hours of chilling.  The flavor of the fruit is much better in cool than in warm regions. Even thought the plants are relatively hardy, sudden fall frosts can damage ripening fruit and late spring frosts can destroy blossoms.  Spring frost damage is most likely in mild-winter areas, where the plants are not completely hardened off and respond to warm spells by blooming early. "
+    ], 
+    "Growth Habit:": [
+        " The feijoa is a slow-growing evergreen shrub that can reach 15ft. high and 15ft. wide.  The bark is pale gray and the spreading branches are swollen at the nodes and white-hairy when young. In addition to the fruit it provides, the shrub also doubles handsomely as a landscape specimen.  When planted close together, the shrubs make a nice hedge, screen, or windbreak.  Feijoas can also be espaliered or trained as a small tree (20 to 25ft. tall) with one or more trunks.  The wood is dense, hard, and brittle. "
+    ], 
+    "Foliage:": [
+        " The  evergreen, thick, leathery leaves of the feijoa are opposite, short-petioled and bluntly elliptical.  In size they range from 1 to 2-1/2inches long and 5/8 to 1inch wide.  The leaves are smooth soft green on top and silvery underneath, flashing nicely in a  gentle breeze.  "
+    ], 
+    "Flowers:": [
+        " The 1inch showy, bisexual flowers, borne singly or in a cluster, have long, bright red stamens topped with large grains of yellow pollen.  Flowers appear late, from May through June. Each flower contains four to six fleshy flower petals that are white tinged with purple on the inside.  These petals are mildly sweet and edible and can make a refreshing addition to spring salads.  Birds eating the petals pollinate the flower.  "
+    ], 
+    "Fruits:": [
+        " The fruits range from 3/4 to 3-1/2inches long and vary in shape from round to elongated pear shape, with the persistent calyx segments adhering to the apex. The waxy skin is dull blue-green to blue or grayish green, sometimes with a red or orange blush. Skin texture varies from smooth to rough and pebbly and is 3/16 to 5/8inch thick.  The fruit emits a strong long-lasting perfume, even before it is fully ripe.  The thick, white, granular, watery flesh and the translucent central pulp enclosing the seeds are sweet or subacid, suggesting a combination of pineapple and guava or pineapple and strawberry, often with overtones of winter green or spearmint. There are usually 20 - 40, occasionally more, very small, oblong seeds hardly noticeable when the fruit is eaten. "
+    ], 
+    "Location:": [
+        " To protect the fruit from sunburn and other adverse effects of high temperature, choose a plant site away from hot, reflected sun.  The feijoa can tolerate partial shade and slight exposure to salt spray.  They also make an excellent foundation planting, either singly or as an informal hedge. "
+    ], 
+    "Soil:": [
+        " Feijoas will grow in a wide variety of soils.  The best harvests, however, come from plants growing in well-drained soil with a pH between 5.5 and 7.0.  They are fairly salt tolerant, but salinity slows growth and reduces yields. "
+    ], 
+    "Irrigation:": [
+        " Foundation plantings of feijoas in summer dry California have survived for several years without supplemental water.  Lack of water, however, will cause the fruit to drop.  For quality harvests, water deeply on a regular basis, especially during flowering and fruit periods,  and mulch the soil around the plants to protect the shallow roots. "
+    ], 
+    "Fertilization:": [
+        " Feijoas grow slowly and require only light applications of a complete fertilizer.  A feeding of 8-8-8NPK once every two months can speed growth. "
+    ], 
+    "Pruning:": [
+        " Pruning is not required to keep plants productive, but a light pruning in the summer after fruit is harvested will encourage new growth and increase yields the following year.  Thinning the plant also permits easier harvesting.  When grown as a hedge, the feijoa responds well to heavy pruning or shearing, but this reduces flower and fruit production. "
+    ], 
+    "Propagation:": [
+        " The feijoa grows easily from seed, but the seedlings are not always true to type. Seeds are separated by squeezing the seedy pulp into a container, covering with water, and letting the liquid stand for 4 days to ferment.  The seeds are then strained out and dried before sowing.  The seeds will retain viability for a year or more if kept dry.  Germination takes place in 3weeks.  The plant fruits in 3 - 5years from seed.  Vegetative means are necessary to reproduce a variety. Young wood cuttings will root within two months with bottom heat and mist.  Whip, tongue or veneer grafting methods are sometimes successful, as is air-layering and ground layering. Cutting-grown plants of named varieties are most desirable, because they can be trained in a variety of ways, and can be maintained as multitrunked shrubs without concern that suckers will develop into \"rogue\" branches. "
+    ], 
+    "Pests and diseases:": [
+        " The feijoa is remarkably pest and disease-resistant.  It is occasionally attacked by by black scale in California, as well as fruit flies where that is a problem. "
+    ], 
+    "Harvest:": [
+        " In southern California the fruits ripen 4-1/2 to 6months after flowers appear and in 5-1/2 to 7months in the San Francisco area.   As the fruit matures, its color changes almost imperceptibly.  The best way is to allow them to fall from the tree.  Giving the tree a shake and gathering the fruit from the ground every couple of days is the usual method of harvesting.  To keep the fruit from bruising, place a tarp or other large cloth under the tree to catch them as they fall. Feijoas can also be picked when firm and mature and allowed to ripen at room temperature, although the quality will not be as good as tree ripened fruit.  Mature fruit can be stored in the refrigerator for about a week, but after that the quality declines.  Feijoas are mainly eaten fresh as a dessert or in salads, but can also be cooked in puddings, pies, etc.  After peeling, the fruit should be immediately dipped into water containing fresh lemon juice to prevent the flesh from turning brown.  "
+    ], 
+    "Commercial Potential:": [
+        " In California the feijoa is grown in a limited way for its fruit, especially in cool coastal locations, mainly around San Francisco.  There has also been a major effort in New Zealand to commercialize the feijoa.  Both domestic and imported fruit can often be found in the markets, but the demand does not seem to be great. "
+    ], 
+    "Triumph": [
+        " Selected in New Zealand from seedlings of the Choiceana cultivar.  Short, oval, plump fruits., not pointed as those of Coolidge, medium to large.  Skin uneven but firm.  Flesh somewhat gritty but with good seed to pulp ratio.  Excellent sharp flavor.  Ripens to midseason. Tree upright, of medium vigor.  Bears heavily if pollinated.  Good pollinator for Mammoth. "
+    ]
+}

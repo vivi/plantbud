@@ -1,0 +1,59 @@
+{
+    "Common Name:": [
+        "  Tamarillo, Tree Tomato,  Arbol de Tomate. "
+    ], 
+    "Related Species:": [
+        "  Casana (Cyphomandra casana), Mountain Tomato  (C.crassifolia), Guava Tamarillo (C.fragrans).    "
+    ], 
+    "Distant Affinity:": [
+        " Tomato (Lycopersicon lycopsersicum), Mexican Husk Tomato, Tomatillo (Physalis ixocarpa),   Cape Gooseberry (P.peruviana), "
+    ], 
+    "Origin:": [
+        "  The tamarillo is generally believed to be native to the Andes of Peru and probably also, Chile, Ecuador and Bolivia.  It is cultivated and naturalized in Argentina, Brazil, Colombia and Venezuela.  It is widely grown in New Zealand as a commercial crop.  Seed from Argentina were imported by the U.S.Dept. of Agriculture in 1913 and a plant was fruiting at the Plant Introduction Station at Chico, Calif. in 1915. "
+    ], 
+    "Adaptation:": [
+        "  The tamarillo is a subtropical rather than tropical and flourishes between 5,000 and 10,000ft. in its Andean homeland.  In cooler climates it succeeds at lower elevations, but does best where the temperature remains above 50F.  The plant is grown casually in California and occasionally in Florida.  Tamarillos have been successfully grown in such northern California locations as San Rafael and Santa Rosa. Frost at 28F kills small branches and foliage of mature trees but not the largest branches and main stem.  The tree will recover if such frosts are not prolonged or frequent.  However, seedlings and cuttings are readily killed by frost during their first year.    "
+    ], 
+    "Growth Habit:": [
+        "  The tamarillo is a small, attractive, half-woody, evergreen or partially deciduous, shrub or small tree.  It is also brittle and shallow-rooted, growing to a height of 10 to 18ft. (rarely as much as 25ft.). "
+    ], 
+    "Foliage:": [
+        "  The alternate, evergreen leaves are muskily odorous and more or less heart-shaped at the base  and  ovate, pointed at the apex. They are 4 to 13-1/2inches long and 1-1/2 to 4-3/4inches broad, thin, softly hairy, with conspicuous veins.  The leaves are fairly easily tattered by strong winds. "
+    ], 
+    "Flowers:": [
+        "  The fragrant 1/2 to 3/4inch flowers are borne in small, loose clusters near the branch tips.  They have 5 pale pink or lavender, pointed lobes, 5 prominent yellow stamens and green-purple calyx.  Tamarillo flowers are normally self-pollinating.  If wind is completely cut off so as not to stir branches, this may adversely affect pollination unless there are bees to transfer the pollen.  Unpollinated flowers will drop prematurely.  Flowers are usually borne in late summer or fall, but may appear at any time. "
+    ], 
+    "Fruit:": [
+        "  The long-stalked, dangling fruit, borne singly or in clusters of 3 to 12, is smooth egg-shaped but pointed at both ends.  It ranges in size from 2 to 4inches long and 1-1/2 to 2inches in width.  Skin color may be solid deep purple, blood red, orange or yellow, or red and yellow, and may have faint dark longitudinal stripes.  Flesh color varies accordingly from orange-red or orange to yellow or cream-yellow.  While the skin is somewhat tough and unpleasant in flavor, the outer layer of the flesh is slightly firm, succulent and bland, and the pulp surrounding the seed in two lengthwise compartments is soft, juicy, and sweet/tart.  The yellow types are usually a little sweeter.  The pulp is black in dark purple and red fruits and yellow in yellow and orange fruits.  The edible seeds are thin, nearly flat, circular, larger and harder than those of the true tomato.  "
+    ], 
+    "Location:": [
+        "  The tamarillo is small enough and attractive enough to fit into many parts of the home landscape as long as the site is well-drained.  They grow best in full sun except in hot, dry situations, where partial shade is better.  They need protection from strong winds. "
+    ], 
+    "Soil:": [
+        "  Tamarillos require a fertile, light soil that is rich in organic matter.  Perfect drainage is also necessary.  Water standing for even a few days may kill the plant.  Because of the shallow root system, deep cultivation is not possible, but light cultivation  to eliminate weeds is acceptable. "
+    ], 
+    "Irrigation:": [
+        "  The plant cannot tolerate prolonged drought and must have ample water during dry  periods.  A mulch is very beneficial in conserving moisture at such times. "
+    ], 
+    "Fertilization:": [
+        "  Recommended fertilizer applications is 0.5 to 2lbs. per tree of 5:6:6NPK.  Half of this should be applied in early spring and the other half in midsummer.  A late winter application of superposphate every other year at the rate of 0.5lb. per tree is also beneficial. "
+    ], 
+    "Pruning:": [
+        "  Newly planted tamarillos should be pruned to a height of 3 to 4ft. to encourage branching.  Yearly pruning thereafter is advisable to eliminate branches that have already fruited and to induce ample new shoots close to the main branches, since fruit is produced on new growth.  Pruning also aids in harvesting,  and if timed properly can extend the total fruiting period. "
+    ], 
+    "Frost Protection:": [
+        "  Although tamarillos can tolerate a few degrees of frost, they do best (and look their best) under frost-free conditions.  In areas where frost may be a problem, providing them with some overhead protection or planting them next to a wall or a building may be sufficient.  The smallish plants are also fairly easy to cover during cold snaps by placing carpeting, plastic sheeting, etc. over a frame around them.  Potted specimens can be moved to a frost-secure area. "
+    ], 
+    "Propagation:": [
+        "  Seeds and cuttings may be used for propagation.  Seeds product a high-branched, erect tree, while cuttings develop into a shorter, bushy plant with low-lying branches.  The tree does not always come true from seed, but is most likely to if one is careful to take seed from red fruits with black seed pulp or yellow fruits with yellow seed pulp.  Germination is accelerated by placing washed and dried seed in a freezer for 24 hours before  planting out.  Cuttings should be of 1 to 2year-old wood 3/8 to linch thick and 18 to 30 inches long.  The leaves are removed and the base cut square below a node.  Cuttings can be planted directly in the ground, but should not be permitted to fruit the first year. "
+    ], 
+    "Pest and Diseases:": [
+        "  The tamarillo is generally regarded as pest-resistant, although they are occasionally attacked by green aphids, and  fruit flies will attack the fruit in areas where that is a problem.  Nematodes are also a potential problem.  The principal disease is powdery mildew, which may cause serious defoliation if not controlled.  The plant is noted for its resistance to tobacco mosaic virus, though it is susceptible to cucumber mosaic virus and potato virus.  Die-back, of unknown origin, at times is lethal to the flowers,  fruit cluster, twigs and new shoots.  Potted plants grown inside should be watched for the common house plant pests, such as mealybugs, cottony scale and white flies. "
+    ], 
+    "Harvest:": [
+        "  Tamarillos are ready to harvest when they develop the yellow or red color characteristic of the particular variety.  To harvest, simply pull the fruit from the tree with a snapping motion, leaving the stem attached.  The fruit can be stored in the refrigerator for up to 10weeks, but temperatures below 38F can cause the skin to discolor.  Ripe tamarillos may be merely cut in half lengthwise, sprinkled with sugar (and chilled if you like) and served for eating by scooping out the flesh and pulp.  The fruit should not be cut on a wooden or other permeable surface, as the juice will make an indelible stain.  For other purposes, the skin must be removed, which is easily done by pouring boiling water over the fruit and letting it stand for 4minutes before peeling.  "
+    ], 
+    "Yellow": [
+        "  Fruits the size and shape of a large plum.  Skin yellowish orange.  Flesh yellow, with a milder flavor than the red types.  The yellow form is the oldest in cultivation in New Zealand. "
+    ]
+}

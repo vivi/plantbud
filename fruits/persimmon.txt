@@ -1,0 +1,65 @@
+{
+    "Common Names:": [
+        "  Persimmon, Oriental Persimmon, Japanese Persimmon, Kaki. "
+    ], 
+    "Related species:": [
+        "  Black Sapote (Diospyros digyna), Mabolo, Velvet Apple  (D.discolor), Date Plum (D.lotus), Texas Persimmon  (D.texana), American Persimmon (D.virginiana).  "
+    ], 
+    "Origin:": [
+        "  The oriental persimmon is native to China, where it has been cultivated for centuries and more than two thousand different cultivars exist.  It spread to Korea and Japan many years ago where additional cultivars were developed.  The plant was introduced to California in the  mid1800's. "
+    ], 
+    "Adaptation:": [
+        "  Persimmons do best in areas that have moderate winters and relatively mild summers--suitable for growing in USDA Hardiness Zones 7 to 10.  It can tolerate temperatures of 0F when fully dormant.  However, because of its low chilling requirement (less than 100hours), it may break dormancy during early warm spells only to be damaged by spring frosts later.  The leaves are killed by 26F when growing.  Trees do not produce well in the high summer heat of desert regions, which may also sunburn the bark.  "
+    ], 
+    "Growth Habit:": [
+        "  The persimmon is a multitrunked or single-stemmed deciduous tree to 25ft. high and at least as wide.  It is a handsome ornamental with drooping leaves and branches that give it a languid, rather tropical appearance.  The branches are somewhat brittle and can be damaged in high winds.  "
+    ], 
+    "Foliage:": [
+        "  Persimmon leaves are alternate, simple, ovate and up to 7inches long and 4inches wide.  They are often pale, slightly yellowish green in youth, turning a dark, glossy green as they age.  Under mild autumn conditions the leaves often turn dramatic shades of yellow, orange and red.  Tea can also be made from fresh or dried leaves. "
+    ], 
+    "Flowers:": [
+        " The inconspicuous flowers surrounded by a green calyx tube are borne in the leaf axils of new growth from one-year old wood.  Female flowers are single and cream-colored while the pink-tinged male flowers are typically borne in threes.  Commonly, 1 to 5 flowers per twig emerge as the new growth extends (typically March).  Persimmon trees are usually either male or female, but some trees have both male and female flowers.  On male plants, especially, occasional perfect (bisexual) flowers occur, producing an atypical fruit.  A tree's sexual expression can vary from one year to the other.  Many cultivars are parthenocarpic (setting seedless fruit without pollination), although some climates require pollination for adequate production.  When plants not needing pollination are pollinated, they will produce fruits with seeds and may be larger and have a different flavor and texture than do their seedless counterparts. "
+    ], 
+    "Fruit:": [
+        "  Persimmons can be classified into two general categories:  those that bear astringent fruit until they are soft ripe and those that bear nonastringent fruits.  Within each of these categories, there are cultivars whose fruits are influenced by pollination (pollination variant) and cultivars whose fruits are unaffected by pollination (pollination constant).  Actually, it is the seeds, not pollination per se, that influences the fruit.  An astringent cultivar must be jelly soft before it is fit to eat, and such cultivars are best adapted to cooler regions where persimmons can be grown.  The flesh color of pollination-constant astringent cultivars is not influenced by pollination.  Pollination-variant astringent cultivars have dark flesh around the seeds when pollinated.  A nonastringent persimmon can be eaten when it is crisp as an apple.  These cultivars need hot summers, and the fruit might retain some astringency when grown in cooler regions.  Pollination-constant nonastringent (PCNA) persimmons are always edible when still firm; pollination-variant nonastringent (PVNA) fruit are edible when firm only if they have been pollinated.  "
+    ], 
+    "Location:": [
+        "  Full sun with some air movement is recommended for persimmon trees in inland areas, although they will tolerate some partial shade.  Persimmons grown in cooler areas should have full sun with protection from cooling breezes.  As an attractive ornamental the tree fits well in the landscape.  It does not compete well with eucalyptus. "
+    ], 
+    "Soil:": [
+        "  Persimmons can withstand a wide rage of conditions as long as the soil is not overly salty, but does best in deep, well drained loam.  A pH range of  6.5 to 7.5 is preferred.  The tree has a strong tap root which may mean digging a deeper hole than usual when planting (when on D. kaki stock). "
+    ], 
+    "Irrigation:": [
+        "  Persimmon trees will withstand short periods of drought, but the fruit will be larger and of higher quality with regular watering.  Extreme drought will cause the leaves and fruit to drop prematurely.  Any fruit left on the tree will probably sunburn.  Some 36 to 48 inches of water are needed annually, applied gradually in spring and tapering off in the fall.  Hot inland areas may require 2 or 3 applications weekly, while coastal areas may need watering only once every 6 weeks, depending on the soil.  If a drip system is is used, the emitters should be moved away from the trunk as the tree matures. "
+    ], 
+    "Fertilization:": [
+        "  Most trees do well with a minimum of fertilizing.  Excess nitrogen can cause fruit drop.  If mature leaves are not deep green and shoot growth is less than a foot per year, apply a balanced fertilizer such as a 10-10-10 at a rate of l pound per inch of trunk diameter at ground level.  Spread the fertilizer evenly under the canopy in late winter or early spring. "
+    ], 
+    "Pruning:": [
+        " Prune persimmon trees to develop a strong framework of main branches while the tree is young.  Otherwise the fruit, which is borne at the tips of the branches, may be too heavy and cause breakage.   A regular program of removal of some new growth and heading others each year will improve structure and reduce alternate bearing.  An open vase system is probably best.  Even though the trees grow well on their own, persimmons can be pruned heavily as a hedge, as a screen, or to control size.  They even make a nice espalier.  Cut young trees back to 1/2high (or about 3feet) at the time of planting. "
+    ], 
+    "Propagation:": [
+        "  Stratification is recommended for all persimmon seeds.  The common rootstock in California is D.lotus, although it is not compatible with some cultivars, including fuyu.  Other rootstock such as D.kaki seedlings are temperamental and have long tap roots.  D.virginiana is inconsistent and suckers badly.  Whip and cleft grafts are the ones commonly used.  The trunks of young trees should be protected from sunburn and rodent damage. "
+    ], 
+    "Pests and Diseases:": [
+        "  Persimmons are relatively problem-free, although mealybug and scale in association with ants can sometimes cause problems.  Ant control will usually take care of these pests.  Other occasional pests include white flies, thrips  which can cause skin blemishes and a mite that is blamed for the \"brown lace collar\" near the calyx.  Waterlogging can also cause root rot.  Vertebrate pests such as squirrels, deer, coyotes, rats, opossums and birds are fond of the fruit and gophers will attack the roots.  Other problems include blossom and young fruit shedding, especially on young trees.  This is not usually a serious problem, but if the drop is excessive, it may be useful to try girdling a few branches.  Over watering or over fertilization may also be responsible. Large quantities of small fruit on an otherwise healthy tree can be remedied by removing all but one or two fruit per twig in May or June. "
+    ], 
+    "Harvest:": [
+        "  Harvest astringent varieties when they are hard but fully colored.  They will soften on the tree and improve in quality, but you will probably lose many fruit to the birds.  Astringent persimmons will ripen off the tree if stored at room temperature.  Nonastringent persimmons are ready to harvest when they are fully colored, but for best flavor, allow them to soften slightly after harvest.  Both kinds of persimmons should be cut from the tree with hand-held pruning shears, leaving the calyx intact  Unless the fruit is to be used for drying whole, the stems should be cut as close to the fruit as possible.  Even though the fruit is relatively hard when harvested, it will bruise easily, so handle with care.  "
+    ], 
+    "Commercial Potential:": [
+        "  Persimmons are found in most supermarkets during the season, but there is not a large demand outside ethnic markets.  It would appear that there is a potential as a major crop if and when the market is developed.  "
+    ], 
+    "Triumph": [
+        "  Sold as Sharon Fruit after astringency has been chemically removed. Medium-sized, oblate fruits. Ripens in October. "
+    ], 
+    "Fuyu": [
+        " (Fuyugaki)"
+    ], 
+    "Suruga": [
+        "  Large fruit.  Skin orange-red.  Flesh dense, very sweet, excellent quality.  Difficult to soften on tree (fruit becomes spongy rather than soft).  Ripens in November, keeps well  Tree almost free from alternate bearing.   Recommended for warmer climates. "
+    ], 
+    "Nishimura Wase": [
+        "  Fruit medium, round conical to oblate. Orange color. Mediocre flavor. Ripens in September. Bears male flowers. "
+    ]
+}

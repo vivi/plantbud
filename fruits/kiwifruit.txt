@@ -1,0 +1,53 @@
+{
+    "Common Names:": [
+        "  Kiwifruit, kiwi, Chinese gooseberry, Yang-tao. "
+    ], 
+    "Related species:": [
+        " "
+    ], 
+    "Origin:": [
+        "  The kiwifruit is native to the Yangtze River valley of northern China and Zhejiang Province on the coast of eastern China.  The first seeds were brought out of China by missionaries to New Zealand at the turn of this century.  Early nurserymen in New Zealand, such as Alexander Allison, Bruno Just, and Hayward Wright, recognized the potential of the fruit and it soon became a popular backyard vine.  Several plants were sent to the Chico Plant Introduction Station in California and exist to this date. In addition to New Zealand and California, kiwifruit is also grown commercially in such areas as Italy, South Africa and Chile.  "
+    ], 
+    "Adaptation:": [
+        " The plants need a long growing season (at least 240frost-free days) which will not be hampered by late winter or early autumn freezes. When fully dormant they can withstand temperatures to about 10F (and perhaps a bit lower.)  However they must acclimate to cold slowly and any sudden plunge in temperature may cause trunk splitting and subsequent damage to the vine.  Late winter freezing temperatures will kill any exposed buds which limits the adaptable growing areas of kiwifruit. In California the kiwifruit is an appropriate crop wherever citrus fruits, peaches and almonds are successful. All cultivars need a certain period of winter chilling and their needs vary dramatically, dependent upon cultivar.  The most popular cultivar, Hayward, does best with a winter rest of 800hours of chilling (defined as total hours between 32 and 45F.)  For warm winter areas with low chill hours (such as southern California, southern Texas, and Florida), cultivars such as Elmwood, Dexter, Abbott, or Vincent would be more suitable. In very mild winter areas the vines may retain their leaves and fail to flower the following season. Kiwi vines can be successfully grown in large containers. "
+    ], 
+    "Growth Habit:": [
+        "  In the forests where it is native, the plant is a vigorous, woody, twining vine (liana) or climbing shrub. It is not unusual for a healthy vine to cover an area 10 to 15feet wide, 18 to 24feet long and 9 to 12feet high. In cultivation it is supported on a trellising system. "
+    ], 
+    "Foliage:": [
+        "  The large, deep green, leathery leaves are oval to nearly circular and 7 to 10inches in diameter.  Young leaves and shoots are coated with red hairs, while mature leaves are dark green and hairless on the upper surface, downy-white with prominent, light colored veins beneath. "
+    ], 
+    "Flowers:": [
+        "  The large (1 to 2inch diameter), white to cream colored flowers are somewhat fragrant and produced as singlets to triplets in the leaf axiles.  The flowering period extends over several weeks from early May to June, depending on climatic conditions.  The plants are dioecious, bearing either male or female flowers, thus needing plants of both sexes to produce fruit. Self-fruiting males are known to exist but produce less desirable fruit. "
+    ], 
+    "Fruit:": [
+        " The oval, ovoid or oblong fruit is up to 2-1/2inches long, with russet-brown skin densely covered with short, stiff brown hairs. The flesh, firm until fully ripe, is glistening, bright green or sometimes yellow, brownish or off-white, except for the white, succulent center from which radiate many fine, pale lines. Between these lines are scattered minute dark-purple or nearly black seeds, unnoticeable in eating. The flavor is sweet/tart to acid, somewhat like that of the gooseberry with a suggestion of strawberry.  "
+    ], 
+    "Location:": [
+        "  Kiwifruit will tolerate part shade but prefer a sunny location where they can ramble across some type of trellising system. The vines should be protected from strong winds. Spring gusts can snap off new growth where it emerges from the canes. Kiwifruit is not recommended for the hot dessert climates of the Southwest.  "
+    ], 
+    "Site Preparation:": [
+        "  Kiwifruit plants need a substantial trellis, patio cover,  or other permanent place to grow upon.  For the trellis system, either a single wire or T-bar system can be installed.  Both have a 4inch by 4inch redwood post of 8feet.  For the T-bar, a 2inch by 6inch crossarm about  4feet long is bolted in place.  Bury the post 2feet into the ground and cement in if at all possible.  At each end of the system, a cemented deadman should be in place.  Run wires across the posts and anchor tautly to the deadman.  When using a patio cover, no extra trellising needs to be in place.  Simply run the plant up a corner post to the top and allow the plant to then form a spoke work of shoots which would resemble an umbrella. "
+    ], 
+    "Soils:": [
+        "  Kiwifruit prefer somewhat acid (pH5-6.5), well-drained soils that are rich in organic matter. The leaves may show nitrogen deficiency if the soil is too basic. The plants do not tolerate salty soils. "
+    ], 
+    "Irrigation:": [
+        "  Kiwifruit plants need large volumes of water during the entire  growing season but must also be in well-drained soils.  Watering regularly in the heat of the summer is a must.  Never allow a plant to undergo drought stress.  Symptoms of drought stress are drooping leaves, browning of the leaves around the edges, and complete defoliation with regrowth of new shoots when the stress is continuous.  More plants probably die from water related problems than any other reason. "
+    ], 
+    "Fertilization:": [
+        "  Plants are heavy nitrogen feeders which should be applied in abundance during the first half of the growing season.  Late season  applications of nitrogen will enhance fruit size but are discouraged as the fruit then tends to store poorly.  In basic soils, a citrus and avocado tree  fertilizer should be broadcast about the vine and watered in well in early  March.  Follow up the initial fertilizing by supplemental additions to early  summer.  In other areas, use a high nitrogen fertilizer which contains trace elements unless it is known that the particular soil is deficient in another nutrient.  Mulching with manures and/or straws is very beneficial.  However, do not put the mulch directly in contact with the vine as crown rot will occur. "
+    ], 
+    "Pruning:": [
+        "  For best fruit production, pruning in the winter is a must.  All  pruning techniques are usually based on a \"cane replacement\" and differ only based on the trellising method used.  Kiwi vines need to be supported and this is usually done in one of three ways: single wire, 3-5wire on a T-bar system, or onto a patio cover.  In all cases, one stem is trained up to a  wire at six feet and then allowed to grow along the wire.  When growth ends in a \"pig-tailing\" of the shoot, it is cut behind the entanglement and new a shoot allowed to grow from a leaf base.  After two years multiple shoots will now emerge from the lateral mainline.  During the growing season, each lateral cane will send out a new shoot about 1/3of the way from its own starting point.  The next winter, prune off the older cane at the point that it connects with last summers new shoot.  Repeat this every year. "
+    ], 
+    "Propagation:": [
+        "  Seeds from store bought fruit may be planted in the  spring.  This should be done in a fine, somewhat sandy planter mix which is kept moist but not soaking wet.  Seed germinates in 4 to 5weeks.  Plants raised this way will need to be grafted the following season to produce better, known sex, plants.  Nursery bought plants are usually either grafted or cutting grown.  Both types have their own attributes.  One slight advantage of the cutting grown plants would be advantageous to growers in areas that experience winter freeze problems.  If a plant is killed to the ground, a cutting grown plant that survives will regrow from the roots and thus maintain its known characteristics.  Otherwise, either type is acceptable to backyard growers. "
+    ], 
+    "Pests and diseases:": [
+        " Kiwifruit plants are relatively free from problems, possibly due to their lack of heavy planting into areas so that pests begin to take a liking to the leaves, trunk, or roots.  One odd problem is the fact that the trunks have a catnip-like aroma which cats love to rub against. When plants are small, this can be a problem as they can rub off any new shoots which emerge in the spring.  Garden snails can also be a problem on younger plantings.  Other pests include deer browsing on the leaves and gophers attacking the roots.  Scale insects can also be a problem if populations build up too extensively. Where present, root-rot nematodes will reduce plant vigor. "
+    ], 
+    "Harvest:": [
+        " Ripening depends both on cultivar grown and local climatic  conditions.  Commercially, the fruit is harvested mature-ripe when its  soluble sugars reach 6.5brix on a refractometer.  For the home grower it is best to wait for harvest until at least November1, but November15 would be preferable.  Seed inside should be fully black by this time.  If  available, a specifically designed fruit ripening bowl can be used to quickly ripen a few fruit to see if the rest of the crop is ready to be picked.  Once harvested, place the hard fruit into plastic bags and put into the refrigerator for keeping.  When needed, the fruit can be taken out of the refrigerator and ripened on the counter for a few days in a plastic bag. Well stored fruit can last for several months. The long keeping qualities of the fruit made world wide shipment possible and heavy planting of the Hayward variety brought the fruit into recognition.  "
+    ]
+}

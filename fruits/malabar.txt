@@ -1,0 +1,53 @@
+{
+    "Common Names:": [
+        " Malabar Chestnut, Guiana Chestnut, Guyana Chestnut, Provision tree, Saba Nut "
+    ], 
+    "Related Species:": [
+        " Mamorana Grande (Pachira insignis)."
+    ], 
+    "Distant affinity:": [
+        " Baobob, (Adansonia digitata), Durian (Durio zibethinus),  Almirajo (Patinoa almirajo), Chupa-chupa, South American Sapote (Quararibea cordata). "
+    ], 
+    "Origin:": [
+        " The Malabar chestnut is native to an area from southern Mexico to Guyana and northern Brazil.  "
+    ], 
+    "Adaption:": [
+        " Tropical estuaries are the native habitat of the Malabar chestnut, so it is perhaps best suited to Hawaii and southern Florida.  Even so, the plant also grows well in the milder parts of southern California.  Several handsome specimens are thriving in the Quail Gardens collection near Encinitas, Calif., which has more cold and wind than many home gardens.  The  plant will tolerate brief exposure to temperatures as low as 28F, but may drop some or most of its leaves.  Malabar chestnuts make attractive potted plants and add an attractive tropical note to patios and sun rooms.  "
+    ], 
+    "Growth Habit:": [
+        " The Malabar chestnut is a very showy evergreen tree with greenish bark that can grow to 60ft. in the tropics.  In California the growth is more like 10 to 15ft. tall with a spread of 8 to 10feet.  "
+    ], 
+    "Foliage:": [
+        " The shiny, bright green, alternate palmately compound leaves of the Malabar chestnut grow to about 12inches long and are quickly shed.  They are larger and showier than Chorisia speciosa, the popular floss-silk tree.  Young leaves and flowers are cooked and used as a vegetable. "
+    ], 
+    "Flowers:": [
+        "  The petals of the very large creamy white flowers of the Malabar chestnut curl back to the base of the flower, leaving only the spectacular clusters of 3 to 4inch cream-white stamens. "
+    ], 
+    "Fruit:": [
+        " The five-valved fruit of Malabar chestnut is an ovoid, woody green pod which may reach 4 to 12inches in length and 2 to 2-1/2inches in diameter, bearing some resemblance to kapok or silk floss seed pods.  The tightly packed seeds (nuts) inside enlarge until the pod bursts and the seed fall to the ground.  The rounded seeds are without floss and 1/2inch or larger in diameter.  They are edible raw or roasted. "
+    ], 
+    "Location:": [
+        " A frost-free location with some protection from hot, drying winds is the best choice for the plant.  It will take full sun to partial shade.  Overall, the tree is a handsome landscape addition.   "
+    ], 
+    "Soils:": [
+        " Malabar chestnuts are not overly fussy about soil as long as it is well drained. "
+    ], 
+    "Irrigation:": [
+        " The Malabar chestnut needs consistent and regular watering, although logic would suggest that in California the plant should be kept on the dry side during the cold winter months.   "
+    ], 
+    "Fertilization:": [
+        " Malabar chestnuts need only a light monthly fertilizing with a balanced, all-purpose fertilizer during the warm months. "
+    ], 
+    "Pruning:": [
+        " The Malabar chestnut seldom needs pruning. "
+    ], 
+    "Propagation:": [
+        " The tree may be propagated by seed and cuttings, and probably by air-layering. "
+    ], 
+    "Pests and diseases:": [
+        " The Malabar chestnut appears to be largely free of pests and diseases in California.  Container specimens should be watched for usual house plant pests such as mealybugs. "
+    ], 
+    "Harvest:": [
+        " The nuts of the Malabar chestnut are harvested when the seed pods burst.  The raw nuts taste like peanuts and will keep for months in a cool, dry place.  Roasted or fried in oil they have the flavor of chestnuts, and can be ground into a flour for bread baking. "
+    ]
+}

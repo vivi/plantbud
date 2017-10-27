@@ -1,0 +1,59 @@
+{
+    "Common Names:": [
+        " Guava, guyava, kuawa. "
+    ], 
+    "Related species:": [
+        " Brazilian guava, Guisaro (Psidium guinense Sw.), Cattley Guava, Strawberry Guava (P. cattleianum Sabine), Costa Rican Guava (P. friedrichsthalianum Ndz.), Para Guava (P. acutangulum DC.),  Rumberry, Guavaberry (Myrciaria floribunda Berg.). "
+    ], 
+    "Origin:": [
+        "  The place of origin of the guava is uncertain, but it is believed to be an area extending from southern Mexico into or through Central America.  It has been spread by man, birds and other animals to all warm areas of tropical America and in the West Indies (since 1526). "
+    ], 
+    "Adaptation:": [
+        " The tropical guava is best adapted to the warm climate of Florida and Hawaii, although it can be grown in coastal Southern  California, and with some protection, selected areas north to Mendocino County.  Guavas actually thrive in both humid and dry climates, but can survive only a few degrees of frost.  The tree will recover from a brief exposure to 29F but may be completely defoliated.  Young trees are particularly sensitive to cold spells.  Older trees, killed to the ground, have sent up new shoots which fruited 2years later.  Guavas can take considerable neglect, withstanding temporary waterlogging and very high temperatures.  They tend to bear fruit better in areas with a definite winter or cooler season.  The adaptability of the guava makes it a serious weed tree in some tropical areas. The smaller guava cultivars can make an excellent container specimen.  "
+    ], 
+    "Growth Habit:": [
+        " Guavas are evergreen, shallow-rooted shrubs or small trees to 33ft, with spreading branches.  Growth in California is rarely over 10 - 12feet.  The bark is smooth, mottled green or reddish brown and peels off in thin flakes to reveal the attractive \"bony\" aspect of its trunk. The plant branches close to the ground and often produces suckers from roots near the base of the trunk.  Young twigs are quadrangular and downy.  "
+    ], 
+    "Foliage:": [
+        " Guava leaves leaves are opposite, short-petioled, oval or oblong-elliptic, somewhat irregular in outline, 2 - 6inches long and 1 -  2inches wide.  The dull-green, stiff but leathery leaves have pronounced veins, and are slightly downy on the underside.  Crushed leaves are aromatic. "
+    ], 
+    "Flowers:": [
+        " Faintly fragrant, the white flowers, borne singly or in clusters in the leaf axils, are 1inch wide, with 4 or 5white petals.  These petals are quickly shed, leaving a prominent tuft of perhaps 250white stamens tipped with pale-yellow anthers.  "
+    ], 
+    "Fruits:": [
+        "  Guava fruits may be round, ovoid or pear-shaped, 2 - 4inches long, and have 4 or 5protruding floral remnants (sepals) at the apex.  Varieties differ widely in flavor and seediness.  The better varieties are soft when ripe, creamy in texture with a rind that softens to be fully edible.   The flesh may be white, pink, yellow, or red.  The sweet, musky odor is pungent and penetrating.  The seeds are numerous but small and, in good varieties, fully edible.  Actual seed counts have ranged from 112 to 535.  The quality of the fruit of guavas grown in cooler areas is often disappointing. "
+    ], 
+    "Location:": [
+        " Like other tender subtropicals, guavas need a frost-free location, but are not too fussy otherwise.  They prefer full sun.  "
+    ], 
+    "Soil:": [
+        " The guava will tolerate many soil conditions, but will produce  better in rich soils high in organic matter.  They also prefer a well-drained soil in the pH range of 5 to 7.  The tree will take temporary waterlogging but will not tolerate salty soils. "
+    ], 
+    "Irrigation:": [
+        " Guavas have survived dry summers with no water in California, although they do best with regular deep watering.  The ground should be allowed to dry to a depth of several inches before watering again.  Lack of moisture will delay bloom and cause the fruit to drop.  "
+    ], 
+    "Pruning:": [
+        " Shaping the tree and removing water shoots and suckers are usually all that is necessary.  Guavas can take heavy pruning, however, and can be used as informal hedges or screens.  Since the fruit is borne on new growth, pruning does not interfere with next years crop. "
+    ], 
+    "Fertilization:": [
+        " Guavas are fast growers and heavy feeders, and benefit from regular applications of fertilizer.  Mature trees may require as much as 1/2pound actual nitrogen per year.  Apply fertilizer monthly, just prior to heavy pruning.   "
+    ], 
+    "Frost protection:": [
+        "Overhead protection and planting on the warm side of a building or structure will often provide suitable frost protection for guavas in cooler areas.  A frame over the plant covered with fabric will provide additional protection during freezes, and electric lights can be included for added warmth.   Potted plants can be moved to a more protected site if necessary. "
+    ], 
+    "Propagation:": [
+        " Guava seed remain viable for many months.  They often germinate in 2 - 3weeks but may take as long as 8weeks.  Since guavas cannot be depended upon to come true from seed, vegetative propagation is widely practiced.  They are not easy to graft, but satisfactory techniques have been worked out for patch-budding by the Forkert Method (probably the most reliable method), side-veneer grafting, approach grafting and marcotting  The tree can also be grown from root cuttings.  Pieces of any roots except the smallest and the very large, cut into 5 - 10inch lengths, are placed flat in a prepared bed and covered with 2 - 4inches of soil, which must be kept moist.  They may also be grown by air-layering or from cuttings of half-ripened wood.  Pieces 1/4 - 1/2inch will root with bottom heat and rooting-hormone treatment.  Trees grown from cuttings or air-layering have no taproot, however,  and are apt to be blown down in the first 2 or 3years.  One of the difficulties with budded and grafted guavas is the production of water sprouts and suckers from the rootstocks. "
+    ], 
+    "Pests and diseases:": [
+        " Foliage diseases, such  as anthracnose, can be a problem in humid climates.  They can be controlled with regular fungicide applications.  Where present, root-rot nematodes will reduce plant vigor.  Guava whitefly, guava moth and Caribbean fruit fly can be major problems in southern Florida, but have not been reported in California.  Mealy-bugs, scale, common white flies and thrips can be problems in California.  In some tropical countries the where fruit flies are a problem, the fruit is covered when small with paper sacks to protect it and assure prime quality fruits for the markets. "
+    ], 
+    "Harvest:": [
+        " In warmer regions guavas will ripen all year.  There is a distinctive change in the color and aroma of the guava that has ripened.  For the best flavor, allow fruit to ripen on the tree.  The can also be picked green-mature and allowed to ripen off the tree at room temperature.  Placing the fruit in a brown paper bag with a banana or apple will hasten ripening.  Mature green fruit can be stored for two to five weeks at temperature between 46 and 50F and relative humidity of 85 to 95percent.  Fruit that has changed color cannot be stored for any extended periods.  It bruises easily and will quickly deteriorate or rot. Commercial juice varieties have rock hard inedible seeds, deep pink flesh and hard yellow rinds. They are not good for eating out of hand but have extremely high vitamin C content. "
+    ], 
+    "Commercial potential:": [
+        " Guavas are the only commercially significant myrtaceous fruit.  It is an important fruit in many parts of the world suitable for its production.  Guava is one of the leading fruits of Mexico.  Commercial producation of guava in Hawaii and Florida is hampered by the presence of fruit flies.  California is too cool except for a few selected sites. "
+    ], 
+    "White Seedless": [
+        " An improved selection from Florida with seedless, white flesh of good quality. "
+    ]
+}

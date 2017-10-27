@@ -1,0 +1,56 @@
+{
+    "Common Names:": [
+        " Papaya, Papaw or Paw Paw (Australia), Mamao (Brazil), Tree Melon. "
+    ], 
+    "Related Species:": [
+        " "
+    ], 
+    "Origin:": [
+        " The papaya is believed to be native to southern Mexico and neighboring Central America. It is now present in every tropical and subtropical country. "
+    ], 
+    "Adaptation:": [
+        " Papayas have exacting climate requirements for vigorous growth and fruit production. They must have warmth throughout the year and will be damaged by light frosts. Brief exposure to 32F is damaging and prolonged cold without overhead sprinkling will kill the plants. Cold, wet soil is almost always lethal. Cool temperatures will also alter fruit flavor. Papayas make excellent container and greenhouse specimens where soil moisture and temperature can be moderated. "
+    ], 
+    "Growth Habit:": [
+        " The papaya is a short-lived, fast-growing, woody, large herb to 10 or 12feet in height. It generally branches only when injured. All parts contain latex. The hollow green or deep purple trunk is straight and cylindrical with prominent leaf scars. Its diameter may be from 2 or 3inches to over a foot at the base.  "
+    ], 
+    "Foliage:": [
+        " The leaves emerge directly from the upper part of the stem in a spiral on nearly horizontal petioles 1 to 3-1/2feet long. The blade, deeply divided into 5 to 9main segments, varies from 1 to 2feet in width, and has prominent yellowish ribs and veins. The life of a leaf is 4 to 6 months. "
+    ], 
+    "Flowers:": [
+        " The five-petalled flowers are fleshy, waxy and slightly fragrant. Some plants bear only short-stalked female flowers, or bisexual (perfect) flowers also on short stalks, while others may bear only male flowers, clustered on panicles 5 or 6feet long. Some plants may have both male and female flowers. Others at certain seasons produce short-stalked male flowers, at other times perfect flowers. This change of sex may occur temporarily during high temperatures in midsummer. Male or bisexual plants may change completely to female plants after being beheaded. Certain varieties have a propensity for producing certain types of flowers.  For example, the Solo variety has flowers of both sexes 66% of the time, so two out of three plants will produce fruit, even if planted singly. How pollination takes place in papayas is not known with certainty. Wind is probably the main agent, as the pollen is light and abundant, but thrips and moths may assist. Hand pollination is sometimes necessary to get a proper fruit set. "
+    ], 
+    "Fruit:": [
+        " There are two types of papayas, Hawaiian and Mexican. The Hawaiian varieties are the papayas commonly found in supermarkets.  These pear-shaped fruit generally weigh about 1pound and have yellow skin when ripe. The flesh is bright orange or pinkish, depending on variety, with small black seeds clustered in the center.  Hawaiian papayas are easier to harvest because the plants seldom grow taller than 8feet. Mexican papayas are much larger the the Hawaiian types and may weigh up to 10pounds and be more than 15inches long. The flesh may be yellow, orange or pink. The flavor is less intense than that the Hawaiian papaya but still is delicious and extremely enjoyable. They are slightly easier to grow than Hawaiian papayas. A properly ripened papaya is juicy, sweetish and somewhat like a cantaloupe in flavor, although musky in some types. The fruit (and leaves) contain papain which helps digestion and is used to tenderize meat. The edible seeds have a spicy flavor somewhat reminiscent of black pepper.  "
+    ], 
+    "Location:": [
+        " Papayas like to be warm with both sunshine and reflected heat, so the hottest place against the house where nothing else seems happy is an ideal location. They also like to be as free from wind as possible, although this is not as critical as their need for sun. Papayas can be grown successfully in shade, but the fruit is rarely sweet. They are best planted in mounds or against the foundation of a building where water can be controlled.  "
+    ], 
+    "Soils:": [
+        " Papayas need a light, well-drained soil. They are easily killed by excess moisture. The soil needs to be moist in hot weather and dry in cold weather. Since this is the opposite of California's rain pattern, in addition to good drainage, plastic coverings to prevent over-wetting in winter may also be worthwhile. Papayas do not tolerate salty water or soil. "
+    ], 
+    "Irrigation:": [
+        " Watering is the most critical aspect in raising papayas. The plants should be kept on to the dry side to avoid root rot, but also need enough water to support their large leaves. In winter the plant prefers to remain as dry as possible. A plant that has been injured by frost is particularly susceptible to root rot. "
+    ], 
+    "Fertilization:": [
+        " The fast-growing papaya requires regular applications of nitrogen fertilizers but the exact rates have not been established. Feed monthly and adjust according to the plant's response. They can take fairly hot organic fertilizing such as chicken manure if used with deep irrigation after warm weather has started. Phosphorus deficiency casuses dark green foliage with a reddish-purple discoloration of leaf veins and stalks. "
+    ], 
+    "Pruning:": [
+        " Papayas do not need to be pruned, but some growers pinch the seedlings or cut back established plants to encourage multiple trunks. "
+    ], 
+    "Frost Protection:": [
+        " Papayas need warmth and a frost-free environment, but can often withstand light freezes with some kind of overhead protection. This can be provided by building a frame around the plants and covering it with bedding, plastic sheeting, etc. when frost threatens. Electric light bulbs can also be used for added warmth. Potted specimens can be moved to a frost-secure area. Prolonged cold, even if it does not freeze, may adversely affect the plants and the fruit. Mexican papayas are more hardy than Hawaiian varieties. "
+    ], 
+    "Propagation:": [
+        " Papayas are normally propagated by seed. To start a plant, extract the seeds from ripe papayas and wash them to remove the gelatinous covering. They are then dried, dusted with a fungicide and planted as soon as possible (the seeds loose their viability rapidly in storage). Plant the seeds in warm (80F), sterile potting mix. Seeds should be planted in sterile soil as young papaya seedlings have a high mortality rate from damping off. Potting soil can be sterilized by mixing 50-50with vermiculite and placing in an oven at 200F for one hour.  Under ideal conditions the seeds may germinate in about two weeks, but may take three to five weeks. Gibberellic acid can be used to speed up germination in some seasons. Seedlings usually begin flowering 9 - 12months after they germinate. "
+    ], 
+    "Pests and diseases:": [
+        " Thrips, mites and white flies as well as In red spider and fruit spotting bugs are potential problems in some areas. The plants may also be attacked by mildew, anthracnose, root rot and various virus diseases  Fruit flies often ruin the fruit in Florida and Hawaii. Nematodes can attack the roots and are often a factor in the decline of individual plant. Gopher damage can be avoided by planting in wire baskets. Papaya plants should probably be replaced every 4years or so. "
+    ], 
+    "Harvest:": [
+        " Papayas are ready to harvest when most of the skin is yellow-green. After several days of ripening at room temperature, they will be almost fully yellow and slightly soft to the touch. Dark green fruit will not ripen properly off the tree, even though it may turn yellow on the outside. Mature fruit can be stored at 45F for about 3weeks. Papayas are often sliced and eaten by themselves or served with a myriad of other foods. They can also be cooked to make chutney or various desserts. Green papayas should not be eaten raw because of the latex they contain, although they are frequently boiled and eaten as a vegetable. In the West Indies, young leaves are cooked and eaten like spinach. In India, seeds are sometimes used as an adulterant in whole black pepper.  "
+    ], 
+    "Waimanalo (Waimanalo Solo, X-77)": [
+        " Fruit round with a short neck, average weight 16 to 39ounces. Skin smooth, and glossy, cavity star-shaped. Flesh thick, firm, orange-yellow in color, flavor and quality high, keeps well. Recommended for fresh market and processing. Fruits of female plants rough in appearance. Average height to the first flower is 32inches. "
+    ]
+}

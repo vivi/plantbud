@@ -1,0 +1,62 @@
+{
+    "Common Names:": [
+        " Pepino Dulce, Pepino, Melon Pear, Melon Shrub, Pear Mellon "
+    ], 
+    "Related Species:": [
+        "  Wonderberry (Solanum X burbanikii),  Tzimbalo (S. caripense), Lulita (S. pectinatum), Lulo comun (S. pseudolulo), Naranjilla (S. quitoense), Garden Huckleberry (S. scabrum),  Cocona (S. sessiliflorum),  "
+    ], 
+    "Distant Affinity:": [
+        "  Tree Tomato, Tamarillo (Cyphomandra betacea), Casana (Cyphomandra casana), Tomato (Lycopersicon lycopsersicum), Mexican Husk Tomato, Tomatillo (Physalis ixocarpa), Cape Gooseberry, Poha Berry (Physalis peruviana) and others. "
+    ], 
+    "Origin:": [
+        "  The pepino dulce is native to the temperate Andean regions of Colombia, Peru and Chile. The plant is not known in the wild, and the details of it origin are not known. The fruit is  grown commercially in New Zealand, Chile and Western Australia.  The pepino dulce was being grown in San Diego before 1889 and was listed by Francisco Franceschi of Santa Barbara in 1897. Improved cultivars were imported into California from New Zealand and elsewhere in more recent times. "
+    ], 
+    "Adaptation:": [
+        "  The pepino dulce is a fairly hardy plant that grows at altitudes ranging from near sea level to 10,000ft. in its native regions. However it does best in a warm, relatively frost-free climate. The plant will survive a low temperature of 27 to 28F if the freeze is not prolonged, but may loose many of its leaves. It can be grown in many parts of central and southern California, although it does best in locations away from the coast and is not well suited for hot, interior gardens. Pepino dulce has been grown and has fruited  in the milder areas of northern California (Sunset Climate Zones 16 and 17). The plant is small enough to be grown satisfactorily in a container. "
+    ], 
+    "Growth Habit:": [
+        "  Pepino dulce is a small, unarmed, herbaceous plant or bush with a woody base and fibrous roots. Growth is erect or ascending to about 3feet high and several feet across. It is similar in these respects to a small tomato vine, and like the tomato may need staking or other support. "
+    ], 
+    "Foliage:": [
+        "  The bright green leaves are sparsely covered with very small hairs. In appearance the pepino dulce is much like a potato plant, but the leaves may take many forms--simple and entire, lobed, or divided into leaflets. "
+    ], 
+    "Flowers:": [
+        "  The small flowers are blue, violet-purple or white marked with purple, and are similar in form to unopened potato flowers. The pepino dulce is deemed to be parthenocarpic but a much heavier crop results from self-pollination or cross-pollination. The plants will not set fruit until the night temperatures are above 65F. "
+    ], 
+    "Fruit:": [
+        "  The fruit also show considerable diversity in size and shape. In the areas of its origin there are small oblong types with many seeds, while others are pear or heart-shaped with few or many seeds. Still others are round, slightly larger than a baseball and completely seedless. The colors also vary--completely purple, solid green or green with purple stripes, or cream colored with or without purple stripes.  The fruit of cultivars grown in this country are usually round to egg-shaped, about  2to4inches long, with some growing up to 6inches. The skin is typically yellow or purplish green, often with numerous darker streaks or stripes. The flesh is greenish to white and yellowish-orange. Better quality fruit is moderately sweet, refreshing and juicy with a taste and aroma similar to a combination of cantaloupe and honeydew melon. In poor varieties there can be an unpleasant \"soapy\" aftertaste. The fruit matures 30to80days after pollination.  "
+    ], 
+    "Location:": [
+        "  The plant likes a sunny or semi-shaded, frost-free location, sheltered from strong winds. It does well planted next to a south-facing wall or in a patio.  "
+    ], 
+    "Soil:": [
+        "  The pepino dulce does best in a fertile (but not too fertile), free draining, neutral  soil ( pH of 6.5-7.5).  It is not as tolerant of salinity as the tomato. Mulching will help suppress weed growth.  "
+    ], 
+    "Irrigation:": [
+        " The pepino dulce is quite sensitive to moisture stress as their root systems spread out and are quite shallow. Irrigation techniques are thus crucial for the health of the plants as well as for pollination, fruit set and quality of the fruit crop. Some growers feel that overhead sprinkling may even favor increased pollination. Microjets appear to deliver moisture better than trickle irrigation. "
+    ], 
+    "Fertilization:": [
+        " The plants should be fertilized in a manner similar to a tomato plant, mixing in some well-rotted manure to the plant site several weeks in advance and supplementing with a 5-10-10NPK granular fertilizer as needed. Soils that are too rich produce vigorous vegetative growth which can lead to reduced fruit set and quality, plus an increase in pest problems. "
+    ], 
+    "Pruning:": [
+        "  Pruning of the pepino dulce is not needed unless the plant is being trained to a trellis. In this case treat it as one would a tomato vine. Opening the the fruits to light increases the purple striping and improves the general appearance. "
+    ], 
+    "Frost Protection:": [
+        "   In areas where frost may be a problem, providing the plant with some overhead protection or planting them next to a wall or a building may be sufficient protection. Individual plants are small enough to be fairly easily covered during cold snaps by placing plastic sheeting, etc. over a frame around them.  Plastic row covers will also provide some frost protection for larger plantings. Potted specimens can be moved to a frost-secure area. "
+    ], 
+    "Propagation:": [
+        "  The pepino dulce can be grown from seeds, but  is usually propagated vegetatively from cuttings.  Three to fiveinch stem cuttings are taken leaving 4or5leaves at the upper end. Treatment with rooting hormones will help increase uniformity in rooting and development of heavier root systems. The cuttings are then placed in a fast-draining medium and placed under mist or otherwise protected from excessive water loss. Bottom heat also is helpful. With the right conditions most of the cuttings quickly root and are ready for potting up in individual containers. Rooted cuttings set out after the danger of frost (February to April) should be large enough to start blooming  shortly after planting. The fruit will then have time to grow and ripen during the warm summer months. When planted out, a spacing of about  2to3ft. between bushes is recommended.  "
+    ], 
+    "Pests and Diseases:": [
+        " The plant is affected by many of the diseases and pests that afflict tomatoes and other solanaceous plants, including bacterial spot, anthracnose, and blights caused by Alternaria spp. and Phytophthora spp. The various pests include spider mite, cut worm, hornworm, leaf miner, flea beetle, Colorado potato beetle and others. Fruit fly is a serious pest where they are a problem. Greenhouse grown plants are particularly prone to attack by spider mites, white flies and aphids "
+    ], 
+    "Harvest:": [
+        " Individual fruits should not be picked until they are completely mature to assure the highest flavor and sugar content. Different cultivars vary, but the ground color of many mature fruits is somewhat yellow to light orange. Ripe fruit also bruises easily and requires careful handling. Such fruit should store well for 3to4weeks at around 38F under relatively high humidity. Fruit destined for distant markets would need to be picked earlier just before full ripeness. As it turns out this happens to be a good time to pick the fruit. Studies have shown that fruit in the middle degree of ripeness has the best performance in cold storage. Over-ripe fruit suffers most from physiological problems such as internal breakdown, discoloration and dehydration. If harvested too early, insufficient ripening and development of flavor and sweetness can result. The pepino dulce is commonly chilled and eaten fresh much like a cantaloupe or other melon. "
+    ], 
+    "Commercial Potential:": [
+        " The pepino dulce is a successful commercial crop in several countries such as New Zealand and Chile, and there appears to be no reason it can't find a niche in this country in Farmer's Market sales and elsewhere. The fruit is strikingly attractive and its storage capability and shelf life permit great flexibility in marketing. For good market acceptance it is important to select cultivars with the sweetest and most flavorful fruit. Additional breeding and selection is also needed to further enhance these qualities.  "
+    ], 
+    "Vista": [
+        " Originated in Vista, Calif. by Patrick J. Worley. A cross of Rio Bamba and a seedling from South America. Medium-sized fruits have good flavor and aroma. Upright, fairly compact plant of great vigor, self-fertile and heavy yielding. Bright green, 3inch long leaves. "
+    ]
+}

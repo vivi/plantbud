@@ -1,0 +1,59 @@
+{
+    "Common Names:": [
+        " Carambola, Starfruit. "
+    ], 
+    "Related Species:": [
+        " Bilimbi (Averrhoa bilimbi L.). "
+    ], 
+    "Origin:": [
+        " The carambola is believed to have originated in Sri Lanka and the Moluccas, but it has been cultivated in southeast Asia and Malaysia for many centuries. "
+    ], 
+    "Adaptation:": [
+        " The carambola is classified as subtropical because mature trees can tolerate temperatures as low as 27F for short periods of time with little damage.  Like many other subtropicals, however, young plants are more susceptible to frost and can be killed at 32F.  Carambolas can be severely damaged by flooding or prevailing hot, dry winds.  The small trees make good container plants. "
+    ], 
+    "Growth Habit:": [
+        " The carambola is a slow-growing, short-trunked evergreen tree with a much-branched, bushy canopy that is broad and rounded.  Mature trees seldom exceed 25-30feet in height and 20-25feet in spread.  Trees are very unlikely to reach this size in California.  In a spot to its liking carambolas make handsome ornamentals.  Container grown plants are equally attractive and have the additional advantage of being movable. "
+    ], 
+    "Foliage:": [
+        " The spirally arranged, alternate leaves are 6 - 10inches long, with 5 - 11nearly opposite, ovate-oblong leaflets that are 1-1/2 to  3-1/2inches in length.  They are soft, medium-green, and smooth on the upper surface, faintly hairy and whitish on the underside.  The leaflets are sensitive to light and more or less inclined to to fold together at night or when the tree is shaken or abruptly shocked.                           "
+    ], 
+    "Flowers:": [
+        " The fragrant, pink to lavender flowers are 3/8inch in diameter, perfect, and borne in clusters in axils of leaves on young branches, or on older branches without leaves. There are several flushes of bloom throughout the year. "
+    ], 
+    "Fruit:": [
+        " Carambola fruits are ovate to ellipsoid, 2-1/2 to 5inches (6 to 13cm) in length, with 5 (rarely 4 or 6) prominent longitudinal ribs.  Slices cut in cross-section are star shaped.  The skin is thin, light to dark yellow and smooth with a waxy cuticle. The flesh is light yellow to yellow, translucent, crisp and very juicy, without fiber. The fruit has a more or less oxalic acid odor and the flavor ranges from very sour to mildly sweet.  The so-called sweet types rarely have more than 4%sugar.  There may be up to 12 flat, thin brown seeds 1/4 - 1/2inch long or none at all.  Seeds lose viability in a few days after removal from fruit. "
+    ], 
+    "Location:": [
+        " Carambolas do best in a frost-free location.  They are tolerant of wind except for those that are hot and dry.  The tree needs full sun. "
+    ], 
+    "Soils:": [
+        " The carambola is not too particular as to soil, but will grow faster and bear more heavily in rich loam.  It prefers a moderately acid soil (pH5.5 - 6.5) and is sensitive to waterlogging.  The plant often becomes chlorotic in alkaline soils.  "
+    ], 
+    "Irrigation:": [
+        " The carambola need moisture for best performance.  This means regular watering during the summer months and must be watered even in winter during dry spells. "
+    ], 
+    "Fertilization:": [
+        " In soils of low fertility young trees should receive light applications every 60 to 90days until well established. Thereafter, they should receive one or two applications a year in deep soils or three or more applications in shallow soils where nutrients are lost by leaching. Application at the rate of 2lbs per year for every inch of trunk diameter is suggested. Fertilizer mixtures containing 6-8%nitrogen, 2-4%available phosphoric acid, 6-8%potash and 3-4%magnesium are satisfactory. In the more fertile soils of California, this program can be reduced.  The tree is prone to chlorosis in many western soils but responds to soil and foliar application of chelated iron and other micronutrients. "
+    ], 
+    "Frost protection:": [
+        " Since it is a small tree, winter protection can be fairly easily given prior to any anticipated cold spell.  Carpeting, sheets and such can be spread over a frame, with light bulbs for added warmth.  "
+    ], 
+    "Pruning:": [
+        " Carambolas seldom need pruning. "
+    ], 
+    "Pests and Diseases:": [
+        " No serious diseases are known to be of sufficient importance to require control measures. The fruit is subject to fruit fly, fruit moths and fruit spotting bugs in those areas having these infestations. "
+    ], 
+    "Propagation:": [
+        " The carambola is widely grown from seed though viability lasts only a few days.  Only plump, fully developed seed should be planted. Veneer grafting during the time of most active growth gives the best results. Healthy, year-old seedlings of 3/8 - 3/4inch diameter are best for rootstocks. Graft-wood should be taken from mature twigs on which leaves are still present and, if possible, the buds are just beginning to grow. Cleft-grafting of green budwood is also successful. Top-working of older trees has been done by bark grafting. Air-layering is less successful than grafting. The roots develop slowly, and percentage of success often is low. Trees are small and rather weak when propagated by this method.  "
+    ], 
+    "Harvest:": [
+        " Fruit best when ripened on the tree, but will ripen slowly if picked before fully ripe. Green or ripe fruits are easily damaged and must be handled with great care.  Ripe carambolas are eaten out-of-hand, sliced and served in salads or used as a garnish. They are also cooked in puddings, tarts, stews and curries. "
+    ], 
+    "Thayer": [
+        " and "
+    ], 
+    "Newcombe": [
+        " Two of the better known tart varieties. "
+    ]
+}

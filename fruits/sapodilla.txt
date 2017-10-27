@@ -1,0 +1,68 @@
+{
+    "Common Names:": [
+        " Sapodilla, Chico, Chico sapote, Zapote chico, Zapotillo, Chicle, Sapodilla plum, Naseberry. "
+    ], 
+    "Distant Affinity:": [
+        " Star Apple (Chrysophyllum cainito), Abiu (Pouteria caimito), Canistel (P. campechiana), Lucmo (P. lucuma), Sapote (P. sapota), Green Sapote (P. viridis). "
+    ], 
+    "Origin:": [
+        " The sapodilla is believed to be native to Yucatan and possibly other nearby parts of southern Mexico, as well as northern Belize and northeastern Guatemala. It was introduced long ago throughout tropical America and the West Indies and the southern part of the Florida mainland. "
+    ], 
+    "Adaptation:": [
+        " Sapodillas are not strictly tropical and mature trees can withstand temperatures of 26 to 28F for several hours. Young trees are more tender and can be killed by 30F.  The sapodilla seems equally at home in humid and relatively dry environments. Although it will grow in the milder parts of southern California, whether it will fruit regularly remains to be seen. A tree in La Mesa, Calif. has borne fruit. Cool California nights seem to be a limiting factor.  The slow-growing sapodilla makes a satisfactory container or greenhouse specimen.  "
+    ], 
+    "Growth Habit:": [
+        " The sapodilla is an attractive upright, slow-growing, long-lived evergreen tree. Distinctly pyramidal when young, with age the tree may develops a crown that is dense and rounded or sometimes open and somewhat irregular in shape. It is strong and wind-resistant and rich in a white, gummy latex. In the tropics it can grow to 100 feet, but grafted cultivars are substantially shorter. A 40-year old tree in La Mesa, California is only about 12 feet tall. "
+    ], 
+    "Leaves:": [
+        " The leaves are highly ornamental, 3 to 4-1/2 inches long and 1 to 1-1/2 inches wide. They are medium green, glossy, alternate and spirally clustered at the tip of forked twigs. "
+    ], 
+    "Flowers:": [
+        " Sapodilla flowers are small, inconspicuous and bell-like, approximately 3/8 inch in diameter. They are borne on slender stalks in the axil of the leaves. There are several flushes of flowers throughout the year. "
+    ], 
+    "Fruit:": [
+        " The fruit is round to egg-shape, 2 - 4 inches in diameter. The skin is brown and scruffy when ripe. The flesh varies from yellow to shades of brown and sometimes reddish-brown, and may be smooth or of a granular texture. The flavor is sweet and pleasant, ranging from a pear flavor to crunchy brown sugar. Fruits can be seedless, but usually have from 3 to 12 hard, black, shiny, flattened seeds about 3/4 inch long in the center of the fruit. "
+    ], 
+    "Location:": [
+        " The sapodilla prefers a sunny, warm, preferably frost free location. They are highly wind tolerant and can take salt spray. "
+    ], 
+    "Soil:": [
+        " Sapodillas are well adapted to many types of soil. It thrives in very poor soils but flourishes also in deep, loose, organic soil, as well as light clay, sand or lateritic gravel. Good drainage is essential, the tree doing poorly in low, wet locations. It is highly drought resistant and approaches the date palm in its tolerance of soil salinity. "
+    ], 
+    "Irrigation:": [
+        " The tree tolerates dry conditions remarkably well. Most mature sapodilla trees receive no watering, but irrigation in dry season will increase productivity. "
+    ], 
+    "Fertilization:": [
+        " Newly planted trees need small and frequent feedings to become established. Fertilizers that contain 6-8% nitrogen, 2-4% available phosphoric acid and 6-8% potash give satisfactory results. First year applications should be made every two to three months beginning with 1/4 pound and gradually increasing to one pound. Thereafter, two to three applications per year are sufficient, in amounts proportionate to the increasing size of the tree. "
+    ], 
+    "Pruning:": [
+        " Sapodillas require very little pruning. "
+    ], 
+    "Frost Protection:": [
+        " Although mature sapodilla trees will take several degrees of frost, it is prudent to provide them with overhead protection if possible and plant them on the south side of a wall or building. Plants can also be covered with sheeting and such when significant frost is likely. "
+    ], 
+    "Propagation:": [
+        " The sapodilla is most commonly propagated by seed, which remain viable for many years if kept dry. Easily germinated, they take five to eight years to bear. Since seed may not come true, vegetative propagation is desirable. Veneer grafting with seedlings as rootstock is the best method . Air layering and rooting of cuttings have not been successful. "
+    ], 
+    "Pests and Diseases:": [
+        " In general the sapodilla tree remains quite healthy with little or no care.  Insects and diseases usually don't cause sufficient damage to necessitate control measures, although the Wooly White Fly can sometimes be a problem. Oil sprays in winter are suggested. "
+    ], 
+    "Harvest:": [
+        "  It is often difficult to tell when a sapodilla is ready to pick. If the skin is brown and the fruit separates from the stem easily without leaking of the latex, it is fully mature but must be kept at room temperature for few days to soften.  It is best to wash off the sandy scruff before putting the fruit aside to ripen. It should be eaten when firm-soft, not mushy. Firm-ripe sapodillas may be kept for several days in good condition in the home refrigerator. At 35F they can be kept for 6 weeks.  Fully ripe fruits frozen at 32F keep perfectly for a month. The fruit is mainly consumed fresh. "
+    ], 
+    "Miscellaneous:": [
+        "  Chicle, the latex obtained from the bark of the tree has been used as a chewing gum base for many years. "
+    ], 
+    "Brown Sugar": [
+        " "
+    ], 
+    "Prolific": [
+        " "
+    ], 
+    "Russel": [
+        " "
+    ], 
+    "Tikal": [
+        " "
+    ]
+}
