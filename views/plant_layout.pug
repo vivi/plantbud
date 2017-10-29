@@ -1,0 +1,29 @@
+extends layout
+
+block content
+  h1= "plantbud // " + title
+  hr
+
+  if show
+    each plant in plants
+      button.btn.btn-sm.btn-info(onclick="createBox('"+ plant.common_name + "' ," + plant.size +")") #{plant.common_name}
+    div(class="canvas")
+      canvas(id="layout", resize="true")
+
+  else
+    h3
+      |Please enter
+      a(href="/guide") coordinates first
+      |.
+    if error
+      b There was an error:
+      error
+
+block scripts
+  script(type="text/javascript" src="/javascripts/paper-full.min.js")
+  script(type="text/javascript" src="/javascripts/layout.js" canvas="layout")
+  if coord
+    script.
+      window.onload = function() {
+        initialize([#{verts}]);
+      };

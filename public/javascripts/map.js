@@ -113,11 +113,16 @@ function getPolygonCoords() {
 
   // Build the string to fill in the invisible form field.
   var str = "";
+  var first = "";
   for (var i = 0; i < len; i++) {
     var coord = pixels[i];
     str += "(" + (coord.x - min_x) + "," + (coord.y - min_y) + ")";
+    if (i == 0) {
+      first = str;
+    }
     str += ";"
   }
+  str += first;
   $('#f-verts').val(str);
   $('#f-mpp').val(mpp);
 }
@@ -153,7 +158,6 @@ var height = 0;
 $('#width').on('input', function() {
     width = parseFloat($(this).val());
     $('#f-area').val(parseFloat(width * height).toFixed(3));
-    $('#f-mpps').val(mpps);
     updateVertex();
 });
 

@@ -1,6 +1,8 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: "Executive", "Lucida Grande", Geneva, Verdana, Arial, sans-serif;
+  font-size: 16px;
+  /* font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;*/
 }
 
 a {
@@ -38,3 +40,30 @@ a {
   width: auto;
   height: 600px;
 }
+
+canvas[resize] {
+  width: 100%;
+  height: 600px;
+}
+
+@font-face {
+  font-family: "Executive";
+  font-weight: normal;
+  font-style: normal;
+  src: url("http://assets.paperjs.org/fonts/executive-regular.eot");
+  src: url("http://assets.paperjs.org/fonts/executive-regular.eot?#iefix") format("embedded-opentype"), url("http://assets.paperjs.org/fonts/executive-regular.woff") format("woff"), url("http://assets.paperjs.org/fonts/executive-regular.ttf") format("truetype"), url("http://assets.paperjs.org/fonts/executive-regular.svg#Executive") format("svg"); }
+
+@font-face {
+  font-family: "Executive";
+  font-weight: normal;
+  font-style: italic;
+  src: url("http://assets.paperjs.org/fonts/executive-italic.eot");
+  src: url("http://assets.paperjs.org/fonts/executive-italic.eot?#iefix") format("embedded-opentype"), url("http://assets.paperjs.org/fonts/executive-italic.woff") format("woff"), url("http://assets.paperjs.org/fonts/executive-italic.ttf") format("truetype"), url("http://assets.paperjs.org/fonts/executive-italic.svg#Executive") format("svg"); }
+
+@font-face {
+  font-family: "Executive";
+  font-weight: bold;
+  font-style: normal;
+  src: url("http://assets.paperjs.org/fonts/executive-medium.eot");
+  src: url("http://assets.paperjs.org/fonts/executive-medium.eot?#iefix") format("embedded-opentype"), url("http://assets.paperjs.org/fonts/executive-medium.woff") format("woff"), url("http://assets.paperjs.org/fonts/executive-medium.ttf") format("truetype"), url("http://assets.paperjs.org/fonts/executive-medium.svg#Executive") format("svg"); }
+
