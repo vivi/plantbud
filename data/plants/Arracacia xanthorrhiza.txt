@@ -1,0 +1,134 @@
+{
+    "Plant Name": [
+        "Arracacia xanthorrhiza"
+    ], 
+    "Common names": [
+        "arracacha", 
+        " white carrot", 
+        " Peruvian parsnip", 
+        " paneme", 
+        " pomme de terre-celeri", 
+        " racacha", 
+        " zanhoria blanca", 
+        " apio criollo", 
+        " sonarca", 
+        " batata barao", 
+        " mandioquinha", 
+        " batata salsa", 
+        " batata cenoura", 
+        " lakachu", 
+        " lekachu", 
+        " oqqe", 
+        " huiasampilla", 
+        " laqachu", 
+        " raqacha", 
+        " virraca", 
+        " rikacha"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "roots/tubers"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "14", 
+        "21", 
+        "10", 
+        "28"
+    ], 
+    "Soil texture": [
+        "light, organic", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "800", 
+        "1200", 
+        "600", 
+        "1800"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "10", 
+        "10"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "600", 
+        "3500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "6", 
+        "4.5", 
+        "6.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "humidity"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "small scale (manual)"
+    ], 
+    "Crop cycle": [
+        "120", 
+        "365"
+    ]
+}

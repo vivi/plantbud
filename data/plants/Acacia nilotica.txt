@@ -1,0 +1,180 @@
+{
+    "Plant Name": [
+        "Acacia nilotica"
+    ], 
+    "Common names": [
+        "Egyptian thorn", 
+        " red heat", 
+        " scented-pod acacia", 
+        " Nile acacia", 
+        " thorn", 
+        " scented thorn", 
+        " babul acacia", 
+        " Arabic gumtree", 
+        " Egyptian mimosa", 
+        " Prickly acacia", 
+        " gommier rouge", 
+        " Acacia d'Arabie", 
+        " Acacia de Cayenne", 
+        " acacia a gomme", 
+        " acacia d'Egypte", 
+        " gommier d'Egypte", 
+        " arabische Akazie", 
+        " gummi- Akazie", 
+        " Aegyptische Akazie", 
+        " kudupod", 
+        " stinkpeul", 
+        " fulissa (Ethiopia)", 
+        " ruikperul", 
+        " garad", 
+        " sant", 
+        " aschawkah al misriyah", 
+        " osdi (Yemen)", 
+        " babla (Bangladesh)", 
+        " babul", 
+        " baboul (India)", 
+        " kikar (India)", 
+        " acacia d'Egitto", 
+        " ol'erbat", 
+        " espinheiro preto (Cape Verde)", 
+        " espinho preto (Cape Verde)", 
+        " guider", 
+        " marah", 
+        " tugaar", 
+        " galol", 
+        " tuwer", 
+        " acacia gomifera", 
+        " goma arbica", 
+        " mgunga", 
+        " karu-velam", 
+        " lekkerruikpeul", 
+        " motse", 
+        " ongue (Angola)", 
+        " lekwele (Botswana)", 
+        " bagani-iri (Cameroon)", 
+        " bani (Cameroon)", 
+        " barana (Cameroon)", 
+        " boina (Cameroon)", 
+        " daibe (Cameroon)", 
+        " gabde (Cameroon)", 
+        " gabdere (Cameroon)", 
+        " gabdi (Cameroon)", 
+        " Egyptian Acacia", 
+        " bano (Guinea-Bissau)", 
+        " gaude (Guinea-Bissau)", 
+        " babla (India)", 
+        " dauria (India)", 
+        " godi (India)", 
+        " godi babul (India)", 
+        " kabuli kikar (India)", 
+        " kaora (India)", 
+        " kaulia (India)", 
+        " k"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "19", 
+        "34", 
+        "10", 
+        "50"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "400", 
+        "1200", 
+        "200", 
+        "2300"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "30", 
+        "32"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "8", 
+        "5", 
+        "9"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-1"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "fire, drought"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        "can become a weed"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "90", 
+        "180"
+    ]
+}

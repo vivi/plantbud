@@ -1,0 +1,140 @@
+{
+    "Plant Name": [
+        "Musa sapientum"
+    ], 
+    "Common names": [
+        "common banana", 
+        " banana", 
+        " plantain", 
+        " broadleaf plantain", 
+        " dessert banana", 
+        " dwarf cavendish", 
+        " banane", 
+        " liwii", 
+        " nas", 
+        " navits", 
+        " vii", 
+        " meika (Cook I)", 
+        " vudi ni vavalagi", 
+        " vudi", 
+        " dini", 
+        " vuda ni vavalagi", 
+        " si", 
+        " te banana (Kiribati)", 
+        " futi (Niue)", 
+        " fusi (Niue)", 
+        " hopa (Tonga)", 
+        " fai (Samoa)", 
+        " fai'i (Samoa)", 
+        " vudi (Simbo)", 
+        " hakua (Roviana)", 
+        " piesang (Afrikaans)", 
+        " futi (Tuvalu)"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        ""
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

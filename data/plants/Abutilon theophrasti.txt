@@ -1,0 +1,141 @@
+{
+    "Plant Name": [
+        "Abutilon theophrasti"
+    ], 
+    "Common names": [
+        "China jute", 
+        " velvetleaf", 
+        " velvet leaf", 
+        " butter-print", 
+        " pie-marker", 
+        " piemarker", 
+        " Indian mallow", 
+        " Chinese lantern", 
+        " malva blanca", 
+        " malva de terciopelo", 
+        " malva grande", 
+        " yute de la China", 
+        " jute de Chine", 
+        " Lindenblttrige Schnmalve", 
+        " Chinesische Jute", 
+        " Chinesischer Hanf", 
+        " Iuta cinese", 
+        " swamp Chinese lantern", 
+        " butterprint velvetleaf", 
+        " chingma lantern", 
+        " pie maker", 
+        " buttonweed", 
+        " butter print", 
+        " velvet weed", 
+        " Indian hemp", 
+        " cotton weed", 
+        " wild cotton", 
+        " flower of an hour"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials, weed"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "14", 
+        "25", 
+        "10", 
+        "30"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "650", 
+        "2000", 
+        "500", 
+        "3000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "50", 
+        "56"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.9", 
+        "8.2"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        "can become a weed"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "75", 
+        "140"
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "Plant Name": [
+        "Eleusine coracana ssp. coracana"
+    ], 
+    "Common names": [
+        "finger millet", 
+        " African millet", 
+        " koracan", 
+        " kurakkan", 
+        " petit mil", 
+        " eleusine cultivee", 
+        " coracan", 
+        " ragi", 
+        " tailabon", 
+        " vogel gierst", 
+        " wimbi", 
+        " ulezi", 
+        " bule", 
+        " Fingerhirse", 
+        " dagussa", 
+        " tokuso", 
+        " tocusso", 
+        " barankiya", 
+        " mugimbi", 
+        " ceyut", 
+        " koddo", 
+        " mawere (Malawi)", 
+        " lipoko (Malawi)", 
+        " usanje (Malawi)", 
+        " khakwe (Malawi)", 
+        " mulimbi (Malawi)", 
+        " lupodo (Malawi)", 
+        " malesi (Malawi)", 
+        " mawe (Malawi)", 
+        " mwimbi (Tanzania)", 
+        " mbege (Tanzania)", 
+        " bulo (Uganda)", 
+        " kambale (Zambia)", 
+        " lupoko (Zambia)", 
+        " mawele (Zambia)", 
+        " majolothi (Zambia)", 
+        " amale (Zambia)", 
+        " bule (Zambia)", 
+        " rapoko (Zimbabwe)", 
+        " zviyo (Zimbabwe)", 
+        " njera (Zimbabwe)", 
+        " rukweza (Zimbabwe)", 
+        " mazhovole (Zimbabwe)", 
+        " uphoko (Zimbabwe)", 
+        " Poho (Zimbabwe)"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "multi stem, C4 photosynthesis"
+    ], 
+    "Habit": [
+        "erect, prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "cereals & pseudocereals, forage/pasture, environmental"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "18", 
+        "30", 
+        "8", 
+        "35"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "1100", 
+        "300", 
+        "4300"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "20", 
+        "35"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5.5", 
+        "8.2"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "75", 
+        "180"
+    ]
+}
