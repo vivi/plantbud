@@ -1,4 +1,5 @@
 var express = require('express');
+var https = require('https');
 var path = require('path');
 var favicon = require('serve-favicon');
 var logger = require('morgan');
@@ -6,6 +7,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var expressValidator = require('express-validator');
 
+var fs = require('fs');
 var index = require('./routes/index');
 var users = require('./routes/users');
 var guide = require('./routes/guide');
@@ -61,3 +63,14 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+
+var key = fs.readFileSync('/etc/letsencrypt/live/plantbud.org/privkey.pem');
+var cert = fs.readFileSync( '/etc/letsencrypt/live/plantbud.org/cert.pem' );
+
+var options = {
+  key: key,
+  cert: cert,
+};
+
+http.createServer(app).listen(80);
+https.createServer(options, app).listen(443);
