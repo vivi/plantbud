@@ -1,0 +1,129 @@
+{
+    "Plant Name": [
+        "Rhodiola rosea"
+    ], 
+    "Common names": [
+        "roseroot stonecrop", 
+        " golden root", 
+        " artic root", 
+        " king's crown", 
+        " orpin rose", 
+        " reniec grski", 
+        " rosenrot", 
+        " rosenrod", 
+        " ruusujuuri", 
+        " burnirt", 
+        " rosenwurz", 
+        " ronis koren", 
+        " rozchodnice rov", 
+        " hong jing tian", 
+        " iwa-benkei", 
+        " roosilhnaline kuldjuur"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "10", 
+        "25", 
+        "5", 
+        "38"
+    ], 
+    "Soil texture": [
+        "light, organic", 
+        "light, organic"
+    ], 
+    "Rainfall (annual)": [
+        "400", 
+        "800", 
+        "250", 
+        "1500"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "36", 
+        "34", 
+        "73", 
+        "75"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "3000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "5", 
+        "7"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "clear skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "subtropical humid (Cf), subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), boreal (E)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-50"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden"
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}
