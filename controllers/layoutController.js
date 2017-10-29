@@ -2,7 +2,7 @@ var async = require('async');
 
 var guide = require('./guideController.js');
 
-/* We only display the mapping on a POST request that contains GPS coordinates */
+/* We only display the tool on a POST request that contains perimeter info. */
 exports.layout_get = function(req, res, next) {
   res.render('plant_layout', {
     title: 'layout',
@@ -10,7 +10,7 @@ exports.layout_get = function(req, res, next) {
   });
 };
 
-/* Serve the mapping tool */
+/* Serve the laying out tool */
 exports.layout_post = function(req, res, next) {
   console.log(req.body.verts);
   var verts = req.body.verts.split(';');

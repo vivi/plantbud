@@ -1,30 +1,24 @@
-var hitOptions = {
-  segments: true,
-  stroke: true,
-  fill: true,
-  tolerance: 5
-};
-
 paper.settings.handleSize = 1;
-var perimeter;
+var perimeter; // The box with area outside the perimeter shaded
 var perimeter_outline;
-var MPP;
-var FPM = 3.28;
+var MPP; // Meters per pixel
+var FPM = 3.28; // Feet per meter
 
 function initialize(perimeter, mpp) {
   MPP = mpp;
   paper.setup('layout');
-  var currLayer = paper.project.activeLayer;
-  var layer = new paper.Layer();
+  var plantLayer = paper.project.activeLayer;
+  plantLayer.name = 'plants';
+  var perimLayer = new paper.Layer();
+  perimLayer.name = 'perimeter';
   drawPerimeter(perimeter);
-  currLayer.activate();
-  currLayer.insertAbove(layer);
+  plantLayer.insertAbove(perimLayer);
+  plantLayer.activate();
 }
 
 function drawPerimeter(perPoints) {
   segments = [];
-  perPoints.forEach(function(el) {
-    // el: (x, y)
+  perPoints.forEach(function(el) { // el: (x, y)
     segments.push(new paper.Point(el[0], el[1]));
   });
   fit(segments);
@@ -36,21 +30,22 @@ function drawPerimeter(perPoints) {
     ],
     fillRule: 'evenodd',
     strokeColor: 'black',
-    dashArray: [4, 10],
     strokeWidth: 2,
-    strokeCap: 'round'
+    strokeCap: 'round',
   });
 
   // How many pixels per meter
+  // TODO: Fix for when there is more than one meter per pixel.
   var pixels = 1 / MPP;
   var scale = new paper.Path.Line(perimeter_outline.bounds.bottomRight.add(new paper.Point(5, -5)),
-      perimeter_outline.bounds.bottomRight.add(new paper.Point(pixels + 5, -5)));
+  perimeter_outline.bounds.bottomRight.add(new paper.Point(pixels + 5, -5)));
   scale.strokeColor = 'black';
   var label = new paper.PointText(scale.bounds.bottomRight.add(new paper.Point(0, 2)));
   label.fillColor = 'black';
   label.content = '1 meter';
 }
 
+/* Fit the perimeter to the size of the canvas. */
 function fit(segments) {
   var width = paper.view.size.width - 40;
   var height = paper.view.size.height - 40;
@@ -92,6 +87,7 @@ function scale(segments, factor) {
   }
 }
 
+/* Creates a plant box. */
 function createBox(name, feet) {
   var meters = feet / FPM;
   var pixels = Math.ceil(meters / MPP);
@@ -112,7 +108,7 @@ function createBox(name, feet) {
 
 var group;
 function onMouseDown(event) {
-  if (!event.item || event.item == perimeter) {
+  if (!event.item || event.item.parent != paper.project.activeLayer) {
     group = null;
     return;
   }
@@ -126,7 +122,7 @@ function onMouseDown(event) {
 
 function onMouseMove(event) {
   paper.project.activeLayer.selected = false;
-  if (event.item && event.item != perimeter) {
+  if (event.item && event.item.parent == paper.project.activeLayer) {
     event.item.selected = true;
   }
 }
@@ -148,4 +144,3 @@ var tool = new paper.Tool();
 tool.onMouseMove = onMouseMove;
 tool.onMouseDrag = onMouseDrag;
 tool.onMouseDown = onMouseDown;
-
