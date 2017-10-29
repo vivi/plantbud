@@ -1,0 +1,137 @@
+{
+    "Plant Name": [
+        "Garcinia mangostana"
+    ], 
+    "Common names": [
+        "mangosteen", 
+        " dodol", 
+        " king's-fruit", 
+        " mangoustanier", 
+        " mangostan", 
+        " mangostao", 
+        " mangusto", 
+        " mangostane", 
+        " mangoestan", 
+        " manggis", 
+        " settorr", 
+        " mesetor", 
+        " semetah", 
+        " sementah", 
+        " manggustan", 
+        " mongkhut", 
+        " kadiis", 
+        " kanabla", 
+        " mangkhud", 
+        " mang khut", 
+        " mahng-koot", 
+        " mangustai", 
+        " cay mang cut", 
+        " mang cut"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, medicinals & aromatic, forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "deep (>>150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "15", 
+        "40"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium, light, organic"
+    ], 
+    "Rainfall (annual)": [
+        "1600", 
+        "2000", 
+        "1100", 
+        "2800"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "10", 
+        "18"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "6", 
+        "4.3", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "cloudy skies", 
+        "clear skies", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "4"
+    ], 
+    "Killing temp. early growth": [
+        "4"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

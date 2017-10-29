@@ -1,0 +1,142 @@
+{
+    "Plant Name": [
+        "Hibiscus sabdariffa var. sabdariffa"
+    ], 
+    "Common names": [
+        "roselle", 
+        " rozelle", 
+        " sorrel", 
+        " red sorrel", 
+        " Jamaica sorrel", 
+        " Indian sorrel", 
+        " Guinea sorrel", 
+        " sour-sour", 
+        " Queensland jelly plant", 
+        " jelly okra", 
+        " lemon bush", 
+        " Florida cranberry", 
+        " oseille rouge", 
+        " oseille de Guine", 
+        " quimbomb chino", 
+        " sereni", 
+        " rosa de Jamaica", 
+        " flor de Jamaica", 
+        " agrio de Guinea", 
+        " quetmia cida", 
+        " via", 
+        " viuela", 
+        " vinagreira", 
+        " azeda de Guin", 
+        " curur azdo", 
+        " quiabeiro azdo", 
+        " zuring", 
+        " karkad", 
+        " carcad"
+    ], 
+    "Life form": [
+        "herb, sub-shrub"
+    ], 
+    "Physiology": [
+        "multi stem, C3 photosynthesis"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, fruits & nuts, vegetables, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "24", 
+        "32", 
+        "10", 
+        "36"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "3000", 
+        "500", 
+        "3500"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "25"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "700"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "4.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden, small scale (manual)"
+    ], 
+    "Crop cycle": [
+        "90", 
+        "120"
+    ]
+}

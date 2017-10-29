@@ -1,0 +1,137 @@
+{
+    "Plant Name": [
+        "Pongamia pinnata"
+    ], 
+    "Common names": [
+        "Indian beech", 
+        " oil tree", 
+        " poonga-oil-tree", 
+        " seashore mempari", 
+        " karum tree", 
+        " arbre de pongolote", 
+        " bni", 
+        " kanji", 
+        " karanj", 
+        " papar", 
+        " daay kim", 
+        " saam hoa", 
+        " biansu", 
+        " ki pahang laut", 
+        " melapari", 
+        " dok kom koi", 
+        " mempare", 
+        " pongu", 
+        " pongam", 
+        " ko:m ko:y", 
+        " day lim", 
+        " day mau", 
+        " khoor", 
+        " karanga"
+    ], 
+    "Life form": [
+        ""
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        ""
+    ], 
+    "Category": [
+        ""
+    ], 
+    "Life span": [
+        ""
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "16", 
+        "40", 
+        "10", 
+        "50"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "2000", 
+        "400", 
+        "2500"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "10", 
+        "-", 
+        "30", 
+        "40"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1200"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "8.5", 
+        "6", 
+        "9"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        ""
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-1"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

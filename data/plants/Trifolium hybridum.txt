@@ -1,0 +1,132 @@
+{
+    "Plant Name": [
+        "Trifolium hybridum"
+    ], 
+    "Common names": [
+        "alsike clover", 
+        " hybrid clover", 
+        " Swedish clover", 
+        " Alsatian clover", 
+        " trefle de Suede", 
+        " trefle hybride", 
+        " Schwedenklee", 
+        " trifoglio ibrido", 
+        " alsike-klver", 
+        " smuk klver", 
+        " alsikeklver", 
+        " alsikeapila", 
+        " tnsmri", 
+        " trevo hibrido", 
+        " trevo da Suecia", 
+        " trebol hibrido", 
+        " trebol sueco", 
+        " alsikeklver", 
+        " Trifolii albi et rubri flos"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect, prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "12", 
+        "20", 
+        "4", 
+        "27"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "wide"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "900", 
+        "300", 
+        "1800"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "50", 
+        "45", 
+        "65", 
+        "70"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.5", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw), boreal (E)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-10"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "flooding, grazing/browsing, trampling"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "90", 
+        "150"
+    ]
+}

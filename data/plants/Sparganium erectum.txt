@@ -1,0 +1,124 @@
+{
+    "Plant Name": [
+        "Sparganium erectum"
+    ], 
+    "Common names": [
+        "bur-reed", 
+        " branched bur-reed", 
+        " aufrechter igelkolben", 
+        " kjempe-piggknopp", 
+        " grenet pindsvineknop", 
+        " smfrugtet pindsvineknop", 
+        " haarapalpakko", 
+        " kantvass", 
+        " storigelknopp", 
+        " vanlig storigelknopp", 
+        " grenigelknopp"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "deciduous, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "roots/tubers, vegetables, ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "12", 
+        "24", 
+        "8", 
+        "28"
+    ], 
+    "Soil texture": [
+        "heavy, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "600", 
+        "1200", 
+        "400", 
+        "1600"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "37", 
+        "40", 
+        "62", 
+        "65"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7.5", 
+        "5.8", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "very bright", 
+        "heavy shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), boreal (E)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-30"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        "drought"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "180", 
+        "270"
+    ]
+}

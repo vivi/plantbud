@@ -1,0 +1,129 @@
+{
+    "Plant Name": [
+        "Apium graveolens"
+    ], 
+    "Common names": [
+        "wild celery", 
+        " celery", 
+        " celery seed", 
+        " apio", 
+        " celeri", 
+        " Sellerie", 
+        " selleri", 
+        " karafs", 
+        " selderij", 
+        " sedano", 
+        " aipo", 
+        " syel'derey", 
+        " serorii", 
+        " ch'in", 
+        " Apii folium", 
+        " seldery"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "deciduous"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "vegetables, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "biennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "21", 
+        "5", 
+        "25"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "medium, organic"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1300", 
+        "500", 
+        "1500"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "40", 
+        "10", 
+        "60", 
+        "65"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "medium (4-10 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "6.8", 
+        "5.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "clear skies", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), subtropical dry summer (Cs), temperate oceanic (Do)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "40", 
+        "150"
+    ]
+}

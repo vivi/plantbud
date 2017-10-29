@@ -1,0 +1,115 @@
+{
+    "Plant Name": [
+        "Pittosporum resiniferum"
+    ], 
+    "Common names": [
+        "petroleum nut", 
+        " hanga"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "18", 
+        "28", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "medium", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "1500", 
+        "5000", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        ""
+    ], 
+    "Latitude": [
+        "600", 
+        "-", 
+        "2400", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        ""
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        "tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden"
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

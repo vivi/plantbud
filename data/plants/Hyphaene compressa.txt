@@ -1,0 +1,155 @@
+{
+    "Plant Name": [
+        "Hyphaene compressa"
+    ], 
+    "Common names": [
+        "doum palm", 
+        " palma dum", 
+        " mukoma", 
+        " ilala", 
+        " baar", 
+        " qoona (fruit)", 
+        " dabell (young)", 
+        " qoone (Borana)", 
+        " kone (Borana)", 
+        " meeti (Borana)", 
+        " mkoma (Chonyi)", 
+        " kulidhe (Daasanach)", 
+        " mkoma (Digo)", 
+        " lume (Digo)", 
+        " meetti (Gabra)", 
+        " mkoma (Giriama)", 
+        " lparruai (Ilchamus)", 
+        " lparrua (Ilchamus)", 
+        " mkoma (Kambe)", 
+        " mokoma (Malakote)", 
+        " mezi (young) (Malakote)", 
+        " irara (Mbeere)", 
+        " kone (Orma)", 
+        " meti (young) (Orma)", 
+        " takuyua (Pokot)", 
+        " takaiw'a (Pokot)", 
+        " takayua (Pokot)", 
+        " gey-i-khooona (Rendille)", 
+        " baar (Rendille)", 
+        " lparwai (Samburu)", 
+        " nkujit-ae-nkeok (Samburu)", 
+        " auwaki (Sanya)", 
+        " mkoma", 
+        " mkoche", 
+        " mlala", 
+        " mnyaa", 
+        " muaa", 
+        " irara (Taveta)", 
+        " muruguyu (Tharaka)", 
+        " eeng'ol (Turkana)", 
+        " eng'ol (Turkana)", 
+        " Dumpalme"
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, materials, medicinals & aromatic, forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "15", 
+        "35"
+    ], 
+    "Soil texture": [
+        "light", 
+        "light"
+    ], 
+    "Rainfall (annual)": [
+        "300", 
+        "800", 
+        "200", 
+        "900"
+    ], 
+    "Soil fertility": [
+        "low", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "23", 
+        "25"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1400"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "clear skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), desert or arid (Bw), steppe or semiarid (Bs)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "drought"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

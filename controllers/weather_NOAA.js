@@ -2,7 +2,7 @@ var async = require('async');
 var fs = require('fs');
 
 /* Filenames */
-var DATASET = 'NOAA DataSet/';
+var DATASET = 'data/NOAA DataSet/';
 var STATION_PRECIP_FILE = 'station/station_precip.txt';
 var PRECIP_FILE = 'precip/ann-prcp-normal.txt';
 

@@ -1,0 +1,152 @@
+{
+    "Plant Name": [
+        "Vigna umbellata"
+    ], 
+    "Common names": [
+        "rice bean", 
+        " bean - rice", 
+        " red bean", 
+        " lazy-man pea", 
+        " haricot de riz", 
+        " frijol arroz", 
+        " judia de arroz", 
+        " mambi bean", 
+        " anipay", 
+        " bamboo bean", 
+        " climbing mountain bean", 
+        " crab-eye bean", 
+        " dungay", 
+        " kalipan", 
+        " kilkilang", 
+        " linay", 
+        " mangulasi", 
+        " mungo lising", 
+        " pagapay", 
+        " pagsei", 
+        " paksai", 
+        " taklauo", 
+        " tapilan", 
+        " gai-kalai", 
+        " ghurush", 
+        " gurounsh", 
+        " gurush", 
+        " kachang sepalit", 
+        " katjang otji", 
+        " meth", 
+        " pau maia", 
+        " shiltong", 
+        " sita-mas", 
+        " sutari", 
+        " sutri", 
+        " take-azuki", 
+        " tsuru-adsuki", 
+        " mu-tsa", 
+        " reisbohne"
+    ], 
+    "Life form": [
+        "herb, vine"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect, climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "pulses (grain legumes), forage/pasture, vegetables, cover crop, environmental"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "18", 
+        "30", 
+        "10", 
+        "40"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1500", 
+        "300", 
+        "2000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "30"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7.5", 
+        "5.5", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden, small scale (manual), intermediate (animal drawn)"
+    ], 
+    "Crop cycle": [
+        "40", 
+        "130"
+    ]
+}

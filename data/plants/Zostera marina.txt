@@ -1,0 +1,123 @@
+{
+    "Plant Name": [
+        "Zostera marina"
+    ], 
+    "Common names": [
+        "eelgrass", 
+        " sea-wrack", 
+        " grass-wrack", 
+        " sea grass", 
+        " ulva marina", 
+        " limo de fita", 
+        " ceba do rio", 
+        " zostera marinha", 
+        " zozima", 
+        " cirigo"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture, fruits & nuts, vegetables"
+    ], 
+    "Life span": [
+        ""
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "25", 
+        "10", 
+        "32"
+    ], 
+    "Soil texture": [
+        "heavy", 
+        "heavy"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "1500", 
+        "200", 
+        "3000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "high (>10 dS/m))", 
+        "high (>10 dS/m))"
+    ], 
+    "Soil PH": [
+        "6.8", 
+        "7.2", 
+        "6.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), temperate oceanic (Do), boreal (E)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "120", 
+        "240"
+    ]
+}

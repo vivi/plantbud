@@ -1,0 +1,162 @@
+{
+    "Plant Name": [
+        "Citrus aurantifolia"
+    ], 
+    "Common names": [
+        "Key lime", 
+        " acid lime", 
+        " Mexican lime", 
+        " sour lime", 
+        " West Indian lime", 
+        " lime tree", 
+        " common lime", 
+        " lime acide", 
+        " limettier", 
+        " citron vert", 
+        " limoo", 
+        " doc", 
+        " lima", 
+        " limn ceut", 
+        " lima cida", 
+        " tipolo", 
+        " Limette", 
+        " Limettenbaum", 
+        " Limone", 
+        " saure Limette", 
+        " saure Limonette", 
+        " Limonelle", 
+        " kagzi mimboo", 
+        " jeruk nipis", 
+        " jeruk pecel", 
+        " limau asam", 
+        " limau nipis", 
+        " mull", 
+        " dayap", 
+        " krooch chhmaa muul", 
+        " naaw", 
+        " somma nao", 
+        " manao", 
+        " cbanh", 
+        " chanh ta", 
+        " muli", 
+        " sipora", 
+        " arani (Cooks)", 
+        " moli", 
+        " molie", 
+        " moli laimi", 
+        " laimi", 
+        " nabbu kaghdi", 
+        " te raim (Kiribati)", 
+        " moli tipolo", 
+        " Omani lime (Oman)", 
+        " kaghzi nimba", 
+        " baladi lemon (Egypt)", 
+        " gallego (Brazil)"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, materials, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "26", 
+        "32", 
+        "13", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "2200", 
+        "2700", 
+        "700", 
+        "3700"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "10", 
+        "-", 
+        "30", 
+        "30"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2200"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "6.5", 
+        "4.8", 
+        "8.3"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "180", 
+        "365"
+    ]
+}

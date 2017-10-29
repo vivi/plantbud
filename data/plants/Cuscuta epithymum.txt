@@ -1,0 +1,137 @@
+{
+    "Plant Name": [
+        "Cuscuta epithymum"
+    ], 
+    "Common names": [
+        "lesser dodder", 
+        " dodder", 
+        " common dodder", 
+        " clover dodder", 
+        " ljungsnrja", 
+        " ljungsilke", 
+        " klversnrja", 
+        " kloeversnaerja", 
+        " timiansnikjetrd", 
+        " lyng-silke", 
+        " klver-silke", 
+        " apilanvieras", 
+        " Quendelseide", 
+        " Thymianseide", 
+        " Kleeseide", 
+        " epitimo", 
+        " cuscuta del trebol", 
+        " cuscute du thym", 
+        " cuscute du trefle", 
+        " cuscuta piccola", 
+        " cuscuta del trifoglio", 
+        " duivelsnaaigaren", 
+        " klein Warkruid", 
+        " cabelos"
+    ], 
+    "Life form": [
+        "other"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect, climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "35", 
+        "30", 
+        "55", 
+        "60"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        "temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

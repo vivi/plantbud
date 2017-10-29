@@ -1,0 +1,154 @@
+{
+    "Plant Name": [
+        "Bidens pilosa"
+    ], 
+    "Common names": [
+        "beggar's tick", 
+        " cobbler's pegs", 
+        " common blackjack", 
+        " black jack", 
+        " Spanish needle", 
+        " farmer's friend", 
+        " pitchforks", 
+        " shepherd's needles", 
+        " butterfly needles", 
+        " needleandthread", 
+        " piquants noirs", 
+        " amor seco", 
+        " picao preto", 
+        " cuamba", 
+        " xian feng cao", 
+        " chegogit", 
+        " fisi'uli", 
+        " kofe tonga", 
+        " kofetoga", 
+        " batimadramadra", 
+        " mbatimandramandra", 
+        " mbatikalawau", 
+        " matakaro", 
+        " matua kamate", 
+        " ki", 
+        " ki nehe", 
+        " ki pipili", 
+        " ko'oko'olau", 
+        " ki nahelehele", 
+        " nehe", 
+        " gewone knap-se-krel", 
+        " knapsakkerwel", 
+        " umhlabangubo", 
+        " amalenjane", 
+        " isikhathula", 
+        " ugamfe", 
+        " ucucuza", 
+        " umesisi", 
+        " uqadolo", 
+        " piripiri (Cook Islands)", 
+        " tae puaka (Futuna)"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "vegetables, ornamentals/turf, medicinals & aromatic, weed"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "17", 
+        "32", 
+        "10", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium, light, organic", 
+        "medium, light, organic"
+    ], 
+    "Rainfall (annual)": [
+        "800", 
+        "2500", 
+        "500", 
+        "3500"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "40"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "4.5", 
+        "8", 
+        "3.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-15"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "fire"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden"
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

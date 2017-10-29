@@ -1,0 +1,142 @@
+{
+    "Plant Name": [
+        "Mauritia flexuosa"
+    ], 
+    "Common names": [
+        "buriti palm", 
+        " mauriti palm", 
+        " aguaje palm", 
+        " babinda", 
+        " palmier bche", 
+        " carandai-guaz (Bolivia)", 
+        " ideu", 
+        " canaguche", 
+        " canangucho (Colombia", 
+        " Ecuador)", 
+        " chomiya", 
+        " burit", 
+        " moriche (Colombia", 
+        " Venezuela)", 
+        " morete (Ecuador)", 
+        " palma real (Bolivia)", 
+        " coqueiro anaj", 
+        " inajazeiro", 
+        " mirit", 
+        " murit", 
+        " palmeira dos brejos", 
+        " ite palm (Guyana)", 
+        " aguaje (Colombia", 
+        " Per)", 
+        " morichal (Colombia)", 
+        " buriti-do-brejo", 
+        " coqueiro-buriti", 
+        " buritizeiro", 
+        " mangrove"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, materials, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "22", 
+        "30", 
+        "18", 
+        "34"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, wide, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "2000", 
+        "4500", 
+        "1100", 
+        "6300"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "10", 
+        "10"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "970"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "4", 
+        "5", 
+        "3.5", 
+        "5.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "10"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

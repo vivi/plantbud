@@ -1,0 +1,205 @@
+{
+    "Plant Name": [
+        "Coriandrum sativum"
+    ], 
+    "Common names": [
+        "coriander", 
+        " collender", 
+        " Chinese parsley", 
+        " coriandro", 
+        " cilantro", 
+        " cilandrio", 
+        " culantro", 
+        " curat", 
+        " coriandre", 
+        " dhania", 
+        " koriander", 
+        " cignypetrezselyem", 
+        " belndf", 
+        " zergef", 
+        " kusthumbari", 
+        " dhanayaka", 
+        " dembilal", 
+        " koriandr", 
+        " kinza", 
+        " geshnes", 
+        " ngo", 
+        " coriandolo", 
+        " kuzbara", 
+        " chamem", 
+        " yan sui", 
+        " xiang cai", 
+        " hu sui", 
+        " kindza", 
+        " kindz", 
+        " koriannon", 
+        " korion", 
+        " dhanya", 
+        " koendoro", 
+        " ketumbar", 
+        " kolendra", 
+        " coentro", 
+        " coriandru", 
+        " koljandra", 
+        " kisnec", 
+        " vonjucee zel'e", 
+        " klopovnik", 
+        " Wanzendill", 
+        " Schwindelkorn", 
+        " korijander", 
+        " persil arabe", 
+        " kisnis", 
+        " dhane", 
+        " kothmiri", 
+        " konphir", 
+        " libdhane", 
+        " kothambri", 
+        " kothmiri bija", 
+        " daaniwal", 
+        " kothambalari", 
+        " kothumpkalari bija", 
+        " kothumpalari", 
+        " dhana", 
+        " kothimber", 
+        " kothamali", 
+        " dhaniyalu", 
+        " debo", 
+        " shucar", 
+        " tsagha", 
+        " zagda", 
+        " tibichota", 
+        " kazbarah", 
+        " dhoney", 
+        " nan nan zee", 
+        " nan nan bin", 
+        " naunau", 
+        " fan yan sui", 
+        " ketoembar", 
+        " Indian parsley", 
+        " koriandro", 
+        " aedkoriander", 
+        " korianteri", 
+        " punaise mle", 
+        " coireiman", 
+        " lus a choire", 
+        " Wanzenkmmel", 
+        " Chinesische Petersilie", 
+        " Indische Petersilie", 
+        " hara dhania", 
+        " daun ketumbar", 
+        " koyendoro", 
+        " havija", 
+        " kambari", 
+        " phak hom pom", 
+        " kottamalli", 
+        " gishniiz", 
+        " gashneez", 
+        " kolendra "
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "vegetables, materials, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "25", 
+        "4", 
+        "32"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "1400", 
+        "300", 
+        "2600"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "30", 
+        "-", 
+        "50", 
+        "60"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2200"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7.5", 
+        "4", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-10"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "35", 
+        "140"
+    ]
+}

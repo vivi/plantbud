@@ -1,0 +1,158 @@
+{
+    "Plant Name": [
+        "Digitalis purpurea"
+    ], 
+    "Common names": [
+        "common foxglove", 
+        " purple foxglove", 
+        " foxglove", 
+        " foxes glofa (Anglo-Saxon)", 
+        " witches' glove", 
+        " dead man's bells", 
+        " bloody fingers", 
+        " bloody man's fingers", 
+        " flapdock", 
+        " fairy glove", 
+        " fairy finger", 
+        " finger flower", 
+        " lady glove", 
+        " Roter Fingerhut", 
+        " Fingerkraut", 
+        " Waldglocke", 
+        " Waldglckchen", 
+        " Waldschelle", 
+        " Unserliebenfrauenhandschuh", 
+        " Digitale pourpr", 
+        " Digitale rossa", 
+        " dedaleira", 
+        " digitalis", 
+        " cacapeiro", 
+        " dedalario", 
+        " erva dedal", 
+        " estoura-fole", 
+        " luvas de Santa Maria", 
+        " luvas de pastora", 
+        " Almindelig fingerbl", 
+        " Fingerbl", 
+        " Rd fingerbl", 
+        " Fingerborgsblomma", 
+        " Revebjlle", 
+        " Revebjelle", 
+        " Fingurbjargablm", 
+        " Fingurbjargarblm", 
+        " Rohtosormustinkukka", 
+        " Sormustinkukka", 
+        " Naparstnica purpurowa", 
+        " Naparstnik", 
+        " Echte Vingerhoedskruid", 
+        " Vingerhoedskruid soort", 
+        " Dedalera", 
+        " Potschen"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "biennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "11", 
+        "17", 
+        "3", 
+        "24"
+    ], 
+    "Soil texture": [
+        "light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1100", 
+        "450", 
+        "1300"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "40", 
+        "37", 
+        "55", 
+        "60"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.5", 
+        "8.3"
+    ], 
+    "Soil drainage": [
+        "well (dry spells), excessive (dry/moderately dry)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "150", 
+        "180"
+    ]
+}

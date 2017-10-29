@@ -1,0 +1,148 @@
+{
+    "Plant Name": [
+        "Xanthosoma sagittifolium"
+    ], 
+    "Common names": [
+        "tannia", 
+        " new cocoyam", 
+        " tania", 
+        " badoo (Jam)", 
+        " Chinese taro (Pap.N.G.)", 
+        " chou (Gren)", 
+        " chou caraibe (Ant)", 
+        " Dalo ni tana (Fi)", 
+        " Fiji taro", 
+        " ghuya", 
+        " kimpool", 
+        " kong kong taro (N.Guin.)", 
+        " macabo (Cam)", 
+        " maduma (Tanz)", 
+        " maffafa (Ant)", 
+        " Malanga (Ant-Cub)", 
+        " Malanga blanca (Nic)", 
+        " Mangareto (Bra)", 
+        " Ocumo (Ven)", 
+        " Ocumo cuman (Ven)", 
+        " Quequeque (Guat.)", 
+        " Rascadera (Bra)", 
+        " Singapo?", 
+        " Tajer (Sur)", 
+        " Taioba (Bra)", 
+        " Talo papalagi (Sam)", 
+        " Ta'amu papalagi", 
+        " Tanyove (Guy)", 
+        " Tarua??", 
+        " Tata", 
+        " Tayobe", 
+        " Tayonne", 
+        " Tayo Tyo (W.I.)", 
+        " Tiquisque (C.Ri.)", 
+        " Yautia bravia (P.Ri.)"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "roots/tubers"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "28", 
+        "10", 
+        "35"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "2000", 
+        "750", 
+        "6000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "30"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1900"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        ""
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "4.5", 
+        "7.8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "7"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "fire"
+    ], 
+    "Abiotic suscept.": [
+        "fire"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden"
+    ], 
+    "Crop cycle": [
+        "120", 
+        "365"
+    ]
+}

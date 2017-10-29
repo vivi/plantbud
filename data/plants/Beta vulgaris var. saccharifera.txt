@@ -1,0 +1,122 @@
+{
+    "Plant Name": [
+        "Beta vulgaris var. saccharifera"
+    ], 
+    "Common names": [
+        "sugarbeet", 
+        " remolacha azucarera", 
+        " betterave  sucre", 
+        " tiancai", 
+        " zuckerruebe", 
+        " barbabietola da zucchero", 
+        " tensai", 
+        " sato daikon", 
+        " sakharnaya svyokla"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "deciduous, single stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "roots/tubers"
+    ], 
+    "Life span": [
+        "biennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "25", 
+        "7", 
+        "30"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "heavy, medium, organic"
+    ], 
+    "Rainfall (annual)": [
+        "400", 
+        "700", 
+        "250", 
+        "1000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "30", 
+        "30", 
+        "60", 
+        "60"
+    ], 
+    "Soil Al. tox": [
+        "medium (16-25% of CEC", 
+        "high (<5% of CEC)"
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2100"
+    ], 
+    "Soil salinity": [
+        "medium (4-10 dS/m)", 
+        "high (>10 dS/m))"
+    ], 
+    "Soil PH": [
+        "6", 
+        "6.8", 
+        "5.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        ""
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "clear skies", 
+        "light shade", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-3"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "60", 
+        "140"
+    ]
+}

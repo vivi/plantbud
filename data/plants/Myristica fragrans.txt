@@ -1,0 +1,186 @@
+{
+    "Plant Name": [
+        "Myristica fragrans"
+    ], 
+    "Common names": [
+        "(<b>Both for nutmeg and mace</b>):-", 
+        " nutmeg", 
+        " Semen Myristicae", 
+        " gewz", 
+        " gasbasa", 
+        " josat al teeb", 
+        " mutwinda", 
+        " rou dou kou", 
+        " jon tou k'ou", 
+        " jon tau kau", 
+        " tau kau", 
+        " nootmuskaat", 
+        " muskatnd", 
+        " lhnav muskaadipuu", 
+        " muskottiphkin", 
+        " djus hendi", 
+        " noix de muscade", 
+        " muscade", 
+        " Muskatnu", 
+        " jayfal", 
+        " jaiphal", 
+        " taifal", 
+        " kathal", 
+        " szerecsendi", 
+        " mskat", 
+        " pala", 
+        " noce moscata", 
+        " nikuzuku", 
+        " pock kak", 
+        " chan thed", 
+        " buah pala", 
+        " kembang pala", 
+        " pokok pala", 
+        " jayphal", 
+        " muskatntt", 
+        " noz moscada", 
+        " muskatniy orekh", 
+        " jatiphala", 
+        " sadikka", 
+        " moscada", 
+        " nuez moscada", 
+        " muskotnt", 
+        " duguan", 
+        " chan thet", 
+        " luk chand", 
+        " chan ban", 
+        " zati", 
+        " dza ti", 
+        " kk hindistancevizi", 
+        " mace", 
+        " foelie", 
+        " muskottikukka", 
+        " fleur de muscade", 
+        " macis", 
+        " German Muskatblte", 
+        " jaypatri", 
+        " javitri", 
+        " javinthri", 
+        " szerecsendi virg", 
+        " mskathi", 
+        " masi", 
+        " sekar pala", 
+        " fuli", 
+        " Norwegian muskatblomme", 
+        " sushonaya shelukha", 
+        " muskatnogo orekha", 
+        " jatipatra", 
+        " wasa-vasi", 
+        " macia", 
+        " muskotblomma", 
+        " dok chand", 
+        " dau khau", 
+        " nhuc dau khau"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, materials, medicinals & aromatic, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "deep (>>150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "22", 
+        "34", 
+        "12", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "1500", 
+        "3500", 
+        "1200", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "15", 
+        "15"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "light shade", 
+        "clear skies", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "5"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        "wind"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

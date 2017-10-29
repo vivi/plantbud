@@ -1,0 +1,146 @@
+{
+    "Plant Name": [
+        "Citrus reticulata"
+    ], 
+    "Common names": [
+        "mandarin", 
+        " tangerine", 
+        " Cleopatra mandarin", 
+        " clementine", 
+        " Satsuma orange", 
+        " kid-glove orange", 
+        " mandarinier", 
+        " moli madarini", 
+        " madarini", 
+        " Mandarinenbaum", 
+        " jeruk keprok", 
+        " jeruk jepun", 
+        " jeruk maseh", 
+        " limau lang-kat", 
+        " limau kupas", 
+        " limau wangkang", 
+        " sintones", 
+        " krauch kvich", 
+        " som hot", 
+        " som lot", 
+        " liou", 
+        " tangerina", 
+        " tangerineira", 
+        " som khieo waan", 
+        " som saengthong", 
+        " ma baang", 
+        " cam sanh", 
+        " cay quit", 
+        " narangi", 
+        " nartjie", 
+        " naartjie", 
+        " moli saina", 
+        " moli peli"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, grown on small scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "23", 
+        "34", 
+        "12", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1200", 
+        "1800", 
+        "300", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "35", 
+        "45"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2300"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "6.8", 
+        "5.5", 
+        "8.3"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden, large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "60", 
+        "365"
+    ]
+}
