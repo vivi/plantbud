@@ -44,6 +44,29 @@ function getPlants(weather, callback) {
         .where('water').equals(type));
 }
 
+function getPlantsFromCoord(coord, state) {
+  return function(cb) {
+    async.waterfall([
+          getWeather(coord),
+          getPlants,
+          function(weather, plantlist, callback) {
+              state.weather = weather;
+              plantlist.exec(function (err, plantlist) {
+                  console.log("Plant List" + plantlist);
+                  state.plantlist = plantlist;
+                  callback(err);
+              });
+          }
+      ], function(err) {
+          console.log("Got Plants from Coord.!");
+          cb(err);
+      }
+    );
+  };
+}
+
+exports.getPlantsFromCoord = getPlantsFromCoord;
+
 exports.guide_post = function(req, res, next) {
     req.checkBody('lat', 'Lat coordinate required').notEmpty();
     req.checkBody('lon', 'Long coordinate required').notEmpty();
@@ -54,38 +77,31 @@ exports.guide_post = function(req, res, next) {
     req.sanitize('lon').trim();
 
     var errors = req.validationErrors();
-
-    var coord = new Coord(req.body.lat, req.body.lon);
     if (errors) {
         res.render('guide', { title: 'guide', coord: coord, errors: errors});
         return;
     }
 
-    async.waterfall([
-            getWeather(coord),
-            getPlants,
-            function(weather, plantlist, callback) {
-                plantlist.exec(function (err, plant_list) {
-                    console.log("Plant List" + plant_list);
-                    if (err) {
-                        res.render('guide', {
-                            title: 'guide',
-                            coord: coord,
-                            errors: errors
-                        });
-                    } else {
-                        res.render('guide', {
-                            title: 'guide',
-                            weather: weather,
-                            plants: plant_list,
-                            coord: coord
-                        });
-                    }
-                });
-                callback();
-            }
-        ], function(err) {
-            console.log("Done!");
+    var coord = new Coord(req.body.lat, req.body.lon);
+
+    var state = {};
+    async.series([
+        getPlantsFromCoord(coord, state),
+      ],
+      function(err) {
+        if (err) {
+            res.render('guide', {
+                title: 'guide',
+                coord: coord,
+                errors: [err],
+            });
+        } else {
+            res.render('guide', {
+                title: 'guide',
+                weather: state.weather,
+                plants: state.plantlist,
+                coord: coord
+            });
         }
-    );
+      });
 };
