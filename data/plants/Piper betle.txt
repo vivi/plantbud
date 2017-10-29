@@ -1,0 +1,154 @@
+{
+    "Plant Name": [
+        "Piper betle"
+    ], 
+    "Common names": [
+        "betel", 
+        " betel leaf", 
+        " betel leaf pepper", 
+        " betel leaf vine", 
+        " betel vine", 
+        " betel pepper", 
+        " Piper Folium", 
+        " alfavaca de cobra", 
+        " cobrinha", 
+        " wara tumbul", 
+        " buyo", 
+        " buyo-buyo", 
+        " buyo anis", 
+        " ikmo", 
+        " ikmong iloko", 
+        " itmo", 
+        " manin", 
+        " buyog", 
+        " buyu", 
+        " gaoed", 
+        " gaued", 
+        " gok", 
+        " kanisi(bisayan)", 
+        " manon(bisayan)", 
+        " lau", 
+        " mju", 
+        " th lau dng", 
+        " tru khng", 
+        " tru cay", 
+        " tru luong", 
+        " namat", 
+        " nanin(bisayan)", 
+        " paan", 
+        " pan", 
+        " tambuli", 
+        " tanbol", 
+        " phlu", 
+        " samat", 
+        " samok", 
+        " se keh", 
+        " serih"
+    ], 
+    "Life form": [
+        "vine"
+    ], 
+    "Physiology": [
+        "evergreen, multi stem"
+    ], 
+    "Habit": [
+        "climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "22", 
+        "27", 
+        "17", 
+        "31"
+    ], 
+    "Soil texture": [
+        "heavy, organic", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "3000", 
+        "3700", 
+        "2500", 
+        "4200"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "10", 
+        "10"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "5.6", 
+        "4.3", 
+        "6.8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "light shade", 
+        "clear skies", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "10"
+    ], 
+    "Killing temp. early growth": [
+        "10"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        "wind"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "270", 
+        "365"
+    ]
+}

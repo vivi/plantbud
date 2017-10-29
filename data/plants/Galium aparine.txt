@@ -1,0 +1,139 @@
+{
+    "Plant Name": [
+        "Galium aparine"
+    ], 
+    "Common names": [
+        "cleavers", 
+        " Spring cleavers", 
+        " bedstraw", 
+        " catchweed", 
+        " scratchweed", 
+        " mugweed", 
+        " crosswort", 
+        " pigtail", 
+        " maywort", 
+        " stickleback", 
+        " sticky-willy", 
+        " sweet hearts", 
+        " goosegrass", 
+        " snrjmra", 
+        " snrjgrs", 
+        " klengjemaure", 
+        " burre-snerre", 
+        " kierumatara", 
+        " klifurmara", 
+        " Kletten-Labkraut", 
+        " Klebkraut", 
+        " amor de hortelao", 
+        " lampaso", 
+        " galhete", 
+        " pega-pega", 
+        " Galii aparinis herba"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect, climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "vegetables, materials, medicinals & aromatic"
+    ], 
+    "Life span": [
+        ""
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "38", 
+        "36", 
+        "63", 
+        "65"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "Plant Name": [
+        "Phalaris aquatica"
+    ], 
+    "Common names": [
+        "Harding grass", 
+        " bulbous canary grass", 
+        " toowoomba canary grass", 
+        " tall canary grass", 
+        " alpiste bulbeux", 
+        " alpiste noueux", 
+        " alpiste tubreux", 
+        " phalaris noueux", 
+        " herbe de Harding", 
+        " rabillo de cordero", 
+        " falaris bulbosa", 
+        " falaris perenne", 
+        " mata dulce", 
+        " zacate de alpiste", 
+        " koram", 
+        " glanzgras", 
+        " knolliges glanzgras", 
+        " zwiebellieschgras", 
+        " knolkanariegras", 
+        " bljestac ostri", 
+        " falaride tuberosa", 
+        " haadingu gurasu", 
+        " chafurit hapekaim", 
+        " knlflen", 
+        " knolrietgras", 
+        " abu damim", 
+        " quambu", 
+        " mozga bulwiasta", 
+        " waskooskrzydlona", 
+        " capim-doce", 
+        " kanareecnik klubnevoj", 
+        " kksapli yumrulu kanyas"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "12", 
+        "18", 
+        "7", 
+        "24"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "1000", 
+        "300", 
+        "2700"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5.5", 
+        "7.6"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-3"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "120", 
+        "240"
+    ]
+}
