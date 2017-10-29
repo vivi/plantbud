@@ -8,6 +8,7 @@ var PlantSchema = new Schema({
     water: String,
     min_temp: Number,
     max_temp: Number,
+    size: Number,
 });
 
 module.exports = mongoose.model('Plant', PlantSchema);

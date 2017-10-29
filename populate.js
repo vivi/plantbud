@@ -20,11 +20,12 @@ mongoose.connection.on('error', console.error.bind(console, 'MongoDB connection 
 
 var plants = []
 
-function plantCreate(common_name, water, min_temp, max_temp, cb) {
+function plantCreate(common_name, water, min_temp, max_temp, size, cb) {
     plantdetail = {common_name: common_name,
                    water: water,
                    min_temp: min_temp,
-                   max_temp: max_temp};
+                   max_temp: max_temp,
+                   size: size,};
     var plant = new Plant(plantdetail);
     plant.save(function (err) {
     if (err) {
@@ -39,20 +40,29 @@ function plantCreate(common_name, water, min_temp, max_temp, cb) {
 
 function createPlants(cb) {
     async.parallel([
-        function(callback) {
-          plantCreate('Avocado', 'medium', 60, 85, callback);
-        },
-        function(callback) {
-          plantCreate('Banana', 'medium', 56, 85, callback);
-        },
-        ],
-        // optional callback
-        cb);
+      function(callback) {
+        plantCreate('Avocado', 'medium', 60, 85, 20, callback);
+      },
+      function(callback) {
+        plantCreate('Banana', 'medium', 56, 85, 8, callback);
+      },
+    ],
+    // optional callback
+    cb);
+}
+
+function emptyPlants(cb) {
+  Plant.remove({}, function(err) {
+    console.log('collection removed');
+    cb(null);
+  });
 }
 
 async.series([
+    emptyPlants,
     createPlants,
 ],
+
 // optional callback
 function(err, results) {
     if (err) {
