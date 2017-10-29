@@ -1,6 +1,7 @@
 var async = require('async');
 var Plant = require('../models/plant.js');
 var NOAA = require('./weather_NOAA.js');
+var Soil = require('./soil_query.js');
 
 function Coord(lat, lon) {
     this.lat = lat;
