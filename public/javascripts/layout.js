@@ -8,22 +8,26 @@ var hitOptions = {
 paper.settings.handleSize = 1;
 var perimeter;
 var perimeter_outline;
+var MPP;
+var FPM = 3.28;
 
-function initialize(perimeter) {
+function initialize(perimeter, mpp) {
+  MPP = mpp;
   paper.setup('layout');
   var currLayer = paper.project.activeLayer;
   var layer = new paper.Layer();
   drawPerimeter(perimeter);
   currLayer.activate();
+  currLayer.insertAbove(layer);
 }
 
 function drawPerimeter(perPoints) {
-  var gradient = new paper.Gradient(['green', 'aquamarine']);
   segments = [];
   perPoints.forEach(function(el) {
     // el: (x, y)
     segments.push(new paper.Point(el[0], el[1]));
   });
+  fit(segments);
   perimeter_outline = new paper.Path(segments);
   perimeter = new paper.CompoundPath({
     children: [
@@ -31,24 +35,75 @@ function drawPerimeter(perPoints) {
       new paper.Path.Rectangle(paper.view.bounds),
     ],
     fillRule: 'evenodd',
-    fillColor: new paper.Color(gradient, new paper.Point(0, 0), new paper.Point(600, 600)),
     strokeColor: 'black',
     dashArray: [4, 10],
     strokeWidth: 2,
     strokeCap: 'round'
   });
+
+  // How many pixels per meter
+  var pixels = 1 / MPP;
+  var scale = new paper.Path.Line(perimeter_outline.bounds.bottomRight.add(new paper.Point(5, -5)),
+      perimeter_outline.bounds.bottomRight.add(new paper.Point(pixels + 5, -5)));
+  scale.strokeColor = 'black';
+  var label = new paper.PointText(scale.bounds.bottomRight.add(new paper.Point(0, 2)));
+  label.fillColor = 'black';
+  label.content = '1 meter';
 }
 
-function createBox(name, size) {
+function fit(segments) {
+  var width = paper.view.size.width - 40;
+  var height = paper.view.size.height - 40;
+  var max_x = 0;
+  var max_y = 0;
+  segments.forEach(function(el) {
+    if (el.x > max_x)
+      max_x = el.x;
+    if (el.y > max_y)
+      max_y = el.y;
+  });
+  var x_factor;
+  var y_factor;
+  var factor;
+  if (max_x > width || max_y > height) {
+    x_factor = max_x / width;
+    y_factor = max_y / height;
+    factor = 1 / Math.max(x_factor, y_factor);
+  } else {
+    x_factor = width / max_x;
+    y_factor = height / max_y;
+    factor = Math.min(x_factor, y_factor);
+  }
+  console.log(factor);
+  MPP /= factor;
+  scale(segments, factor);
+  translate(segments, 20);
+}
+
+function translate(segments, pixels) {
+  for (var i = 0; i < segments.length; i++) {
+    segments[i] = segments[i].add(pixels);
+  }
+}
+
+function scale(segments, factor) {
+  for (var i = 0; i < segments.length; i++) {
+    segments[i] = segments[i].multiply(factor);
+  }
+}
+
+function createBox(name, feet) {
+  var meters = feet / FPM;
+  var pixels = Math.ceil(meters / MPP);
   var pos = perimeter_outline.position;
-  var rect = new paper.Rectangle(pos, new paper.Size(size, size));
+  var rect = new paper.Rectangle(pos, new paper.Size(pixels, pixels));
   var path = new paper.Path.Rectangle(rect);
   path.fillColor = '#FFFFFF';
   path.strokeColor = 'black';
   path.strokeWidth = 1;
 
 
-  var label = new paper.PointText(path.position);
+  var label = new paper.PointText(path.position.subtract(new paper.Point(pixels / 2, -3)));
   label.fillColor = 'black';
   label.content = name;
 
@@ -83,7 +138,7 @@ function onMouseDrag(event) {
       var newpos = group.position.add(event.delta);
       var relZero = zero.add(group.bounds.width / 2);
       group.position = paper.Point.max(newpos, relZero);
-      if (group.intersects(perimeter)) {
+      if (group.firstChild.intersects(perimeter)) {
         group.position = oldpos;
       }
   }

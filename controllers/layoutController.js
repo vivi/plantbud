@@ -37,7 +37,6 @@ exports.layout_post = function(req, res, next) {
               coord: coord,
               error: err,
               plants: state.plantlist,
-              coord: coord,
               verts: bracket_verts, // XXX: Do some parsing
               mpp: req.body.mpp,
               show: true,
