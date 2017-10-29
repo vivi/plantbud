@@ -1,0 +1,124 @@
+{
+    "Plant Name": [
+        "Epilobium angustifolium"
+    ], 
+    "Common names": [
+        "rosebay willow herb", 
+        " schmalblttriges weidenrschen", 
+        " mjlke", 
+        " mjlkrt", 
+        " praktduna", 
+        " rvsvans", 
+        " skogsbloss", 
+        " geitrams", 
+        " gederams", 
+        " maitohorsma", 
+        " sigurskfur"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "45", 
+        "37", 
+        "65", 
+        "70"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), boreal (E)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

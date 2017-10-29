@@ -1,0 +1,125 @@
+{
+    "Plant Name": [
+        "Origanum vulgare"
+    ], 
+    "Common names": [
+        "European oregano", 
+        " wild majoram", 
+        " winter marjoram", 
+        " oregano", 
+        " anrar", 
+        " origan", 
+        " dost", 
+        " vild mejram", 
+        " wilde marjolein", 
+        " regamo", 
+        " ouregao", 
+        " dushitsa"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "17", 
+        "28", 
+        "4", 
+        "32"
+    ], 
+    "Soil texture": [
+        "light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1300", 
+        "400", 
+        "2700"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "4.5", 
+        "8.7"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden"
+    ], 
+    "Crop cycle": [
+        "180", 
+        "300"
+    ]
+}

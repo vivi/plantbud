@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Trifolium usambarense"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect, prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture, materials, environmental"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "28", 
+        "12", 
+        "32"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, wide", 
+        "heavy, medium, light, wide"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "1500", 
+        "900", 
+        "1600"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "10", 
+        "14"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "500", 
+        "2700"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "4.5", 
+        "6.5", 
+        "4", 
+        "7"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-1"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "flooding, grazing/browsing"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "50", 
+        "90"
+    ]
+}

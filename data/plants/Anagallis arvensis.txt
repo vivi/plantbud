@@ -1,0 +1,118 @@
+{
+    "Plant Name": [
+        "Anagallis arvensis"
+    ], 
+    "Common names": [
+        "scarlet pimpernel", 
+        " shepherd's weatherglass", 
+        " pimpernel", 
+        " bird's eye", 
+        " blouselblommetjie"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        "temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

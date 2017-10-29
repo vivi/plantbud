@@ -1,0 +1,116 @@
+{
+    "Plant Name": [
+        "Lippia alba"
+    ], 
+    "Common names": [
+        "liquorice verbena", 
+        " cidreira", 
+        " melissa"
+    ], 
+    "Life form": [
+        "shrub"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "light", 
+        "light"
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        "subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "small scale (manual)"
+    ], 
+    "Crop cycle": [
+        "120", 
+        "180"
+    ]
+}

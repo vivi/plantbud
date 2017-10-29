@@ -1,0 +1,136 @@
+{
+    "Plant Name": [
+        "Calluna vulgaris"
+    ], 
+    "Common names": [
+        "heather", 
+        " common heather", 
+        " white heather", 
+        " Scotch heather", 
+        " moor beson", 
+        " ling", 
+        " bruyere", 
+        " Besenheide", 
+        " brugo", 
+        " urze dos montes", 
+        " urze ordinaria", 
+        " carrasquinha", 
+        " caluna", 
+        " queiro'", 
+        " magrica", 
+        " mongarica", 
+        " quebra-panelas", 
+        " brezo", 
+        " hstljung", 
+        " rsslyng", 
+        " hedelyng", 
+        " kanerva", 
+        " beitillyng"
+    ], 
+    "Life form": [
+        "sub-shrub"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "5", 
+        "6.5", 
+        "4.5", 
+        "7"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "clear skies", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "grazing/browsing"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

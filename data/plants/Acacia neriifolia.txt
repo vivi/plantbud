@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Acacia neriifolia"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, materials, ornamentals/turf, forest/wood, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "22", 
+        "32", 
+        "8", 
+        "39"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "600", 
+        "700", 
+        "400", 
+        "800"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "23", 
+        "23", 
+        "32", 
+        "32"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "100", 
+        "1100"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "6", 
+        "4.5", 
+        "6.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "drought"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "150", 
+        "210"
+    ]
+}

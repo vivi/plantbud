@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Diospyros malabarica"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "25", 
+        "35", 
+        "10", 
+        "40"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1500", 
+        "2500", 
+        "1000", 
+        "3000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "12", 
+        "10", 
+        "28", 
+        "30"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "heavy shade", 
+        "clear skies", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "180", 
+        "300"
+    ]
+}

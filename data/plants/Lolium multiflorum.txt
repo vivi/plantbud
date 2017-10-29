@@ -1,0 +1,126 @@
+{
+    "Plant Name": [
+        "Lolium multiflorum"
+    ], 
+    "Common names": [
+        "annual ryegrass", 
+        " Italian ryegrass", 
+        " ryegrass", 
+        " raigras Italiano", 
+        " ray-grass d'Italie", 
+        " Italienisches raigras", 
+        " vielbltiges weidelgras", 
+        " Italienskt rajgrs", 
+        " borstrepe", 
+        " Italiensk raigras", 
+        " Italiensk rajgrs", 
+        " Italianraihein", 
+        " acevn"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "14", 
+        "30", 
+        "2", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "900", 
+        "200", 
+        "1800"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "28", 
+        "25", 
+        "48", 
+        "51"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2440"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "7.5", 
+        "4.5", 
+        "8.2"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "desert or arid (Bw), steppe or semiarid (Bs), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw), boreal (E)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-4"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "90", 
+        "270"
+    ]
+}

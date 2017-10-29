@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Prunella vulgaris"
+    ], 
+    "Common names": [
+        "self-heal"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        ""
+    ], 
+    "Plant attributes": [
+        "grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "8", 
+        "6", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "clear skies", 
+        "light shade", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

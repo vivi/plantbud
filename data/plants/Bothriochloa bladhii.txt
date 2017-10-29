@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Bothriochloa bladhii"
+    ], 
+    "Common names": [
+        "blue grass"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "28", 
+        "5", 
+        "33"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "750", 
+        "1200", 
+        "600", 
+        "2000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "10", 
+        "10", 
+        "32", 
+        "40"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "8", 
+        "5.5", 
+        "8.4"
+    ], 
+    "Soil drainage": [
+        "well (dry spells), excessive (dry/moderately dry)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "light shade", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-2"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "fire, drought, flooding, grazing/browsing, trampling"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "150", 
+        "180"
+    ]
+}

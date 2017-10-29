@@ -1,0 +1,127 @@
+{
+    "Plant Name": [
+        "Aesculus hippocastanum"
+    ], 
+    "Common names": [
+        "horse-chestnut", 
+        " horse chestnut", 
+        " conkers", 
+        " ippocastano", 
+        " marron d'Inde", 
+        " marronnier d'Inde", 
+        " castanheiro da India", 
+        " castaa de Indias", 
+        " Rosskastanie", 
+        " Ro-Kastanie", 
+        " Hippocastani semen", 
+        " Hippocastani cortex", 
+        " Hippocastani folium", 
+        " Hippocastani flos"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "deciduous, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "clear skies", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "wind, coastal salt spray"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

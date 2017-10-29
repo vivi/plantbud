@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Setaria sphacelata cv. Narok"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "25", 
+        "4", 
+        "30"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1200", 
+        "1600", 
+        "900", 
+        "2000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "20", 
+        "40"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "3300"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "5", 
+        "7"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-4"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "fire, flooding, grazing/browsing, trampling"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "120", 
+        "210"
+    ]
+}

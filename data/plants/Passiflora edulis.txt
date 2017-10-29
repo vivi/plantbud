@@ -1,0 +1,155 @@
+{
+    "Plant Name": [
+        "Passiflora edulis"
+    ], 
+    "Common names": [
+        "passionfruit", 
+        " yellow passion fruit", 
+        " purple passion fruit", 
+        " sweet cup", 
+        " granadilla", 
+        " parcha", 
+        " parchita", 
+        " parchita maracuy", 
+        " maracuy prpura", 
+        " granadilla china", 
+        " parcha morada", 
+        " parcha de monte", 
+        " curuba redonda", 
+        " gulupa", 
+        " ceibey", 
+        " fruit de la passion", 
+        " pomme-liane violette", 
+        " grenadille", 
+        " couzou", 
+        " maracuj", 
+        " maracuj peroba", 
+        " maracuj comm", 
+        " maracuj de comer", 
+        " maracuj de doce", 
+        " maracuja' de garapa", 
+        " maracuj de ponche", 
+        " maracuja' mirim", 
+        " maracuj pequeno", 
+        " maracuj redondo", 
+        " maracuja' roxo", 
+        " Passionsfrucht", 
+        " passionfrukt", 
+        " passie", 
+        " buah negeri", 
+        " buah susu", 
+        " markisa", 
+        " pasionaria", 
+        " maraflora", 
+        " linmangkon", 
+        " not", 
+        " benchawan", 
+        " chm bap"
+    ], 
+    "Life form": [
+        "vine"
+    ], 
+    "Physiology": [
+        "evergreen, multi stem"
+    ], 
+    "Habit": [
+        "climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "fruits & nuts, ornamentals/turf"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "18", 
+        "34"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "900", 
+        "2000", 
+        "600", 
+        "2500"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "5", 
+        "-", 
+        "30", 
+        "45"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1300"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "8", 
+        "5.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "clear skies", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

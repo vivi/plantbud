@@ -1,0 +1,123 @@
+{
+    "Plant Name": [
+        "Lepidium sativum"
+    ], 
+    "Common names": [
+        "cress", 
+        " garden cress", 
+        " curled cress", 
+        " pepper grass", 
+        " fetto", 
+        " shimfi (Galinya)", 
+        " kotto", 
+        " shimfa", 
+        " shimp (Kaffa)", 
+        " shufu (Aderic)"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "vegetables"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "14", 
+        "21", 
+        "3", 
+        "28"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "1800", 
+        "600", 
+        "2500"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "15", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2900"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "light shade", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "10", 
+        "105"
+    ]
+}

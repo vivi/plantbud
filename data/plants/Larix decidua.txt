@@ -1,0 +1,118 @@
+{
+    "Plant Name": [
+        "Larix decidua"
+    ], 
+    "Common names": [
+        "European larch", 
+        " larice", 
+        " Lrche", 
+        " mlze", 
+        " alerce"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "deciduous, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic, forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "deep (>>150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "8", 
+        "22", 
+        "5", 
+        "30"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "medium"
+    ], 
+    "Rainfall (annual)": [
+        "450", 
+        "1100", 
+        "350", 
+        "1400"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "40", 
+        "40", 
+        "60", 
+        "60"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "4.5", 
+        "7.5", 
+        "4", 
+        "7.8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-25"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "100", 
+        "180"
+    ]
+}

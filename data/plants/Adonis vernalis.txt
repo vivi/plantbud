@@ -1,0 +1,118 @@
+{
+    "Plant Name": [
+        "Adonis vernalis"
+    ], 
+    "Common names": [
+        "adonis", 
+        " pheasant's eye", 
+        " spring pheasant's eye", 
+        " Adonisrschen", 
+        " Herba Adonis vernalis"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "deciduous, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "14", 
+        "30", 
+        "10", 
+        "36"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "400", 
+        "750", 
+        "350", 
+        "800"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "44", 
+        "42", 
+        "56", 
+        "58"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "7", 
+        "7.5", 
+        "6.5", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-50"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

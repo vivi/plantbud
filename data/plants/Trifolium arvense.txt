@@ -1,0 +1,128 @@
+{
+    "Plant Name": [
+        "Trifolium arvense"
+    ], 
+    "Common names": [
+        "hare's-foot clover", 
+        " rabbit-foot clover", 
+        " old-field clover", 
+        " dogs-and-cats", 
+        " stone clover", 
+        " trefle des champs", 
+        " trefle pied de lievre", 
+        " hare klver", 
+        " Hasenklee", 
+        " Ackerklee", 
+        " jnnapila", 
+        " trifoglio arvense", 
+        " hare-klver", 
+        " trevo pe' de lebre", 
+        " Trifolii albi et rubri flos"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual, biennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "9", 
+        "16", 
+        "4", 
+        "20"
+    ], 
+    "Soil texture": [
+        "light", 
+        "light"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "900", 
+        "520", 
+        "1200"
+    ], 
+    "Soil fertility": [
+        "low", 
+        "low"
+    ], 
+    "Latitude": [
+        "45", 
+        "40", 
+        "55", 
+        "50"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6.2", 
+        "6.8", 
+        "6", 
+        "7"
+    ], 
+    "Soil drainage": [
+        "well (dry spells), excessive (dry/moderately dry)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "cloudy skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-10"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "120", 
+        "180"
+    ]
+}

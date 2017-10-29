@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Pinus elliottii ssp. elliottii"
+    ], 
+    "Common names": [
+        "Honduras pine"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "23", 
+        "32", 
+        "8", 
+        "36"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "2000", 
+        "650", 
+        "2500"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "28", 
+        "28", 
+        "33", 
+        "33"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "500", 
+        "2500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "4.5", 
+        "5.5", 
+        "4", 
+        "6.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "240", 
+        "300"
+    ]
+}

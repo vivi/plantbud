@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Aeschynomene villosa"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "herb, sub-shrub"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture, cover crop, environmental"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "27", 
+        "10", 
+        "32"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "900", 
+        "1500", 
+        "460", 
+        "2400"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "32"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2250"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "4.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "flooding, grazing/browsing"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

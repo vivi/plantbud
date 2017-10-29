@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Atriplex canescens"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "shrub"
+    ], 
+    "Physiology": [
+        "multi stem, C4 photosynthesis"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "12", 
+        "17", 
+        "5", 
+        "33"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "250", 
+        "450", 
+        "150", 
+        "600"
+    ], 
+    "Soil fertility": [
+        "low", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1900"
+    ], 
+    "Soil salinity": [
+        "medium (4-10 dS/m)", 
+        "high (>10 dS/m))"
+    ], 
+    "Soil PH": [
+        "7.6", 
+        "7.9", 
+        "7.3", 
+        "8.2"
+    ], 
+    "Soil drainage": [
+        "well (dry spells), excessive (dry/moderately dry)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-15"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "90", 
+        "150"
+    ]
+}

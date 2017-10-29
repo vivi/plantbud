@@ -1,0 +1,115 @@
+{
+    "Plant Name": [
+        "Excoecaria agallocha"
+    ], 
+    "Common names": [
+        "feta'anu", 
+        " mangrove"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, deciduous, single stem, C3 photosynthesis"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "15", 
+        "37"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "2000", 
+        "800", 
+        "4100"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "400"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "high (>10 dS/m))"
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "7", 
+        "6", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "300", 
+        "365"
+    ]
+}

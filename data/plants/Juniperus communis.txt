@@ -1,0 +1,127 @@
+{
+    "Plant Name": [
+        "Juniperus communis"
+    ], 
+    "Common names": [
+        "juniper", 
+        " common juniper", 
+        " horse savin", 
+        " genevrier", 
+        " genievre", 
+        " Wacholder", 
+        " ginepro comune", 
+        " Baccae juniperi", 
+        " Juniperi galbulus", 
+        " Juniperi fructus", 
+        " Aetheroleum juniperi", 
+        " zimbro vulgar", 
+        " zimbrao", 
+        " genebreiro"
+    ], 
+    "Life form": [
+        "shrub"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), boreal (E), polar (F)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

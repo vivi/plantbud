@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Trifolium glanduliferum"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "10", 
+        "15", 
+        "5", 
+        "20"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "400", 
+        "550", 
+        "350", 
+        "600"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "32", 
+        "30", 
+        "43", 
+        "45"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "4.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "-5"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "100", 
+        "180"
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Dendrolobium umbellatum"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "22", 
+        "34", 
+        "13", 
+        "40"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "850", 
+        "1500", 
+        "600", 
+        "1750"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "10", 
+        "10", 
+        "22", 
+        "22"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "600"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "8", 
+        "4.5", 
+        "9"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "wind, drought, coastal salt spray"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "200", 
+        "300"
+    ]
+}

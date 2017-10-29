@@ -1,0 +1,119 @@
+{
+    "Plant Name": [
+        "Tithonia diversifolia"
+    ], 
+    "Common names": [
+        "wild sunflower", 
+        " Mexican sunflower", 
+        " maruru", 
+        " maua amalulu (Luhya)", 
+        " maua makech (Luo )", 
+        " amaua amaroro (Kisii)"
+    ], 
+    "Life form": [
+        "herb, sub-shrub, shrub"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect, climber/scrambler/scadent"
+    ], 
+    "Category": [
+        ""
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "31", 
+        "12", 
+        "38"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "2000", 
+        "700", 
+        "2500"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "20", 
+        "25"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "550", 
+        "1950"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        ""
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

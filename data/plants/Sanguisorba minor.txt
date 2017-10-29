@@ -1,0 +1,117 @@
+{
+    "Plant Name": [
+        "Sanguisorba minor"
+    ], 
+    "Common names": [
+        "garden burnet", 
+        " salad burnet", 
+        " toper's-plant", 
+        " pimpinela de Italia"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, vegetables"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "13", 
+        "22", 
+        "4", 
+        "26"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "800", 
+        "300", 
+        "1300"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "35", 
+        "25", 
+        "55", 
+        "60"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2300"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "7.5", 
+        "6", 
+        "8.2"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-25"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "90", 
+        "120"
+    ]
+}

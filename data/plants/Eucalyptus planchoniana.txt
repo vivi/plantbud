@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Eucalyptus planchoniana"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "18", 
+        "28", 
+        "8", 
+        "36"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1100", 
+        "1500", 
+        "1000", 
+        "1650"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "27", 
+        "27", 
+        "32", 
+        "32"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "6.5", 
+        "4.5", 
+        "7"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "180", 
+        "240"
+    ]
+}

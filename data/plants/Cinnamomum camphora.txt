@@ -1,0 +1,144 @@
+{
+    "Plant Name": [
+        "Cinnamomum camphora"
+    ], 
+    "Common names": [
+        "camphor tree", 
+        " camphor", 
+        " Japanese camphor", 
+        " camphrier", 
+        " camphre", 
+        " alcanforero", 
+        " alcanfor", 
+        " arbol del alcanfor", 
+        " arvore da camphora", 
+        " rvore-da-camphora", 
+        " xiang zhang shu", 
+        " zhang", 
+        " zhang shu", 
+        " campher", 
+        " kampferbaum", 
+        " karpuram", 
+        " karpoora", 
+        " pacchakarpuram", 
+        " albero della canfora", 
+        " canfora", 
+        " canforo", 
+        " lauro canforo", 
+        " kuso no ki", 
+        " karpura", 
+        " kapuur", 
+        " kamfornii derevo", 
+        " kamformii lavr", 
+        " korihnik kamfornii", 
+        " karpuramu", 
+        " kafur", 
+        " patckafur"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials, ornamentals/turf, medicinals & aromatic, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "18", 
+        "26", 
+        "12", 
+        "30"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1200", 
+        "1500", 
+        "600", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "10", 
+        "10", 
+        "34", 
+        "34"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "1350", 
+        "1800"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "4.3", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-9"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "270", 
+        "300"
+    ]
+}

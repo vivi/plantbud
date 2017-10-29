@@ -1,0 +1,121 @@
+{
+    "Plant Name": [
+        "Solanum incanum"
+    ], 
+    "Common names": [
+        "Indian rennet", 
+        " igba", 
+        " ingulla", 
+        " inboye", 
+        " hidi (Galinya)", 
+        " apple of Sodam", 
+        " bitter apple", 
+        " bitterappel"
+    ], 
+    "Life form": [
+        "herb, sub-shrub"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "vegetables, medicinals & aromatic, weed"
+    ], 
+    "Life span": [
+        "biennial, perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "26", 
+        "10", 
+        "30"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, organic", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1000", 
+        "250", 
+        "2000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2200"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "7.5", 
+        "6", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        "can become a weed"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "90", 
+        "120"
+    ]
+}

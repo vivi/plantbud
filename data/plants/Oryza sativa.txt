@@ -1,0 +1,139 @@
+{
+    "Plant Name": [
+        "Oryza sativa"
+    ], 
+    "Common names": [
+        "rice", 
+        " riso", 
+        " riz", 
+        " arroz", 
+        " raisi", 
+        " chawal", 
+        " dhan", 
+        " shali", 
+        " rais", 
+        " kumi", 
+        " kome", 
+        " ku", 
+        " dao", 
+        " tao", 
+        " kao", 
+        " cau", 
+        " byeo", 
+        " padi", 
+        " paddy", 
+        " vrihi", 
+        " arishi", 
+        " oruza", 
+        " la", 
+        " la gao", 
+        " arishi Arruz", 
+        " reis"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "multi stem, C3 photosynthesis"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "cereals & pseudocereals"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "10", 
+        "36"
+    ], 
+    "Soil texture": [
+        "wide", 
+        "wide"
+    ], 
+    "Rainfall (annual)": [
+        "1500", 
+        "2000", 
+        "1000", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "36", 
+        "55"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "4.5", 
+        "9"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "intermediate (animal drawn), large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "80", 
+        "180"
+    ]
+}

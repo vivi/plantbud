@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Casuarina luehmannii"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "25", 
+        "35", 
+        "10", 
+        "40"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "650", 
+        "380", 
+        "800"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "20", 
+        "20", 
+        "37", 
+        "37"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-3"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "150", 
+        "210"
+    ]
+}

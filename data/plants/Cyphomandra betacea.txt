@@ -1,0 +1,131 @@
+{
+    "Plant Name": [
+        "Cyphomandra betacea"
+    ], 
+    "Common names": [
+        "tree tomato", 
+        " tamarillo", 
+        " yellow tree tomato", 
+        " tomate d'arbre", 
+        " tamarille", 
+        " tomate de palo", 
+        " tomate de rbol", 
+        " palo de tomate", 
+        " tomate granadillo", 
+        " pix", 
+        " caxlan pix", 
+        " tomate dulce", 
+        " tomate francs", 
+        " sachatomate", 
+        " yuncatomate", 
+        " limatomate", 
+        " tomate de monte", 
+        " tomate de La Paz"
+    ], 
+    "Life form": [
+        "herb, shrub, tree"
+    ], 
+    "Physiology": [
+        "single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, materials, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, grown on small scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "16", 
+        "22", 
+        "10", 
+        "30"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light, organic"
+    ], 
+    "Rainfall (annual)": [
+        "2000", 
+        "2600", 
+        "600", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "10", 
+        "40"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2800"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6.3", 
+        "7", 
+        "5.8", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-2"
+    ], 
+    "Killing temp. early growth": [
+        "-2"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden, large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "270", 
+        "330"
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "Plant Name": [
+        "Tamarindus indica"
+    ], 
+    "Common names": [
+        "tamarind", 
+        " Indian date", 
+        " Madeira mahogany", 
+        " camalindo", 
+        " sampaloc", 
+        " tamarin", 
+        " tamarindo", 
+        " tamarainer", 
+        " tamarindier", 
+        " ardeib", 
+        " tamarindeiro", 
+        " tamarinho", 
+        " tamarineiro", 
+        " tamarinheiro", 
+        " tamanha", 
+        " jubai'", 
+        " tamarinde", 
+        " tamarindizio", 
+        " ambli", 
+        " amli", 
+        " imli", 
+        " amalika", 
+        " tintiff", 
+        " tintul", 
+        " tetul", 
+        " chinch", 
+        " chitz", 
+        " asam jawa", 
+        " assam", 
+        " tambaring", 
+        " chinta", 
+        " sitta", 
+        " pulian", 
+        " tetili", 
+        " salomagi", 
+        " sampalok", 
+        " kalamagi", 
+        " makham", 
+        " bakham", 
+        " somkham", 
+        " humer", 
+        " masika", 
+        " dakar (Senegal)", 
+        " ukwaju", 
+        " arabeb", 
+        " b/roka", 
+        " racahu", 
+        " dereho", 
+        " dindie", 
+        " ghroma", 
+        " gianko", 
+        " omar", 
+        " aradeib", 
+        " tamarihindi", 
+        " shekere", 
+        " kuashi", 
+        " danufi", 
+        " daharg", 
+        " dakah", 
+        " dakhar", 
+        " ndakhar", 
+        " roka", 
+        " hemor", 
+        " homor", 
+        " humar", 
+        " komar", 
+        " tommar", 
+        " siyambala", 
+        " maha", 
+        " mushishi", 
+        " mkwaju", 
+        " ol-masamburai", 
+        " mwemba", 
+        " hamar", 
+        " khaam", 
+        " mak kham", 
+        " puli", 
+        " magyi", 
+        " magyee", 
+        " majee-pen", 
+        " tamarenn", 
+        " 'am' pul", 
+        " ampil", 
+        " khoua me", 
+        " kham", 
+        " me", 
+        " trai me", 
+        " ttri", 
+        " titis", 
+        " paun", 
+        " dabe", 
+        " jammeh", 
+        " jammi", 
+        " homar", 
+        " roka (Galinya)", 
+        " ragai (Soddu)", 
+        " tamarind-hendi", 
+        " Rogo'ota (Konsogna)", 
+        " Koria (Wolayetgna)"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "35", 
+        "12", 
+        "45"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "800", 
+        "3000", 
+        "300", 
+        "4500"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "15", 
+        "20"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "high (>10 dS/m))"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-3"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden, large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "70", 
+        "210"
+    ]
+}

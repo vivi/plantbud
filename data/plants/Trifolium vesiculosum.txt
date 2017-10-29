@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Trifolium vesiculosum"
+    ], 
+    "Common names": [
+        "arrowleaf clover"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "21", 
+        "8", 
+        "26"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "900", 
+        "1100", 
+        "600", 
+        "1360"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "30", 
+        "30", 
+        "45", 
+        "50"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5", 
+        "8.2"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "subtropical humid (Cf), subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "1"
+    ], 
+    "Abiotic toler.": [
+        "drought"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "110", 
+        "300"
+    ]
+}

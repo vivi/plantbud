@@ -1,0 +1,119 @@
+{
+    "Plant Name": [
+        "Brachiaria miliiformis"
+    ], 
+    "Common names": [
+        "cori grass", 
+        " green summer grass", 
+        " two-spiked panic", 
+        " two-finger grass", 
+        " Thurston grass", 
+        " milha preta"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "24", 
+        "30", 
+        "10", 
+        "35"
+    ], 
+    "Soil texture": [
+        "light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1700", 
+        "2000", 
+        "1200", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "25"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6", 
+        "4.5", 
+        "8.7"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "heavy shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "60", 
+        "180"
+    ]
+}

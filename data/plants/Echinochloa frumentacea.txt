@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Echinochloa frumentacea"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "cereals & pseudocereals, forage/pasture, environmental"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "25", 
+        "30", 
+        "10", 
+        "35"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "750", 
+        "450", 
+        "1000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.8", 
+        "7.2"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "40", 
+        "120"
+    ]
+}

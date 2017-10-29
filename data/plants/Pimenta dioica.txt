@@ -1,0 +1,122 @@
+{
+    "Plant Name": [
+        "Pimenta dioica"
+    ], 
+    "Common names": [
+        "allspice", 
+        " pimento", 
+        " pimienta gorda", 
+        " piment", 
+        " kryddpeppar", 
+        " pepe di Giamaica", 
+        " pimenta-da-Jamaica", 
+        " yamayski pyerets", 
+        " bahar"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "32", 
+        "10", 
+        "35"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1500", 
+        "2500", 
+        "1000", 
+        "3500"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "12", 
+        "10", 
+        "28", 
+        "30"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "7", 
+        "7.5", 
+        "6.3", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "cloudy skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "150", 
+        "365"
+    ]
+}

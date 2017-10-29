@@ -1,0 +1,155 @@
+{
+    "Plant Name": [
+        "Brachiaria mutica"
+    ], 
+    "Common names": [
+        "para grass", 
+        " Angola grass", 
+        " buffalo grass", 
+        " California grass", 
+        " cori grass", 
+        " Dutch grass", 
+        " giant couch", 
+        " Mauritius signal grass", 
+        " Mauritius grass", 
+        " Numidian grass", 
+        " panicumgrass", 
+        " Penhalonga grass", 
+        " Scotch grass", 
+        " watergrass", 
+        " admirable", 
+        " blue grama", 
+        " capin", 
+        " gramalote", 
+        " grama de Para", 
+        " hierba de Para", 
+        " hierba del Para", 
+        " malohillo", 
+        " malojillo", 
+        " yerba del parral", 
+        " Angola", 
+        " bengo", 
+        " capim Angola", 
+        " capim angolinha", 
+        " capim Colonia", 
+        " capim de boi", 
+        " capim de muda", 
+        " capin fino", 
+        " herbe de para", 
+        " para", 
+        " rumput malela", 
+        " sukut kolonjono", 
+        " jukut inggris (Idn)", 
+        " babaka-nalabaga", 
+        " mara-kawayan (Phl)", 
+        " smau koo (Cmb)", 
+        " ya khon (Tha)", 
+        " co'long tay (Vnm)"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, weed"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "21", 
+        "30", 
+        "15", 
+        "46"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1200", 
+        "2000", 
+        "900", 
+        "4100"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "27", 
+        "27"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "6", 
+        "4.3", 
+        "7.7"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "8"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        "can become a weed"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "120", 
+        "150"
+    ]
+}

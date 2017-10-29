@@ -1,0 +1,126 @@
+{
+    "Plant Name": [
+        "Setaria italica"
+    ], 
+    "Common names": [
+        "foxtail millet", 
+        " millet foxtail", 
+        " hay millet", 
+        " foxtail bristle-grass", 
+        " boer millet", 
+        " German millet", 
+        " Italian millet", 
+        " nunbank setaria", 
+        " kolbenhirse", 
+        " kolvhirs", 
+        " kta kolvhirs", 
+        " stor busthirse", 
+        " Italianpantahein"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "cereals & pseudocereals, forage/pasture"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "16", 
+        "26", 
+        "5", 
+        "35"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "700", 
+        "300", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "30"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "6.8", 
+        "5.5", 
+        "8.3"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "60", 
+        "120"
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "Plant Name": [
+        "Harpagophytum procumbens"
+    ], 
+    "Common names": [
+        "grapple", 
+        " devil's claw", 
+        " teufelskralle", 
+        " duiwelsklou", 
+        " kalahari skaapklou", 
+        " skerpioen dubbeltjie", 
+        " veld spinnekop", 
+        " duiwelsdoring", 
+        " kloudoring", 
+        " wolwedoring", 
+        " leeudoring", 
+        " sengaparile", 
+        " legatapitsi", 
+        " Harpagophyti radix"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "light", 
+        "light"
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "200", 
+        "600"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

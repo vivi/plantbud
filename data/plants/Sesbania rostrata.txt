@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Sesbania rostrata"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, grown on small scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "30", 
+        "10", 
+        "35"
+    ], 
+    "Soil texture": [
+        "heavy", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "1500", 
+        "3500", 
+        "600", 
+        "5000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "32"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1500"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "6", 
+        "7.5", 
+        "5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "small scale (manual), large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "60", 
+        "90"
+    ]
+}

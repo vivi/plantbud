@@ -1,0 +1,122 @@
+{
+    "Plant Name": [
+        "Coffea arabica"
+    ], 
+    "Common names": [
+        "coffee arabica", 
+        " arabian coffee", 
+        " arabica coffee", 
+        " kafei", 
+        " kofe", 
+        " cafe", 
+        " Kaffee", 
+        " yebuna fire", 
+        " buna"
+    ], 
+    "Life form": [
+        "shrub"
+    ], 
+    "Physiology": [
+        "evergreen, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "14", 
+        "28", 
+        "10", 
+        "34"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1400", 
+        "2300", 
+        "750", 
+        "4200"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "5", 
+        "-", 
+        "10", 
+        "27"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2800"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "4.3", 
+        "8.4"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), subtropical humid (Cf), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        "susceptible to nematodes"
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "210", 
+        "330"
+    ]
+}

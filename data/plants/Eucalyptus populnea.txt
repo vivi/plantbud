@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Eucalyptus populnea"
+    ], 
+    "Common names": [
+        "bimble box"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forest/wood, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "34", 
+        "10", 
+        "43"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "800", 
+        "250", 
+        "1000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        ""
+    ], 
+    "Latitude": [
+        "20", 
+        "20", 
+        "34.5", 
+        "34.5"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "100", 
+        "500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "120", 
+        "300"
+    ]
+}

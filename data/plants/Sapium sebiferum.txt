@@ -1,0 +1,120 @@
+{
+    "Plant Name": [
+        "Sapium sebiferum"
+    ], 
+    "Common names": [
+        "vegetable tallow", 
+        " Chinese tallow tree", 
+        " popcorn tree", 
+        " Florida aspen", 
+        " pau de sebo", 
+        " uro", 
+        " cocanha"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "deciduous, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials, environmental, weed"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "28", 
+        "10", 
+        "32"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1500", 
+        "500", 
+        "2500"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "25", 
+        "10", 
+        "32", 
+        "50"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-10"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        "can become a weed"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "150", 
+        "180"
+    ]
+}

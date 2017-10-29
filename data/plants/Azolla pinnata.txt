@@ -1,0 +1,115 @@
+{
+    "Plant Name": [
+        "Azolla pinnata"
+    ], 
+    "Common names": [
+        "azolla", 
+        " beo-dau"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "35", 
+        "15", 
+        "40"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "4", 
+        "10", 
+        "3.5", 
+        "10.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year)"
+    ], 
+    "Light intensity": [
+        "light shade", 
+        "cloudy skies", 
+        "light shade", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        "drought"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "small scale (manual)"
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

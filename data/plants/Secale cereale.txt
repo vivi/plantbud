@@ -1,0 +1,126 @@
+{
+    "Plant Name": [
+        "Secale cereale"
+    ], 
+    "Common names": [
+        "rye", 
+        " seigle", 
+        " centeno", 
+        " roggen", 
+        " saat-roggen", 
+        " segale comune", 
+        " zyto", 
+        " almindelig rug", 
+        " rug", 
+        " rg", 
+        " rgur", 
+        " ruis", 
+        " rogge"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "cereals & pseudocereals, forage/pasture, cover crop, environmental"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "20", 
+        "3", 
+        "31"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "600", 
+        "1000", 
+        "400", 
+        "2000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "45", 
+        "-", 
+        "60", 
+        "70"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "4300"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "high (>10 dS/m))"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6", 
+        "4.5", 
+        "8.2"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-18"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "110", 
+        "270"
+    ]
+}

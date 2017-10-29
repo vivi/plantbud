@@ -1,0 +1,143 @@
+{
+    "Plant Name": [
+        "Averrhoa carambola"
+    ], 
+    "Common names": [
+        "five corner", 
+        " carambola", 
+        " carambole", 
+        " wi ni jaina", 
+        " wi ni idia", 
+        " kamrakh", 
+        " star fruit", 
+        " Faiv kona", 
+        " karmara", 
+        " belimbing pessegi", 
+        " belimbing saji", 
+        " belimbing batu", 
+        " belembing pessegi", 
+        " belembing sayur", 
+        " kambola", 
+        " balimbin", 
+        " galangan", 
+        " garahan", 
+        " sirinato", 
+        " wou-lien", 
+        " caykhe (Indochina)", 
+        " vinagrillo (Dominican Rep.)", 
+        " mamoncillo chino (Panama)", 
+        " ziblime (Haiti)", 
+        " carnico", 
+        " Indian cucumber", 
+        " turiguno", 
+        " cayenne lime", 
+        " Chinese tamarind", 
+        " sweet tamarind"
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "fruits & nuts, materials, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "24", 
+        "30", 
+        "5", 
+        "39"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "1200", 
+        "2000", 
+        "600", 
+        "3000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "30", 
+        "32"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1200"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "light shade", 
+        "light shade", 
+        "cloudy skies", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-2"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "wind"
+    ], 
+    "Abiotic suscept.": [
+        "flooding"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "240", 
+        "365"
+    ]
+}

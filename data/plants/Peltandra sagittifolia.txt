@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Peltandra sagittifolia"
+    ], 
+    "Common names": [
+        "white arrow arum"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "deciduous, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "vegetables, ornamentals/turf"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "16", 
+        "24", 
+        "12", 
+        "32"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, wide, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "1500", 
+        "750", 
+        "3000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "25", 
+        "22", 
+        "38", 
+        "40"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "7", 
+        "4.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-15"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        "drought"
+    ], 
+    "Introduction risks.": [
+        "poisonous to man or animals"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "130", 
+        "210"
+    ]
+}

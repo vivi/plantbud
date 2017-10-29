@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Lotus tenuis"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "deciduous, multi stem"
+    ], 
+    "Habit": [
+        "erect, prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "23", 
+        "4", 
+        "38"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "600", 
+        "800", 
+        "440", 
+        "1160"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "32", 
+        "30", 
+        "58", 
+        "60"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2400"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "high (>10 dS/m))"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7.5", 
+        "4.5", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-2"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "90", 
+        "210"
+    ]
+}

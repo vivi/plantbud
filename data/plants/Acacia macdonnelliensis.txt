@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Acacia macdonnelliensis"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forest/wood, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "24", 
+        "33", 
+        "8", 
+        "42"
+    ], 
+    "Soil texture": [
+        "light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "200", 
+        "250", 
+        "150", 
+        "300"
+    ], 
+    "Soil fertility": [
+        "low", 
+        "low"
+    ], 
+    "Latitude": [
+        "21", 
+        "21", 
+        "26", 
+        "26"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "550", 
+        "1150"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "6.5", 
+        "4.5", 
+        "7"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "desert or arid (Bw), steppe or semiarid (Bs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "drought"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "60", 
+        "120"
+    ]
+}

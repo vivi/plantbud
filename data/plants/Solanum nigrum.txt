@@ -1,0 +1,131 @@
+{
+    "Plant Name": [
+        "Solanum nigrum"
+    ], 
+    "Common names": [
+        "black nightshade", 
+        " blackberried nightshade", 
+        " common nightshade", 
+        " poison berry", 
+        " morelle noir", 
+        " hierba mora", 
+        " guaraquinha", 
+        " key-awuti", 
+        " schwarzer nachtschatten", 
+        " nattskatta", 
+        " svartstvier", 
+        " mustakoiso", 
+        " karakap", 
+        " sort natskygge", 
+        " boro ni veiwere", 
+        " Qaqata (Konsogna)", 
+        " A'ena (Wolayetgna)", 
+        " Awitt (Amargna)"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "21", 
+        "28", 
+        "8", 
+        "40"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, wide, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "1600", 
+        "500", 
+        "2700"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "10", 
+        "-", 
+        "60", 
+        "65"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "3000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "7.5", 
+        "4.3", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "80", 
+        "110"
+    ]
+}

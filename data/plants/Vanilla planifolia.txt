@@ -1,0 +1,127 @@
+{
+    "Plant Name": [
+        "Vanilla planifolia"
+    ], 
+    "Common names": [
+        "vanilla", 
+        " vanille", 
+        " baunilha", 
+        " vaniglia", 
+        " vanilj", 
+        " wanila", 
+        " banira", 
+        " hsiang-Ts'ao", 
+        " vanil'", 
+        " vanilie", 
+        " panili", 
+        " anggrek", 
+        " waanilaa", 
+        " tlilxochitl"
+    ], 
+    "Life form": [
+        "herb, vine"
+    ], 
+    "Physiology": [
+        "evergreen, single stem, multi stem"
+    ], 
+    "Habit": [
+        "climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "materials, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "21", 
+        "30", 
+        "10", 
+        "33"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "2000", 
+        "2500", 
+        "1500", 
+        "3000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "20", 
+        "25"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "600"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "4.3", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "light shade", 
+        "light shade", 
+        "heavy shade", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "small scale (manual)"
+    ], 
+    "Crop cycle": [
+        "180", 
+        "300"
+    ]
+}

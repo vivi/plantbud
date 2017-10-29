@@ -1,0 +1,133 @@
+{
+    "Plant Name": [
+        "Mentha piperita"
+    ], 
+    "Common names": [
+        "peppermint", 
+        " brandy mint", 
+        " menthe poivree", 
+        " menthe", 
+        " bohe", 
+        " Pfefferminze", 
+        " menta", 
+        " pepparmynta", 
+        " pepermynte", 
+        " na'na", 
+        " pepermunt", 
+        " hortela", 
+        " myata", 
+        " seiyo-hakka", 
+        " Folia Menthae piperitae", 
+        " Oleum Menthae piperitae", 
+        " Spiritus Menthae piperitae", 
+        " Menthae piperitae herba", 
+        " Aetheroleum menthae piperitae", 
+        " yang-po-ho"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "25", 
+        "4", 
+        "35"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "2200", 
+        "700", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "40", 
+        "-", 
+        "50", 
+        "50"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.5", 
+        "8.3"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-8"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "40", 
+        "330"
+    ]
+}

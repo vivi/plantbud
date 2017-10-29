@@ -1,0 +1,121 @@
+{
+    "Plant Name": [
+        "Carpinus betulus"
+    ], 
+    "Common names": [
+        "European hornbeam", 
+        " yoke elm", 
+        " charme commun", 
+        " carpino bianco", 
+        " Hainbuche", 
+        " Steinbuche", 
+        " carpa europeia", 
+        " carpino"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "ornamentals/turf, medicinals & aromatic, forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "10", 
+        "20", 
+        "6", 
+        "35"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "1000", 
+        "300", 
+        "1500"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "7", 
+        "4", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-20"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

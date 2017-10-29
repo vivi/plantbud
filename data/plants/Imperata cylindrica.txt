@@ -1,0 +1,144 @@
+{
+    "Plant Name": [
+        "Imperata cylindrica"
+    ], 
+    "Common names": [
+        "cogon grass", 
+        " blade grass", 
+        " blady grass", 
+        " satintail", 
+        " lalang", 
+        " alang-alang", 
+        " illuk grass", 
+        " cottonwool grass", 
+        " silky grass", 
+        " silver spike", 
+        " Japanese blood grass", 
+        " paille de dys", 
+        " paillotte", 
+        " imprata cylindrique", 
+        " kunai", 
+        " gi", 
+        " ngi", 
+        " capim seno", 
+        " imperata", 
+        " sbow", 
+        " ya kha", 
+        " kyet-mei", 
+        " kurukuru", 
+        " kogon", 
+        " gogon", 
+        " umthente", 
+        " co tranh", 
+        " co tranh sang", 
+        " bach mao", 
+        " nha ca", 
+        " gan"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "25", 
+        "35", 
+        "20", 
+        "40"
+    ], 
+    "Soil texture": [
+        "light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "3500", 
+        "250", 
+        "6250"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "4.5", 
+        "6", 
+        "4", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "90", 
+        "150"
+    ]
+}

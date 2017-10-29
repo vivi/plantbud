@@ -1,0 +1,121 @@
+{
+    "Plant Name": [
+        "Angelica atropurpurea"
+    ], 
+    "Common names": [
+        "great angelica", 
+        " purplestem angelica", 
+        " alexanders", 
+        " American angelica", 
+        " high angelica", 
+        " purple angelica", 
+        " masterwort", 
+        " angelica roxa"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "10", 
+        "18", 
+        "6", 
+        "26"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, wide, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1300", 
+        "500", 
+        "1500"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "40", 
+        "37", 
+        "48", 
+        "50"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "7.5", 
+        "5.5", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "temperate oceanic (Do), temperate continental (Dc), boreal (E)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-30"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}
