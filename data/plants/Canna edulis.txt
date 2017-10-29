@@ -1,0 +1,153 @@
+{
+    "Plant Name": [
+        "Canna edulis"
+    ], 
+    "Common names": [
+        "achira", 
+        " edible canna", 
+        " purple arrowroot", 
+        " Queensland arrowroot", 
+        " Australian arrow root", 
+        " tous-les-mois", 
+        " toloman", 
+        " conflor", 
+        " bahasa", 
+        " achera", 
+        " capacho", 
+        " sug", 
+        " chisqua", 
+        " adura", 
+        " luano", 
+        " gruya", 
+        " tolumn", 
+        " tikas", 
+        " punyapong", 
+        " kaska", 
+        " piriquitoya", 
+        " maraca", 
+        " imocona", 
+        " platanillo", 
+        " cafiacoros", 
+        " ganyong", 
+        " lembong njeedra", 
+        " seneetra", 
+        " mer", 
+        " bir manso", 
+        " bery", 
+        " imbiry", 
+        " araruta bastarda", 
+        " bandua de Uribe", 
+        " adalut", 
+        " kenyong", 
+        " ubi gereda", 
+        " zembu", 
+        " sakhu chin", 
+        " dong rieng"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "roots/tubers, forage/pasture, materials, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "9", 
+        "32"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1200", 
+        "1700", 
+        "250", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2900"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.5", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), desert or arid (Bw), steppe or semiarid (Bs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-2"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        "can become a weed"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "180", 
+        "300"
+    ]
+}

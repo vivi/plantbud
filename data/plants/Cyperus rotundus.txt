@@ -1,0 +1,145 @@
+{
+    "Plant Name": [
+        "Cyperus rotundus"
+    ], 
+    "Common names": [
+        "purple nut grass", 
+        " round cyperus", 
+        " sweet cyperus", 
+        " nutsedge", 
+        " purple nutsedge", 
+        " souchet rond", 
+        " teki", 
+        " mota", 
+        " karelawai", 
+        " kyang-boo-ja", 
+        " rumput", 
+        " haliya hitan", 
+        " mothe", 
+        " s'ad", 
+        " s'ad kufi", 
+        " nagar-motha", 
+        " dela ghea", 
+        " deela", 
+        " mutha", 
+        " balangot", 
+        " baga-as", 
+        " tikog", 
+        " ya sam liam", 
+        " haeo mu", 
+        " ya haeo mu", 
+        " co gau", 
+        " cu gau", 
+        " co cu", 
+        " huong phu", 
+        " sa thao", 
+        " nha khuon mu", 
+        " tung ghay"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "24", 
+        "32", 
+        "10", 
+        "45"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "3000", 
+        "300", 
+        "4200"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "30", 
+        "35"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1800"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "3.5", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "120", 
+        "180"
+    ]
+}

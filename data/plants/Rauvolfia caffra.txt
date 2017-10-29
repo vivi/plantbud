@@ -1,0 +1,124 @@
+{
+    "Plant Name": [
+        "Rauvolfia caffra"
+    ], 
+    "Common names": [
+        "kinaboom", 
+        " mwimbi", 
+        " quinine tree", 
+        " mutochi", 
+        " mutoto", 
+        " mpambamvula", 
+        " msabua", 
+        " muyesani", 
+        " mwimbe", 
+        " mkufi", 
+        " mwembe mwitu"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        ""
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "medium"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "1300", 
+        "400", 
+        "1500"
+    ], 
+    "Soil fertility": [
+        "high", 
+        ""
+    ], 
+    "Latitude": [
+        "5", 
+        "-", 
+        "30", 
+        "35"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "500", 
+        "2100"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        ""
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

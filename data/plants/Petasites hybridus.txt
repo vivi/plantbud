@@ -1,0 +1,127 @@
+{
+    "Plant Name": [
+        "Petasites hybridus"
+    ], 
+    "Common names": [
+        "butter bur", 
+        " echte Pestwurz", 
+        " Petasitidis folium", 
+        " Petasiditisradix", 
+        " pestskr", 
+        " pestilensrot", 
+        " pestrot", 
+        " skr", 
+        " Rote Pestwurz", 
+        " Hjartabla&eth;ka (Iceland?)", 
+        " Etel&auml;nruttojuuri (Finish)", 
+        " R&oslash;d Hestehov (Danish)", 
+        " Tordenskr&aelig;ppe (Danish)", 
+        " L&aelig;kjepestro (Norwegian)"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "deciduous, multi stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "12", 
+        "17", 
+        "5", 
+        "24"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "1000", 
+        "400", 
+        "1200"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "40", 
+        "38", 
+        "60", 
+        "62"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1500"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "5", 
+        "7", 
+        "4.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "clear skies", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), boreal (E)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-15"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "120", 
+        "200"
+    ]
+}

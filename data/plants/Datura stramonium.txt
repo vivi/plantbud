@@ -1,0 +1,145 @@
+{
+    "Plant Name": [
+        "Datura stramonium"
+    ], 
+    "Common names": [
+        "thornapple", 
+        " stramonium", 
+        " jimson weed", 
+        " Jamestown weed", 
+        " Jamestown lily", 
+        " devil's trumpet", 
+        " stinkweed", 
+        " pomme pineuse", 
+        " datura", 
+        " stechapfel", 
+        " estramonio", 
+        " alhendros", 
+        " figueira do Inferno", 
+        " zabumba", 
+        " mamoninho bravo", 
+        " mamoninho de carneiro", 
+        " nafir", 
+        " taturah", 
+        " tabourzigt", 
+        " tidilla", 
+        " stromoine", 
+        " herbe aux sorcires", 
+        " dature", 
+        " herbe du diable", 
+        " pomme du diable", 
+        " tollkraut", 
+        " spikklubba", 
+        " piggeple", 
+        " pigble", 
+        " hulluruoho", 
+        " attefaris", 
+        " astenagrt"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "30", 
+        "30", 
+        "55", 
+        "63"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "8", 
+        "6", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        "poisonous to man or animals"
+    ], 
+    "Product. system": [
+        "home garden, small scale (manual)"
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

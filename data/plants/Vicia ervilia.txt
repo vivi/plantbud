@@ -1,0 +1,211 @@
+{
+    "Plant Name": [
+        "Vicia ervilia"
+    ], 
+    "Common names": [
+        "bitter vetch", 
+        " lentil vetch", 
+        " pigeons pea", 
+        " French erse", 
+        " lenteja bastarda", 
+        " lentille btarde", 
+        " pois de pigeon", 
+        " kirsannah", 
+        " kuyewandou", 
+        " Linsenwicke", 
+        " ervilha de pombo", 
+        " erven", 
+        " erfva", 
+        " erve", 
+        " orobo", 
+        " erb", 
+        " pesette", 
+        " ervum", 
+        " alarcea", 
+        " alcarcea", 
+        " alcarracea", 
+        " alcaruna", 
+        " alliez", 
+        " alverja", 
+        " alverjana", 
+        " arveja", 
+        " capogirlo", 
+        " cicerchia", 
+        " comin", 
+        " er", 
+        " eros", 
+        " erp", 
+        " ers", 
+        " erse", 
+        " Ervenlinse", 
+        " Ervenwicke", 
+        " ervil", 
+        " ervilier", 
+        " ervilla", 
+        " ervilliere", 
+        " ervo", 
+        " ervos", 
+        " Eselsohren", 
+        " essez", 
+        " faux orobe", 
+        " fregellini", 
+        " gero", 
+        " girlo", 
+        " girn", 
+        " goirils", 
+        " Gute erve", 
+        " herb", 
+        " hern", 
+        " herp", 
+        " hiero", 
+        " ingrassabue", 
+        " jarosse", 
+        " Kamellinse", 
+        " aersana", 
+        " kirsene", 
+        " kirsenne", 
+        " Knotenerve", 
+        " Knotenfrchtige Wicke", 
+        " kursenne", 
+        " lentille ers", 
+        " lentille ervillire", 
+        " lentille noir", 
+        " leri", 
+        " lero", 
+        " marroio", 
+        " marroio", 
+        " marruio", 
+        " mochi", 
+        " mocho", 
+        " moco", 
+        " mosch", 
+        " officinal tare", 
+        " orobe btard", 
+        " orobes des boutiques", 
+        " orobo das boticas", 
+        " orobos", 
+        " pois mauresque", 
+        " rhobidia", 
+        " robai", 
+        " robi", 
+        " rubiglia", 
+        " Saaterve", 
+        " Saatwicklinse", 
+        " seros", 
+        " Stachelwicke", 
+        " Steinlinse", 
+        " straccabue", 
+        " titos", 
+        " tragellini", 
+        " vccioli", 
+        " vggioli", 
+        " vesce amre", 
+        " vesce"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect, climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "pulses (grain legumes), forage/pasture, environmental"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "12", 
+        "22", 
+        "5", 
+        "28"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "700", 
+        "300", 
+        "1200"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "30", 
+        "30", 
+        "50", 
+        "50"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1100"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "7", 
+        "7.5", 
+        "5.6", 
+        "8.2"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-10"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "drought"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "90", 
+        "150"
+    ]
+}

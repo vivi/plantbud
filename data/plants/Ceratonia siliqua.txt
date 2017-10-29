@@ -1,0 +1,122 @@
+{
+    "Plant Name": [
+        "Ceratonia siliqua"
+    ], 
+    "Common names": [
+        "carob tree", 
+        " carob bean tree", 
+        " carrubo", 
+        " Johannisbrotbaum", 
+        " Johannesbrotwachs", 
+        " carrubio", 
+        " algarrobo", 
+        " alfarrobeira", 
+        " Johannesbroodboom"
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials, medicinals & aromatic, forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "32", 
+        "10", 
+        "39"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "400", 
+        "1000", 
+        "200", 
+        "2000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "27", 
+        "25", 
+        "42", 
+        "45"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7.5", 
+        "5", 
+        "9"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical dry summer (Cs), temperate oceanic (Do)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-4"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "fire, wind, drought, coastal salt spray"
+    ], 
+    "Abiotic suscept.": [
+        "humidity"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "210", 
+        "365"
+    ]
+}

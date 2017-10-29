@@ -1,0 +1,126 @@
+{
+    "Plant Name": [
+        "Glycine max"
+    ], 
+    "Common names": [
+        "soya bean", 
+        " soyabean", 
+        " soybean", 
+        " soya", 
+        " sojaboon", 
+        " sojaplant", 
+        " sojaboontjie", 
+        " fejao soja", 
+        " soja", 
+        " dadou", 
+        " soia piini", 
+        " bean - soya", 
+        " Sojabohne"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "pulses (grain legumes)"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "33", 
+        "10", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "600", 
+        "1500", 
+        "450", 
+        "1800"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "47", 
+        "52"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "3000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.5", 
+        "8.4"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "75", 
+        "180"
+    ]
+}

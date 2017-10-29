@@ -1,0 +1,127 @@
+{
+    "Plant Name": [
+        "Typha angustifolia"
+    ], 
+    "Common names": [
+        "small reed mace", 
+        " narrow-leaved cattail", 
+        " lesser bulrush", 
+        " narrow-leaf cat-tail", 
+        " narrowleaf cattail", 
+        " totora", 
+        " espandana", 
+        " kleine lisdodde", 
+        " schmalblttriger rohrkolben", 
+        " smalt dunkjevle", 
+        " smalbladet dunhammer", 
+        " kapeaosmankmi", 
+        " smalkaveldun", 
+        " smalbladigt kaveldun"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "deciduous, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "vegetables, materials, medicinals & aromatic, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "10", 
+        "24", 
+        "7", 
+        "28"
+    ], 
+    "Soil texture": [
+        "heavy, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "1500", 
+        "300", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "36", 
+        "32", 
+        "60", 
+        "62"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "4.5", 
+        "8", 
+        "4", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-33"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        "drought"
+    ], 
+    "Introduction risks.": [
+        "can become a weed"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "130", 
+        "210"
+    ]
+}

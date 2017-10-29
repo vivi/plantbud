@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Prosopis glandulosa"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "deciduous, single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental, weed"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "deep (>>150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "18", 
+        "28", 
+        "14", 
+        "40"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, wide, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "300", 
+        "800", 
+        "200", 
+        "1000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "25", 
+        "-", 
+        "35", 
+        "35"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "3000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "desert or arid (Bw), steppe or semiarid (Bs)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-22"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "drought"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        "can become a weed"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

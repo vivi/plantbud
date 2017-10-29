@@ -1,0 +1,130 @@
+{
+    "Plant Name": [
+        "Tabebuia serratifolia"
+    ], 
+    "Common names": [
+        "yellow tecoma tree", 
+        " yellow poui", 
+        " washiba wood", 
+        " bethababa", 
+        " groenhart", 
+        " arewood", 
+        " bastard lignum-vitae", 
+        " bethabara", 
+        " greenheart", 
+        " May-flower", 
+        " noibwood", 
+        " tabebuia amarela", 
+        " ipe do cerrado", 
+        " ipeuva", 
+        " peuva amarela", 
+        " piuva do charco", 
+        " pau darco amarelo"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "deciduous, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "24", 
+        "32", 
+        "20", 
+        "36"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1700", 
+        "500", 
+        "2000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "20", 
+        "25"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "800"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "7", 
+        "4.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "clear skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "5"
+    ], 
+    "Killing temp. early growth": [
+        "5"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

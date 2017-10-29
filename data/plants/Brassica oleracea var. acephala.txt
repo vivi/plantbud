@@ -1,0 +1,126 @@
+{
+    "Plant Name": [
+        "Brassica oleracea var. acephala"
+    ], 
+    "Common names": [
+        "thousand head kale", 
+        " thousand-head kale", 
+        " marrowstem kale", 
+        " marrow-stem kale", 
+        " smooth kale", 
+        " curly kale", 
+        " tree kale", 
+        " ornamental cabbage", 
+        " fringed cabbage", 
+        " kale", 
+        " chou moulier", 
+        " Sukuma wiki", 
+        " spumaweki"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, vegetables"
+    ], 
+    "Life span": [
+        "biennial, perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "22", 
+        "7", 
+        "30"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, organic", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "450", 
+        "1000", 
+        "300", 
+        "2800"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "20", 
+        "-", 
+        "40", 
+        "50"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "3000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.4", 
+        "6", 
+        "4.5", 
+        "8.3"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw), boreal (E)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "60", 
+        "85"
+    ]
+}

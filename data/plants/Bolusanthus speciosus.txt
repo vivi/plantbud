@@ -1,0 +1,129 @@
+{
+    "Plant Name": [
+        "Bolusanthus speciosus"
+    ], 
+    "Common names": [
+        "tree wistaria", 
+        " wild wistaria", 
+        " elephant wood", 
+        " vanwykshout", 
+        " olifantshout", 
+        " umHohlo", 
+        " Van Wykshout", 
+        " mpfimbahongonyi", 
+        " kgomo-nahlabana", 
+        " muswinga-phala", 
+        " mukumba", 
+        " motsokophala", 
+        " mogohlo", 
+        " wistaria tree", 
+        " nsukungaphala", 
+        " mogapa"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "semi evergreen, deciduous, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials, ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "17", 
+        "27", 
+        "14", 
+        "34"
+    ], 
+    "Soil texture": [
+        "heavy, medium, organic", 
+        "heavy, medium, organic"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "650", 
+        "450", 
+        "700"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "12", 
+        "10", 
+        "33", 
+        "35"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "100", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "8", 
+        "6", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "clear skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-5"
+    ], 
+    "Killing temp. early growth": [
+        "2"
+    ], 
+    "Abiotic toler.": [
+        "drought"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "300", 
+        "365"
+    ]
+}

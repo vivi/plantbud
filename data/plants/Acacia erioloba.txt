@@ -1,0 +1,131 @@
+{
+    "Plant Name": [
+        "Acacia erioloba"
+    ], 
+    "Common names": [
+        "camel thorn", 
+        " camel-thorn acacia", 
+        " giraffe thorn", 
+        " kameeldoring", 
+        " swartkameel", 
+        " kameldornakazie", 
+        " nkayi", 
+        " mogohlo", 
+        " mosu", 
+        " mokala", 
+        " mogotlho", 
+        " umwhohlo", 
+        " omumbonde", 
+        " //ganab", 
+        " //ganas", 
+        " motlhabakgosi", 
+        " musivhitha", 
+        " !leyie"
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "evergreen, semi evergreen, single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, materials, forest/wood, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "35", 
+        "10", 
+        "45"
+    ], 
+    "Soil texture": [
+        "light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "250", 
+        "700", 
+        "50", 
+        "900"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "22", 
+        "20", 
+        "34", 
+        "36"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1100"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "7.5", 
+        "6", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "clear skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "desert or arid (Bw), steppe or semiarid (Bs)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-15"
+    ], 
+    "Killing temp. early growth": [
+        "-2"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        "fire"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

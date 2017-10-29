@@ -1,0 +1,140 @@
+{
+    "Plant Name": [
+        "Ziziphus mauritiana"
+    ], 
+    "Common names": [
+        "ber", 
+        " cottony ", 
+        " Indian jujube", 
+        " desert apple", 
+        " Chinese apple", 
+        " jujubier", 
+        " anafega da India", 
+        " widara", 
+        " bidara", 
+        " manzanitas", 
+        " phutsaa", 
+        " putrea", 
+        " than", 
+        " tao nhuc", 
+        " sidr", 
+        " beri", 
+        " gob", 
+        " abateri", 
+        " wag'n bietjie", 
+        " mkunazi", 
+        " gava", 
+        " ghob", 
+        " gheb", 
+        " jumuba", 
+        " kurkura (Galinya", 
+        " Harar)", 
+        " gusura (Afargna)"
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "deciduous, single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, fruits & nuts, medicinals & aromatic, forest/wood"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "25", 
+        "42", 
+        "7", 
+        "50"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "wide"
+    ], 
+    "Rainfall (annual)": [
+        "300", 
+        "1500", 
+        "130", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "40", 
+        "45"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1800"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7.5", 
+        "5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "clear skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-15"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "drought"
+    ], 
+    "Abiotic suscept.": [
+        "humidity"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

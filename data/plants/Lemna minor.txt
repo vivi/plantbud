@@ -1,0 +1,124 @@
+{
+    "Plant Name": [
+        "Lemna minor"
+    ], 
+    "Common names": [
+        "lesser duckweed", 
+        " common duckweed", 
+        " duck's meat", 
+        " liden andemad", 
+        " pikkulimaska", 
+        " mac gun athair", 
+        " kleine wasserlinse", 
+        " klein kroos", 
+        " andmat", 
+        " zaburinka menia", 
+        " vanlig andmat"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "single stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "forage/pasture, environmental"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "7", 
+        "25", 
+        "5", 
+        "30"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, wide, organic", 
+        "heavy, medium, light, wide, organic"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "3000", 
+        "500", 
+        "5000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "10", 
+        "8", 
+        "65", 
+        "67"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1500"
+    ], 
+    "Soil salinity": [
+        "none", 
+        "none"
+    ], 
+    "Soil PH": [
+        "4.5", 
+        "7.5", 
+        "3.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year)", 
+        "poorly (saturated >50% of year)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "heavy shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        "neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-40"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        "flooding"
+    ], 
+    "Abiotic suscept.": [
+        "drought"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

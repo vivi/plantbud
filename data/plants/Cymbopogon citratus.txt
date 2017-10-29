@@ -1,0 +1,141 @@
+{
+    "Plant Name": [
+        "Cymbopogon citratus"
+    ], 
+    "Common names": [
+        "West Indian lemon grass", 
+        " sere grass", 
+        " lemon grass", 
+        " ginger grass", 
+        " citronella grass", 
+        " fever grass", 
+        " citronnelle", 
+        " baroni", 
+        " belioko", 
+        " cha phic", 
+        " ha wo", 
+        " hau sing khai", 
+        " huong mao", 
+        " m b'lang", 
+        " phac chu", 
+        " pirheghans", 
+        " s", 
+        " salai", 
+        " sereh", 
+        " tanglad", 
+        " takhrai", 
+        " tapo", 
+        " ce kala", 
+        " nche awuta", 
+        " ahihia tii", 
+        " hhashel laymum", 
+        " koriko oyibo", 
+        " koko oba"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "evergreen, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials, ornamentals/turf"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "24", 
+        "30", 
+        "18", 
+        "34"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1500", 
+        "3000", 
+        "700", 
+        "4200"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "20", 
+        "20"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1400"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "5.8", 
+        "4.3", 
+        "7.3"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "10"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden"
+    ], 
+    "Crop cycle": [
+        "120", 
+        "365"
+    ]
+}

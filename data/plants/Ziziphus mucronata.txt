@@ -1,0 +1,142 @@
+{
+    "Plant Name": [
+        "Ziziphus mucronata"
+    ], 
+    "Common names": [
+        "buffalo thorn", 
+        " Cape thorn", 
+        " blinkblaar-wag-'n-bietjie", 
+        " Koopta (Konsogna)", 
+        " Ado kurkura (Amargna)", 
+        " Foch (Amargna)", 
+        " Gammo-gadie (Wolayetgna)", 
+        " buffelsdoring", 
+        " umPhafa", 
+        " umhlahlankosi", 
+        " isilahla", 
+        " umkhobonga", 
+        " umlahlabantu", 
+        " mphasamhala", 
+        " mokgalo", 
+        " moonaona", 
+        " mukhalu", 
+        " mutshetshete", 
+        " omukaru", 
+        " omukekete (Ovambo)", 
+        " aros", 
+        " buffalo-thorn jujube", 
+        " haak-en-steek-wag-'n-bietjie", 
+        " mokgalwa", 
+        " mokalabata", 
+        " isilahlankosi", 
+        " cat thorn", 
+        " bogwood", 
+        " katdoring"
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "deciduous, single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic, forest/wood, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "12", 
+        "30", 
+        "8", 
+        "36"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "400", 
+        "800", 
+        "300", 
+        "1000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "30", 
+        "35"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "8", 
+        "5", 
+        "9"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), steppe or semiarid (Bs)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "drought, coastal salt spray"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

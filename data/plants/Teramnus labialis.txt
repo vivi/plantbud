@@ -1,0 +1,114 @@
+{
+    "Plant Name": [
+        "Teramnus labialis"
+    ], 
+    "Common names": [
+        ""
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "pulses (grain legumes), forage/pasture, medicinals & aromatic, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "17", 
+        "27", 
+        "10", 
+        "36"
+    ], 
+    "Soil texture": [
+        "heavy, medium, light, wide", 
+        "heavy, medium, light, wide"
+    ], 
+    "Rainfall (annual)": [
+        "750", 
+        "1500", 
+        "500", 
+        "2500"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "10", 
+        "-", 
+        "25", 
+        "29"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "3000"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "6", 
+        "8", 
+        "5", 
+        "9"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-3"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "drought, grazing/browsing"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "small scale (manual), large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

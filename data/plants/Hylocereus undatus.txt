@@ -1,0 +1,118 @@
+{
+    "Plant Name": [
+        "Hylocereus undatus"
+    ], 
+    "Common names": [
+        "pitahaya", 
+        " strawberry pear", 
+        " red pitaya", 
+        " dragon fruit", 
+        " pitaya"
+    ], 
+    "Life form": [
+        "other"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "fruits & nuts, ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "18", 
+        "28", 
+        "12", 
+        "34"
+    ], 
+    "Soil texture": [
+        "wide", 
+        "wide"
+    ], 
+    "Rainfall (annual)": [
+        "350", 
+        "3500", 
+        "450", 
+        "3000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "1600", 
+        "1800"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "10", 
+        "25"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.3", 
+        "6.7", 
+        "5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "small scale (manual)"
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "Plant Name": [
+        "Lagenaria siceraria"
+    ], 
+    "Common names": [
+        "calabas", 
+        " tecomate", 
+        " zucca", 
+        " kalbas", 
+        " qara'", 
+        " kalabasa", 
+        " bian pu", 
+        " pul qua", 
+        " flaskegrskar", 
+        " kalabas", 
+        " fleskalebas", 
+        " flessepompoen", 
+        " bird-house gourd", 
+        " bottle gourd", 
+        " calabash", 
+        " calabash gourd", 
+        " calabash marrow", 
+        " guinea bean", 
+        " hardshell gourd", 
+        " hard-shell gourd", 
+        " italian edible gourd", 
+        " long squash", 
+        " new guinea bean", 
+        " suzza melon", 
+        " tasmania bean", 
+        " trumpet gourd", 
+        " vegetable gourd", 
+        " white flowered gourd", 
+        " calebasse", 
+        " calebassier", 
+        " courge bouteille", 
+        " gourde", 
+        " Flaschenkrbis", 
+        " Kalebassenkrbis", 
+        " Trompetenkrbis", 
+        " duma", 
+        " qara", 
+        " dudhi", 
+        " dudi", 
+        " ghia", 
+        " ghiya", 
+        " kaddis", 
+        " kaddu", 
+        " lauki", 
+        " lokhi", 
+        " louki", 
+        " tumri", 
+        " cocozza", 
+        " cucuzzi", 
+        " zucca bottiglia", 
+        " zucca da nuoto", 
+        " zucca da vino", 
+        " hyoutan", 
+        " maru-yougao", 
+        " yougao", 
+        " labu botol", 
+        " labu putin", 
+        " moraka", 
+        " abbora carneira", 
+        " cabaca", 
+        " colombro", 
+        " kula", 
+        " bule", 
+        " calabaza de peregrinos", 
+        " calabaza de San Roque", 
+        " calabaza viadera", 
+        " calabaza viatera", 
+        " cojombro", 
+        " upo", 
+        " segwana", 
+        " iselwa", 
+        " fagufagu", 
+        " fu'afu'a"
+    ], 
+    "Life form": [
+        "herb, vine"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "fruits & nuts, vegetables, materials, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "19", 
+        "27", 
+        "12", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light, organic"
+    ], 
+    "Rainfall (annual)": [
+        "1200", 
+        "1800", 
+        "700", 
+        "2800"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "25"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2700"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "4.5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "60", 
+        "120"
+    ]
+}

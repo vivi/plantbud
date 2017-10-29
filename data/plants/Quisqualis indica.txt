@@ -1,0 +1,138 @@
+{
+    "Plant Name": [
+        "Quisqualis indica"
+    ], 
+    "Common names": [
+        "Burma creeper", 
+        " Chinese honeysuckle", 
+        " Rangoon creeper", 
+        " dong preah phnom", 
+        " vor romiet nhi", 
+        " udani", 
+        " bidani", 
+        " cekluk", 
+        " dok ung", 
+        " khua hung", 
+        " sa mang", 
+        " akar dani", 
+        " selimpas", 
+        " niyog-niyogan", 
+        " balitadham", 
+        " tartaraok", 
+        " cha mang", 
+        " thai mong", 
+        " lep mue nang", 
+        " sur quan", 
+        " qua giun", 
+        " day giun", 
+        " quar nac", 
+        " mac giaogiun", 
+        " may lang curong"
+    ], 
+    "Life form": [
+        "vine"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "Climate zone": [
+        ""
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden"
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

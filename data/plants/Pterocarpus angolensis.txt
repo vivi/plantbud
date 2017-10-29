@@ -1,0 +1,143 @@
+{
+    "Plant Name": [
+        "Pterocarpus angolensis"
+    ], 
+    "Common names": [
+        "kiaat", 
+        " wild teak", 
+        " bloodwood", 
+        " paddle-wood", 
+        " sealing-wax tree", 
+        " Transvaal teak", 
+        " african teak", 
+        " bloedhout", 
+        " dolfhout", 
+        " greinhout", 
+        " kajatenhout", 
+        " lakhout", 
+        " wilde-kiaat", 
+        " umVangati", 
+        " umVangatsi", 
+        " umWangati", 
+        " mort", 
+        " mmilo", 
+        " mvhangazi", 
+        " mokwa", 
+        " morotmadi", 
+        " mutondo", 
+        " muvhangazi", 
+        " murotso", 
+        " mukwa", 
+        " umVangazi", 
+        " umBilo", 
+        " mninga", 
+        " mutete", 
+        " mtumbati"
+    ], 
+    "Life form": [
+        "tree"
+    ], 
+    "Physiology": [
+        "deciduous, single stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "32", 
+        "12", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light, wide"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1500", 
+        "500", 
+        "2000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "10", 
+        "5", 
+        "30", 
+        "35"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1650"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-1"
+    ], 
+    "Killing temp. early growth": [
+        "-1"
+    ], 
+    "Abiotic toler.": [
+        "fire"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

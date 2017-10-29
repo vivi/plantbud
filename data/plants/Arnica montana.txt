@@ -1,0 +1,119 @@
+{
+    "Plant Name": [
+        "Arnica montana"
+    ], 
+    "Common names": [
+        "arnica", 
+        " hstfibbla", 
+        " solblom", 
+        " almindelig guldblomme", 
+        " etelnarnikki", 
+        " berg-wohlverleih"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "single stem"
+    ], 
+    "Habit": [
+        "erect, acaulescent (or rosette plants)"
+    ], 
+    "Category": [
+        "medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "harvested from wild"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "8", 
+        "15", 
+        "5", 
+        "25"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "medium"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "800", 
+        "400", 
+        "1200"
+    ], 
+    "Soil fertility": [
+        "low", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "45", 
+        "38", 
+        "55", 
+        "60"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "200", 
+        "2000"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7", 
+        "5", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "light shade", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

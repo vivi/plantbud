@@ -1,0 +1,134 @@
+{
+    "Plant Name": [
+        "Andrographis paniculata"
+    ], 
+    "Common names": [
+        "creat", 
+        " green chireta", 
+        " kariyat", 
+        " kalmegh", 
+        " roi des amers", 
+        " ki oray", 
+        " sambilata", 
+        " ampadu", 
+        " andrografis", 
+        " kariyaat", 
+        " aluy", 
+        " lekha", 
+        " sinta", 
+        " fa thalai chon", 
+        " fa thalai", 
+        " ya kan ngu", 
+        " cong cong", 
+        " khor diejp", 
+        " xuyen tam lien", 
+        " khee-pang-hee", 
+        " yaa kannguu"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "14", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "2000", 
+        "3000", 
+        "1500", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "", 
+        ""
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "15", 
+        "25"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1600"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "light shade", 
+        "cloudy skies", 
+        "heavy shade", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        ""
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

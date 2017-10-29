@@ -1,0 +1,134 @@
+{
+    "Plant Name": [
+        "Triticum aestivum"
+    ], 
+    "Common names": [
+        "wheat", 
+        " bread wheat", 
+        " bl", 
+        " alkamh", 
+        " sinde", 
+        " xiao mai", 
+        " trigo", 
+        " brdvete", 
+        " vanligt vete", 
+        " kveite", 
+        " almindelig hvede", 
+        " leipvehn", 
+        " vehn", 
+        " hveiti", 
+        " aat-weize", 
+        " weizen", 
+        " grano", 
+        " frumento", 
+        " lua mi", 
+        " froment", 
+        " cereals-wheat"
+    ], 
+    "Life form": [
+        "grass"
+    ], 
+    "Physiology": [
+        "single stem, C3 photosynthesis"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "cereals & pseudocereals, forage/pasture, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "15", 
+        "23", 
+        "5", 
+        "27"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "750", 
+        "900", 
+        "300", 
+        "1600"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "30", 
+        "-", 
+        "60", 
+        "65"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "4500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7", 
+        "5.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "-20"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "90", 
+        "250"
+    ]
+}

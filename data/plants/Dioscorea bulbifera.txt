@@ -1,0 +1,130 @@
+{
+    "Plant Name": [
+        "Dioscorea bulbifera"
+    ], 
+    "Common names": [
+        "potato yam", 
+        " bitter yam", 
+        " air potato yam", 
+        " akam yam", 
+        " acom", 
+        " Otaheite yam", 
+        " Otaheite potato", 
+        " inhame", 
+        " cara' de Sao Tome'", 
+        " cara' do ar", 
+        " cara' de espinho", 
+        " cara' de sapateiro", 
+        " figado de peru'", 
+        " ufi sina", 
+        " ufi soi", 
+        " hoi", 
+        " Aerial yam"
+    ], 
+    "Life form": [
+        "vine"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "vegetables"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "12", 
+        "38"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1200", 
+        "2600", 
+        "900", 
+        "4000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "-"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "6.7", 
+        "5.3", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "clear skies", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "9"
+    ], 
+    "Killing temp. early growth": [
+        "9"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "90", 
+        "300"
+    ]
+}

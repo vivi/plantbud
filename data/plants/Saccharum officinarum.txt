@@ -1,0 +1,134 @@
+{
+    "Plant Name": [
+        "Saccharum officinarum"
+    ], 
+    "Common names": [
+        "sugarcane", 
+        " sugar cane", 
+        " canna da zucchero", 
+        " caa de azcar", 
+        " cana de acucar", 
+        " Zuckerrohr", 
+        " suikerriet", 
+        " shenkora", 
+        " dovu", 
+        " dovu buta", 
+        " dovu vico", 
+        " malaqele", 
+        " kabakabavale", 
+        " ganna", 
+        " te kaikawewe (Kiribati)", 
+        " to", 
+        " tolo (Samoa", 
+        " Tuvalu)", 
+        " peqi (Simbo)", 
+        " suti (Roviana)", 
+        " suga"
+    ], 
+    "Life form": [
+        ""
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        ""
+    ], 
+    "Category": [
+        ""
+    ], 
+    "Life span": [
+        ""
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "24", 
+        "37", 
+        "15", 
+        "41"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "1500", 
+        "2000", 
+        "1000", 
+        "5000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "30", 
+        "33"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1600"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5", 
+        "8", 
+        "4.5", 
+        "9"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        ""
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-2"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "210", 
+        "365"
+    ]
+}

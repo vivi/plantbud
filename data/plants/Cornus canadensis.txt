@@ -1,0 +1,122 @@
+{
+    "Plant Name": [
+        "Cornus canadensis"
+    ], 
+    "Common names": [
+        "Canadian dwarf cornel", 
+        " pudding-berry", 
+        " bunchberry", 
+        " bunchberry dogwood", 
+        " dwarf dogwood", 
+        " Canadian bunchberry", 
+        " dogwood bunchberry", 
+        " creeping dogwood", 
+        " corniso anao do Canada'"
+    ], 
+    "Life form": [
+        "herb, sub-shrub"
+    ], 
+    "Physiology": [
+        "deciduous, multi stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "fruits & nuts, ornamentals/turf"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "shallow (20-50 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "10", 
+        "18", 
+        "6", 
+        "24"
+    ], 
+    "Soil texture": [
+        "medium", 
+        "medium, organic"
+    ], 
+    "Rainfall (annual)": [
+        "800", 
+        "1250", 
+        "500", 
+        "1500"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "40", 
+        "32", 
+        "62", 
+        "65"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "3300"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7.5", 
+        "3.9", 
+        "7.7"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "light shade", 
+        "cloudy skies", 
+        "heavy shade", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "temperate oceanic (Do), temperate continental (Dc), boreal (E)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "-28"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}
