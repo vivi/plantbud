@@ -1,15 +1,19 @@
-// Credit: https://codepen.io/jhawes/post/creating-a-real-estate-polygon-tool
+/* Credit: https://codepen.io/jhawes/post/creating-a-real-estate-polygon-tool */
+var TILE_SIZE = 256;
+
 function initialize(lat, lon) {
   // Map Center
   var myLatLng = new google.maps.LatLng(lat, lon);
+
   // General Options
   var mapOptions = {
     zoom: 20,
     center: myLatLng,
     mapTypeId: 'hybrid'
   };
+
   map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
-  // Polygon Coordinates - Draw a default square.
+  // Polygon Coordinates - Draw a default square around the user's coordinates.
   var FUZZ = 0.0003;
   var rectCoords = [
     new google.maps.LatLng(lat, lon),
@@ -40,10 +44,10 @@ function initialize(lat, lon) {
   google.maps.event.addListener(myPolygon.getPath(), "set_at", getPolygonCoords);
 }
 
-var TILE_SIZE = 256;
-
-// Mercator Projection.
-// https://developers.google.com/maps/documentation/javascript/examples/map-coordinates?csw=1
+/*
+ * Mercator Projection
+ * developers.google.com/maps/documentation/javascript/examples/map-coordinates
+ */
 function project(latLng) {
   var siny = Math.sin(latLng.lat() * Math.PI / 180);
 
@@ -56,22 +60,27 @@ function project(latLng) {
       TILE_SIZE * (0.5 - Math.log((1 + siny) / (1 - siny)) / (4 * Math.PI)));
 }
 
-// Called whenever the polygon is updated.
-// Updates the information we will send to `/layout`.
+/*
+ * Called whenever the polygon is updated.
+ *   - Calculates the new area of the polygon.
+ *   - Updates the information we will POST to `/layout`, including the outline
+ *     path, area, and MPP (meters per pixel)
+ */
 function getPolygonCoords() {
   var path = myPolygon.getPath();
   var len = path.getLength();
+  var zoom = map.getZoom();
 
-  // Update area
+  // Update area.
   var area = google.maps.geometry.spherical.computeArea(myPolygon.getPath());
   $('#area').html(parseFloat(Math.round(area * 100) / 100).toFixed(3));
   $('#f-area').val(parseFloat(Math.round(area * 100) / 100).toFixed(3));
 
   var bounds = new google.maps.LatLngBounds();
-  var scale = 1 << map.getZoom();
+  var scale = 1 << zoom;
   pixels = [];
   for (var i =0; i < len; i++) {
-    // Convert from lat-lon to xy coordinates
+    // Convert from lat-lon to xy (pixel) coordinates
     var latLng = path.getAt(i);
     var worldCoordinate = project(latLng);
     var pixelCoordinate = new google.maps.Point(
@@ -84,12 +93,14 @@ function getPolygonCoords() {
   }
   map.fitBounds(bounds);
 
-  // TODO: Is this the correct MPP (meters-per-pixel)? Google says so.
-  var mpp = 156543.03392 * Math.cos(path.getAt(0).lat() * Math.PI / 180) / Math.pow(2, map.getZoom());
+  // XXX: Is this the correct MPP (meters-per-pixel)? Google says so.
+  // https://groups.google.com/forum/#!topic/google-maps-js-api-v3/hDRO4oHVSeM
+  var refLat = path.getAt(0).lat();
+  var mpp = 156543.03392 * Math.cos(refLat * Math.PI / 180) / Math.pow(2, zoom);
 
   // Translate so that leftmost x-coord = 0, top y-coord = 0.
-  min_x = Number.POSITIVE_INFINITY
-  min_y = Number.POSITIVE_INFINITY
+  min_x = Number.POSITIVE_INFINITY;
+  min_y = Number.POSITIVE_INFINITY;
   for (var i = 0; i < len; i++) {
     var coord = pixels[i];
     if (coord.x < min_x) {
@@ -100,6 +111,7 @@ function getPolygonCoords() {
     }
   }
 
+  // Build the string to fill in the invisible form field.
   var str = "";
   for (var i = 0; i < len; i++) {
     var coord = pixels[i];
@@ -110,11 +122,13 @@ function getPolygonCoords() {
   $('#f-mpp').val(mpp);
 }
 
+/* Hides both mapping options. */
 function closeAll() {
   $('#usemap').slideUp(200);
   $('#manual').slideUp(200);
 }
 
+/* Shows manual rectangle input. */
 function useManual() {
   if ($('#manual').is(":visible")) {
     return;
@@ -123,6 +137,7 @@ function useManual() {
   $('#manual').slideDown(200);
 }
 
+/* Shows mapping tool. */
 function useMap() {
   if ($('#usemap').is(":visible")) {
     return;
@@ -132,22 +147,24 @@ function useMap() {
 }
 
 
-// Manual Input
+/* Manual input. */
 var width = 0;
 var height = 0;
-$('#width').on('input', function() { 
-    width = parseFloat($(this).val()); // get the current value of the input field.
+$('#width').on('input', function() {
+    width = parseFloat($(this).val());
     $('#f-area').val(parseFloat(width * height).toFixed(3));
     $('#f-mpps').val(mpps);
     updateVertex();
 });
 
-$('#height').on('input', function() { 
-    height = parseFloat($(this).val()); // get the current value of the input field.
+$('#height').on('input', function() {
+    height = parseFloat($(this).val());
     $('#f-area').val(parseFloat(width * height).toFixed(3));
     updateVertex();
 });
 
+/* Updates the path of the rectangle. */
+// TODO: Scale the rectangle.
 function updateVertex() {
   var vert = "(0,0);("+width+",0);("+width+","+height+");(0,"+height+");(0,0)";
   $('#f-verts').val(vert);
