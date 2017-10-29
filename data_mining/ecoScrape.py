@@ -103,9 +103,16 @@ def storeTups(listOfTups):
 alphabets = list(string.ascii_lowercase)
 allLetterPgs = ['http://ecocrop.fao.org/ecocrop/srv/en/cropList?name='+ letter +'&relation=beginsWith' for letter in alphabets]
 plantSet = set()
+failedCodes = []
 
 #SAVE FOR LAST
 for link in allLetterPgs:
 	plantSet.update(retrivesCodes(link))
 for i in plantSet:
-	storeTups(collectSingle(i))
+	try :
+		storeTups(collectSingle(i))
+	except urllib2.HTTPError:
+		print (i + ' did not work ')
+		failedCodes.append(i)
+print ('The following plantCodes did not work due to an HTTPError. :(')
+print failedCodes
