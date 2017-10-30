@@ -12,6 +12,7 @@ function initialize(perimeter, mpp) {
   var perimLayer = new paper.Layer();
   perimLayer.name = 'perimeter';
   drawPerimeter(perimeter);
+  drawGrid();
   plantLayer.insertAbove(perimLayer);
   plantLayer.activate();
 }
@@ -32,6 +33,7 @@ function drawPerimeter(perPoints) {
     strokeColor: 'black',
     strokeWidth: 2,
     strokeCap: 'round',
+    dashArray: [2, 2],
   });
 
   // How many pixels per meter
@@ -43,6 +45,31 @@ function drawPerimeter(perPoints) {
   var label = new paper.PointText(scale.bounds.bottomRight.add(new paper.Point(0, 2)));
   label.fillColor = 'black';
   label.content = '1 meter';
+}
+
+function drawGrid() {
+  var width = paper.view.bounds.width;
+  var height = paper.view.bounds.height;
+
+  // TODO: Fix for when there is more than one meter per pixel.
+  PPM = 1 / MPP;
+  for (var i = 1; i < width / PPM; i++) {
+    var from = new paper.Point(i * PPM, 0);
+    var to = new paper.Point(i * PPM, height);
+    var line = new paper.Path.Line(from, to);
+    line.strokeColor = new paper.Color(0.5, 0.5);
+    line.strokeWidth = 0.5;
+    line.dashArray = [2, 2];
+  }
+
+  for (var i = 1; i < height / PPM; i++) {
+    var from = new paper.Point(0, i * PPM);
+    var to = new paper.Point(width, i* PPM);
+    var line = new paper.Path.Line(from, to);
+    line.strokeColor = new paper.Color(0.5, 0.5);
+    line.strokeWidth = 0.5;
+    line.dashArray = [2, 2];
+  }
 }
 
 /* Fit the perimeter to the size of the canvas. */

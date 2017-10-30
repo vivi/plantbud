@@ -8,9 +8,9 @@ block content
     p
       i(class="fa fa-info-circle")
       |  Click the buttons below to add a specifc plant to the canvas.
-      | You can click and drag the plants around in the canvas, but
-      | plants cannot exceed the perimeter (bold black line) that you specified. Hold Shift and click
-      | a plant to remove it from the canvas.
+      | You can click and drag the plants around in the canvas.
+      | The perimeter specified on the last page is the bold, dotted black
+      | line. Hold Shift and click a plant to remove it from the canvas.
     each plant in plants
       button.btn.btn-sm.btn-info(onclick="createBox('"+ plant.common_name + "' ," + plant.size +")") #{plant.common_name}
     div(class="canvas")
