@@ -50,20 +50,20 @@ canvas[resize] {
   font-family: "Executive";
   font-weight: normal;
   font-style: normal;
-  src: url("http://assets.paperjs.org/fonts/executive-regular.eot");
-  src: url("http://assets.paperjs.org/fonts/executive-regular.eot?#iefix") format("embedded-opentype"), url("http://assets.paperjs.org/fonts/executive-regular.woff") format("woff"), url("http://assets.paperjs.org/fonts/executive-regular.ttf") format("truetype"), url("http://assets.paperjs.org/fonts/executive-regular.svg#Executive") format("svg"); }
+  src: url("/fonts/executive-regular.eot");
+  src: url("/fonts/executive-regular.eot?#iefix") format("embedded-opentype"), url("/fonts/executive-regular.woff") format("woff"), url("/fonts/executive-regular.ttf") format("truetype"), url("/fonts/executive-regular.svg#Executive") format("svg"); }
 
 @font-face {
   font-family: "Executive";
   font-weight: normal;
   font-style: italic;
-  src: url("http://assets.paperjs.org/fonts/executive-italic.eot");
-  src: url("http://assets.paperjs.org/fonts/executive-italic.eot?#iefix") format("embedded-opentype"), url("http://assets.paperjs.org/fonts/executive-italic.woff") format("woff"), url("http://assets.paperjs.org/fonts/executive-italic.ttf") format("truetype"), url("http://assets.paperjs.org/fonts/executive-italic.svg#Executive") format("svg"); }
+  src: url("/fonts/executive-italic.eot");
+  src: url("/fonts/executive-italic.eot?#iefix") format("embedded-opentype"), url("/fonts/executive-italic.woff") format("woff"), url("/fonts/executive-italic.ttf") format("truetype"), url("/fonts/executive-italic.svg#Executive") format("svg"); }
 
 @font-face {
   font-family: "Executive";
   font-weight: bold;
   font-style: normal;
-  src: url("http://assets.paperjs.org/fonts/executive-medium.eot");
-  src: url("http://assets.paperjs.org/fonts/executive-medium.eot?#iefix") format("embedded-opentype"), url("http://assets.paperjs.org/fonts/executive-medium.woff") format("woff"), url("http://assets.paperjs.org/fonts/executive-medium.ttf") format("truetype"), url("http://assets.paperjs.org/fonts/executive-medium.svg#Executive") format("svg"); }
+  src: url("/fonts/executive-medium.eot");
+  src: url("/fonts/executive-medium.eot?#iefix") format("embedded-opentype"), url("/fonts/executive-medium.woff") format("woff"), url("/fonts/executive-medium.ttf") format("truetype"), url("/fonts/executive-medium.svg#Executive") format("svg"); }
 
