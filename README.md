@@ -1,3 +1,5 @@
+# Try it Out: [plantbud.org](https://plantbud.org)
+
 ## Functionality
 
 plantbud is a tool that aims to make it easier to start gardening at a small
