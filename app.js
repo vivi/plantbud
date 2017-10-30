@@ -38,6 +38,16 @@ app.use(expressValidator());
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Redirect to HTTPS
+app.all('*', function(req, res, next) {
+  console.log("insecure request");
+  if (!req.secure) {
+    res.redirect("https://" + req.headers['host'] + req.url);
+  } else {
+    next();
+  }
+});
+
 app.use('/', index);
 app.use('/guide', guide);
 app.use('/map', map);
@@ -72,5 +82,4 @@ var options = {
   cert: cert,
 };
 
-http.createServer(app).listen(80);
 https.createServer(options, app).listen(443);
