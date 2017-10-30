@@ -89,7 +89,9 @@ function getPolygonCoords() {
     pixels.push(pixelCoordinate);
 
     // Extend the boundary of the map, so the entire polygon is encompassed.
-    bounds.extend(latLng);
+    if (!bounds.contains(latLng)) {
+      bounds.extend(latLng);
+    }
   }
   map.fitBounds(bounds);
 
