@@ -1,0 +1,120 @@
+{
+    "Plant Name": [
+        "Amaranthus caudatus"
+    ], 
+    "Common names": [
+        "amaranths", 
+        " xian", 
+        " lishalisho", 
+        " ferenjitef", 
+        " iyaso (Galinya)", 
+        " jolili (Galinya)", 
+        " gagabsa (Wollamo)"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "C4 photosynthesis"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "cereals & pseudocereals, forage/pasture, vegetables, ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "21", 
+        "28", 
+        "7", 
+        "40"
+    ], 
+    "Soil texture": [
+        "light, organic", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "800", 
+        "2300", 
+        "250", 
+        "4200"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "40", 
+        "40"
+    ], 
+    "Soil Al. tox": [
+        "none (<5% of CEC)", 
+        "low (6-15% of CEC)"
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "3600"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "7.5", 
+        "4.3", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "cloudy skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "4"
+    ], 
+    "Killing temp. early growth": [
+        "0"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "30", 
+        "300"
+    ]
+}

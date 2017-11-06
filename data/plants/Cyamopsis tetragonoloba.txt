@@ -1,0 +1,144 @@
+{
+    "Plant Name": [
+        "Cyamopsis tetragonoloba"
+    ], 
+    "Common names": [
+        "guar bean", 
+        " cluster bean", 
+        " cyamopse a quatre ailes", 
+        " guar", 
+        " guaerdou", 
+        " cottaveraykai", 
+        " kothaverai", 
+        " babachi", 
+        " bavachi", 
+        " capparadavari", 
+        " gawarkai", 
+        " goreekaye", 
+        " guvarphalli", 
+        " goor-chikurkai", 
+        " gorechikudi", 
+        " guanra chhuim", 
+        " jhar sim", 
+        " kotha-marakka", 
+        " kothavara", 
+        " kotaranga", 
+        " walee-pe", 
+        " kottavarai", 
+        " mgwaru", 
+        " gavar", 
+        " gawar", 
+        " goor", 
+        " gowaree", 
+        " gouree", 
+        " govar", 
+        " guara", 
+        " gunwar"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "annual"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "25", 
+        "35", 
+        "10", 
+        "45"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "800", 
+        "400", 
+        "2700"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "30", 
+        "30"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1000"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "7.5", 
+        "8", 
+        "5.5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        "humidity"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "90", 
+        "160"
+    ]
+}

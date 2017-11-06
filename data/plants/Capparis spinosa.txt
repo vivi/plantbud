@@ -1,0 +1,179 @@
+{
+    "Plant Name": [
+        "Capparis spinosa"
+    ], 
+    "Common names": [
+        "caper", 
+        " caper bush", 
+        " caper berry", 
+        " cpres", 
+        " fabagelle", 
+        " tapana", 
+        " cprier commun", 
+        " cprier pineux", 
+        " cprier", 
+        " alcaparra", 
+        " caparra", 
+        " alcaparrn", 
+        " akbaar", 
+        " kabbar", 
+        " achalfah", 
+        " assaf", 
+        " asef", 
+        " ward al jabal", 
+        " shafallah", 
+        " lasaf", 
+        " terloulout", 
+        " taybult", 
+        " amserlih", 
+        " tsailih", 
+        " tsailaoul", 
+        " ouai lonlou", 
+        " belachem", 
+        " lussef", 
+        " alcaparras", 
+        " cappero", 
+        " cappero dei muri", 
+        " cappero spinoso", 
+        " capperone", 
+        " Kapernstrauch", 
+        " Kaper", 
+        " echter Kapernstrauch", 
+        " kappara", 
+        " kappers", 
+        " kappertjes", 
+        " kapricserje", 
+        " kaporna", 
+        " kapribogy", 
+        " kebere", 
+        " keber fidani", 
+        " gebere", 
+        " gebre otu", 
+        " kapari", 
+        " kapris", 
+        " kppari", 
+        " kapers", 
+        " kapersy", 
+        " torkav", 
+        " kappar", 
+        " kaporo", 
+        " tzalaf", 
+        " kiari", 
+        " kobra", 
+        " kabra", 
+        " mullukattari", 
+        " melada", 
+        " kabarra", 
+        " himsra", 
+        " kokilakshmu", 
+        " kabar", 
+        " mruko", 
+        " mchezo"
+    ], 
+    "Life form": [
+        "sub-shrub"
+    ], 
+    "Physiology": [
+        "deciduous, multi stem"
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "vegetables, ornamentals/turf, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale, grown on small scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "13", 
+        "27", 
+        "10", 
+        "31"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "500", 
+        "1000", 
+        "300", 
+        "2600"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "30", 
+        "30", 
+        "45", 
+        "45"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "300"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "7.5", 
+        "6", 
+        "8.3"
+    ], 
+    "Soil drainage": [
+        "well (dry spells), excessive (dry/moderately dry)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "steppe or semiarid (Bs), subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc)"
+    ], 
+    "Photoperiod": [
+        "long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        "home garden, small scale (manual), large scale/commercial"
+    ], 
+    "Crop cycle": [
+        "120", 
+        "270"
+    ]
+}

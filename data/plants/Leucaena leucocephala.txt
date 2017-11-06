@@ -1,0 +1,149 @@
+{
+    "Plant Name": [
+        "Leucaena leucocephala"
+    ], 
+    "Common names": [
+        "leucaena", 
+        " leucaene", 
+        " guage", 
+        " wild tamarind", 
+        " lead tree", 
+        " faux-acacia", 
+        " faux mimosa", 
+        " lamtoro", 
+        " namas", 
+        " vaivai", 
+        " vaivai ni vavalagi", 
+        " reusewattel", 
+        " stuipboom", 
+        " haole koa", 
+        " koa haole", 
+        " tangantangan", 
+        " tangan tangan", 
+        " talantayan (Guam", 
+        " Marshall Islands)", 
+        " talntangan", 
+        " ganitnityuwan tangantan (Yap)", 
+        " tuhngantuhngan", 
+        " rohbohtin (Kosrae)", 
+        " telentund (Palau)", 
+        " lopa samoa (American Samoa)", 
+        " fua pepe (American Samoa and Samoa)", 
+        " lusina (Samoa)", 
+        " pepe (Niue and Samoa)", 
+        " nito (Cook Islands)", 
+        " siale mohemohe (Tonga)", 
+        " vaivai(Fiji)", 
+        " vaivai ni vavalangi", 
+        " vaivai dina", 
+        " balori", 
+        " cassis (Vanuatu)", 
+        " te kaitetua (Kiribati)"
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, materials, ornamentals/turf, forest/wood, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "32", 
+        "10", 
+        "42"
+    ], 
+    "Soil texture": [
+        "heavy, medium", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "600", 
+        "3000", 
+        "250", 
+        "5000"
+    ], 
+    "Soil fertility": [
+        "moderate", 
+        "low"
+    ], 
+    "Latitude": [
+        "15", 
+        "-", 
+        "25", 
+        "30"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2100"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "6", 
+        "7.7", 
+        "5", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "cloudy skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        "coastal salt spray"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "180", 
+        "365"
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "Plant Name": [
+        "Thespesia populnea"
+    ], 
+    "Common names": [
+        "fey dayiti", 
+        " gran maho", 
+        " grand mahaut", 
+        " gros mahaut", 
+        " gwo maho", 
+        " mahot", 
+        " cork tree", 
+        " Indian tulip tree", 
+        " John-Bull tree", 
+        " large-leaved tulip tree", 
+        " milo", 
+        " Pacific rosewood", 
+        " portia tree", 
+        " seaside mahoe", 
+        " feuilles d'Haiti", 
+        " motel debou", 
+        " gajadanda", 
+        " paras-pipal", 
+        " parsipu", 
+        " porush", 
+        " baru laut", 
+        " waru laut", 
+        " bahs smut", 
+        " chri smut", 
+        " baru baru", 
+        " alamo", 
+        " alamo blanco", 
+        " carana", 
+        " clamour", 
+        " duartiana", 
+        " emajaguilla", 
+        " higuillo", 
+        " jaqueca", 
+        " majaguilla", 
+        " majugua de la Florida", 
+        " palo de jaqueca", 
+        " pho-thale", 
+        " mangrove"
+    ], 
+    "Life form": [
+        "shrub, tree"
+    ], 
+    "Physiology": [
+        "evergreen, single stem, multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "forage/pasture, vegetables, materials, ornamentals/turf, medicinals & aromatic, environmental"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        ""
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "10", 
+        "35"
+    ], 
+    "Soil texture": [
+        "light", 
+        "medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "1000", 
+        "3000", 
+        "800", 
+        "5000"
+    ], 
+    "Soil fertility": [
+        "low", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "25", 
+        "40"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "50"
+    ], 
+    "Soil salinity": [
+        "medium (4-10 dS/m)", 
+        "high (>10 dS/m))"
+    ], 
+    "Soil PH": [
+        "6.5", 
+        "8", 
+        "6", 
+        "8.5"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "4"
+    ], 
+    "Killing temp. early growth": [
+        "4"
+    ], 
+    "Abiotic toler.": [
+        "flooding, coastal salt spray"
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "365", 
+        "365"
+    ]
+}

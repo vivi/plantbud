@@ -1,0 +1,144 @@
+{
+    "Plant Name": [
+        "Colocasia esculenta"
+    ], 
+    "Common names": [
+        "taro", 
+        " eddo", 
+        " kalo", 
+        " dasheen", 
+        " cocoyam", 
+        " elephant ears", 
+        " potato of the tropics", 
+        " ciamo", 
+        " inhame", 
+        " malanga", 
+        " tayoba", 
+        " alcocaz", 
+        " elefantenohr", 
+        " arum", 
+        " daun keladi", 
+        " madumbe", 
+        " khoai mon", 
+        " mangasiva sasili", 
+        " sika", 
+        " ba", 
+        " boka", 
+        " botika", 
+        " dalo", 
+        " gaui", 
+        " sali", 
+        " votuki", 
+        " te taororo", 
+        " matiotio", 
+        " tara", 
+        " talo", 
+        " maroepa"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "roots/tubers, vegetables, ornamentals/turf"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "21", 
+        "28", 
+        "10", 
+        "35"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "heavy, medium"
+    ], 
+    "Rainfall (annual)": [
+        "1800", 
+        "2700", 
+        "1000", 
+        "4100"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "18", 
+        "35"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2700"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "medium (4-10 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.3", 
+        "8.2"
+    ], 
+    "Soil drainage": [
+        "poorly (saturated >50% of year), well (dry spells)", 
+        "poorly (saturated >50% of year), well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "clear skies", 
+        "very bright", 
+        "light shade"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "180", 
+        "300"
+    ]
+}

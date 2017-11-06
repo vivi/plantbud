@@ -1,0 +1,144 @@
+{
+    "Plant Name": [
+        "Urena lobata"
+    ], 
+    "Common names": [
+        "aramina", 
+        " hibiscus burr", 
+        " urena", 
+        " urena weed", 
+        " urena burr", 
+        " pink flowered Chinese burr", 
+        " pink Chinese burr", 
+        " Caesar's weed", 
+        " caesarweed", 
+        " bur mallow", 
+        " jute africain", 
+        " cousin urne", 
+        " dadangsi", 
+        " dadangsi apaka", 
+        " dadangsi machingat", 
+        " ddangse (Guam)", 
+        " chosuched e kui", 
+        " karap (Pohnpei)", 
+        " korop (Pohnpei)", 
+        " nognuk (Chuuk)", 
+        " ocher (Chuuk)", 
+        " osuched a rechui (Palau)", 
+        " motipo (Niue)", 
+        " mosipo (Niue)", 
+        " mautofu (American Samoa and Samoa)", 
+        " mo'osipo Tonga", 
+        " manutofu (American Samoa and Samoa)", 
+        " qatima (Fiji)", 
+        " gataya (Fiji)", 
+        " nggatima (Fiji)", 
+        " piripiri (French Polynesia)"
+    ], 
+    "Life form": [
+        "shrub"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "erect"
+    ], 
+    "Category": [
+        "materials, weed"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale"
+    ], 
+    "Soil depth": [
+        "deep (>>150 cm)", 
+        "medium (50-150 cm)"
+    ], 
+    "Temperat. requir.": [
+        "21", 
+        "27", 
+        "18", 
+        "32"
+    ], 
+    "Soil texture": [
+        "medium, organic", 
+        "heavy, medium, light"
+    ], 
+    "Rainfall (annual)": [
+        "700", 
+        "1200", 
+        "550", 
+        "4300"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "low"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "20", 
+        "30"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "1500"
+    ], 
+    "Soil salinity": [
+        "low (<4 dS/m)", 
+        "low (<4 dS/m)"
+    ], 
+    "Soil PH": [
+        "5.5", 
+        "6.5", 
+        "4.5", 
+        "8"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells), excessive (dry/moderately dry)"
+    ], 
+    "Light intensity": [
+        "very bright", 
+        "very bright", 
+        "very bright", 
+        "clear skies"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)"
+    ], 
+    "Photoperiod": [
+        "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        "wind"
+    ], 
+    "Introduction risks.": [
+        "can become a weed"
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "105", 
+        "180"
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "Plant Name": [
+        "Centella asiatica"
+    ], 
+    "Common names": [
+        "Asiatic pennywort", 
+        " Indian pennywort", 
+        " marsh pennywort", 
+        " tiger herbal", 
+        " waternavel", 
+        " gotu cola", 
+        " water pennywort", 
+        " hydrocotyle asiatique", 
+        " centela", 
+        " pegaga", 
+        " trachiek kranh", 
+        " duan Kaki Kuda", 
+        " pegagan", 
+        " antanan Gede", 
+        " phak Nok", 
+        " brahma-manduki", 
+        " brahmi", 
+        " min-kuabin", 
+        " ghod Tapre", 
+        " takip-kohol", 
+        " tapingan-daga", 
+        " hang-halo", 
+        " icukudwane", 
+        " totodro", 
+        " tono", 
+        " lapukapu", 
+        " to'etupou", 
+        " tona", 
+        " tohetupou", 
+        " bua bok", 
+        " pa-na-e khaa-doh", 
+        " phak wan", 
+        " rau ma", 
+        " lien tien thao", 
+        " phae chen", 
+        " tish tuyest tharo"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        ""
+    ], 
+    "Habit": [
+        "prostrate/procumbent/semi-erect"
+    ], 
+    "Category": [
+        "vegetables, medicinals & aromatic"
+    ], 
+    "Life span": [
+        "perennial"
+    ], 
+    "Plant attributes": [
+        "grown on small scale, harvested from wild"
+    ], 
+    "Soil depth": [
+        "", 
+        ""
+    ], 
+    "Temperat. requir.": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil texture": [
+        "", 
+        ""
+    ], 
+    "Rainfall (annual)": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2500"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil drainage": [
+        "", 
+        ""
+    ], 
+    "Light intensity": [
+        "cloudy skies", 
+        "very bright", 
+        "light shade", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        ""
+    ], 
+    "Photoperiod": [
+        ""
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        ""
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}

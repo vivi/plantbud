@@ -1,0 +1,138 @@
+{
+    "Plant Name": [
+        "Mucuna pruriens var utilis"
+    ], 
+    "Common names": [
+        "velvet bean", 
+        " banana stock pea", 
+        " ojo de venado", 
+        " mucuna negra", 
+        " poroto aterciopelado (Arg.)", 
+        " frijol terciopelo (Mex.)", 
+        " haba de terciopelo (P.R.)", 
+        " pois a gratter", 
+        " haricot veloute", 
+        " pois mascate", 
+        " dolique de Floride", 
+        " alkusi", 
+        " makhmali sem", 
+        " kavach", 
+        " kaunch", 
+        " alkushi", 
+        " atmagupta", 
+        " dulagondi", 
+        " punaikkali", 
+        " nasugunni", 
+        " cigu", 
+        " kaocho", 
+        " taingilotra", 
+        " stizolobia", 
+        " fluweelboontjie"
+    ], 
+    "Life form": [
+        "herb"
+    ], 
+    "Physiology": [
+        "multi stem"
+    ], 
+    "Habit": [
+        "climber/scrambler/scadent"
+    ], 
+    "Category": [
+        "forage/pasture, medicinals & aromatic, cover crop"
+    ], 
+    "Life span": [
+        "annual, perennial"
+    ], 
+    "Plant attributes": [
+        "grown on large scale"
+    ], 
+    "Soil depth": [
+        "medium (50-150 cm)", 
+        "shallow (20-50 cm)"
+    ], 
+    "Temperat. requir.": [
+        "20", 
+        "30", 
+        "10", 
+        "35"
+    ], 
+    "Soil texture": [
+        "medium, light", 
+        "wide"
+    ], 
+    "Rainfall (annual)": [
+        "1200", 
+        "1500", 
+        "1000", 
+        "3000"
+    ], 
+    "Soil fertility": [
+        "high", 
+        "moderate"
+    ], 
+    "Latitude": [
+        "-", 
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Soil Al. tox": [
+        "", 
+        ""
+    ], 
+    "Altitude": [
+        "---", 
+        "---", 
+        "-", 
+        "2100"
+    ], 
+    "Soil salinity": [
+        "", 
+        ""
+    ], 
+    "Soil PH": [
+        "5", 
+        "6.5", 
+        "4", 
+        "7.5"
+    ], 
+    "Soil drainage": [
+        "well (dry spells)", 
+        "well (dry spells)"
+    ], 
+    "Light intensity": [
+        "clear skies", 
+        "very bright", 
+        "cloudy skies", 
+        "very bright"
+    ], 
+    "Climate zone": [
+        "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs)"
+    ], 
+    "Photoperiod": [
+        "not sensitive"
+    ], 
+    "Killing temp. during rest": [
+        "no input"
+    ], 
+    "Killing temp. early growth": [
+        "no input"
+    ], 
+    "Abiotic toler.": [
+        ""
+    ], 
+    "Abiotic suscept.": [
+        "flooding"
+    ], 
+    "Introduction risks.": [
+        ""
+    ], 
+    "Product. system": [
+        ""
+    ], 
+    "Crop cycle": [
+        "0", 
+        "0"
+    ]
+}
