@@ -9,8 +9,11 @@ if (!userArgs[0].startsWith('mongodb://')) {
     return
 }
 
-var async = require('async')
-var Plant = require('./models/plant')
+var async = require('async');
+var fs = require("fs");
+var Plant = require('./models/plant');
+var FRUIT_DATASET = 'data/fruits/';
+var ECO_DATASET = 'data/plants';
 
 var mongoose = require('mongoose');
 var mongoDB = userArgs[0];
@@ -19,6 +22,17 @@ var db = mongoose.connection;
 mongoose.connection.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
 var plants = []
+
+function readDataSet(directory) {
+    var fs = require("fs");
+    var files = fs.readdirSync(directory);
+    for (file in files) {
+        console.log("*START*");
+        var content = fs.readFileSync(directory + files[file]);
+        console.log("Output Content : "+ files[file] );
+        console.log("*EXIT* ");
+    }
+}
 
 function plantCreate(common_name, water, min_temp, max_temp, cb) {
     plantdetail = {common_name: common_name,
@@ -49,6 +63,7 @@ function createPlants(cb) {
         // optional callback
         cb);
 }
+
 
 async.series([
     createPlants,
