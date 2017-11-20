@@ -32,31 +32,42 @@ block content
     ul
       for error in errors
         li!= error.msg
-  if weather
+  if coordInfo
     b Weather
     p This is the information we have for your location.
     ul
-      li Average Rainfall: #{weather.avgRain} inches
-      li Normal Average Temperature: #{weather.avgTemp}F
-      li Normal Low Temperature: #{weather.minTemp}F
-      li Normal High Temperature: #{weather.maxTemp}F
-
+      li Average Rainfall: #{coordInfo.avgRain} inches
+      li Normal Average Temperature: #{coordInfo.avgTemp}F
+      li Normal Low Temperature: #{coordInfo.minTemp}F
+      li Normal High Temperature: #{coordInfo.maxTemp}F
+    b Soil 
+    p This is the information we have for your location. 
+    ul 
+      li Soil pH: #{coordInfo.phavg} 
+      li Soil BedRock Depth: #{coordInfo.bedrock_depth}
+      li Soil Clay Percentage: #{coordInfo.clayFrac}%
+      li Soil Slit Percentage: #{coordInfo.slitFrac}%
+      li Soil Sand Percentage: #{coordInfo.sandFrac}%
   if plants
     b Plants
-    p These are plants that would fare well given these weather conditions.
+    p These are plants that would fare well given these conditions.
     table.table
       thead
         tr
-          td Common Name
-          td Water Needed
-          td Min. Temp
-          td Max. Temp
+          td Plant Name
+          td Min. pH
+          td Max. pH
+          td Water Needed (Inches)
+          td Min. Temp (Farenheit)
+          td Max. Temp (Farenheit)
       each plant in plants
         tr
-        td #{plant.common_name}
-        td #{plant.water}
-        td #{plant.min_temp}
-        td #{plant.max_temp}
+        td #{plant.plant_name}
+        td #{plant.opt_min_pH}
+        td #{plant.opt_max_pH}
+        td #{plant.opt_min_rain}
+        td #{plant.optimal_min_temp}
+        td #{plant.optimal_max_temp}
 
 block scripts
     script(src="/javascripts/geolocate.js")

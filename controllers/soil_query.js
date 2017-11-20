@@ -6,32 +6,27 @@ function reduceDict(propDict, dictLength, divFactor){
     for (var key in propDict) {
     	avg += propDict[key]/divFactor
     }
-    return avg /= dictLength
+    return Math.round(100 * avg / dictLength)/100
 }
 // return dict of soil characteristics
-function retrieveSoil(coord){
-	var link = 'https://rest.soilgrids.org/query?lon='+ coord.lat + '&lat=' + coord.lon;
+exports.soilStat = function retrieveSoil(coord, shared, callback){
+	var link = 'https://rest.soilgrids.org/query?lon='+ coord.lon + '&lat=' + coord.lat;
 	console.log("Getting Soil Information")
+    console.log("Current Link For Soil: " + link);
 	request(link, function (error, response, body) {
 	    if (!error && response.statusCode == 200) {
 	        var soilProp= JSON.parse(body)['properties'];
-	        var soilDict = {
-	        	// depth to bedrock in cm, can be interpreted as soil depth
-	        	bedrock_depth : soilProp.BDRICM.M.BDRICM_M,
-	        	// approximate texture from fraction of clay, slit, and sand in soil
-	        	clayFrac : reduceDict(soilProp.CLYPPT.M,Object.keys(soilProp.CLYPPT.M).length, 1),
-	        	slitFrac : reduceDict(soilProp.SLTPPT.M,Object.keys(soilProp.SLTPPT.M).length, 1),
-	        	sandFrac : reduceDict(soilProp.SNDPPT.M,Object.keys(soilProp.SNDPPT.M).length, 1),
-	        	// pH values are multiplied by 10 in database
-	        	phavg : reduceDict(soilProp.PHIHOX.M,Object.keys(soilProp.PHIHOX.M).length, 10)
-	        };
-	        return soilDict
+        	// depth to bedrock in cm, can be interpreted as soil depth
+        	shared.bedrock_depth = soilProp.BDRICM.M.BDRICM_M,
+        	// approximate texture from fraction of clay, slit, and sand in soil
+        	shared.clayFrac = reduceDict(soilProp.CLYPPT.M,Object.keys(soilProp.CLYPPT.M).length, 1);
+        	shared.slitFrac = reduceDict(soilProp.SLTPPT.M,Object.keys(soilProp.SLTPPT.M).length, 1);
+        	shared.sandFrac = reduceDict(soilProp.SNDPPT.M,Object.keys(soilProp.SNDPPT.M).length, 1);
+        	// pH values are multiplied by 10 in database
+        	shared.phavg = reduceDict(soilProp.PHIHOX.M,Object.keys(soilProp.PHIHOX.M).length, 10);
+            callback(null);
 	     }
-	})
-}
+	}
+	)
+};
 
-var coord = {
-	lon : 37.8758719,
-	lat : -122.25887979999997
-}
-console.log(retrieveSoil(coord))
