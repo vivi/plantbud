@@ -14,7 +14,7 @@ exports.guide_get = function(req, res, next) {
   res.render('guide', { title: 'guide' });
 };
 
-function getWeather(coord) {
+function getInfo(coord) {
     return function(callback) {
         var shared = {};
         async.series([
@@ -23,26 +23,31 @@ function getWeather(coord) {
                 },
                 function(callback) {
                     NOAA.tempStat(coord, shared, callback);
+                },
+                function(callback) {
+                    Soil.soilStat(coord, shared ,callback);
                 }
             ], function(err) {
                 callback(null, shared);
             }
         );
     };
-}
+};
 
-function getPlants(weather, callback) {
+
+function getOptPlants(coordInfo, callback) {
     console.log("Getting Plants");
-    console.log(JSON.stringify(weather));
+    console.log(JSON.stringify(coordInfo));
     var type;
-    if (weather.avgRain < 40 && weather.avgRain > 25) {
-        type = "medium";
-    }
-    callback(null, weather, Plant
+    callback(null, coordInfo, Plant
         .find()
-        .where('min_temp').lt(weather.avgTemp)
-        .where('max_temp').gt(weather.maxTemp)
-        .where('water').equals(type));
+        .where('optimal_min_temp').lt(coordInfo.minTemp)
+        .where('optimal_max_temp').gt(coordInfo.maxTemp)
+        .where('opt_min_rain').lt(coordInfo.avgRain)
+        .where('opt_max_rain').gt(coordInfo.avgRain)
+        .where('opt_min_pH').lt(coordInfo.phavg)
+        .where('opt_max_pH').gt(coordInfo.phavg)
+    );
 }
 
 function getPlantsFromCoord(coord, state) {
@@ -84,25 +89,31 @@ exports.guide_post = function(req, res, next) {
     }
 
     var coord = new Coord(req.body.lat, req.body.lon);
-
-    var state = {};
-    async.series([
-        getPlantsFromCoord(coord, state),
-      ],
-      function(err) {
-        if (err) {
-            res.render('guide', {
-                title: 'guide',
-                coord: coord,
-                errors: [err],
+    async.waterfall([
+        getInfo(coord),
+        getOptPlants,
+        function(coordInfo, plantlist, callback) {
+            plantlist.exec(function (err, plant_list) {
+                console.log("Plant List" + plant_list);
+                if (err) {
+                    res.render('guide', {
+                        title: 'guide',
+                        coord: coord,
+                        errors: errors
+                    });
+                } else {
+                    res.render('guide', {
+                        title: 'guide',
+                        coordInfo: coordInfo,
+                        plants: plant_list,
+                        coord: coord
+                    });
+                }
             });
-        } else {
-            res.render('guide', {
-                title: 'guide',
-                weather: state.weather,
-                plants: state.plantlist,
-                coord: coord
-            });
+            callback();
         }
-      });
+    ], function(err) {
+        console.log("Done!");
+    }
+  );
 };
