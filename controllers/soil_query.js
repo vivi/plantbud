@@ -25,7 +25,6 @@ function retrieveSoil(coord){
 	        	// pH values are multiplied by 10 in database
 	        	phavg : reduceDict(soilProp.PHIHOX.M,Object.keys(soilProp.PHIHOX.M).length, 10)
 	        };
-	        console.log(soilDict)
 	        return soilDict
 	     }
 	})

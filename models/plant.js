@@ -4,10 +4,31 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var PlantSchema = new Schema({
-    common_name: String,
-    water: String,
-    min_temp: Number,
-    max_temp: Number,
+    plant_name: String,
+    opt_min_pH: Number,
+    opt_max_pH: Number,
+    abs_max_pH: Number,
+    abs_min_pH: Number,
+    opt_min_rain: Number,
+    opt_max_rain: Number,
+    abs_min_rain: Number,
+    abs_max_rain: Number,
+    opt_soil_depth: String,
+    abs_soil_depth: String,
+    opt_soil_text: String,
+    abs_soil_text: String,
+    category: String,
+    optimal_min_temp: Number,
+    optimal_max_temp: Number,
+    absolute_min_temp: Number,
+    absolute_max_temp: Number,
+    opt_min_light: String,
+    opt_max_light: String,
+    abs_min_light: String,
+    abs_max_light: String,
+    lifespan: String,
+    min_crop_cycle: Number,
+    max_crop_cycle: Number
 });
 
 module.exports = mongoose.model('Plant', PlantSchema);
