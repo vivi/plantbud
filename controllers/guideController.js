@@ -94,7 +94,6 @@ exports.guide_post = function(req, res, next) {
         getOptPlants,
         function(coordInfo, plantlist, callback) {
             plantlist.exec(function (err, plant_list) {
-                console.log("Plant List" + plant_list);
                 if (err) {
                     res.render('guide', {
                         title: 'guide',
