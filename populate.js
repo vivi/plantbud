@@ -60,7 +60,8 @@ function readDataSet(directory) {
             abs_max_light: content['Light intensity'][3],
             lifespan: content["Life span"][0],
             min_crop_cycle: parseInt(content['Crop cycle'][0]) || -10000,
-            max_crop_cycle: parseInt(content['Crop cycle'][1]) || -10000
+            max_crop_cycle: parseInt(content['Crop cycle'][1]) || -10000,
+            common_name: content['Common names'],
         }
         plantsData.push(plantDict)
         console.log("*EXIT* ");
