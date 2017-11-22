@@ -28,7 +28,8 @@ var PlantSchema = new Schema({
     abs_max_light: String,
     lifespan: String,
     min_crop_cycle: Number,
-    max_crop_cycle: Number
+    max_crop_cycle: Number,
+    common_name: String,
 });
 
 module.exports = mongoose.model('Plant', PlantSchema);

@@ -41,12 +41,12 @@ function getOptPlants(coordInfo, callback) {
     var type;
     callback(null, coordInfo, Plant
         .find()
-        .where('optimal_min_temp').lt(coordInfo.minTemp)
-        .where('optimal_max_temp').gt(coordInfo.maxTemp)
-        .where('opt_min_rain').lt(coordInfo.avgRain)
-        .where('opt_max_rain').gt(coordInfo.avgRain)
-        .where('opt_min_pH').lt(coordInfo.phavg)
-        .where('opt_max_pH').gt(coordInfo.phavg)
+        .where('optimal_min_temp').lte(coordInfo.minTemp * 1.2)
+        .where('optimal_max_temp').gte(coordInfo.maxTemp * 0.8)
+        .where('opt_min_rain').lte(coordInfo.avgRain)
+        .where('opt_max_rain').gte(coordInfo.avgRain)
+        //.where('opt_min_pH').lt(coordInfo.phavg)
+        //.where('opt_max_pH').gt(coordInfo.phavg)
     );
 }
 
@@ -58,7 +58,7 @@ function getPlantsFromCoord(coord, state) {
           function(weather, plantlist, callback) {
               state.weather = weather;
               plantlist.exec(function (err, plantlist) {
-                  console.log("Plant List" + plantlist);
+                  //console.log("Plant List" + plantlist);
                   state.plantlist = plantlist;
                   callback(err);
               });
