@@ -12,7 +12,7 @@ block content
       | The perimeter specified on the last page is the bold, dotted black
       | line. Hold Shift and click a plant to remove it from the canvas.
     each plant in plants
-      button.btn.btn-sm.btn-info(onclick="createBox('"+ plant.common_name + "' ," + plant.size +")") #{plant.common_name}
+      button.btn.btn-sm.btn-info(onclick="createBox('" + plant.common_name + "', 8)") #{plant.common_name}
     div(class="canvas")
       canvas(id="layout", resize="true")
 

@@ -2,6 +2,7 @@ var async = require('async');
 var Plant = require('../models/plant.js');
 var NOAA = require('./weather_NOAA.js');
 var Soil = require('./soil_query.js');
+var UserData = require('../models/userData.js');
 
 function Coord(lat, lon) {
     this.lat = lat;
@@ -11,7 +12,10 @@ function Coord(lat, lon) {
 exports.Coord = Coord;
 
 exports.guide_get = function(req, res, next) {
-  res.render('guide', { title: 'guide' });
+  res.render('guide', {
+    title: 'guide',
+    user: req.email,
+  });
 };
 
 function getInfo(coord) {
@@ -41,6 +45,7 @@ function getOptPlants(coordInfo, callback) {
     var type;
     callback(null, coordInfo, Plant
         .find()
+        .where('common_name').ne("")
         .where('optimal_min_temp').lte(coordInfo.minTemp * 1.2)
         .where('optimal_max_temp').gte(coordInfo.maxTemp * 0.8)
         .where('opt_min_rain').lte(coordInfo.avgRain)
@@ -90,6 +95,19 @@ exports.guide_post = function(req, res, next) {
 
     var coord = new Coord(req.body.lat, req.body.lon);
     async.waterfall([
+        function(callback) {
+          var query = {'_user': req.session.userId};
+          var update = {
+            'email': req.email,
+            'lat': req.body.lat,
+            'lon': req.body.lon,
+          };
+          UserData.findOneAndUpdate(query, update,
+              {upsert:true}, function(err, doc){
+            if (err) return res.send(500, { error: err });
+            callback(null);
+          });
+        },
         getInfo(coord),
         getOptPlants,
         function(coordInfo, plantlist, callback) {
@@ -98,13 +116,15 @@ exports.guide_post = function(req, res, next) {
                     res.render('guide', {
                         title: 'guide',
                         coord: coord,
-                        errors: errors
+                        errors: errors,
+                        user: req.email,
                     });
                 } else {
                     res.render('guide', {
                         title: 'guide',
                         coordInfo: coordInfo,
                         plants: plant_list,
+                        user: req.email,
                         coord: coord
                     });
                 }
