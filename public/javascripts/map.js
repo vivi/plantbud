@@ -172,7 +172,7 @@ $('#height').on('input', function() {
 /* Updates the path of the rectangle. */
 // TODO: Scale the rectangle.
 function updateVertex() {
-  var vert = "(0,0);("+width+",0);("+width+","+height+");(0,"+height+");(0,0)";
+  var vert = "[0,0];["+width+",0];["+width+","+height+"];[0,"+height+"];[0,0]";
   $('#f-verts').val(vert);
   $('#f-mpp').val(1);
 }

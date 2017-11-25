@@ -93,39 +93,37 @@ block content
               label.form-check-label
                 input#ornamental.form-check-input.filter(type="checkbox")
                 span Ornamental
-      table#plants.table.display(cellspacing="0" width="100%")
-        thead
-          tr
-            td Select
-            td Common Name
-            td Scientific Name
-            td Category
-            //td Min. pH
-            //td Max. pH
-            td Water Needed (In)
-            td Min. Temp (F)
-            td Max. Temp (F)
-            td Lifespan
-        tbody
-          each plant in plants
+      form(method="POST" action="map")
+        table#plants.table.display(cellspacing="0" width="100%")
+          thead
             tr
-              td
-                div.form-check
-                  label.form-check-label
-                    input.form-check-input(type="checkbox" id=plant.plant_name)
-              td #{plant.common_name}
-              td #{plant.plant_name}
-              td #{plant.category}
-              //td #{plant.opt_min_pH}
-              //td #{plant.opt_max_pH}
-              td #{plant.opt_min_rain}
-              td #{plant.optimal_min_temp}
-              td #{plant.optimal_max_temp}
-              td #{plant.lifespan}
-      div(align="center")
-        form(method="POST" action="map")
-          input.hide(type="text" name="lat" value=coord.lat)
-          input.hide(type="text" name="lon" value=coord.lon)
+              td Select
+              td Common Name
+              td Scientific Name
+              td Category
+              //td Min. pH
+              //td Max. pH
+              td Water Needed (In)
+              td Min. Temp (F)
+              td Max. Temp (F)
+              td Lifespan
+          tbody
+            each plant in plants
+              tr
+                td
+                  div.form-check
+                    label.form-check-label
+                      input.form-check-input(name="select_plant" type="checkbox" value=plant._id)
+                td #{plant.common_name}
+                td #{plant.plant_name}
+                td #{plant.category}
+                //td #{plant.opt_min_pH}
+                //td #{plant.opt_max_pH}
+                td #{plant.opt_min_rain}
+                td #{plant.optimal_min_temp}
+                td #{plant.optimal_max_temp}
+                td #{plant.lifespan}
+        div(align="center")
           button.btn.btn-primary(type='submit') Proceed to Mapping
 
 block scripts
