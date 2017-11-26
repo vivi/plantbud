@@ -8,6 +8,7 @@ exports.layout_get = function(req, res, next) {
   res.render('plant_layout', {
     title: 'layout',
     show: false,
+    user: req.email,
   });
 };
 

@@ -4,7 +4,8 @@ var UserData = require('../models/userData.js');
 /* We only display the mapping on a POST request that contains GPS coordinates */
 exports.map_get = function(req, res, next) {
   res.render('map', {
-    title: 'map'
+    title: 'map',
+    user: req.email,
   });
 };
 
@@ -19,7 +20,8 @@ exports.map_post = function(req, res, next) {
     var coord = new guide.Coord(doc.lat, doc.lon);
     res.render('map', {
       title: 'map',
-      coord: coord
+      coord: coord,
+      user: req.email,
     });
   });
 };
