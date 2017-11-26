@@ -38,11 +38,15 @@ streamline the learning process by providing only the relevant and necessary
 information to new and inexperienced planters. 
 
 ## Current Functionality
-- Can parse weather dataset from NOAA
+- Can parse weather dataset from NOAA, and SoilGrids data.
 - Given a set of GPS coordinates, can pull long-term rainfall and temperature
-  averages of weather station closest to those coordinates
+  averages of weather station closest to those coordinates, as well as soil
+  quality of the area.
 - Can perform basic filtering on plants in the database (currently based on
     temperature, watering needed)
+- Users can perform additional filtering.
+- Can map out area using Google Maps.
+- Can lay out plants in that area.
 
 ### Demo
 <div align="center"><iframe width="560" height="315"
@@ -54,7 +58,7 @@ allowfullscreen></iframe></div>
 ### TODO
 - [ ] Create a tool that mines information from book / written gardening
       resources
-- [ ] More complex plant model (interaction with other plants, information on
+- [x] More complex plant model (interaction with other plants, information on
       fruits, soil pH, humidity, ease of growing, different variations of a
       species)
 - [ ] Incorporate infromation from experts (possibly verbal)
