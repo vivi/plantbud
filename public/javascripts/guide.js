@@ -68,3 +68,12 @@ $(document).ready(function() {
     table.draw();
   });
 });
+
+function validateAndSend() {
+  if ($("[name='select_plant']:checked").length > 0) {
+    $('#plant_form').submit();
+  } else {
+    alert('Please select at least one plant.');
+    return false;
+  }
+}

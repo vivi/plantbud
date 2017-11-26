@@ -11,10 +11,18 @@ exports.map_get = function(req, res, next) {
 
 /* Serve the mapping tool */
 exports.map_post = function(req, res, next) {
+  var update;
+  if (!Array.isArray(req.body.select_plant)) {
+    update = {
+      'plants': req.body.select_plant,
+    };
+  } else {
+    update = {
+      'plants': req.body.select_plant.join(','),
+    };
+  }
+  console.log(JSON.stringify(req.body, null, 4));
   var query = {'_user': req.session.userId};
-  var update = {
-    'plants': req.body.select_plant.join(','),
-  };
   UserData.findOneAndUpdate(query, update, function(err, doc){
     if (err) return res.send(500, { error: err });
     var coord = new guide.Coord(doc.lat, doc.lon);

@@ -93,7 +93,7 @@ block content
               label.form-check-label
                 input#ornamental.form-check-input.filter(type="checkbox")
                 span Ornamental
-      form(method="POST" action="map")
+      form(id="plant_form" method="POST" action="map")
         table#plants.table.display(cellspacing="0" width="100%")
           thead
             tr
@@ -124,7 +124,7 @@ block content
                 td #{plant.optimal_max_temp}
                 td #{plant.lifespan}
         div(align="center")
-          button.btn.btn-primary(type='submit') Proceed to Mapping
+          button.btn.btn-primary(type='button' onClick='validateAndSend()') Proceed to Mapping
 
 block scripts
   script(src="/javascripts/geolocate.js")
