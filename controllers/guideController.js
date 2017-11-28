@@ -79,8 +79,8 @@ function getPlantsFromCoord(coord, state) {
 exports.getPlantsFromCoord = getPlantsFromCoord;
 
 exports.guide_post = function(req, res, next) {
-    req.checkBody('lat', 'Lat coordinate required').notEmpty();
-    req.checkBody('lon', 'Long coordinate required').notEmpty();
+    req.checkBody('lat', 'Lat Coordinate is not valid. Please make sure you input a number.').isFloat();
+    req.checkBody('lon', 'Lon Coordinate is not valid. Please make sure you input a number.').isFloat();
 
     req.sanitize('lat').escape();
     req.sanitize('lat').trim();
