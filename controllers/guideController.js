@@ -20,7 +20,7 @@ exports.guide_get = function(req, res, next) {
       console.log(userInfo.plants);
       async.waterfall([
         getInfo(coord),
-        getOptPlants,
+        getAbsPlants,
         function(coordInfo, plantlist, callback) {
             plantlist.exec(function (err, plant_list) {
                 if (err) {
@@ -78,20 +78,36 @@ function getInfo(coord) {
 
 
 function getOptPlants(coordInfo, callback) {
-    console.log("Getting Plants");
+    console.log("Getting Optimal Plants");
     console.log(JSON.stringify(coordInfo));
     var type;
     callback(null, coordInfo, Plant
         .find()
         .where('common_name').ne("")
-        .where('optimal_min_temp').lte(coordInfo.minTemp * 1.2)
-        .where('optimal_max_temp').gte(coordInfo.maxTemp * 0.8)
+        .where('optimal_min_temp').lte(coordInfo.minTemp)
+        .where('optimal_max_temp').gte(coordInfo.maxTemp)
         .where('opt_min_rain').lte(coordInfo.avgRain)
         .where('opt_max_rain').gte(coordInfo.avgRain)
         //.where('opt_min_pH').lt(coordInfo.phavg)
         //.where('opt_max_pH').gt(coordInfo.phavg)
     );
 }
+
+function getAbsPlants(coordInfo, callback) {
+    console.log("Getting Abs Plants");
+    var type;
+    callback(null, coordInfo, Plant
+        .find()
+        .where('common_name').ne("")
+        .where('absolute_min_temp').lte(coordInfo.minTemp)
+        .where('absolute_max_temp').gte(coordInfo.maxTemp)
+        .where('abs_min_rain').lte(coordInfo.avgRain)
+        .where('abs_max_rain').gte(coordInfo.avgRain)
+        .where('abs_min_pH').lt(coordInfo.phavg)
+        .where('abs_max_pH').gt(coordInfo.phavg)
+    );
+}
+
 
 function getPlantsFromCoord(coord, state) {
   return function(cb) {
@@ -147,7 +163,7 @@ exports.guide_post = function(req, res, next) {
           });
         },
         getInfo(coord),
-        getOptPlants,
+        getAbsPlants,
         function(coordInfo, plantlist, callback) {
             plantlist.exec(function (err, plant_list) {
                 if (err) {
