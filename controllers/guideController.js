@@ -12,9 +12,46 @@ function Coord(lat, lon) {
 exports.Coord = Coord;
 
 exports.guide_get = function(req, res, next) {
-  res.render('guide', {
-    title: 'guide',
-    user: req.user,
+  var query = {'_user': req.session.userId};
+  var conditions = {'lat': true, 'lon': true };
+  console.log(query);
+  UserData.findOne(query, conditions, (err, userInfo) => {
+    if (userInfo) {
+      var coord = new Coord(userInfo.lat, userInfo.lon);
+      async.waterfall([
+        getInfo(coord),
+        getOptPlants,
+        function(coordInfo, plantlist, callback) {
+            plantlist.exec(function (err, plant_list) {
+                if (err) {
+                    res.render('guide', {
+                        title: 'guide',
+                        coord: coord,
+                        errors: errors,
+                        user: req.email,
+                    });
+                } else {
+                    res.render('guide', {
+                        title: 'guide',
+                        coordInfo: coordInfo,
+                        plants: plant_list,
+                        user: req.email,
+                        coord: coord
+                    });
+                }
+            });
+            callback();
+        }
+      ], function(err) {
+          console.log("Done!");
+        }
+      );
+    } else {
+      res.render('guide', {
+        title: 'guide',
+        user: req.email,
+      });  
+    }
   });
 };
 

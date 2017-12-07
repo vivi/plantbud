@@ -9,6 +9,7 @@ block content
       h3 Enter coordinates
     div.col-md-2(align="right")
       h3
+        button.btn.btn-sm.btn-info(onclick='fillPosition(prev.lat, prev.lon)') Load Previous
         button.btn.btn-sm.btn-info(onclick='geolocate()') Get Location
           span.spin(style={display: 'none'})
             i(class='fa fa-star fa-pulse fa-1x fa-fw')
@@ -63,7 +64,7 @@ block content
                 li Soil pH: #{coordInfo.phavg}
                 li Soil BedRock Depth: #{coordInfo.bedrock_depth}
                 li Soil Clay Percentage: #{coordInfo.clayFrac}%
-                li Soil Slit Percentage: #{coordInfo.slitFrac}%
+                li Soil Silt Percentage: #{coordInfo.slitFrac}%
                 li Soil Sand Percentage: #{coordInfo.sandFrac}%
     if plants
       h3 Plants

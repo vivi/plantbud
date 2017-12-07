@@ -20,3 +20,8 @@ function showPosition(position) {
     $('#lon').val(position.coords.longitude);
     $('.spin').css('display', 'none');
 }
+
+function fillPosition(lat, lon) {
+    $('#lat').val(lat);
+    $('#lon').val(lon);
+}
