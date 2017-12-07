@@ -2,6 +2,7 @@ var async = require('async');
 var Plant = require('../models/plant.js');
 var NOAA = require('./weather_NOAA.js');
 var Soil = require('./soil_query.js');
+var Altitude = require('./altitude.js');
 var UserData = require('../models/userData.js');
 
 function Coord(lat, lon) {
@@ -67,6 +68,9 @@ function getInfo(coord) {
                     NOAA.tempStat(coord, shared, callback);
                 },
                 function(callback) {
+                    Altitude.altStat(coord, shared, callback);
+                },
+                function(callback) {
                     Soil.soilStat(coord, shared ,callback);
                 }
             ], function(err) {
@@ -105,6 +109,7 @@ function getAbsPlants(coordInfo, callback) {
         .where('abs_max_rain').gte(coordInfo.avgRain)
         .where('abs_min_pH').lt(coordInfo.phavg)
         .where('abs_max_pH').gt(coordInfo.phavg)
+        //.where('')
     );
 }
 
