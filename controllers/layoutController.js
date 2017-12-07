@@ -5,6 +5,8 @@ var UserData = require('../models/userData.js');
 
 /* We only display the tool on a POST request that contains perimeter info. */
 exports.layout_get = function(req, res, next) {
+  var query = {'_user': req.session.userId};
+  var conditions = {'lat': true, 'lon': true, 'plants': true, 'polygon': true, 'mpp': true};  
   res.render('plant_layout', {
     title: 'layout',
     show: false,

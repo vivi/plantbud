@@ -114,7 +114,10 @@ block content
                 td
                   div.form-check
                     label.form-check-label
-                      input.form-check-input(name="select_plant" type="checkbox" value=plant._id)
+                      if sel_plants.indexOf(plant._id) > -1
+                        input.form-check-input(name="select_plant" type="checkbox" value=plant._id checked)
+                      else
+                        input.form-check-input(name="select_plant" type="checkbox" value=plant._id)
                 td #{plant.common_name}
                 td #{plant.plant_name}
                 td #{plant.category}
