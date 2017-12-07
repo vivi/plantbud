@@ -13,11 +13,11 @@ exports.Coord = Coord;
 
 exports.guide_get = function(req, res, next) {
   var query = {'_user': req.session.userId};
-  var conditions = {'lat': true, 'lon': true };
-  console.log(query);
+  var conditions = {'lat': true, 'lon': true, 'plants': true};
   UserData.findOne(query, conditions, (err, userInfo) => {
     if (userInfo) {
       var coord = new Coord(userInfo.lat, userInfo.lon);
+      console.log(userInfo.plants);
       async.waterfall([
         getInfo(coord),
         getOptPlants,
@@ -36,7 +36,8 @@ exports.guide_get = function(req, res, next) {
                         coordInfo: coordInfo,
                         plants: plant_list,
                         user: req.email,
-                        coord: coord
+                        coord: coord,
+                        sel_plants: userInfo.plants
                     });
                 }
             });

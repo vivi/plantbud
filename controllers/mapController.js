@@ -3,9 +3,22 @@ var UserData = require('../models/userData.js');
 
 /* We only display the mapping on a POST request that contains GPS coordinates */
 exports.map_get = function(req, res, next) {
-  res.render('map', {
-    title: 'map',
-    user: req.user,
+  var query = {'_user': req.session.userId};
+  var conditions = {'lat': true, 'lon': true, 'plants': true};
+  UserData.findOne(query, conditions, (err, userInfo) => {
+    if (userInfo) {
+      var coord = new guide.Coord(userInfo.lat, userInfo.lon);
+      res.render('map', {
+        title: 'map',
+        coord: coord,
+        user: req.email,
+      });
+    } else {
+      res.render('map', {
+        title: 'map',
+        user: req.email,
+      });  
+    }
   });
 };
 
