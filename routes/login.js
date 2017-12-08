@@ -2,12 +2,10 @@ var express = require('express');
 var router = express.Router();
 var user_controller = require('../controllers/userController.js');
 
-/* GET register page. */
-router.get('/', function(req, res, next) {
-  res.render('login', { title: 'login' });
-});
+/* GET google login page. */
+router.get('/auth/google', user_controller.login);
 
-/* POST register page. */
-router.post('/', user_controller.login_post);
+/* GET google callback page. */
+router.get('/auth/google/callback', user_controller.login_callback);
 
 module.exports = router;

@@ -3,15 +3,8 @@ var router = express.Router();
 
 /* GET logout page. */
 router.get('/', function(req, res, next) {
-  if (req.session) {
-    req.session.destroy(function(err) {
-      if (err) {
-        return next(err);
-      } else {
-        res.render('logout', { title: 'logout' });
-      }
-    });
-  }
+  req.logout();
+  res.redirect('/');
 });
 
 module.exports = router;
