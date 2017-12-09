@@ -19,7 +19,6 @@ html
     link(rel="shortcut icon" href="/favicons/favicon.ico")
     meta(name="msapplication-config" content="/favicons/browserconfig.xml")
     meta(name="theme-color" content="#ffffff")
-    block meta
   body
     div(class='container-fluid')
       div(class='row')
@@ -31,7 +30,7 @@ html
               li
                 a(href='/') home
               if user
-                li #{user.email}
+                li #{user}
                 li plan
                 ul(class='plan')
                   li
@@ -44,7 +43,9 @@ html
                   a(href='/logout') logout
               else
                 li
-                  a(href='/auth/google') login
+                  a(href='/login') login
+                  span  / 
+                  a(href='/register') register
         div(class='col-sm-10')
           block content
   block scripts

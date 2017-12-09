@@ -7,10 +7,6 @@ var expressValidator = require('express-validator');
 var session = require('express-session');
 var session = require('express-session');
 var MongoStore = require('connect-mongo')(session);
-var passport = require('passport');
-
-var keys = require('./conf/keys.js');
-require('./conf/passport.js');
 
 var User = require('./models/user');
 var index = require('./routes/index');
@@ -18,14 +14,16 @@ var users = require('./routes/users');
 var guide = require('./routes/guide');
 var map = require('./routes/map');
 var layout = require('./routes/layout');
+var register = require('./routes/register');
 var login = require('./routes/login');
 var logout = require('./routes/logout');
 
 var app = express();
 
-console.log(keys);
 var mongoose = require('mongoose');
-mongoose.connect(keys.mongoURI, {
+console.log(process.env.MONGO_PASS);
+var mongoDB = 'mongodb://admin:'+process.env.MONGO_PASS+'@ds137101.mlab.com:37101/plantbud';
+mongoose.connect(mongoDB, {
   useMongoClient: true
 });
 var db = mongoose.connection;
@@ -33,17 +31,13 @@ db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
 // Sessions
 app.use(session({
-  secret: keys.cookieSecret,
+  secret: 'work hard',
   resave: true,
   saveUninitialized: false,
   store: new MongoStore({
     mongooseConnection: db
   })
 }));
-
-// Passport Auth
-app.use(passport.initialize());
-app.use(passport.session());
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -77,7 +71,7 @@ app.all('*', function(req, res, next) {
 });
 
 function requiresLogin(req, res, next) {
-  if (req.isAuthenticated()) {
+  if (req.session && req.session.userId) {
     return next();
   } else {
     return res.render('restricted', {});
@@ -85,7 +79,6 @@ function requiresLogin(req, res, next) {
 };
 
 app.use('/', index);
-app.use('/', login);
 app.use('/guide', requiresLogin);
 app.use('/guide', guide);
 app.use('/map', requiresLogin);
@@ -93,6 +86,8 @@ app.use('/map', map);
 app.use('/layout', requiresLogin);
 app.use('/layout', layout);
 app.use('/users', users);
+app.use('/register', register);
+app.use('/login', login);
 app.use('/logout', logout);
 
 // catch 404 and forward to error handler
