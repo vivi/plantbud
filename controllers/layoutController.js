@@ -8,7 +8,7 @@ exports.layout_get = function(req, res, next) {
   res.render('plant_layout', {
     title: 'layout',
     show: false,
-    user: req.email,
+    user: req.user,
   });
 };
 
@@ -38,7 +38,7 @@ exports.layout_post = function(req, res, next) {
   console.log(req.body.verts);
   async.waterfall([
       function(callback) {
-          var query = {'_user': req.session.userId};
+          var query = {'_user': req.user._id};
           var update = {
             'polygon': req.body.verts,
             'mpp': req.body.mpp,
@@ -59,7 +59,7 @@ exports.layout_post = function(req, res, next) {
               title: 'layout',
               error: err,
               show: false,
-              user: req.email,
+              user: req.user,
           });
       } else {
           res.render('plant_layout', {
@@ -72,7 +72,7 @@ exports.layout_post = function(req, res, next) {
               mpp: req.body.mpp,
               coord: {lat: doc.lat, lon: doc.lon},
               show: true,
-              user: req.email,
+              user: req.user,
           });
           console.log("Loaded plants into viewer!");
       }

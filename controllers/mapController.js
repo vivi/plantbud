@@ -5,7 +5,7 @@ var UserData = require('../models/userData.js');
 exports.map_get = function(req, res, next) {
   res.render('map', {
     title: 'map',
-    user: req.email,
+    user: req.user,
   });
 };
 
@@ -22,14 +22,14 @@ exports.map_post = function(req, res, next) {
     };
   }
   console.log(JSON.stringify(req.body, null, 4));
-  var query = {'_user': req.session.userId};
+  var query = {'_user': req.user._id};
   UserData.findOneAndUpdate(query, update, function(err, doc){
     if (err) return res.send(500, { error: err });
     var coord = new guide.Coord(doc.lat, doc.lon);
     res.render('map', {
       title: 'map',
       coord: coord,
-      user: req.email,
+      user: req.user,
     });
   });
 };
