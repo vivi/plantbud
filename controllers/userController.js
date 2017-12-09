@@ -13,7 +13,13 @@ exports.login = function(req, res, next) {
 
 exports.login_callback = function(req, res, next) {
   passport.authenticate("google", {
-      failureRedirect: "/", // CHANGE TO FAILED
+      failureRedirect: "/auth/fail", // CHANGE TO FAILED
       successRedirect: "/",
   })(req, res, next);
+}
+
+exports.login_failed = function(req, res, next) {
+  res.render('error', {
+    message: "Failed to log in",
+  });
 }

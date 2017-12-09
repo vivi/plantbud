@@ -56,26 +56,7 @@ app.use(expressValidator());
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Retrieve session info.
-app.all('*', function(req, res, next) {
-  if (!req.session.userId) {
-    console.log("no uid");
-    return next();
-  }
-
-  User.findById(req.session.userId)
-    .exec(function(err, user) {
-      if (err) {
-        return next(err);
-      } else {
-        req.user = user;
-        req.email = user.email;
-        console.log(req.email);
-        next();
-      }
-    });
-});
-
+// Checks if user is authenticated.
 function requiresLogin(req, res, next) {
   if (req.isAuthenticated()) {
     return next();

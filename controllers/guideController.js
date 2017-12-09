@@ -14,7 +14,7 @@ exports.Coord = Coord;
 exports.guide_get = function(req, res, next) {
   res.render('guide', {
     title: 'guide',
-    user: req.email,
+    user: req.user,
   });
 };
 
@@ -96,7 +96,7 @@ exports.guide_post = function(req, res, next) {
     var coord = new Coord(req.body.lat, req.body.lon);
     async.waterfall([
         function(callback) {
-          var query = {'_user': req.session.userId};
+          var query = {'_user': req.user._id};
           var update = {
             'email': req.email,
             'lat': req.body.lat,
@@ -117,14 +117,14 @@ exports.guide_post = function(req, res, next) {
                         title: 'guide',
                         coord: coord,
                         errors: errors,
-                        user: req.email,
+                        user: req.user,
                     });
                 } else {
                     res.render('guide', {
                         title: 'guide',
                         coordInfo: coordInfo,
                         plants: plant_list,
-                        user: req.email,
+                        user: req.user,
                         coord: coord
                     });
                 }
