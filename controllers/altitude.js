@@ -1,12 +1,12 @@
 var request = require('request');
 var ELEVATION_BASE_URL = 'https://maps.googleapis.com/maps/api/elevation/json?locations=';
-var API_KEY = process.env.GOOGLE_API_KEY;
+var API_KEY = process.env.GOOGLE_API_KEY_UNRESTRICTED;
 const NODATA = 'no data';
 
 
 exports.altStat = function getAltitude(coord, shared, callback){
 	var link = ELEVATION_BASE_URL+ coord.lat + ',' + coord.lon + '&key=' + API_KEY;
-  console.log("Getting Altitude Information")
+  console.log("Getting Altitude Information: " + link);
   request(link, function (error, response, body) {
     if (!error && response.statusCode == 200) {	
     	var altProp = JSON.parse(body)['results'];

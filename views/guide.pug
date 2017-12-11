@@ -9,7 +9,7 @@ block content
       h3 Enter coordinates
     div.col-md-2(align="right")
       h3
-        button.btn.btn-sm.btn-info(onclick='fillPosition(prev.lat, prev.lon)') Load Previous
+        a.btn.btn-sm.btn-info(href='/guide/stored') Load Previous
         button.btn.btn-sm.btn-info(onclick='geolocate()') Get Location
           span.spin(style={display: 'none'})
             i(class='fa fa-star fa-pulse fa-1x fa-fw')

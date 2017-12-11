@@ -12,13 +12,12 @@ function Coord(lat, lon) {
 
 exports.Coord = Coord;
 
-exports.guide_get = function(req, res, next) {
-  var query = {'_user': req.session.userId};
+exports.guide_stored_get = function(req, res, next) {
+  var query = {'_user': req.user._id};
   var conditions = {'lat': true, 'lon': true, 'plants': true};
   UserData.findOne(query, conditions, (err, userInfo) => {
     if (userInfo) {
       var coord = new Coord(userInfo.lat, userInfo.lon);
-      console.log(userInfo.plants);
       async.waterfall([
         getInfo(coord),
         getAbsPlants,
@@ -29,14 +28,14 @@ exports.guide_get = function(req, res, next) {
                         title: 'guide',
                         coord: coord,
                         errors: errors,
-                        user: req.email,
+                        user: req.user,
                     });
                 } else {
                     res.render('guide', {
                         title: 'guide',
                         coordInfo: coordInfo,
                         plants: plant_list,
-                        user: req.email,
+                        user: req.user,
                         coord: coord,
                         sel_plants: userInfo.plants
                     });
@@ -45,37 +44,55 @@ exports.guide_get = function(req, res, next) {
             callback();
         }
       ], function(err) {
-          console.log("Done!");
+          console.log("Done loading previous info!");
         }
       );
     } else {
       res.render('guide', {
         title: 'guide',
-        user: req.email,
-      });  
+        errors: [{'msg': 'No information stored'}],
+        user: req.user,
+      });
     }
   });
+}
+
+exports.guide_get = function(req, res, next) {
+  res.render('guide', {
+    title: 'guide',
+    user: req.user,
+  });
 };
+
+function getWeather(coord, shared, callback) {
+  async.series([
+      function(callback) {
+          NOAA.rainfallStat(coord, shared, callback);
+      },
+      function(callback) {
+          NOAA.tempStat(coord, shared, callback);
+      }
+    ], function(err) {
+      callback(err, shared);
+    });
+}
 
 function getInfo(coord) {
     return function(callback) {
         var shared = {};
-        async.series([
-                function(callback) {
-                    NOAA.rainfallStat(coord, shared, callback);
-                },
-                function(callback) {
-                    NOAA.tempStat(coord, shared, callback);
-                },
-                function(callback) {
-                    Altitude.altStat(coord, shared, callback);
-                },
-                function(callback) {
-                    Soil.soilStat(coord, shared ,callback);
-                }
-            ], function(err) {
-                callback(null, shared);
-            }
+        async.parallel([
+              function(callback) {
+                getWeather(coord, shared, callback);
+              },
+              function(callback) {
+                Altitude.altStat(coord, shared, callback);
+              },
+              function(callback) {
+                Soil.soilStat(coord, shared ,callback);
+              }
+          ], function(err) {
+            callback(null, shared);
+          }
         );
     };
 };
