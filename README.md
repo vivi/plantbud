@@ -1,5 +1,22 @@
 # Try it Out: [plantbud.org](https://plantbud.org)
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Try it Out: plantbud.org](#try-it-out-plantbudorg)
+  - [Functionality](#functionality)
+  - [Who's it for?](#whos-it-for)
+    - [Why would anyone use this?](#why-would-anyone-use-this)
+  - [Current Functionality](#current-functionality)
+  - [Screenshots](#screenshots)
+    - [Home](#home)
+    - [Filtering](#filtering)
+    - [Mapping](#mapping)
+    - [Layout](#layout)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Functionality
 
 plantbud is a tool that aims to make it easier to start gardening at a small
