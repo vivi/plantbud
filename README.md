@@ -71,5 +71,5 @@ Lay out your selected plants.
 
 <br>
 
-Chris Ki ([@chriski777](https://github.com/chriski777) and Vivian Fang
+Chris Ki ([@chriski777](https://github.com/chriski777)) and Vivian Fang
 ([@vivi](https://github.com/vivi)) -- CS 194-032: Computing for Social Good
