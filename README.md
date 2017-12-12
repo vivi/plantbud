@@ -1,14 +1,4 @@
-# Try it Out: [plantbud.org](https://plantbud.org)
-
-- [Functionality](#functionality)
-- [Who's it for?](#whos-it-for)
-  - [Why would anyone use this?](#why-would-anyone-use-this)
-- [Current Functionality](#current-functionality)
-- [Screenshots](#screenshots)
-  - [Home](#home)
-  - [Filtering](#filtering)
-  - [Mapping](#mapping)
-  - [Layout](#layout)
+<h1>Try it Out: <a href="https://plantbud.org">plantbud.org</a></h1>
 
 ## Functionality
 
