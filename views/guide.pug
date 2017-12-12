@@ -121,9 +121,9 @@ block content
               td Category
               //td Min. pH
               //td Max. pH
-              td Water Needed (In)
-              td Min. Temp (F)
-              td Max. Temp (F)
+              td.water Water Needed (In)
+              td.min_temp Min. Temp (F)
+              td.max_temp Max. Temp (F)
               td Lifespan
           tbody
             each plant in plants
@@ -142,12 +142,9 @@ block content
                 td #{plant.category}
                 //td #{plant.abs_min_pH}
                 //td #{plant.abs_max_pH}
-                div.inches
-                  td #{plant.abs_min_rain}
-                div.farenheit  
-                  td #{plant.absolute_min_temp}
-                div.farenheit
-                  td #{plant.absolute_max_temp}
+                td #{plant.abs_min_rain}
+                td #{plant.absolute_min_temp}
+                td #{plant.absolute_max_temp}
                 td #{plant.lifespan}
         div(align="center")
           button.btn.btn-primary(type='button' onClick='validateAndSend()') Proceed to Mapping
