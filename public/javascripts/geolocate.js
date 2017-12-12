@@ -39,6 +39,11 @@ function initAddress() {
 }
 
 /* Shows address form */
-function useAddress() {
+function showAddress() {
   $('#address-wrapper').slideDown(200);
+}
+
+function hideAddress() {
+  $('#address-wrapper').slideUp(200);
+  return false;
 }

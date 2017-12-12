@@ -15,7 +15,7 @@ block content
             span.spin(style={display: 'none'})
               i(class='fa fa-star fa-pulse fa-1x fa-fw')
           b &nbsp;
-          button.btn.btn-sm.btn-info(onclick='useAddress()') Enter Address
+          button.btn.btn-sm.btn-info(onclick='showAddress()') Enter Address
     div.col-md-4
 
   div.row
@@ -29,6 +29,8 @@ block content
     div.col-md-6
       div#address-wrapper(style="display: none;")
         label(for='address') Enter an address to autofill coordinates:
+        span(style="float: right;")
+          a(href="#" onclick="return hideAddress();") [x]
         input#address.form-control(type="text" size="100")
         br
       form(method='POST' action='')
