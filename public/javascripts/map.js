@@ -1,19 +1,20 @@
 /* Credit: https://codepen.io/jhawes/post/creating-a-real-estate-polygon-tool */
 var TILE_SIZE = 256;
 
-function initialize(lat, lon) {
-  // Map Center
-  var myLatLng = new google.maps.LatLng(lat, lon);
+var center;
+function resetMap() {
+  // Delete the polygon.
+  google.maps.event.clearInstanceListeners(myPolygon.getPath());
+  myPolygon.setMap(null);
 
-  // General Options
-  var mapOptions = {
-    zoom: 20,
-    center: myLatLng,
-    mapTypeId: 'hybrid'
-  };
+  map.setCenter(center);
+  map.setZoom(20);
 
-  map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
-  // Polygon Coordinates - Draw a default square around the user's coordinates.
+  // Redraw polygon.
+  initDefaultPolygon(center.lat(), center.lng());
+}
+
+function initDefaultPolygon(lat, lon) {
   var FUZZ = 0.0003;
   var rectCoords = [
     new google.maps.LatLng(lat, lon),
@@ -21,11 +22,11 @@ function initialize(lat, lon) {
     new google.maps.LatLng(lat + FUZZ, lon + FUZZ),
     new google.maps.LatLng(lat + FUZZ, lon),
   ];
-
   // Styling & Controls
   myPolygon = new google.maps.Polygon({
     paths: rectCoords,
     draggable: true,
+    geodesic: false,
     editable: true,
     strokeColor: '#FF0000',
     strokeOpacity: 0.8,
@@ -40,8 +41,52 @@ function initialize(lat, lon) {
   getPolygonCoords();
 
   // Listeners for when polygon is updated
+  google.maps.event.addListener(map, 'idle', fitMapToPolygon);
+  /*
+  google.maps.event.addListener(myPolygon.getPath(), "insert_at", getPolygonCoords);
+  */
   google.maps.event.addListener(myPolygon.getPath(), "insert_at", getPolygonCoords);
   google.maps.event.addListener(myPolygon.getPath(), "set_at", getPolygonCoords);
+}
+
+function initialize(lat, lon) {
+  // Map Center
+  center = new google.maps.LatLng(lat, lon);
+
+  // General Options
+  var mapOptions = {
+    zoom: 20,
+    center: center,
+    mapTypeId: 'hybrid'
+  };
+
+  map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
+  google.maps.event.addListenerOnce(map, 'bounds_changed', function(){
+    initDefaultPolygon(center.lat(), center.lng());
+  });
+}
+
+/*
+ * Called when the map is idle.
+ * Makes the map fit the polygon.
+ */
+function fitMapToPolygon() {
+  var path = myPolygon.getPath();
+  var len = path.getLength();
+  var refit = false;
+  var bounds = map.getBounds();
+  for (var i =0; i < len; i++) {
+    var latLng = path.getAt(i);
+
+    // Extend the boundary of the map, so the entire polygon is encompassed.
+    if (!bounds.contains(latLng)) {
+      refit = true;
+      bounds.extend(latLng);
+    }
+  }
+  if (refit) {
+    map.fitBounds(bounds);
+  }
 }
 
 /*
@@ -76,8 +121,9 @@ function getPolygonCoords() {
   $('#area').html(parseFloat(Math.round(area * 100) / 100).toFixed(3));
   $('#f-area').val(parseFloat(Math.round(area * 100) / 100).toFixed(3));
 
-  var bounds = new google.maps.LatLngBounds();
+  var bounds = map.getBounds();
   var scale = 1 << zoom;
+  var refit = false;
   pixels = [];
   for (var i =0; i < len; i++) {
     // Convert from lat-lon to xy (pixel) coordinates
@@ -87,13 +133,7 @@ function getPolygonCoords() {
             Math.floor(worldCoordinate.x * scale),
             Math.floor(worldCoordinate.y * scale));
     pixels.push(pixelCoordinate);
-
-    // Extend the boundary of the map, so the entire polygon is encompassed.
-    if (!bounds.contains(latLng)) {
-      bounds.extend(latLng);
-    }
   }
-  map.fitBounds(bounds);
 
   // XXX: Is this the correct MPP (meters-per-pixel)? Google says so.
   // https://groups.google.com/forum/#!topic/google-maps-js-api-v3/hDRO4oHVSeM
