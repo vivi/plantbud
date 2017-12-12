@@ -48,19 +48,25 @@ information to new and inexperienced planters.
 - Can map out area using Google Maps.
 - Can lay out plants in that area.
 
-### Screenshots
-#### Home
+## Screenshots
+### Home
+Log in with Google.
 ![homepage](images/home.png)
 
-#### Filtering
+### Filtering
+Enter an address, use your current location, or manually enter coordinates.
 ![guide](images/guide.png)
+Weather information about your location, list of compatible plants.
 ![plants](images/plants.png)
+Search the list of compatible plants. Select plants you want to plant.
 ![plant filtering](images/search_plants.png)
 
-#### Mapping
+### Mapping
+Map out a perimeter.
 ![guide](images/map.png)
 
-#### Layout
+### Layout
+Lay out your selected plants.
 ![guide](images/layout.png)
 
 <br>
