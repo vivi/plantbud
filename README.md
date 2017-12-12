@@ -25,7 +25,7 @@ farming skills that have limited access to agriculture education. Although
 PlantBud can be used by anyone interested in gardening, this software intends to
 primarily cater to members of marginalized populations that face difficulty in
 receiving a formal education in agriculture. This application is meant to help
-those determined greenhorn planters blossom into seasoned horticulturists. 
+those determined greenhorn planters blossom into seasoned horticulturists.
 
 ### Why would anyone use this?
 
@@ -48,21 +48,22 @@ information to new and inexperienced planters.
 - Can map out area using Google Maps.
 - Can lay out plants in that area.
 
-### Demo
-<div align="center"><iframe width="560" height="315"
-src="https://www.youtube.com/embed/ED2jiTB7nxc" frameborder="0"
-allowfullscreen></iframe></div>
+### Screenshots
+#### Home
+![homepage](images/homepage.png)
+
+#### Filtering
+![guide](images/guide.png)
+![plants](images/plants.png)
+![plant filtering](images/search_plants.png)
+
+#### Mapping
+![guide](images/map.png)
+
+#### Layout
+![guide](images/layout.png)
 
 <br>
 
-### TODO
-- [ ] Create a tool that mines information from book / written gardening
-      resources
-- [x] More complex plant model (interaction with other plants, information on
-      fruits, soil pH, humidity, ease of growing, different variations of a
-      species)
-- [ ] Incorporate infromation from experts (possibly verbal)
-- [ ] Try out the suggestions!
-
-Chris Ki (@chriski777) and Vivian Fang (@vivi) -- CS 194-032: Computing for
-Social Good
+Chris Ki ([@chriski777](https://github.com/chriski777) and Vivian Fang
+([@vivi](https://github.com/vivi)) -- CS 194-032: Computing for Social Good
