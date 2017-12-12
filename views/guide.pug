@@ -5,14 +5,17 @@ block content
   hr
   div.row
     div.col-md-2
-    div.col-md-4
+    div.col-md-6
       h3 Enter coordinates
-    div.col-md-2(align="right")
-      h3
-        a.btn.btn-sm.btn-info(href='/guide/stored') Load Previous
-        button.btn.btn-sm.btn-info(onclick='geolocate()') Get Location
-          span.spin(style={display: 'none'})
-            i(class='fa fa-star fa-pulse fa-1x fa-fw')
+      div(align="right")
+        h3
+          a.btn.btn-sm.btn-warning(href='/guide/stored') Load Previous
+          b &nbsp;
+          button.btn.btn-sm.btn-info(onclick='geolocate()') Get Current Location
+            span.spin(style={display: 'none'})
+              i(class='fa fa-star fa-pulse fa-1x fa-fw')
+          b &nbsp;
+          button.btn.btn-sm.btn-info(onclick='useAddress()') Enter Address
     div.col-md-4
 
   div.row
@@ -24,6 +27,10 @@ block content
   div.row
     div.col-md-2
     div.col-md-6
+      div#address-wrapper(style="display: none;")
+        label(for='address') Enter an address to autofill coordinates:
+        input#address.form-control(type="text" size="100")
+        br
       form(method='POST' action='')
         div.form-group
           label(for='lat') Latitude:
@@ -95,7 +102,7 @@ block content
               label.form-check-label
                 input#ornamental.form-check-input.filter(type="checkbox")
                 span Ornamental
-      form(id="plant_form" method="POST" action="map")
+      form(id="plant_form" method="POST" action="/map")
         table#plants.table.display(cellspacing="0" width="100%")
           thead
             tr
@@ -120,7 +127,9 @@ block content
                       else
                         input.form-check-input(name="select_plant" type="checkbox" value=plant._id)
                 td #{plant.common_name}
-                td #{plant.plant_name}
+                td #{plant.plant_name} &nbsp;
+                  a(target="_blank" href="https://google.com/search?q="+plant.search_name)
+                    i.fa.fa-search
                 td #{plant.category}
                 //td #{plant.abs_min_pH}
                 //td #{plant.abs_max_pH}
@@ -134,3 +143,6 @@ block content
 block scripts
   script(src="/javascripts/geolocate.js")
   script(src="/javascripts/guide.js")
+  script(src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCAiOiApUeb46WlaOkLjk_KQpwAOsAbBZQ&v=3&libraries=places")
+  script.
+    google.maps.event.addDomListener(window, 'load', initAddress);
