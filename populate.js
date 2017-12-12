@@ -36,6 +36,7 @@ function readDataSet(directory) {
         console.log(currFile);
         var plantDict = {
             plant_name: content['Plant Name'][0],
+            search_name: content['Plant Name'][0].split(" ").join("+"),
             opt_min_pH: parseFloat(content['Soil PH'][0])|| -10000,
             opt_max_pH: parseFloat(content['Soil PH'][1])|| -10000,
             abs_min_pH: parseFloat(content['Soil PH'][2])|| -10000,
