@@ -50,7 +50,7 @@ information to new and inexperienced planters.
 
 ### Screenshots
 #### Home
-![homepage](images/homepage.png)
+![homepage](images/home.png)
 
 #### Filtering
 ![guide](images/guide.png)
