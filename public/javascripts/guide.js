@@ -77,3 +77,78 @@ function validateAndSend() {
     return false;
   }
 }
+
+function changeUnits(checkboxElem) {
+  var regex = /[+-]?\d+(\.\d+)?/g;
+  if (checkboxElem.checked) {
+    $('.feet li').each(function() {
+      var feetStr = $(this).text().substr(0, $(this).text().indexOf(':'));
+      $(this).text( feetStr + ' : ' +  $(this).text().match(regex).map(function(v) { return (parseFloat(v) * 0.3048).toFixed(2); }) +' Meters' );
+    });
+    $('.inches li').each(function() {
+      var inchStr = $(this).text().substr(0, $(this).text().indexOf(':'));
+      $(this).text( inchStr + ' : ' +  $(this).text().match(regex).map(function(v) { return (parseFloat(v) * 2.54).toFixed(2); }) +' Centimeters' );
+    });
+    $('.farenheit li').each(function() {
+      var farStr = $(this).text().substr(0, $(this).text().indexOf(':'));
+      $(this).text( farStr + ' : ' +  $(this).text().match(regex).map(function(v) { return ((parseFloat(v) - 32)/(9/5)).toFixed(2); }) +' C' );
+    });
+    $('table[id="plants"] thead tr td:nth-child(5)').each(function() {
+      $(this).text('Water Needed (Cm)');
+    });    
+    $('table[id="plants"] tbody tr td:nth-child(5)').each(function() {
+      var currText = (parseFloat($(this).text())*2.54).toFixed(2);
+      $(this).text(currText);
+    });
+    $('table[id="plants"] thead tr td:nth-child(6)').each(function() {
+      $(this).text('Min. Temp (C)');
+    });    
+    $('table[id="plants"] tbody tr td:nth-child(6)').each(function() {
+      var currText = ((parseFloat($(this).text()) - 32)/(9/5)).toFixed(2);
+      $(this).text(currText);
+    });
+    $('table[id="plants"] tbody tr td:nth-child(7)').each(function() {
+      var currText = ((parseFloat($(this).text()) - 32)/(9/5)).toFixed(2);
+      $(this).text(currText);
+    });
+    $('table[id="plants"] thead tr td:nth-child(7)').each(function() {
+      $(this).text('Max. Temp (C)');
+    });  
+    alert ("All units have been changed to metric units.");
+  } else {
+    $('.feet li').each(function() {
+      var feetStr = $(this).text().substr(0, $(this).text().indexOf(':'));
+      $(this).text( feetStr + ' : ' +  $(this).text().match(regex).map(function(v) { return (parseFloat(v) * 3.28084).toFixed(2); }) +' Feet' );
+    });
+    $('.inches li').each(function() {
+      var inchStr = $(this).text().substr(0, $(this).text().indexOf(':'));
+      $(this).text( inchStr + ' : ' +  $(this).text().match(regex).map(function(v) { return (parseFloat(v) * 0.393701).toFixed(2); }) +' Inches' );
+    });
+    $('.farenheit li').each(function() {
+      var farStr = $(this).text().substr(0, $(this).text().indexOf(':'));
+      $(this).text( farStr + ' : ' +  $(this).text().match(regex).map(function(v) { return ((parseFloat(v)*1.8) + (32)).toFixed(2); }) +' F' );
+    });  
+    $('table[id="plants"] thead tr td:nth-child(5)').each(function() {
+      $(this).text('Water Needed (In)');
+    });    
+    $('table[id="plants"] tbody tr td:nth-child(5)').each(function() {
+      var currText = (parseFloat($(this).text())*0.393701).toFixed(2);
+      $(this).text(currText);
+    });
+    $('table[id="plants"] thead tr td:nth-child(6)').each(function() {
+      $(this).text('Min. Temp (F)');
+    });    
+    $('table[id="plants"] tbody tr td:nth-child(6)').each(function() {
+      var currText = ((parseFloat($(this).text()) *1.8)+(32)).toFixed(2);
+      $(this).text(currText);
+    });
+    $('table[id="plants"] tbody tr td:nth-child(7)').each(function() {
+      var currText = ((parseFloat($(this).text()) *1.8)+ 32).toFixed(2);
+      $(this).text(currText);
+    });
+    $('table[id="plants"] thead tr td:nth-child(7)').each(function() {
+      $(this).text('Max. Temp (F)');
+    });  
+    alert ("All units have been changed back to imperial units.");
+  }
+}
