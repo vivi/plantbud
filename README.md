@@ -1,9 +1,5 @@
 # Try it Out: [plantbud.org](https://plantbud.org)
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
 - [Try it Out: plantbud.org](#try-it-out-plantbudorg)
   - [Functionality](#functionality)
   - [Who's it for?](#whos-it-for)
@@ -14,8 +10,6 @@
     - [Filtering](#filtering)
     - [Mapping](#mapping)
     - [Layout](#layout)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Functionality
 
