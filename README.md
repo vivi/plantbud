@@ -69,7 +69,5 @@ Map out a perimeter.
 Lay out your selected plants.
 ![guide](images/layout.png)
 
-<br>
-
 Chris Ki ([@chriski777](https://github.com/chriski777)) and Vivian Fang
 ([@vivi](https://github.com/vivi)) -- CS 194-032: Computing for Social Good
