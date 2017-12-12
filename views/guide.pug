@@ -61,11 +61,16 @@ block content
             td
               p This is the information we have for your location.
               ul
-                li Altitude : #{coordInfo.elevation} Feet
-                li Average Rainfall: #{coordInfo.avgRain} inches
-                li Normal Average Temperature: #{coordInfo.avgTemp}F
-                li Normal Low Temperature: #{coordInfo.minTemp}F
-                li Normal High Temperature: #{coordInfo.maxTemp}F
+                div.feet
+                  li Altitude : #{coordInfo.elevation} Feet
+                div.inches
+                  li Average Rainfall: #{coordInfo.avgRain} Inches
+                div.farenheit
+                  li Normal Average Temperature: #{coordInfo.avgTemp} F
+                div.farenheit
+                  li Normal Low Temperature: #{coordInfo.minTemp} F
+                div.farenheit
+                  li Normal High Temperature: #{coordInfo.maxTemp} F
             td
               p This is the information we have for your location.
               ul
@@ -77,6 +82,10 @@ block content
     if plants
       h3 Plants
       p These are plants that would fare well given these conditions.
+      div.form-check(align="right")
+        label.form-check-label
+          input#metric.form-check-input(type="checkbox" onchange = 'changeUnits(this)')
+          span Metric Units
       b Filter
       table
         tr
@@ -133,9 +142,12 @@ block content
                 td #{plant.category}
                 //td #{plant.abs_min_pH}
                 //td #{plant.abs_max_pH}
-                td #{plant.abs_min_rain}
-                td #{plant.absolute_min_temp}
-                td #{plant.absolute_max_temp}
+                div.inches
+                  td #{plant.abs_min_rain}
+                div.farenheit  
+                  td #{plant.absolute_min_temp}
+                div.farenheit
+                  td #{plant.absolute_max_temp}
                 td #{plant.lifespan}
         div(align="center")
           button.btn.btn-primary(type='button' onClick='validateAndSend()') Proceed to Mapping
