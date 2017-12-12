@@ -5,6 +5,7 @@ var Schema = mongoose.Schema;
 
 var PlantSchema = new Schema({
     plant_name: String,
+    search_name: String,
     opt_min_pH: Number,
     opt_max_pH: Number,
     abs_max_pH: Number,
